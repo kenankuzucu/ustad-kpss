@@ -1,5 +1,5 @@
 /* ÜSTAD KPSS — çevrimdışı servis çalışanı */
-const ONBELLEK = "ustad-kpss-v1.0";
+const ONBELLEK = "ustad-kpss-v1.1";
 const DOSYALAR = [
   "./", "./index.html", "./manifest.json", "./assets/stil.css", "./assets/uygulama.js",
   "./icerik/sorular.js", "./icerik/ozetler.js",
