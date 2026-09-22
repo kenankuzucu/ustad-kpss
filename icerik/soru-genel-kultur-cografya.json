@@ -1,0 +1,962 @@
+[
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Yer Şekilleri",
+    "soru": "Türkiye'nin en yüksek noktası hangisidir?",
+    "siklar": [
+      "Ağrı Dağı",
+      "Erciyes Dağı",
+      "Süphan Dağı",
+      "Cilo Dağı",
+      "Uludağ"
+    ],
+    "dogru": 0,
+    "aciklama": "Ağrı Dağı, Türkiye'nin en yüksek noktasıdır. Volkanik kökenli bir dağ olan Ağrı Dağı'nın zirvesinde kalıcı kar ve buzullar yer alır.",
+    "zorluk": "kolay",
+    "kaynak": "Türkiye fiziki coğrafyası: dağlar"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Yer Şekilleri",
+    "soru": "Türkiye'nin yüzey alanı bakımından en büyük gölü hangisidir?",
+    "siklar": [
+      "Tuz Gölü",
+      "Van Gölü",
+      "Beyşehir Gölü",
+      "Eğirdir Gölü",
+      "İznik Gölü"
+    ],
+    "dogru": 1,
+    "aciklama": "Van Gölü, Türkiye'nin en büyük gölüdür. Volkanik set oluşumuyla meydana gelmiş kapalı bir göl olan Van Gölü, sodalı su yapısıyla diğer göllerden ayrılır.",
+    "zorluk": "kolay",
+    "kaynak": "Türkiye fiziki coğrafyası: göller"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Yer Şekilleri",
+    "soru": "Türkiye sınırları içindeki en uzun akarsu hangisidir?",
+    "siklar": [
+      "Fırat Nehri",
+      "Sakarya Nehri",
+      "Kızılırmak",
+      "Yeşilırmak",
+      "Seyhan Nehri"
+    ],
+    "dogru": 2,
+    "aciklama": "Kızılırmak, kaynağından denize ulaştığı yere kadar tamamı Türkiye sınırları içinde kalan en uzun akarsudur. Karadeniz'e dökülen Kızılırmak, Bafra Ovası deltasını oluşturur.",
+    "zorluk": "kolay",
+    "kaynak": "Türkiye fiziki coğrafyası: akarsular"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Yer Şekilleri",
+    "soru": "Türkiye'nin en büyük baraj gölü hangisidir?",
+    "siklar": [
+      "Keban Baraj Gölü",
+      "Altınkaya Baraj Gölü",
+      "Hirfanlı Baraj Gölü",
+      "Atatürk Baraj Gölü",
+      "Ilısu Baraj Gölü"
+    ],
+    "dogru": 3,
+    "aciklama": "Atatürk Barajı, Fırat Nehri üzerinde kurulmuştur ve Türkiye'nin en büyük baraj gölünü oluşturur. Baraj hem enerji üretimi hem de sulama amacıyla kullanılmaktadır.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye fiziki coğrafyası: barajlar"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin İklimi",
+    "soru": "Karadeniz ikliminin en belirgin özelliği hangisidir?",
+    "siklar": [
+      "Yazların çok sıcak ve kurak geçmesi",
+      "Kışların kar yağışlı ve çok sert geçmesi",
+      "Yağışların yalnızca ilkbaharda düşmesi",
+      "Her mevsim yağışlı ve nemli bir yapı göstermesi",
+      "Yıllık sıcaklık farkının çok yüksek olması"
+    ],
+    "dogru": 3,
+    "aciklama": "Karadeniz ikliminde yağış her mevsim görülür ve nem oranı yüksektir. Bu nedenle bölgede orman örtüsü ve çay, fındık gibi nem seven tarım ürünleri yaygındır.",
+    "zorluk": "kolay",
+    "kaynak": "Türkiye iklim tipleri: Karadeniz iklimi"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin İklimi",
+    "soru": "Akdeniz ikliminin yağış ve sıcaklık özelliği hangisidir?",
+    "siklar": [
+      "Yazlar sıcak ve kurak, kışlar ılık ve yağışlıdır",
+      "Yazlar serin ve yağışlı, kışlar çok soğuk geçer",
+      "Yıl boyunca sıcaklık ve yağış değişmez",
+      "Yağışlar yalnızca sonbahar aylarında görülür",
+      "Kışlar kurak, yazlar bol yağışlı geçer"
+    ],
+    "dogru": 0,
+    "aciklama": "Akdeniz ikliminde yaz mevsimi sıcak ve kurak, kış mevsimi ılık ve yağışlıdır. Bu iklim tipi Akdeniz kıyılarıyla Ege kıyılarında etkilidir.",
+    "zorluk": "kolay",
+    "kaynak": "Türkiye iklim tipleri: Akdeniz iklimi"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin İklimi",
+    "soru": "Türkiye'de karasal iklimin etkili olduğu alanlar hangileridir?",
+    "siklar": [
+      "Doğu Karadeniz kıyıları ve Yıldız Dağları",
+      "İç Anadolu, Doğu Anadolu ve Güneydoğu Anadolu",
+      "Akdeniz kıyıları ve Antalya körfezi çevresi",
+      "Ege kıyıları ve Menteşe yöresi",
+      "Marmara'nın kuzey kıyıları ve Boğazlar çevresi"
+    ],
+    "dogru": 1,
+    "aciklama": "Karasal iklim, deniz etkisinden uzak iç bölgelerde görülür. İç Anadolu, Doğu Anadolu ve Güneydoğu Anadolu bu iklimin en belirgin görüldüğü alanlardır.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye iklim tipleri: karasal iklim"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Yer Şekilleri",
+    "soru": "Peribacaları hangi bölgede ve hangi kayaç yapısı üzerinde oluşmuştur?",
+    "siklar": [
+      "Doğu Karadeniz'de granit kütleleri üzerinde",
+      "Ege Bölgesi'nde kireç taşı platoları üzerinde",
+      "Kapadokya'da volkanik tüfler üzerinde",
+      "Akdeniz'de karstik kalkerler üzerinde",
+      "Güneydoğu Anadolu'da bazalt akıntıları üzerinde"
+    ],
+    "dogru": 2,
+    "aciklama": "Peribacaları, Kapadokya yöresindeki volkanik tüflerin akarsu ve yağmur sularıyla aşınması sonucu oluşmuştur. Aşınmaya karşı dirençli şapka kayaları bu ilginç şekillerin oluşumunu sağlar.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de dış kuvvetlerin oluşturduğu şekiller"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Yer Şekilleri",
+    "soru": "Pamukkale travertenleri hangi süreç sonucunda oluşmuştur?",
+    "siklar": [
+      "Volkanik lavların soğuyup katılaşmasıyla",
+      "Rüzgârların kumları taşıyıp biriktirmesiyle",
+      "Buzulların kayaları aşındırmasıyla",
+      "Kalsiyum karbonatlı suların çökelmesiyle",
+      "Akarsuların taşıdığı çakılların birikmesiyle"
+    ],
+    "dogru": 3,
+    "aciklama": "Travertenler, kalsiyum karbonat bakımından zengin suların yüzeye çıkıp çökelmesiyle oluşur. Pamukkale'deki beyaz basamaklar bu kimyasal çökelmenin tipik örneğidir.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de karstik şekiller"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Yer Şekilleri",
+    "soru": "Türkiye'de karstik şekillerin en yaygın görüldüğü alan hangisidir?",
+    "siklar": [
+      "Trakya'nın kuzey kesimlerindeki platolar",
+      "Erzurum-Kars platosunun yüksek kesimleri",
+      "Bafra ve Çarşamba deltaları ile çevresi",
+      "Antalya ve Konya çevresindeki kalkerli alanlar",
+      "Yıldız Dağları'nın kuzey yamaçları"
+    ],
+    "dogru": 3,
+    "aciklama": "Karstik şekiller, kalker ve kireç taşı gibi eriyebilen kayaçların bulunduğu alanlarda oluşur. Antalya ve Konya çevresinde mağara, düden, polye ve obruk gibi karstik şekiller yaygındır.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de karstik şekiller"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Yer Şekilleri",
+    "soru": "Kuzey Anadolu Dağları ile Toroslar hangi oluşum süreci sonucunda meydana gelmiştir?",
+    "siklar": [
+      "Orojenez",
+      "Epirojenez",
+      "Volkanizma",
+      "Buzullaşma",
+      "Karstlaşma"
+    ],
+    "dogru": 0,
+    "aciklama": "Kuzey Anadolu Dağları ve Toroslar, orojenez sonucu oluşmuş kıvrım dağlarıdır. Bu dağlar Anadolu'nun kuzey ve güneyinde kıvrım kuşakları hâlinde uzanır.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de dağ oluşumu: orojenez"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Yer Şekilleri",
+    "soru": "Aşağıdaki dağlardan hangisi volkanik kökenlidir?",
+    "siklar": [
+      "Uludağ",
+      "Erciyes Dağı",
+      "Kaçkar Dağı",
+      "Munzur Dağları",
+      "Bolkar Dağları"
+    ],
+    "dogru": 1,
+    "aciklama": "Erciyes Dağı, İç Anadolu'da yer alan volkanik kökenli bir dağdır. Ağrı, Süphan, Nemrut, Tendürek ve Hasan Dağı da Türkiye'deki başlıca volkanik dağlardandır.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de volkanik dağlar"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Yer Şekilleri",
+    "soru": "Türkiye'nin en büyük delta ovası hangisidir?",
+    "siklar": [
+      "Bafra Ovası",
+      "Çarşamba Ovası",
+      "Çukurova",
+      "Balat Ovası",
+      "Silifke Ovası"
+    ],
+    "dogru": 2,
+    "aciklama": "Çukurova, Seyhan ve Ceyhan nehirlerinin taşıdığı alüvyonların birikmesiyle oluşan en büyük delta ovasıdır. Delta ovaları tarım açısından verimli alanlardır ve tarım ürünleri çeşitliliği yüksektir.",
+    "zorluk": "kolay",
+    "kaynak": "Türkiye'de oluşum bakımından ovalar"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin İklimi",
+    "soru": "Türkiye'de yıllık yağış miktarının en fazla olduğu alan hangisidir?",
+    "siklar": [
+      "İç Anadolu'daki Tuz Gölü ve çevresi",
+      "Trakya'daki Ergene Havzası ve çevresi",
+      "Doğu Anadolu'daki Malatya ve çevresi",
+      "Doğu Karadeniz kıyıları",
+      "Iğdır Ovası ve çevresindeki kurak alanlar"
+    ],
+    "dogru": 3,
+    "aciklama": "Doğu Karadeniz kıyıları, Türkiye'de yıllık yağışın en yüksek olduğu alandır. Dağların denize paralel uzanması nemli hava kütlelerinin kıyıda bol yağış bırakmasına yol açar.",
+    "zorluk": "kolay",
+    "kaynak": "Türkiye'de yağış dağılışı"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin İklimi",
+    "soru": "Türkiye'de yıllık yağış miktarının en az olduğu alanlardan biri hangisidir?",
+    "siklar": [
+      "Doğu Karadeniz kıyıları",
+      "Antalya körfezi kıyıları",
+      "Menteşe yöresi",
+      "Yıldız Dağları'nın kuzey yamaçları",
+      "Tuz Gölü ve çevresi"
+    ],
+    "dogru": 4,
+    "aciklama": "Tuz Gölü ve çevresi, deniz etkisinden uzak ve çevresine göre çukurda kalan bir alan olduğu için yağışı azdır. İç Anadolu'nun çukur kesimleri Türkiye'de en az yağış alan alanlar arasındadır.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de yağış dağılışı"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Yer Şekilleri",
+    "soru": "Türkiye'de depremlerin sık görülmesinin temel nedeni hangisidir?",
+    "siklar": [
+      "Ülkenin genç ve hareketli bir orojenez kuşağında yer alması",
+      "Yüzey şekillerinin fazla engebeli ve dağlık olması",
+      "Akarsu ağının sık ve rejimlerinin düzensiz olması",
+      "Kıyılarının çok girintili çıkıntılı yapıda olması",
+      "Yağış rejimlerinin bölgeden bölgeye değişmesi"
+    ],
+    "dogru": 0,
+    "aciklama": "Türkiye, Alp-Himalaya orojenez kuşağında yer aldığı için fay hatları bakımından zengindir. Kuzey Anadolu Fayı ve Doğu Anadolu Fayı ülkedeki deprem etkinliğinin başlıca nedenidir.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de iç kuvvetler ve depremler"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Yer Şekilleri",
+    "soru": "Anadolu'nun toptan yükselip alçalması biçiminde gerçekleşen yer hareketleri hangi adla anılır?",
+    "siklar": [
+      "Orojenez",
+      "Epirojenez",
+      "Volkanizma",
+      "Karstlaşma",
+      "Aşınım döngüsü"
+    ],
+    "dogru": 1,
+    "aciklama": "Epirojenez, geniş alanların toptan yükselmesi ya da alçalması biçimindeki yer hareketleridir. Anadolu'nun büyük bölümünün yükselmesi epirojenik hareketlere örnek gösterilir.",
+    "zorluk": "zor",
+    "kaynak": "Türkiye'de iç kuvvetler: epirojenez"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Yer Şekilleri",
+    "soru": "Akarsu rejimleri bakımından düzenli ve bol akış gösteren akarsular hangi bölgede yoğunlaşır?",
+    "siklar": [
+      "İç Anadolu'nun güney kesimleri",
+      "Güneydoğu Anadolu platosu",
+      "Doğu Karadeniz kıyıları",
+      "Tuz Gölü kapalı havzası",
+      "Ergene Havzası"
+    ],
+    "dogru": 2,
+    "aciklama": "Doğu Karadeniz'de yağış her mevsim bol olduğu için akarsular düzenli rejim gösterir ve akış miktarı yüksektir. Bu akarsular üzerinde kurulan baraj ve hidroelektrik santraller bölgenin enerji üretimini artırmaktadır.",
+    "zorluk": "zor",
+    "kaynak": "Türkiye akarsularının rejimleri"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Yer Şekilleri",
+    "soru": "Aşağıdaki göllerden hangisi kapalı havza gölüdür?",
+    "siklar": [
+      "İznik Gölü",
+      "Sapanca Gölü",
+      "Manyas Gölü",
+      "Van Gölü",
+      "Uluabat Gölü"
+    ],
+    "dogru": 3,
+    "aciklama": "Van Gölü'nün denize ulaşan bir gideğeni yoktur; bu nedenle kapalı havza gölüdür. Sularının denize ulaşamaması nedeniyle gölde tuzluluk ve sodalılık oranı yüksektir.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de göller ve kapalı havzalar"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Yer Şekilleri",
+    "soru": "Türkiye'de buzul şekillerine en çok hangi alanlarda rastlanır?",
+    "siklar": [
+      "Ege kıyılarındaki alçak ovalarda",
+      "Trakya'nın platolarında",
+      "Güneydoğu Anadolu'nun güney kesimlerinde",
+      "Çukurova ve Amik Ovası çevresinde",
+      "Doğu Anadolu'daki yüksek dağların zirvelerinde"
+    ],
+    "dogru": 4,
+    "aciklama": "Buzul şekilleri, yükseltinin ve kar örtüsünün süreklilik kazandığı yüksek alanlarda görülür. Doğu Anadolu'daki yüksek dağlarda sirk gölleri ve buzul vadileri gibi şekiller bulunur.",
+    "zorluk": "zor",
+    "kaynak": "Türkiye'de buzul şekilleri"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Nüfus ve Yerleşme",
+    "soru": "Türkiye'de nüfusun dağılışını etkileyen doğal faktörlerden biri hangisidir?",
+    "siklar": [
+      "İklim koşulları ile yer şekillerinin elverişliliği",
+      "Kalkınma hızının bölgelere göre farklı olması",
+      "Sanayi tesislerinin belirli illerde toplanması",
+      "Ulaşım ağının gelişmişlik düzeyi",
+      "Turizm faaliyetlerinin yoğunluğu"
+    ],
+    "dogru": 0,
+    "aciklama": "Nüfusun dağılışını doğal ve beşerî faktörler birlikte etkiler. İklim koşulları ve yer şekilleri doğal, sanayi ve ulaşım gibi unsurlar ise beşerî faktörler arasında yer alır.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de nüfusun dağılışını etkileyen faktörler"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Nüfus ve Yerleşme",
+    "soru": "Türkiye'de nüfus bakımından en kalabalık il hangisidir?",
+    "siklar": [
+      "Ankara",
+      "İstanbul",
+      "İzmir",
+      "Bursa",
+      "Antalya"
+    ],
+    "dogru": 1,
+    "aciklama": "İstanbul, nüfus bakımından Türkiye'nin en kalabalık ilidir. Sanayi, ticaret ve hizmet sektörlerinin yoğunluğu kente büyük ölçüde göç çekmektedir.",
+    "zorluk": "kolay",
+    "kaynak": "Türkiye'de nüfus dağılışı"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Nüfus ve Yerleşme",
+    "soru": "Aşağıdaki alanlardan hangisi Türkiye'de nüfusun seyrek olduğu yerlerden biridir?",
+    "siklar": [
+      "Çukurova ve çevresi",
+      "İstanbul ve çevresi",
+      "Menteşe yöresi",
+      "Bursa Ovası ve çevresi",
+      "Ege kıyı ovaları"
+    ],
+    "dogru": 2,
+    "aciklama": "Menteşe yöresi, engebeli yer şekilleri ve ulaşım güçlükleri nedeniyle nüfusun seyrek olduğu alanlardandır. Doğu Anadolu'nun yüksek platoları ile Yıldız Dağları da benzer özellik gösterir.",
+    "zorluk": "zor",
+    "kaynak": "Türkiye'de nüfus dağılışı"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Nüfus ve Yerleşme",
+    "soru": "Türkiye'de kırdan kente göçün başlıca nedeni hangisidir?",
+    "siklar": [
+      "Kırsal alanlarda tarım dışı iş imkânlarının çok gelişmiş olması",
+      "Kentlerde konut fiyatlarının kıra göre daha düşük olması",
+      "Kırsal alanlarda nüfus yoğunluğunun aşırı yüksek olması",
+      "Kentlerde iş, eğitim ve sağlık imkânlarının daha gelişmiş olması",
+      "Kırsal alanlarda doğal nüfus artış hızının sıfır olması"
+    ],
+    "dogru": 3,
+    "aciklama": "Kentlerdeki iş, eğitim ve sağlık olanaklarının gelişmiş olması kırdan kente göçü hızlandırmıştır. Tarımda makineleşme de kırsal alanda iş gücü fazlası oluşturarak göçü beslemiştir.",
+    "zorluk": "kolay",
+    "kaynak": "Türkiye'de göç hareketleri"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Nüfus ve Yerleşme",
+    "soru": "Doğu Karadeniz kıyılarında yerleşmelerin dağınık olmasının temel nedeni hangisidir?",
+    "siklar": [
+      "Tarım alanlarının çok geniş ve düz olması",
+      "Nüfus yoğunluğunun Türkiye ortalamasının altında kalması",
+      "Su kaynaklarının yetersiz olması",
+      "Hayvancılığın hiç yapılmaması",
+      "Yer şekillerinin engebeli olup düz alanların parçalı olması"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğu Karadeniz'de engebeli arazi, evlerin birbirinden uzakta ve dağınık kurulmasına yol açmıştır. İç Anadolu gibi düz alanlarda ise toplu yerleşme yaygındır.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de yerleşme dokuları"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'de Tarım",
+    "soru": "Türkiye'de ekim alanı en geniş olan tahıl ürünü hangisidir?",
+    "siklar": [
+      "Buğday",
+      "Arpa",
+      "Mısır",
+      "Çeltik",
+      "Yulaf"
+    ],
+    "dogru": 0,
+    "aciklama": "Buğday, Türkiye'de ekim alanı en geniş olan tarım ürünüdür. Kuraklığa dayanıklı olması nedeniyle İç Anadolu başta olmak üzere pek çok bölgede yetiştirilir.",
+    "zorluk": "kolay",
+    "kaynak": "Türkiye'de tarım: tahıllar"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'de Tarım",
+    "soru": "Türkiye'de çay tarımının yoğunlaştığı il hangisidir?",
+    "siklar": [
+      "Kocaeli",
+      "Rize",
+      "Sinop",
+      "Kastamonu",
+      "Samsun"
+    ],
+    "dogru": 1,
+    "aciklama": "Çay tarımı, her mevsim yağışlı ve nemli iklim koşulları nedeniyle Doğu Karadeniz kıyılarında yapılır. Rize, çay üretiminin merkezi sayılan ildir; Artvin ve Trabzon'da da çay yetiştirilir.",
+    "zorluk": "kolay",
+    "kaynak": "Türkiye'de tarım: çay"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'de Tarım",
+    "soru": "Türkiye'de fındık üretiminde ilk sırada yer alan il hangisidir?",
+    "siklar": [
+      "Samsun",
+      "Trabzon",
+      "Ordu",
+      "Artvin",
+      "Zonguldak"
+    ],
+    "dogru": 2,
+    "aciklama": "Ordu, Türkiye'nin fındık üretiminde ilk sırada yer alan ilidir. Fındık, Orta ve Doğu Karadeniz kıyı kuşağında yaygın olarak yetiştirilir ve önemli bir ihraç ürünüdür.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de tarım: fındık"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'de Tarım",
+    "soru": "Türkiye'de ayçiçeği üretiminin en yoğun olduğu alan hangisidir?",
+    "siklar": [
+      "Antalya çevresi",
+      "Doğu Anadolu platoları",
+      "Güneydoğu Anadolu'nun güney kesimleri",
+      "Trakya",
+      "Menteşe yöresi"
+    ],
+    "dogru": 3,
+    "aciklama": "Trakya, Türkiye'de ayçiçeği üretiminin en yoğun olduğu alandır. Ayçiçeği hem yağ üretiminde hem de çerezlik olarak değerlendirilen önemli bir tarım ürünüdür.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de tarım: yağlı tohumlar"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'de Tarım",
+    "soru": "Pamuk üretimi Türkiye'de hangi alanlarda yoğunlaşmıştır?",
+    "siklar": [
+      "Sinop ve Kastamonu kıyılarındaki nemli alanlar",
+      "Erzurum ve Kars platolarındaki yüksek yaylalar",
+      "Bolu ve Düzce'deki ormanlık dağlık alanlar",
+      "Muğla ve çevresindeki dağlık kıyı kesimleri",
+      "Çukurova ile Güneydoğu Anadolu'nun sulanabilen ovaları"
+    ],
+    "dogru": 4,
+    "aciklama": "Pamuk, yazların sıcak ve sulama imkânlarının bulunduğu alanlarda yetişir. Çukurova ile Güneydoğu Anadolu Projesi kapsamındaki ovalar pamuk üretiminin merkezleridir.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de tarım: pamuk"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'de Tarım",
+    "soru": "Zeytin üretiminde öne çıkan bölge hangisidir?",
+    "siklar": [
+      "Ege Bölgesi",
+      "Doğu Anadolu Bölgesi",
+      "İç Anadolu Bölgesi",
+      "Karadeniz Bölgesi",
+      "Güneydoğu Anadolu Bölgesi"
+    ],
+    "dogru": 0,
+    "aciklama": "Zeytin, Akdeniz ikliminin görüldüğü alanlarda yetişen bir üründür. Türkiye'de zeytin üretiminde Ege Bölgesi ilk sırada yer alır; Ayvalık ve Edremit yöreleri öne çıkar.",
+    "zorluk": "kolay",
+    "kaynak": "Türkiye'de tarım: zeytin"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'de Tarım",
+    "soru": "Şeker pancarı üretimi Türkiye'de hangi bölgede daha yaygındır?",
+    "siklar": [
+      "Doğu Karadeniz kıyıları",
+      "İç Anadolu Bölgesi",
+      "Menteşe yöresi",
+      "Antalya körfezi kıyıları",
+      "Yıldız Dağları"
+    ],
+    "dogru": 1,
+    "aciklama": "Şeker pancarı, sulanabilen ve serin geçen yaz koşullarını seven bir üründür. Konya başta olmak üzere İç Anadolu Bölgesi şeker pancarı üretiminde öne çıkar.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de tarım: endüstri bitkileri"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'de Tarım",
+    "soru": "Turunçgil üretimi Türkiye'de hangi bölgede yoğunlaşmıştır?",
+    "siklar": [
+      "Karadeniz Bölgesi",
+      "İç Anadolu Bölgesi",
+      "Akdeniz Bölgesi",
+      "Doğu Anadolu Bölgesi",
+      "Güneydoğu Anadolu Bölgesi"
+    ],
+    "dogru": 2,
+    "aciklama": "Turunçgiller kışları ılık geçen Akdeniz iklimine uygun ürünlerdir. Türkiye'de portakal, mandalina ve limon üretiminin önemli bölümü Akdeniz Bölgesi'nde yapılır.",
+    "zorluk": "kolay",
+    "kaynak": "Türkiye'de tarım: meyve üretimi"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'de Hayvancılık",
+    "soru": "Türkiye'de balıkçılık faaliyetlerinin en yoğun olduğu deniz hangisidir?",
+    "siklar": [
+      "Marmara Denizi",
+      "Ege Denizi",
+      "Akdeniz",
+      "Karadeniz",
+      "Kıbrıs çevresi"
+    ],
+    "dogru": 3,
+    "aciklama": "Karadeniz, özellikle hamsi gibi küçük pelajik balıklar bakımından zengin olduğu için balıkçılığın en yoğun yapıldığı denizdir. Türkiye'nin toplam su ürünleri üretiminde Karadeniz ilk sırada yer alır.",
+    "zorluk": "kolay",
+    "kaynak": "Türkiye'de balıkçılık"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'de Madencilik",
+    "soru": "Türkiye'de taş kömürü çıkarımı hangi ilde yapılmaktadır?",
+    "siklar": [
+      "Kütahya",
+      "Sivas",
+      "Manisa",
+      "Balıkesir",
+      "Zonguldak"
+    ],
+    "dogru": 4,
+    "aciklama": "Türkiye'de taş kömürü, Zonguldak ve çevresindeki havzada çıkarılır. Taş kömürü demir-çelik sanayisinde kok kömürü olarak kullanıldığı için stratejik bir maden sayılır.",
+    "zorluk": "kolay",
+    "kaynak": "Türkiye'de madencilik: kömür"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'de Madencilik",
+    "soru": "Divriği yöresinde çıkarılan maden hangisidir?",
+    "siklar": [
+      "Demir",
+      "Bor",
+      "Bakır",
+      "Krom",
+      "Boksit"
+    ],
+    "dogru": 0,
+    "aciklama": "Sivas'ın Divriği ilçesi, Türkiye'nin en önemli demir cevheri yataklarına sahiptir. Buradan çıkarılan demir, demir-çelik fabrikalarında işlenmektedir.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de madencilik: demir"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'de Madencilik",
+    "soru": "Türkiye'de bor mineralleri yatakları hangi ilde yoğunlaşmıştır?",
+    "siklar": [
+      "Artvin",
+      "Kütahya",
+      "Elazığ",
+      "Zonguldak",
+      "Mardin"
+    ],
+    "dogru": 1,
+    "aciklama": "Türkiye, dünya bor rezervlerinin önemli bir bölümüne sahiptir. Kütahya'daki Emet yatakları ile Balıkesir Bigadiç ve Eskişehir Kırka yatakları başlıca bor sahalarıdır.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de madencilik: bor mineralleri"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'de Enerji",
+    "soru": "Türkiye'de jeotermal enerji potansiyelinin en yüksek olduğu alan hangisidir?",
+    "siklar": [
+      "Doğu Karadeniz kıyıları",
+      "Trakya'nın kuzey kesimleri",
+      "Denizli ve Aydın çevresindeki çöküntü alanları",
+      "Erzurum-Kars platosu",
+      "Güneydoğu Anadolu'nun güney kesimleri"
+    ],
+    "dogru": 2,
+    "aciklama": "Jeotermal enerji, fay hatları boyunca yer altı sularının ısınmasıyla oluşur. Denizli ve Aydın çevresindeki çöküntü ovalarında sıcak su kaynakları yaygın olduğu için jeotermal potansiyel yüksektir.",
+    "zorluk": "zor",
+    "kaynak": "Türkiye'de enerji kaynakları: jeotermal"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'de Sanayi",
+    "soru": "Türkiye'nin ilk demir-çelik fabrikaları hangi illerde kurulmuştur?",
+    "siklar": [
+      "İzmir ve Adana yöreleri",
+      "Gaziantep ve Konya yöreleri",
+      "Kayseri ve Sivas yöreleri",
+      "Bursa ve Sakarya yöreleri",
+      "Karabük ve Ereğli (Zonguldak)"
+    ],
+    "dogru": 4,
+    "aciklama": "Türkiye'de demir-çelik sanayisi, taş kömürü havzasına yakınlığı nedeniyle Karabük ve Ereğli'de kurulmuştur. Demir cevherinin Divriği'den taşınması ve kömürün Zonguldak'tan sağlanması bu yer seçiminde etkili olmuştur.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de sanayi: demir-çelik"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'de Ulaşım",
+    "soru": "Türkiye'nin ilk demir yolu hattı hangi iki şehir arasında inşa edilmiştir?",
+    "siklar": [
+      "İstanbul - İzmit",
+      "Ankara - Kayseri",
+      "Samsun - Sivas",
+      "İstanbul - Edirne",
+      "İzmir - Aydın"
+    ],
+    "dogru": 4,
+    "aciklama": "Türkiye'de ilk demir yolu hattı İzmir ile Aydın arasında inşa edilmiştir. Bu hattın amacı, Ege Bölgesi'nde üretilen tarım ürünlerinin limana taşınmasını sağlamaktı.",
+    "zorluk": "zor",
+    "kaynak": "Türkiye'de ulaşım: demir yolu"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Coğrafi Bölgeleri",
+    "soru": "Türkiye'de coğrafi bölge ayrımı ilk kez hangi kongrede yapılmıştır?",
+    "siklar": [
+      "1941 Birinci Türk Coğrafya Kongresi",
+      "1930 Türk Tarih Kongresi",
+      "1923 İzmir İktisat Kongresi",
+      "1937 Sadabat Kongresi",
+      "1934 Balkan Kongresi"
+    ],
+    "dogru": 0,
+    "aciklama": "Türkiye'nin yedi coğrafi bölgeye ayrılması 1941'de toplanan Birinci Türk Coğrafya Kongresi'nde kararlaştırılmıştır. Bölgeler belirlenirken doğal koşullar, ulaşım ve ekonomik özellikler dikkate alınmıştır.",
+    "zorluk": "zor",
+    "kaynak": "Türkiye'nin coğrafi bölgeleri"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Coğrafi Bölgeleri",
+    "soru": "Yüzey alanı bakımından Türkiye'nin en geniş coğrafi bölgesi hangisidir?",
+    "siklar": [
+      "İç Anadolu Bölgesi",
+      "Doğu Anadolu Bölgesi",
+      "Karadeniz Bölgesi",
+      "Akdeniz Bölgesi",
+      "Marmara Bölgesi"
+    ],
+    "dogru": 1,
+    "aciklama": "Doğu Anadolu Bölgesi, yüzey alanı bakımından Türkiye'nin en geniş coğrafi bölgesidir. Yükseltinin fazla olması nedeniyle tarım alanları sınırlı, hayvancılık ise yaygındır.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'nin coğrafi bölgeleri"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Coğrafi Bölgeleri",
+    "soru": "Türkiye'de nüfus yoğunluğu en yüksek olan coğrafi bölge hangisidir?",
+    "siklar": [
+      "Ege Bölgesi",
+      "Akdeniz Bölgesi",
+      "Marmara Bölgesi",
+      "İç Anadolu Bölgesi",
+      "Karadeniz Bölgesi"
+    ],
+    "dogru": 2,
+    "aciklama": "Marmara Bölgesi, sanayi ve ticaretin yoğunluğu ile göç alması nedeniyle nüfus yoğunluğu en yüksek bölgedir. Bu bölgede kentsel nüfus oranı da Türkiye ortalamasının üzerindedir.",
+    "zorluk": "kolay",
+    "kaynak": "Türkiye'de nüfus dağılışı"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Coğrafi Bölgeleri",
+    "soru": "Karadeniz Bölgesi hangi bölümlerden oluşur?",
+    "siklar": [
+      "Adana ve Antalya bölümleri adı verilen kıyı kesimlerinden",
+      "Asıl Ege ve İç Batı Anadolu bölümlerinden",
+      "Konya ve Yukarı Sakarya bölümlerinden",
+      "Orta Fırat ve Dicle bölümlerinden",
+      "Batı Karadeniz, Orta Karadeniz ve Doğu Karadeniz bölümleri"
+    ],
+    "dogru": 4,
+    "aciklama": "Karadeniz Bölgesi, Batı Karadeniz, Orta Karadeniz ve Doğu Karadeniz olmak üzere üç bölümden oluşur. Bölümler arasında yağış ve tarım ürünleri bakımından belirgin farklar görülür.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'nin coğrafi bölgeleri: bölümler"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'nin Coğrafi Bölgeleri",
+    "soru": "Akdeniz Bölgesi hangi bölümlerden oluşur?",
+    "siklar": [
+      "İç Batı Anadolu ve Asıl Ege bölümleri",
+      "Dicle ve Orta Fırat bölümleri",
+      "Yukarı Fırat ve Erzurum-Kars bölümleri",
+      "Hakkâri ve Yukarı Murat-Van bölümleri",
+      "Adana ve Antalya bölümleri"
+    ],
+    "dogru": 4,
+    "aciklama": "Akdeniz Bölgesi, Adana ve Antalya bölümlerinden oluşur. Adana Bölümü tarım ve sanayi, Antalya Bölümü ise turizm ve tarım bakımından öne çıkar.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'nin coğrafi bölgeleri: bölümler"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Dünya Coğrafyası",
+    "soru": "Yüzey alanı bakımından dünyanın en büyük okyanusu hangisidir?",
+    "siklar": [
+      "Pasifik Okyanusu",
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Arktik Okyanusu",
+      "Güney Okyanusu"
+    ],
+    "dogru": 0,
+    "aciklama": "Pasifik Okyanusu, yüzey alanı ve derinliği bakımından dünyanın en büyük okyanusudur. Dünyanın en derin çukurları da bu okyanusta yer alır.",
+    "zorluk": "kolay",
+    "kaynak": "Dünya coğrafyası: okyanuslar"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Harita Bilgisi",
+    "soru": "Türkiye hangi paraleller arasında yer alır?",
+    "siklar": [
+      "20 - 30 kuzey paralelleri",
+      "36 - 42 kuzey paralelleri",
+      "26 - 45 kuzey paralelleri",
+      "40 - 50 kuzey paralelleri",
+      "10 - 20 kuzey paralelleri"
+    ],
+    "dogru": 1,
+    "aciklama": "Türkiye, 36 ile 42 kuzey paralelleri arasında yer alır. Bu konum ülkenin orta kuşakta bulunmasını ve dört mevsimin belirgin yaşanmasını sağlar.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'nin matematik konumu"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Harita Bilgisi",
+    "soru": "Türkiye'nin en batısı ile en doğusu arasındaki yerel saat farkı yaklaşık ne kadardır?",
+    "siklar": [
+      "19 dakika",
+      "45 dakika",
+      "76 dakika",
+      "100 dakika",
+      "60 dakika"
+    ],
+    "dogru": 2,
+    "aciklama": "Türkiye 26 ile 45 doğu meridyenleri arasında yer alır ve aradaki fark 19 meridyendir. Her meridyen arası 4 dakika olduğundan doğu ile batı arasındaki yerel saat farkı yaklaşık 76 dakikadır.",
+    "zorluk": "zor",
+    "kaynak": "Türkiye'nin matematik konumu: yerel saat farkı"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Harita Bilgisi",
+    "soru": "Ekvator üzerinde iki meridyen arasındaki uzaklık yaklaşık kaç kilometredir?",
+    "siklar": [
+      "50 kilometre",
+      "75 kilometre",
+      "200 kilometre",
+      "111 kilometre",
+      "150 kilometre"
+    ],
+    "dogru": 3,
+    "aciklama": "Ekvator üzerinde iki meridyen arasındaki uzaklık yaklaşık 111 kilometredir. Kutuplara doğru meridyenler birbirine yaklaştığı için bu uzaklık azalır.",
+    "zorluk": "orta",
+    "kaynak": "Harita bilgisi: meridyen özellikleri"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Harita Bilgisi",
+    "soru": "1/25.000 ölçekli bir harita ile ilgili olarak aşağıdakilerden hangisi söylenebilir?",
+    "siklar": [
+      "Küçük ölçekli bir harita olup geniş alanları gösterir",
+      "Orta ölçekli bir harita olup yalnızca ülke sınırlarını gösterir",
+      "Ölçeği bulunmayan bir harita olduğu için ayrıntı vermez",
+      "Yalnızca denizlerin derinliğini göstermek için kullanılır",
+      "Büyük ölçekli bir harita olup ayrıntı oranı yüksektir"
+    ],
+    "dogru": 4,
+    "aciklama": "Ölçek kesrinin paydası küçüldükçe haritanın ölçeği büyür ve ayrıntı oranı artar. Bu nedenle 1/25.000 ölçekli haritalar büyük ölçekli ve ayrıntılı haritalardır.",
+    "zorluk": "orta",
+    "kaynak": "Harita bilgisi: ölçek"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Harita Bilgisi",
+    "soru": "Haritalarda aynı yükseltiye sahip noktaların birleştirilmesiyle elde edilen eğrilere ne ad verilir?",
+    "siklar": [
+      "İzohips",
+      "İzobar",
+      "İzoterm",
+      "İzohyet",
+      "İzobat"
+    ],
+    "dogru": 0,
+    "aciklama": "Aynı yükseltideki noktaları birleştiren eğrilere izohips veya eş yükselti eğrisi denir. İzobar basınç, izoterm sıcaklık, izohyet yağış eş değer eğrileridir.",
+    "zorluk": "orta",
+    "kaynak": "Harita bilgisi: eş değer eğrileri"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Dünya Coğrafyası",
+    "soru": "Yüzey alanı bakımından dünyanın en büyük kıtası hangisidir?",
+    "siklar": [
+      "Afrika",
+      "Asya",
+      "Kuzey Amerika",
+      "Güney Amerika",
+      "Avrupa"
+    ],
+    "dogru": 1,
+    "aciklama": "Asya, yüzey alanı ve nüfus bakımından dünyanın en büyük kıtasıdır. Dünya nüfusunun önemli bir bölümü bu kıtada yaşamaktadır.",
+    "zorluk": "kolay",
+    "kaynak": "Dünya coğrafyası: kıtalar"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Dünya Coğrafyası",
+    "soru": "Yüzey alanı bakımından dünyanın en büyük tatlı su gölü hangisidir?",
+    "siklar": [
+      "Baykal Gölü",
+      "Victoria Gölü",
+      "Superior Gölü",
+      "Tanganyika Gölü",
+      "Hazar Gölü"
+    ],
+    "dogru": 2,
+    "aciklama": "Superior Gölü, yüzey alanı bakımından dünyanın en büyük tatlı su gölüdür. Hazar Gölü daha geniştir ancak tuzlu su özelliği taşıdığı için tatlı su gölleri arasında sayılmaz.",
+    "zorluk": "zor",
+    "kaynak": "Dünya coğrafyası: göller"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'de Sanayi",
+    "soru": "Türkiye'de petrol rafinerilerinin bulunduğu iller hangi seçenekte birlikte verilmiştir?",
+    "siklar": [
+      "Ankara, Eskişehir, Konya ve Sivas",
+      "Trabzon, Samsun, Sinop ve Rize",
+      "Antalya, Muğla, Aydın ve Denizli",
+      "İzmit, İzmir, Kırıkkale ve Batman",
+      "Edirne, Kırklareli, Tekirdağ ve Çanakkale"
+    ],
+    "dogru": 3,
+    "aciklama": "Türkiye'de rafineri tesisleri İzmit, İzmir, Kırıkkale ve Batman'da bulunur. Bu tesisler ham petrolü işleyerek benzin, motorin ve diğer ürünleri üretir.",
+    "zorluk": "zor",
+    "kaynak": "Türkiye'de sanayi: petrol rafinerileri"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'de Enerji",
+    "soru": "Türkiye'de rüzgâr enerjisi santrallerinin en yoğun olduğu alan hangisidir?",
+    "siklar": [
+      "Doğu Anadolu'daki Erzurum-Kars platosu ve çevresi",
+      "İç Anadolu'daki Tuz Gölü ve çevresindeki düzlük alanlar",
+      "Güneydoğu Anadolu'daki Dicle Havzası ve yakın çevresi",
+      "Akdeniz kıyısındaki Çukurova'nın kuzey kesimleri",
+      "Ege kıyılarındaki Çanakkale, Balıkesir ve İzmir çevresi"
+    ],
+    "dogru": 4,
+    "aciklama": "Rüzgâr enerjisi üretimi, rüzgâr hızının yüksek olduğu kıyı ve geçit alanlarında yoğunlaşır. Çanakkale, Balıkesir ve İzmir çevresi Türkiye'de rüzgâr santrallerinin en yoğun bulunduğu alandır.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de enerji kaynakları: rüzgâr"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Türkiye'de Enerji",
+    "soru": "Türkiye'nin nükleer santral projesinin kurulduğu il hangisidir?",
+    "siklar": [
+      "Mersin",
+      "Sinop",
+      "İzmir",
+      "Zonguldak",
+      "Adana"
+    ],
+    "dogru": 0,
+    "aciklama": "Akkuyu Nükleer Güç Santrali Mersin'in Gülnar ilçesinde kurulmuştur. Proje, Türkiye'nin elektrik üretiminde nükleer enerjiden yararlanma hedefinin ilk adımıdır.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de enerji kaynakları: nükleer"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Dünya Coğrafyası",
+    "soru": "İstanbul Boğazı hangi iki denizi birbirine bağlar?",
+    "siklar": [
+      "Ege Denizi ile Akdeniz'i",
+      "Karadeniz ile Marmara Denizi'ni",
+      "Akdeniz ile Kızıldeniz'i",
+      "Marmara Denizi ile Ege Denizi'ni",
+      "Karadeniz ile Azak Denizi'ni"
+    ],
+    "dogru": 1,
+    "aciklama": "İstanbul Boğazı, Karadeniz ile Marmara Denizi'ni birbirine bağlar. Çanakkale Boğazı ise Marmara Denizi'ni Ege Denizi'ne bağlar.",
+    "zorluk": "kolay",
+    "kaynak": "Türkiye'nin coğrafi konumu: boğazlar"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Dünya Coğrafyası",
+    "soru": "Süveyş Kanalı hangi iki denizi birbirine bağlar?",
+    "siklar": [
+      "Karadeniz ile Akdeniz'i",
+      "Baltık Denizi ile Kuzey Denizi'ni",
+      "Akdeniz ile Kızıldeniz'i",
+      "Basra Körfezi ile Umman Denizi'ni",
+      "Atlas Okyanusu ile Büyük Okyanus'u"
+    ],
+    "dogru": 2,
+    "aciklama": "Süveyş Kanalı, Akdeniz ile Kızıldeniz'i birbirine bağlayan yapay bir su yoludur. Kanal, Avrupa ile Asya arasındaki deniz yolculuğunu büyük ölçüde kısaltmıştır.",
+    "zorluk": "kolay",
+    "kaynak": "Dünya coğrafyası: kanallar ve su yolları"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Dünya Coğrafyası",
+    "soru": "Ekvator'dan kutuplara doğru gidildikçe sıcaklığın azalmasının temel nedeni hangisidir?",
+    "siklar": [
+      "Denizlerin karalardan daha geç ısınması",
+      "Rüzgârların kutuplara doğru hızlanması",
+      "Yükseltinin kutuplara doğru sürekli artması",
+      "Güneş ışınlarının yere düşme açısının küçülmesi",
+      "Kutuplarda nem oranının daha yüksek olması"
+    ],
+    "dogru": 3,
+    "aciklama": "Ekvator'dan kutuplara gidildikçe güneş ışınları yüzeye daha eğik açıyla düşer. Bu nedenle aynı miktarda enerji daha geniş alana yayılır ve sıcaklık azalır.",
+    "zorluk": "orta",
+    "kaynak": "Dünya coğrafyası: sıcaklık dağılışını etkileyen faktörler"
+  },
+  {
+    "ders": "Genel Kültür - Coğrafya",
+    "konu": "Harita Bilgisi",
+    "soru": "Bir izohips haritasında eğrilerin birbirine çok yaklaştığı yerlerde aşağıdakilerden hangisi görülür?",
+    "siklar": [
+      "Yükseltinin sıfıra indiği düz alanlar oluşur",
+      "Akarsu ağı tamamen kaybolur",
+      "Toprak örtüsü en verimli hâle gelir",
+      "Yağış miktarı en yüksek düzeye ulaşır",
+      "Eğim artar ve yamaç dikleşir"
+    ],
+    "dogru": 4,
+    "aciklama": "İzohips eğrilerinin sıklaşması, aynı yatay uzaklıkta yükselti farkının arttığını gösterir. Bu durum eğimin arttığı ve yamacın dikleştiği anlamına gelir.",
+    "zorluk": "zor",
+    "kaynak": "Harita bilgisi: izohips haritalarında yorum"
+  }
+]
