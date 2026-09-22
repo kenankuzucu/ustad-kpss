@@ -1,0 +1,898 @@
+[
+ {
+  "ders": "Hukuk",
+  "konu": "Ceza Hukuku",
+  "soru": "Ceza hukukunda suçta ve cezada kanunilik ilkesinin bir sonucu olarak aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Suç ve cezalar yönetmelikle de düzenlenebilir, yeter ki açık olsun",
+   "Örf ve âdet hukuku kuralları yeni suç tipleri ihdas edebilir",
+   "Mahkeme kararlarıyla kanunda olmayan suç tipleri oluşturulabilir",
+   "Suç ve cezalar yalnızca kanunla düzenlenebilir, kıyas yoluyla genişletilemez",
+   "İdare, suç ve ceza içeren genelge çıkarabilir ve uygulayabilir"
+  ],
+  "dogru": 3,
+  "aciklama": "Kanunilik ilkesi gereği suç ve ceza yalnızca kanunla konur; belirsiz hükümler kıyas yoluyla genişletilemez ve idari düzenlemelerle suç ihdas edilemez.",
+  "zorluk": "kolay",
+  "kaynak": "5237 sayılı Türk Ceza Kanunu: suçta ve cezada kanunilik ilkesi"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Ceza Hukuku",
+  "soru": "Ceza hukukunda suçun maddi unsuru bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Maddi unsur yalnızca fiilden oluşur, netice ayrı bir unsur sayılmaz",
+   "Maddi unsur; fiil, netice ve nedensellik bağı ile fail ve mağdur gibi ögeleri kapsar",
+   "Maddi unsur, kast ve taksir gibi manevi ögeleri de kapsar",
+   "Maddi unsurun varlığı için failin kusurlu olması şarttır",
+   "Maddi unsur, hukuka aykırılık unsuruyla aynı anlama gelir"
+  ],
+  "dogru": 1,
+  "aciklama": "Suç; maddi unsurlar (fiil, netice, nedensellik bağı, fail, mağdur), manevi unsurlar (kast, taksir) ve hukuka aykırılık unsurundan oluşur.",
+  "zorluk": "orta",
+  "kaynak": "Ceza hukuku müfredatı: suçun unsurları"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Ceza Hukuku",
+  "soru": "Failin, işlediği fiilin hukuki anlam ve sonuçlarını bilerek ve isteyerek hareket etmesi hangi manevi unsurla ifade edilir?",
+  "siklar": [
+   "Taksir",
+   "Hata",
+   "Teşebbüs",
+   "İştirak",
+   "Kast"
+  ],
+  "dogru": 4,
+  "aciklama": "Kast, suçun kanuni tanımındaki unsurların bilerek ve istenerek gerçekleştirilmesidir; taksir ise dikkat ve özen yükümlülüğüne aykırılıkla öngörülebilir neticenin istenmeyerek doğmasıdır.",
+  "zorluk": "kolay",
+  "kaynak": "Ceza hukuku müfredatı: kast ve taksir"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Ceza Hukuku",
+  "soru": "Failin, neticeyi öngördüğü hâlde onu istemeyerek gerçekleştirmesi hâlinde hangi manevi durum söz konusudur?",
+  "siklar": [
+   "Bilinçli taksir",
+   "Doğrudan kast",
+   "Olası kast",
+   "Haksız tahrik",
+   "Netice sebebiyle ağırlaşmış suç"
+  ],
+  "dogru": 0,
+  "aciklama": "Olası kastta fail neticeyi kabullenir; bilinçli taksirde ise netice öngörülmüş ancak istenmemiştir ve ceza taksire göre daha ağır belirlenir.",
+  "zorluk": "orta",
+  "kaynak": "Ceza hukuku müfredatı: kast ve taksir türleri"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Ceza Hukuku",
+  "soru": "Failin, suçu işlemeye elverişli hareketlerle doğrudan doğruya başlaması, ancak elinde olmayan nedenlerle suçu tamamlayamaması hâli aşağıdakilerden hangisidir?",
+  "siklar": [
+   "İştirak",
+   "İçtima",
+   "Gönüllü vazgeçme",
+   "Teşebbüs",
+   "Neticesi sebebiyle ağırlaşmış suç"
+  ],
+  "dogru": 3,
+  "aciklama": "Elverişli hareketlerle doğrudan doğruya suça başlanması ve suçun failin elinde olmayan nedenlerle tamamlanamaması teşebbüs; failin kendi iradesiyle vazgeçmesi ise gönüllü vazgeçmedir.",
+  "zorluk": "orta",
+  "kaynak": "Ceza hukuku müfredatı: suça teşebbüs"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Ceza Hukuku",
+  "soru": "Fail, suçun tamamlanmasından kendi iradesiyle vazgeçerse aşağıdakilerden hangisi uygulanır?",
+  "siklar": [
+   "Teşebbüsten dolayı cezalandırılmaz; ancak bağımsız suç varsa ondan sorumludur",
+   "Tamamlanmış suçtan dolayı cezalandırılır ve cezasında indirim yapılır",
+   "Ceza yarı oranında indirilir, ancak ceza tamamen kaldırılmaz",
+   "Fail hakkında yalnızca güvenlik tedbiri uygulanır, ceza verilmez",
+   "Fail hakkında hiçbir soruşturma yapılamaz ve kayıt tutulamaz"
+  ],
+  "dogru": 0,
+  "aciklama": "Gönüllü vazgeçme hâlinde fail teşebbüsten cezalandırılmaz; ancak gerçekleştirdiği fiiller bağımsız bir suç oluşturuyorsa o suçtan sorumlu tutulur.",
+  "zorluk": "zor",
+  "kaynak": "Ceza hukuku müfredatı: gönüllü vazgeçme"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Ceza Hukuku",
+  "soru": "Aşağıdakilerden hangisi suça iştirak biçimlerinden biri değildir?",
+  "siklar": [
+   "Müşterek faillik",
+   "Dolaylı faillik",
+   "Azmettirme",
+   "Yardım etme",
+   "Haksız tahrik"
+  ],
+  "dogru": 4,
+  "aciklama": "İştirak biçimleri faillik, dolaylı faillik, müşterek faillik, azmettirme ve yardım etmedir; haksız tahrik ise kusurluluğu etkileyen bir indirim sebebidir.",
+  "zorluk": "orta",
+  "kaynak": "Ceza hukuku müfredatı: iştirak"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Ceza Hukuku",
+  "soru": "Failin farklı zamanlarda ve birbirinden bağımsız fiillerle birden fazla suç işlemesi ve her suçtan ayrı ayrı cezalandırılması hâline ne denir?",
+  "siklar": [
+   "Fikri içtima",
+   "Gerçek içtima",
+   "Bileşik suç",
+   "Zincirleme suç",
+   "Teşebbüs"
+  ],
+  "dogru": 1,
+  "aciklama": "Ayrı fiillerle birden fazla suç işlenmesi gerçek içtima; tek fiille birden fazla suçun işlenmesi fikri içtimadır.",
+  "zorluk": "orta",
+  "kaynak": "Ceza hukuku müfredatı: suçların içtimaı"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Ceza Hukuku",
+  "soru": "Bir suç işleme kararının icrası kapsamında, değişik zamanlarda aynı mağdura karşı aynı suçun birden fazla kez işlenmesi hâlinde aşağıdakilerden hangisi uygulanır?",
+  "siklar": [
+   "Fail tek bir suçtan dolayı cezalandırılır ve verilen ceza artırılır",
+   "Her bir fiil için ayrı ayrı ceza verilir ve cezalar toplanır",
+   "Fail yalnızca en ağır fiilden dolayı cezalandırılır ve artırım yapılmaz",
+   "Suç sayısı kadar ayrı dava açılması zorunlu hâle gelir",
+   "Fail hakkında yalnızca güvenlik tedbiri uygulanır"
+  ],
+  "dogru": 0,
+  "aciklama": "Zincirleme suçta suç tekliği esas alınır; fail tek bir suçtan cezalandırılır ve temel ceza kanunda öngörülen oranda artırılır.",
+  "zorluk": "orta",
+  "kaynak": "Ceza hukuku müfredatı: zincirleme suç"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Ceza Hukuku",
+  "soru": "Ceza hukukunda meşru savunmanın (nefsi müdafaanın) koşulları bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Savunma, haksız saldırıyı defetmeye elverişli ve saldırıyla orantılı olmalıdır",
+   "Saldırının hukuka aykırı olması gerekmez, her türlü saldırı yeterlidir",
+   "Savunma yalnızca kişinin kendisine yönelik saldırılarda mümkündür",
+   "Savunmada kullanılan aracın saldırı aracıyla aynı olması zorunludur",
+   "Savunmanın mutlaka önceden yapılan bir hazırlığa dayanması gerekir"
+  ],
+  "dogru": 0,
+  "aciklama": "Meşru savunmada hukuka aykırı bir saldırıya karşı, saldırıyı defetmek için zorunlu olan ve saldırıyla orantılı savunma gerekir; savunma üçüncü kişiler lehine de yapılabilir.",
+  "zorluk": "orta",
+  "kaynak": "5237 sayılı Türk Ceza Kanunu: meşru savunma"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Ceza Hukuku",
+  "soru": "Aşağıdakilerden hangisi Türk Ceza Kanunu'nda öngörülen yaptırımlardan biri değildir?",
+  "siklar": [
+   "Hapis cezası",
+   "Adli para cezası",
+   "Belli hakları kullanmaktan yoksun bırakılma",
+   "Ölüm cezası",
+   "Eşyanın müsaderesi"
+  ],
+  "dogru": 3,
+  "aciklama": "Türk Ceza Kanunu'nda yaptırımlar hapis ve adli para cezaları ile güvenlik tedbirleridir; ölüm cezası 2004 yılında yapılan değişikliklerle hukukumuzdan çıkarılmıştır.",
+  "zorluk": "kolay",
+  "kaynak": "5237 sayılı Türk Ceza Kanunu: yaptırımlar"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Ceza Hukuku",
+  "soru": "Ceza hukukunda ceza sorumluluğunun şahsiliği ilkesi aşağıdakilerden hangisini ifade eder?",
+  "siklar": [
+   "Suçtan doğan zarar failin tüm aile bireylerinden tahsil edilir",
+   "Kimse başkasının işlediği fiilden dolayı cezalandırılamaz",
+   "Tüzel kişiler hakkında da hapis cezası verilebilir",
+   "Şirket yöneticileri şirketin tüm suçlarından şahsen sorumludur",
+   "Ceza sorumluluğu miras yoluyla mirasçılara intikal eder"
+  ],
+  "dogru": 1,
+  "aciklama": "Ceza sorumluluğu şahsidir; kimse başkasının fiilinden dolayı cezalandırılamaz. Tüzel kişilere hapis cezası verilmez, yalnızca güvenlik tedbiri uygulanabilir.",
+  "zorluk": "kolay",
+  "kaynak": "5237 sayılı Türk Ceza Kanunu: ceza sorumluluğunun şahsiliği"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Ceza Hukuku",
+  "soru": "Ceza hukukuna göre fiili işlediği sırada on iki yaşını doldurmamış olan çocuklar bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Cezalarında yarı oranında indirim yapılır ve erteleme uygulanır",
+   "Ceza sorumlulukları yoktur ve haklarında ceza kovuşturması yapılamaz",
+   "Cezalarında üçte iki oranında indirim yapılarak hüküm kurulur",
+   "Yalnızca adli para cezası verilebilir, hapis cezası verilemez",
+   "Haklarında yalnızca hükmün açıklanmasının geri bırakılması kararı verilir"
+  ],
+  "dogru": 1,
+  "aciklama": "Fiili işlediği sırada on iki yaşını doldurmamış çocukların ceza sorumluluğu yoktur; bu çocuklar hakkında ceza kovuşturması yapılamaz ve koruyucu tedbirler uygulanır.",
+  "zorluk": "orta",
+  "kaynak": "5237 sayılı Türk Ceza Kanunu: yaş küçüklüğü"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Ceza Hukuku",
+  "soru": "Ceza hukukunda akıl hastalığının ceza sorumluluğuna etkisi bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Akıl hastalığı ceza sorumluluğunu hiçbir durumda etkilemez",
+   "Akıl hastası fail hakkında yalnızca adli para cezası verilebilir",
+   "Akıl hastalığı hâlinde ceza yarı oranında indirilir ve erteleme uygulanır",
+   "Akıl hastaları hakkında hiçbir güvenlik tedbiri uygulanamaz",
+   "Algılama yeteneği tamamen kalkmışsa ceza verilmez, güvenlik tedbiri uygulanır"
+  ],
+  "dogru": 4,
+  "aciklama": "Akıl hastalığı nedeniyle fiilin hukuki anlam ve sonuçlarını algılama veya davranışlarını yönlendirme yeteneği önemli derecede azalmışsa cezada indirim yapılır; yetenek tamamen ortadan kalkmışsa ceza verilmez, güvenlik tedbiri uygulanır.",
+  "zorluk": "orta",
+  "kaynak": "5237 sayılı Türk Ceza Kanunu: akıl hastalığı"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Medeni Hukuk",
+  "soru": "Medeni hukuka göre kişilik hangi anda başlar?",
+  "siklar": [
+   "Ana rahmine düşme anıyla",
+   "Nüfusa kayıt anıyla",
+   "Ergin olunduğu anda",
+   "Sağ ve tam doğumla",
+   "Mahkeme kararıyla"
+  ],
+  "dogru": 3,
+  "aciklama": "Kişilik, çocuğun sağ olarak tamamıyla doğduğu anda başlar ve ölümle sona erer; cenin ise sağ doğmak koşuluyla ana rahmine düştüğü andan itibaren hak ehliyetinden yararlanır.",
+  "zorluk": "kolay",
+  "kaynak": "Medeni hukuk müfredatı: kişiliğin başlangıcı"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Medeni Hukuk",
+  "soru": "Bir kişinin ölümü hakkında kuvvetli olasılık bulunması hâlinde mahkeme kararıyla kişiliğine son verilmesine ne denir?",
+  "siklar": [
+   "Ölüm karinesi",
+   "Gaiplik",
+   "Kısıtlama",
+   "Kayyımlık",
+   "Mirasın reddi"
+  ],
+  "dogru": 1,
+  "aciklama": "Gaiplik kararı, ölüm tehlikesi veya uzun süreli haber alamama hâlinde mahkeme kararıyla verilir; ölüm karinesinde ise kişinin öldüğü nüfus kütüğüne işlenir.",
+  "zorluk": "orta",
+  "kaynak": "Medeni hukuk müfredatı: gaiplik ve ölüm karinesi"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Medeni Hukuk",
+  "soru": "Medeni hukuka göre normal erginlik kaç yaşın doldurulmasıyla başlar?",
+  "siklar": [
+   "On beş yaş",
+   "On altı yaş",
+   "On sekiz yaş",
+   "Yirmi yaş",
+   "Yirmi bir yaş"
+  ],
+  "dogru": 2,
+  "aciklama": "Erginlik on sekiz yaşın doldurulmasıyla başlar; evlenme veya mahkeme kararıyla ergin kılınma hâllerinde kişi on sekiz yaşından önce de ergin sayılabilir.",
+  "zorluk": "kolay",
+  "kaynak": "Medeni hukuk müfredatı: erginlik"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Medeni Hukuk",
+  "soru": "Aşağıdakilerden hangisi Türk Medeni Kanunu'nda öngörülen kısıtlama (hacir) sebeplerinden biridir?",
+  "siklar": [
+   "Uzun süre yurt dışında ikamet ediyor olmak",
+   "Sık sık meslek ve iş yeri değiştiriyor olmak",
+   "Öğrenimini henüz tamamlamamış olmak",
+   "Vergi borcunu zamanında ödemiyor olmak",
+   "Savurganlık nedeniyle yoksulluğa düşme tehlikesi"
+  ],
+  "dogru": 4,
+  "aciklama": "Akıl hastalığı veya akıl zayıflığı, savurganlık, alkol ya da uyuşturucu madde bağımlılığı, kötü yaşama tarzı ve kötü yönetim kısıtlama sebepleridir.",
+  "zorluk": "orta",
+  "kaynak": "Medeni hukuk müfredatı: kısıtlama sebepleri"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Medeni Hukuk",
+  "soru": "Medeni hukuka göre bir kişinin yerleşim yeri neresidir?",
+  "siklar": [
+   "Nüfusa kayıtlı olduğu yer",
+   "Fiilen en uzun süre bulunduğu yer",
+   "İş yerinin ve evinin bulunduğu il",
+   "Sürekli kalma niyetiyle oturduğu yer",
+   "Taşınmazlarının bulunduğu yer"
+  ],
+  "dogru": 3,
+  "aciklama": "Yerleşim yeri, sürekli kalma niyetiyle oturulan yerdir; bir kimsenin aynı anda birden fazla yerleşim yeri olamaz.",
+  "zorluk": "kolay",
+  "kaynak": "Medeni hukuk müfredatı: yerleşim yeri"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Medeni Hukuk",
+  "soru": "Medeni hukuka göre nişanlanma ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Nişanlanma evlenme ile aynı hukuki sonuçları doğurur",
+   "Nişanlanma resmî şekle bağlıdır ve nüfus kütüğüne tescil edilir",
+   "Nişanlanma evlenme vaadiyle olur ve nişanlılar birbirlerini evlenmeye zorlayamaz",
+   "Nişanlanma bozulursa her hâlde maddi tazminat istenebilir",
+   "Nişanlanma taraflara karşılıklı yasal mirasçılık hakkı verir"
+  ],
+  "dogru": 2,
+  "aciklama": "Nişanlanma evlenme vaadiyle olur ve evlenmeye zorlamak için dava açılamaz; nişanın bozulması hâlinde tazminat istemi ancak kanunda öngörülen koşullarda doğar.",
+  "zorluk": "orta",
+  "kaynak": "Medeni hukuk müfredatı: nişanlanma"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Medeni Hukuk",
+  "soru": "Aşağıdakilerden hangisi Türk Medeni Kanunu'nda öngörülen evlenme engellerinden biridir?",
+  "siklar": [
+   "Tarafların farklı dinlerden olması",
+   "Evlenmeye engel akıl hastalığı",
+   "Tarafların farklı ülke vatandaşı olması",
+   "Taraflardan birinin daha önce boşanmış olması",
+   "Tarafların farklı meslek gruplarına mensup olması"
+  ],
+  "dogru": 1,
+  "aciklama": "Evlenme engelleri; hısımlık, mevcut evlilik, akıl hastalığı ve kadın için bekleme süresi gibi hâllerdir. Farklı din, vatandaşlık, medeni durum veya meslek evlenmeye engel değildir.",
+  "zorluk": "kolay",
+  "kaynak": "Medeni hukuk müfredatı: evlenme engelleri"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Medeni Hukuk",
+  "soru": "Eşlerden birinin evlilik birliğinin kendisine yüklediği görevleri yerine getirmemesi nedeniyle ortak hayatın sürdürülmesinin beklenemez hâle gelmesi hangi boşanma sebebine dayanak oluşturur?",
+  "siklar": [
+   "Zina",
+   "Hayata kast, pek kötü veya onur kırıcı davranış",
+   "Suç işleme ve haysiyetsiz hayat sürme",
+   "Akıl hastalığı",
+   "Evlilik birliğinin temelinden sarsılması"
+  ],
+  "dogru": 4,
+  "aciklama": "Evlilik birliğinin temelinden sarsılması genel boşanma sebebidir; zina, hayata kast, suç işleme ve akıl hastalığı ise kanunda özel olarak düzenlenmiş boşanma sebepleridir.",
+  "zorluk": "orta",
+  "kaynak": "Medeni hukuk müfredatı: boşanma sebepleri"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Medeni Hukuk",
+  "soru": "Türk Medeni Kanunu'na göre eşler arasında sözleşmeyle başka bir mal rejimi seçilmemişse hangi mal rejimi geçerlidir?",
+  "siklar": [
+   "Mal ayrılığı",
+   "Mal ortaklığı",
+   "Edinilmiş mallara katılma",
+   "Paylaşmalı mal ayrılığı",
+   "Kişisel mallar ortaklığı"
+  ],
+  "dogru": 2,
+  "aciklama": "Yasal mal rejimi edinilmiş mallara katılmadır; eşler bir mal rejimi sözleşmesiyle mal ayrılığı, paylaşmalı mal ayrılığı veya mal ortaklığı rejimlerinden birini seçebilir.",
+  "zorluk": "orta",
+  "kaynak": "Medeni hukuk müfredatı: mal rejimleri"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Medeni Hukuk",
+  "soru": "Medeni hukuka göre evlat edinme ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Evlat edinme, tarafların noterde düzenleyeceği sözleşmeyle tamamlanır",
+   "Evlat edinme yalnızca nüfus müdürlüğü kararıyla gerçekleşir",
+   "Evlat edinme mahkeme kararıyla gerçekleşir ve taraflar arasında soybağı kurar",
+   "Evlat edinen kişiye evlatlık üzerinde hiçbir hak tanınmaz",
+   "Evlat edinilen çocuk, evlat edinenin mirasçısı olmaz"
+  ],
+  "dogru": 2,
+  "aciklama": "Evlat edinme mahkeme kararıyla gerçekleşir; evlatlık ile evlat edinen arasında soybağı kurulur ve taraflar birbirinin yasal mirasçısı olur.",
+  "zorluk": "kolay",
+  "kaynak": "Medeni hukuk müfredatı: evlat edinme"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Medeni Hukuk",
+  "soru": "Türk Medeni Kanunu'na göre yasal mirasçılıkta birinci zümre kimlerden oluşur?",
+  "siklar": [
+   "Mirasbırakanın ana ve babası ile kardeşleri",
+   "Mirasbırakanın çocukları ve onların altsoyu",
+   "Mirasbırakanın büyük ana ve büyük babası ile amca ve halaları",
+   "Yalnızca sağ kalan eş",
+   "Yalnızca Devlet"
+  ],
+  "dogru": 1,
+  "aciklama": "Yasal mirasçılık zümre sistemine göre belirlenir; birinci zümre mirasbırakanın çocukları ile onların altsoyudur ve sağ kalan eş zümrelerle birlikte mirasçı olur.",
+  "zorluk": "orta",
+  "kaynak": "Medeni hukuk müfredatı: yasal mirasçılar"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Medeni Hukuk",
+  "soru": "Medeni hukukta saklı pay kavramı aşağıdakilerden hangisini ifade eder?",
+  "siklar": [
+   "Mirasbırakanın vasiyetnameyle serbestçe tasarruf edebileceği payı",
+   "Mirasın alacaklıların alacağına ayrılan kısmını",
+   "Kanunun belirli yasal mirasçılara tanıdığı dokunulmaz miras payını",
+   "Sağ kalan eşin evlilik birliğinden doğan katılma alacağını",
+   "Mirasın öncelikle Devlete geçen bölümünü"
+  ],
+  "dogru": 2,
+  "aciklama": "Saklı pay, kanunda belirtilen yasal mirasçılara tanınan ve mirasbırakanın tasarruf özgürlüğünü sınırlayan dokunulmaz miras payıdır; ihlali hâlinde tenkis davası açılabilir.",
+  "zorluk": "orta",
+  "kaynak": "Medeni hukuk müfredatı: mirasın tasarruf kısmı ve saklı pay"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Medeni Hukuk",
+  "soru": "Medeni hukuka göre yasal mirasçı, mirasbırakanın ölümünü öğrendiği tarihten itibaren kural olarak ne kadar süre içinde mirası reddedebilir?",
+  "siklar": [
+   "Üç ay",
+   "Bir ay",
+   "İki ay",
+   "Altı ay",
+   "Bir yıl"
+  ],
+  "dogru": 0,
+  "aciklama": "Yasal mirasçılar, mirasın açıldığını öğrendikleri tarihten itibaren üç ay içinde mirası reddedebilir; süresinde reddetmeyen mirasçı mirası kayıtsız şartsız kabul etmiş sayılır.",
+  "zorluk": "zor",
+  "kaynak": "Medeni hukuk müfredatı: mirasın reddi"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Medeni Hukuk",
+  "soru": "Medeni hukuka göre dernekler ve vakıflar bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Vakıflar, üyelerden oluşan kişi topluluklarıdır ve tüzel kişiliği yoktur",
+   "Dernekler yalnızca ticari kazanç elde etmek amacıyla kurulabilir",
+   "Dernekler kişi topluluğu, vakıflar mal topluluğudur ve ikisi de tüzel kişiliğe sahiptir",
+   "Dernek kurmak için en az yirmi kurucu üye bulunması gerekir",
+   "Tüzel kişiler, dernek kurucusu veya üyesi olamaz"
+  ],
+  "dogru": 2,
+  "aciklama": "Dernekler kişi toplulukları, vakıflar ise mal topluluklarıdır; her ikisi de tüzel kişiliğe sahiptir ve amaçları doğrultusunda mal ve gelir edinebilir.",
+  "zorluk": "orta",
+  "kaynak": "Medeni hukuk müfredatı: tüzel kişiler"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Borçlar Hukuku",
+  "soru": "Aşağıdakilerden hangisi borçlar hukukunda özel hukuk borcunun kaynakları arasında yer alır?",
+  "siklar": [
+   "İdari işlemler ve genel düzenleyici kararlar",
+   "Ceza mahkemesi kararları",
+   "Haksız fiil",
+   "Kamu alacakları ve vergi borçları",
+   "Kamu hizmeti yükümlülükleri"
+  ],
+  "dogru": 2,
+  "aciklama": "Özel hukukta borcun kaynakları hukuki işlemler (özellikle sözleşme), haksız fiil ve sebepsiz zenginleşmedir; idari işlemler ile kamu alacakları bu kapsamda yer almaz.",
+  "zorluk": "orta",
+  "kaynak": "Borçlar hukuku müfredatı: borcun kaynakları"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Borçlar Hukuku",
+  "soru": "Borçlar hukukuna göre sözleşme nasıl kurulur?",
+  "siklar": [
+   "Yalnızca yazılı şekle uyulmak suretiyle",
+   "Noterde düzenleme şeklinde yapılmasıyla",
+   "Karşılıklı ve birbirine uygun irade beyanlarıyla",
+   "Mahkemenin onay kararı verilmesiyle",
+   "İlan yoluyla tek taraflı beyanda bulunulmasıyla"
+  ],
+  "dogru": 2,
+  "aciklama": "Sözleşme, tarafların karşılıklı ve birbirine uygun irade beyanlarıyla kurulur; kanunda öngörülen hâller dışında şekil şartı aranmaz.",
+  "zorluk": "kolay",
+  "kaynak": "Borçlar hukuku müfredatı: sözleşmenin kurulması"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Borçlar Hukuku",
+  "soru": "Sözleşmenin kurulabilmesi için karşı tarafa yöneltilmesi gereken ve bağlayıcı nitelik taşıyan ilk irade beyanına ne denir?",
+  "siklar": [
+   "İcap (öneri)",
+   "Kabul beyanı",
+   "Vaad",
+   "Taahhüt",
+   "Teyit"
+  ],
+  "dogru": 0,
+  "aciklama": "İcap, sözleşmenin esaslı noktalarını içeren ve karşı tarafa yöneltilmiş bağlayıcı öneridir; icaba uygun kabul beyanıyla sözleşme kurulmuş olur.",
+  "zorluk": "kolay",
+  "kaynak": "Borçlar hukuku müfredatı: icap ve kabul"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Borçlar Hukuku",
+  "soru": "Borçlar hukukuna göre haksız fiil sorumluluğunun doğması için aşağıdakilerden hangisi gereklidir?",
+  "siklar": [
+   "Yalnızca zararın meydana gelmiş olması yeterlidir",
+   "Fiilin taraflar arasındaki sözleşmeye dayanması gerekir",
+   "Zararın yalnızca malvarlığı dışı olması gerekir",
+   "Fiilin bir kamu görevlisi tarafından işlenmesi gerekir",
+   "Hukuka aykırı fiil, zarar, illiyet bağı ve kusur"
+  ],
+  "dogru": 4,
+  "aciklama": "Haksız fiilin unsurları hukuka aykırı fiil, zarar, illiyet bağı ve kusurdur; bu unsurlar birlikte gerçekleştiğinde fail zararı gidermekle yükümlü olur.",
+  "zorluk": "orta",
+  "kaynak": "Borçlar hukuku müfredatı: haksız fiil ve unsurları"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Borçlar Hukuku",
+  "soru": "Haksız fiil nedeniyle kişilik hakkı saldırıya uğrayan kişi aşağıdakilerden hangisini talep edebilir?",
+  "siklar": [
+   "Yalnızca ceza davası açabilir, tazminat isteyemez",
+   "Yalnızca idari yargıda iptal davası açabilir",
+   "Yalnızca failin cezalandırılmasını talep edebilir",
+   "Saldırının durdurulmasını ve manevi tazminat ödenmesini",
+   "Aynen ifa dışında hiçbir talepte bulunamaz"
+  ],
+  "dogru": 3,
+  "aciklama": "Kişilik hakkı saldırıya uğrayan kişi; saldırının durdurulmasını, önlenmesini, sonuçlarının giderilmesini ve manevi tazminat ödenmesini isteyebilir.",
+  "zorluk": "orta",
+  "kaynak": "Borçlar hukuku ve kişilik hakkının korunması"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Borçlar Hukuku",
+  "soru": "Borçlar hukukuna göre borcun ifası, borçlunun sorumlu tutulamayacağı sebeplerle imkânsız hâle gelirse hangi sonuç doğar?",
+  "siklar": [
+   "Borç devam eder ve borçlu gecikme faizi ödemekle yükümlü olur",
+   "İmkânsızlık borç ilişkisine hiçbir etki etmez",
+   "Alacaklı, borçluyu cezai şart ödemeye mahkûm ettirebilir",
+   "İmkânsızlık hâlinde sözleşme kendiliğinden yenilenir",
+   "Borç sona erer ve borçlu tazminatla yükümlü olmaz"
+  ],
+  "dogru": 4,
+  "aciklama": "Borçlunun sorumlu tutulamayacağı sebeplerle ifanın imkânsızlaşması hâlinde borç sona erer; imkânsızlıktan borçlu sorumlu ise tazminat yükümlülüğü doğar.",
+  "zorluk": "orta",
+  "kaynak": "Borçlar hukuku müfredatı: ifa imkânsızlığı"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Borçlar Hukuku",
+  "soru": "Borçlunun, kendisine ihtarda bulunulmasına rağmen borcunu zamanında yerine getirmemesi hâline ne denir?",
+  "siklar": [
+   "Alacaklı temerrüdü",
+   "İmkânsızlık",
+   "Borcun sona ermesi",
+   "Borçlu temerrüdü",
+   "Seçimlik yetki"
+  ],
+  "dogru": 3,
+  "aciklama": "Borçlu ihtar üzerine borcunu ifa etmezse temerrüde düşer; alacaklı bu hâlde ifa ve gecikme tazminatı isteyebilir veya koşulları varsa sözleşmeden dönebilir.",
+  "zorluk": "orta",
+  "kaynak": "Borçlar hukuku müfredatı: temerrüt"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Borçlar Hukuku",
+  "soru": "Bir kimsenin malvarlığı, haklı bir sebep olmaksızın bir başkasının malvarlığı aleyhine çoğalmışsa iade istemi hangi hukuki sebebe dayanır?",
+  "siklar": [
+   "Haksız fiil",
+   "Sözleşmeye aykırılık",
+   "Vekâletsiz iş görme",
+   "Culpa in contrahendo",
+   "Sebepsiz zenginleşme"
+  ],
+  "dogru": 4,
+  "aciklama": "Haklı bir sebep olmaksızın başkasının malvarlığı aleyhine elde edilen zenginleşmenin iadesi sebepsiz zenginleşmeye dayanır; zenginleşen, geri isteme anındaki duruma göre iade ile yükümlüdür.",
+  "zorluk": "orta",
+  "kaynak": "Borçlar hukuku müfredatı: sebepsiz zenginleşme"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Borçlar Hukuku",
+  "soru": "Sözleşmede, borcun hiç veya gereği gibi ifa edilmemesi hâlinde borçlunun bir miktar para ödeyeceğinin kararlaştırılmasına ne denir?",
+  "siklar": [
+   "Cezai şart",
+   "Bağlanma parası",
+   "Cayma parası",
+   "Ön ödeme (avans)",
+   "Götürü tazminat"
+  ],
+  "dogru": 0,
+  "aciklama": "Cezai şart, borcun ifa edilmemesi hâlinde borçlunun ödemeyi taahhüt ettiği edimdir; bağlanma ve cayma parası ise sözleşmenin kurulması veya cayılmasıyla ilgili ayrı kurumlardır.",
+  "zorluk": "orta",
+  "kaynak": "Borçlar hukuku müfredatı: cezai şart"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Borçlar Hukuku",
+  "soru": "Borçlar hukukuna göre sözleşme özgürlüğünün sınırları bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Sözleşmeler kanunun emredici hükümlerine, ahlaka, kamu düzenine ve kişilik haklarına aykırı olamaz",
+   "Sözleşmeler yalnızca tarafları ilgilendirdiği için hiçbir sınırlamaya tabi değildir",
+   "Sözleşme özgürlüğü yalnızca ticari sözleşmelerde sınırlanabilir",
+   "Ahlaka aykırı sözleşmeler geçerlidir, ancak cezai şart öngörülemez",
+   "Sözleşmenin içeriği yalnızca hâkim tarafından serbestçe belirlenir"
+  ],
+  "dogru": 0,
+  "aciklama": "Sözleşme özgürlüğü, sözleşmelerin kanunun emredici hükümlerine, ahlaka, kamu düzenine ve kişilik haklarına aykırı olmamasıyla sınırlıdır; aksi hâlde sözleşme kesin hükümsüzdür.",
+  "zorluk": "orta",
+  "kaynak": "Borçlar hukuku müfredatı: sözleşme özgürlüğü"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Borçlar Hukuku",
+  "soru": "Borçlar hukukuna göre temsil yetkisi verilen kişinin, temsil olunan adına yaptığı hukuki işlemin sonuçları kime ait olur?",
+  "siklar": [
+   "Temsilciye",
+   "İşlemin karşı tarafına",
+   "Taraflara eşit olarak paylaştırılır",
+   "İşlemi onaylayan üçüncü kişiye",
+   "Temsil olunana (temsil edilene)"
+  ],
+  "dogru": 4,
+  "aciklama": "Temsilci, temsil olunan adına ve onun hesabına hareket ederse işlemin hüküm ve sonuçları doğrudan temsil olunanın malvarlığında doğar.",
+  "zorluk": "kolay",
+  "kaynak": "Borçlar hukuku müfredatı: temsil"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Borçlar Hukuku",
+  "soru": "Haksız fiilden doğan tazminat istemi, zarar görenin zararı ve faili öğrendiği tarihten itibaren kural olarak ne kadar süre sonra zamanaşımına uğrar?",
+  "siklar": [
+   "Altı ay",
+   "Bir yıl",
+   "Üç yıl",
+   "İki yıl",
+   "Beş yıl"
+  ],
+  "dogru": 3,
+  "aciklama": "Haksız fiil zamanaşımı, zararın ve failin öğrenilmesinden itibaren iki yıl, her hâlde fiilin işlenmesinden itibaren on yıldır; ceza zamanaşımı daha uzunsa o süre uygulanır.",
+  "zorluk": "zor",
+  "kaynak": "Borçlar hukuku müfredatı: haksız fiil zamanaşımı"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Borçlar Hukuku",
+  "soru": "Aşağıdakilerden hangisi borcu sona erdiren sebeplerden biridir?",
+  "siklar": [
+   "Temerrüt",
+   "Cezai şart",
+   "İbra",
+   "Temsil",
+   "Zamanaşımının kesilmesi"
+  ],
+  "dogru": 2,
+  "aciklama": "Borcu sona erdiren başlıca sebepler ifa, ibra, yenileme, takas, birleşme ve imkânsızlıktır; temerrüt ve zamanaşımının kesilmesi borcu sona erdirmez.",
+  "zorluk": "orta",
+  "kaynak": "Borçlar hukuku müfredatı: borcun sona ermesi"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "Borçlar Hukuku",
+  "soru": "Karşı tarafın temerrüdü hâlinde alacaklının sözleşmeden dönme hakkını kullanabilmesi için kural olarak aşağıdakilerden hangisi gereklidir?",
+  "siklar": [
+   "Süre verilmeksizin derhâl dönme hakkının kullanılması",
+   "Borçluya uygun bir süre verilmesi ve süre sonunda ifanın gerçekleşmemesi",
+   "Dönme hakkının kullanılması için mahkeme izni alınması",
+   "Dönme hakkının yalnızca yazılı sözleşmelerde doğması",
+   "Borçlunun ifa etmiş olmasına rağmen dönme hakkının kullanılması"
+  ],
+  "dogru": 1,
+  "aciklama": "Karşı tarafın temerrüdü hâlinde alacaklı kural olarak borçluya uygun bir süre verir; süre sonunda ifa gerçekleşmezse sözleşmeden dönebilir veya ifa ile birlikte gecikme tazminatı isteyebilir.",
+  "zorluk": "zor",
+  "kaynak": "Borçlar hukuku müfredatı: borçlunun temerrüdü ve dönme"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "İş Hukuku",
+  "soru": "İş hukukuna göre iş sözleşmesinin kurucu unsurları aşağıdakilerden hangisidir?",
+  "siklar": [
+   "İş görme, ücret ve eşitlik unsuru",
+   "Ücret, bağımsızlık ve süreklilik unsuru",
+   "İş görme, ücret ve bağımlılık unsuru",
+   "İş görme, kâr paylaşımı ve bağımlılık unsuru",
+   "Ücret, kıdem ve ihbar unsuru"
+  ],
+  "dogru": 2,
+  "aciklama": "İş sözleşmesi, işçinin işverene bağımlı olarak iş görmeyi, işverenin de ücret ödemeyi üstlendiği sözleşmedir; iş, ücret ve bağımlılık unsurları zorunludur.",
+  "zorluk": "kolay",
+  "kaynak": "İş hukuku müfredatı: iş sözleşmesinin unsurları"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "İş Hukuku",
+  "soru": "Aşağıdakilerden hangisi iş sözleşmesinin belirli süreli yapılmasını haklı kılan hâllerden biri değildir?",
+  "siklar": [
+   "Belirli bir işin tamamlanması amacının güdülmesi",
+   "İşin sürekli nitelik taşıması",
+   "İşin belirli bir süre için yapılacak olması",
+   "Belirli bir olgunun gerçekleşmesi gibi objektif bir koşulun bulunması",
+   "Sözleşmenin belirli süreye bağlanmasının objektif nedenlere dayanması"
+  ],
+  "dogru": 1,
+  "aciklama": "Belirli süreli iş sözleşmesi ancak objektif bir neden bulunduğunda yapılabilir; işin sürekli nitelik taşıması hâlinde sözleşme belirsiz süreli sayılır.",
+  "zorluk": "orta",
+  "kaynak": "İş hukuku müfredatı: belirli ve belirsiz süreli sözleşme"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "İş Hukuku",
+  "soru": "İş hukukuna göre iş sözleşmesinde kararlaştırılabilecek deneme süresi en çok ne kadar olabilir?",
+  "siklar": [
+   "Bir ay; toplu iş sözleşmeleriyle üç aya kadar uzatılabilir",
+   "Üç ay; toplu iş sözleşmeleriyle altı aya kadar uzatılabilir",
+   "İki ay; hiçbir şekilde uzatılamaz ve kısaltılamaz",
+   "Dört ay; toplu iş sözleşmeleriyle sekiz aya kadar uzatılabilir",
+   "İki ay; toplu iş sözleşmeleriyle dört aya kadar uzatılabilir"
+  ],
+  "dogru": 4,
+  "aciklama": "Deneme süresi en çok iki aydır ve toplu iş sözleşmeleriyle dört aya kadar uzatılabilir; taraflar deneme süresi içinde bildirim süresi olmaksızın sözleşmeyi feshedebilir.",
+  "zorluk": "orta",
+  "kaynak": "İş hukuku müfredatı: deneme süresi"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "İş Hukuku",
+  "soru": "İş hukukuna göre kıdem tazminatına hak kazanmak için kural olarak en az ne kadar süreyle çalışılmış olması gerekir?",
+  "siklar": [
+   "Altı ay",
+   "Bir yıl",
+   "İki yıl",
+   "Üç yıl",
+   "Beş yıl"
+  ],
+  "dogru": 1,
+  "aciklama": "Kıdem tazminatına hak kazanmak için işçinin aynı işverene bağlı olarak en az bir yıl çalışmış olması ve sözleşmenin kanunda belirtilen nedenlerle sona ermesi gerekir.",
+  "zorluk": "kolay",
+  "kaynak": "İş hukuku müfredatı: kıdem tazminatı"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "İş Hukuku",
+  "soru": "Aşağıdakilerden hangisi kıdem tazminatına hak kazandıran hâllerden biri değildir?",
+  "siklar": [
+   "İşverence geçerli bir neden gösterilerek yapılan bildirimli fesih",
+   "İşçinin haklı nedenle derhal fesih hakkını kullanması",
+   "İşçinin askerlik hizmeti nedeniyle iş sözleşmesini sona erdirmesi",
+   "İşçinin ahlak ve iyi niyet kurallarına aykırı davranışı nedeniyle haklı fesih",
+   "İşçinin emeklilik nedeniyle iş sözleşmesini sona erdirmesi"
+  ],
+  "dogru": 3,
+  "aciklama": "Ahlak ve iyi niyet kurallarına aykırı davranış nedeniyle işverence yapılan haklı fesih kıdem tazminatına hak kazandırmaz; işverenin geçerli feshi, işçinin haklı feshi, askerlik ve emeklilik hâlleri kıdem tazminatı doğurur.",
+  "zorluk": "orta",
+  "kaynak": "İş hukuku müfredatı: kıdem tazminatının koşulları"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "İş Hukuku",
+  "soru": "İş hukukuna göre ihbar tazminatı aşağıdakilerden hangisini ifade eder?",
+  "siklar": [
+   "İşçinin kıdemine karşılık gelen toplu ödemenin yapılmasını",
+   "Bildirim sürelerine ilişkin ücretin tazminat olarak ödenmesini",
+   "Fazla çalışma karşılığında ödenen ek ücretin hesaplanmasını",
+   "Yıllık ücretli izin süresinin parasal karşılığının ödenmesini",
+   "İş kazası nedeniyle işverence ödenen tazminatı"
+  ],
+  "dogru": 1,
+  "aciklama": "Bildirim süreleri kullandırılmadan yapılan fesihte bildirim sürelerine ilişkin ücret tutarı ihbar tazminatı olarak ödenir; kıdem tazminatı ise kıdeme karşılık gelen ayrı bir haktır.",
+  "zorluk": "orta",
+  "kaynak": "İş hukuku müfredatı: ihbar tazminatı"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "İş Hukuku",
+  "soru": "İş hukukuna göre yıllık ücretli izin bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Yıllık izin hakkı ancak beş yıl çalıştıktan sonra doğar",
+   "Yıllık izin yerine her hâlde ücretinin ödenmesi yeterlidir",
+   "İzin süreleri kıdeme bakılmaksızın bütün işçiler için eşittir",
+   "İzin süreleri kural olarak bölünemez, tarafların anlaşmasıyla bölünebilir",
+   "Yıllık izin hakkı işverenin bildirimiyle kendiliğinden sona erer"
+  ],
+  "dogru": 3,
+  "aciklama": "Yıllık ücretli izin süresi işçinin kıdemine göre artar; izin kural olarak bölünemez, ancak tarafların anlaşmasıyla bir bölümü on günden az olmamak üzere en çok üçe bölünebilir.",
+  "zorluk": "zor",
+  "kaynak": "İş hukuku müfredatı: yıllık ücretli izin"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "İş Hukuku",
+  "soru": "İş hukukuna göre fazla çalışma ücreti bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Fazla çalışma ücreti, normal ücretin yüzde yirmi beş yükseltilmesiyle ödenir",
+   "Fazla çalışma karşılığı yalnızca serbest zaman olarak kullandırılır",
+   "Fazla çalışma ücreti ödenmez, yerine yıllık izin süresi artırılır",
+   "Fazla çalışma ücreti, saat başına düşen normal ücretin yüzde elli yükseltilmesiyle ödenir",
+   "Fazla çalışma karşılığı yalnızca kıdem tazminatına eklenir"
+  ],
+  "dogru": 3,
+  "aciklama": "Fazla çalışma, haftalık çalışma süresini aşan çalışmadır ve karşılığında saat başına düşen normal ücretin yüzde elli yükseltilmesiyle ücret ödenir; işçi isterse serbest zaman kullanabilir.",
+  "zorluk": "orta",
+  "kaynak": "İş hukuku müfredatı: fazla çalışma ve ücreti"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "İş Hukuku",
+  "soru": "İş hukukuna göre sendika üyeliği bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Sendika üyeliği işverenin yazılı iznine bağlıdır",
+   "İşveren, işe alınacak işçiden sendikaya üye olmamasını şart koşabilir",
+   "İşçiler sendikaya üye olmakta ve üyelikten çekilmekte serbesttir",
+   "Sendika üyeliği iş sözleşmesinin kurulması için zorunludur",
+   "İşçi sendikadan yalnızca mahkeme kararıyla çekilebilir"
+  ],
+  "dogru": 2,
+  "aciklama": "İşçiler sendika kurma, üye olma ve üyelikten çekilme hakkına sahiptir; sendika üyeliği zorunlu kılınamaz ve işe alımda üyelik şartı aranamaz.",
+  "zorluk": "kolay",
+  "kaynak": "İş hukuku müfredatı: sendika özgürlüğü"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "İş Hukuku",
+  "soru": "İş hukukuna göre toplu iş sözleşmesinden kimler yararlanır?",
+  "siklar": [
+   "Sözleşmeye taraf sendikaya üye işçiler; üye olmayanlar dayanışma aidatı ödeyerek yararlanabilir",
+   "İşyerinde çalışan her işçi, sendika üyeliğinden bağımsız olarak yararlanır",
+   "Yalnızca işyerinde beş yıldan fazla kıdemi bulunan işçiler yararlanır",
+   "Yalnızca sendika yöneticileri ve işyeri temsilcileri yararlanır",
+   "Sözleşme yalnızca işveren ile Devlet arasında hak ve borç doğurur"
+  ],
+  "dogru": 0,
+  "aciklama": "Toplu iş sözleşmesinden kural olarak taraf sendikaya üye işçiler yararlanır; üye olmayan işçiler ise dayanışma aidatı ödemek koşuluyla sözleşmeden yararlanabilir.",
+  "zorluk": "zor",
+  "kaynak": "İş hukuku müfredatı: toplu iş sözleşmesinden yararlanma"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "İş Hukuku",
+  "soru": "İş hukukuna göre grev ve lokavt bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Grev ve lokavt ancak kanunda öngörülen usul içinde kullanılabilir",
+   "Grev hakkı, işçinin bireysel talebi için serbestçe kullanılabilir",
+   "Grev sırasında iş sözleşmeleri kendiliğinden sona erer ve kıdem doğar",
+   "Kanunda grevin yasaklandığı işyerlerinde de grev yapılabilir",
+   "Lokavt ilan etme hakkı yalnızca işçi sendikasına aittir"
+  ],
+  "dogru": 0,
+  "aciklama": "Grev ve lokavt, toplu iş sözleşmesi görüşmelerinde çıkan uyuşmazlık hâlinde kanunda öngörülen usul ve yasaklara uyularak kullanılabilir; lokavt işverenin başvurabileceği bir haktır.",
+  "zorluk": "orta",
+  "kaynak": "İş hukuku müfredatı: grev ve lokavt"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "İş Hukuku",
+  "soru": "İş hukukuna göre işverenin eşit davranma borcu bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Eşit davranma borcu yalnızca aynı mesleği yapan işçiler arasında geçerlidir",
+   "İşveren, cinsiyet nedeniyle işçiler arasında farklı ücret belirleyebilir",
+   "Eşitlik ilkesi işe alım ve fesih konularında uygulanmaz",
+   "Eşit davranma borcuna aykırılık hâlinde işçi yalnızca ceza davası açabilir",
+   "İşveren, esaslı nedenler olmadıkça işçilerine eşit davranmak zorundadır"
+  ],
+  "dogru": 4,
+  "aciklama": "İşveren, biyolojik veya işin niteliğine ilişkin esaslı nedenler olmadıkça tüm işçilerine eşit davranmak zorundadır; ayrımcılık hâlinde işçi ücret ve diğer kayıplarıyla uygun bir tazminatı isteyebilir.",
+  "zorluk": "orta",
+  "kaynak": "İş hukuku müfredatı: eşit davranma borcu"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "İş Hukuku",
+  "soru": "İş hukukuna göre belirsiz süreli iş sözleşmesinin işverence feshedilmesi bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Fesih bildirimi yazılı yapılmalı ve geçerli bir nedene dayanmalıdır",
+   "Fesih için önceden İş Kurumundan izin alınması zorunludur",
+   "Fesih bildirimi her hâlde sözlü olarak da yapılabilir",
+   "Fesih nedeninin işçiye bildirilmesi zorunlu değildir",
+   "Belirsiz süreli sözleşme işverence hiçbir koşulda feshedilemez"
+  ],
+  "dogru": 0,
+  "aciklama": "Belirsiz süreli iş sözleşmesi işverence ancak geçerli bir nedene dayanılarak feshedilebilir; fesih bildirimi yazılı yapılır ve nedeni açıkça gösterilir, aksi hâlde işçi işe iade davası açabilir.",
+  "zorluk": "orta",
+  "kaynak": "İş hukuku müfredatı: fesih ve usul"
+ },
+ {
+  "ders": "Hukuk",
+  "konu": "İş Hukuku",
+  "soru": "İş hukukuna göre ara dinlenmesi bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Ara dinlenmeleri çalışma süresinden sayılmaz ve işçiye bu süreler serbestçe kullandırılır",
+   "Ara dinlenmeleri çalışma süresinden sayılır ve fazla çalışmaya eklenir",
+   "Ara dinlenmesi yalnızca hafta tatili çalışmalarında verilir",
+   "Ara dinlenmesinin süresi işverence serbestçe belirlenir, alt sınırı yoktur",
+   "Ara dinlenmesi süresinde işçinin işyerinde bulunması zorunludur"
+  ],
+  "dogru": 0,
+  "aciklama": "Ara dinlenmeleri çalışma süresinden sayılmaz ve işçinin serbestçe kullanacağı sürelerdir; günlük çalışma süresinin uzunluğuna göre sürelerinin alt sınırları kanunda belirlenmiştir.",
+  "zorluk": "orta",
+  "kaynak": "İş hukuku müfredatı: ara dinlenmesi"
+ }
+]
