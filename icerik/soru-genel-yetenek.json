@@ -1,0 +1,962 @@
+[
+  {
+    "ders": "Türkçe",
+    "konu": "Sözcükte Anlam",
+    "soru": "'Sınavı kazanınca etekleri zil çaldı.' cümlesindeki 'etekleri zil çalmak' deyiminin anlamı aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Büyük bir korkuya kapılmak, tedirgin olmak",
+      "Bir olaydan dolayı derin bir üzüntü duymak",
+      "Çok sevinmek, sevincini açıkça belli etmek",
+      "Şaşkınlıktan ne yapacağını bilememek",
+      "Bir işi yapmaktan son anda vazgeçmek"
+    ],
+    "dogru": 2,
+    "aciklama": "Deyim, sınavın kazanılmasıyla ortaya çıkan aşırı sevinç durumunu anlatır; korku ya da üzüntüyle ilgisi yoktur.",
+    "zorluk": "kolay",
+    "kaynak": "TDK Türkçe Sözlük: etekleri zil çalmak / KPSS sözcükte anlam"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Sözcükte Anlam",
+    "soru": "Aşağıdaki cümlelerin hangisinde 'sıcak' sözcüğü mecaz anlamıyla kullanılmıştır?",
+    "siklar": [
+      "Bardaktaki çay çok sıcak olduğu için dudağımı yaktı.",
+      "Yazın sıcak günlerinde gölgede oturmayı severim.",
+      "Konukları öyle sıcak karşıladılar ki kendimi evimde sandım.",
+      "Fırından yeni çıkan sıcak ekmek mis gibi kokuyordu.",
+      "Bugün hava dünküne göre daha sıcak olacaktı."
+    ],
+    "dogru": 2,
+    "aciklama": "Sıcaklık derecesi anlamının dışına çıkıp 'içten, samimi' anlamıyla kullanılan tek şık doğru cevaptır.",
+    "zorluk": "orta",
+    "kaynak": "KPSS Türkçe müfredatı: gerçek ve mecaz anlam"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Sözcükte Anlam",
+    "soru": "'Yoksul' sözcüğünün eş anlamlısı (anlamdaşı) aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Zengin",
+      "Fakir",
+      "Cimri",
+      "Kimsesiz",
+      "Çaresiz"
+    ],
+    "dogru": 1,
+    "aciklama": "Yoksul ve fakir aynı anlamı taşır; zengin karşıt anlamlı, diğerleri ise yakın ama farklı kavramlardır.",
+    "zorluk": "kolay",
+    "kaynak": "TDK Türkçe Sözlük: eş anlamlı sözcükler"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Sözcükte Anlam",
+    "soru": "'Cimri' sözcüğünün karşıt anlamlısı aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Tutumlu",
+      "Cömert",
+      "Bencil",
+      "Açgözlü",
+      "Kuşkucu"
+    ],
+    "dogru": 1,
+    "aciklama": "Cimri harcamaktan kaçınan kişiyi, cömert ise eli açık kişiyi anlatır; diğerleri karşıt anlam oluşturmaz.",
+    "zorluk": "kolay",
+    "kaynak": "TDK Türkçe Sözlük: karşıt anlamlı sözcükler"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Sözcükte Anlam",
+    "soru": "'Konuya bir göz atıp hemen cevap verdi.' cümlesindeki 'göz atmak' deyiminin anlamı nedir?",
+    "siklar": [
+      "Uzun süre dikkatle okuyup incelemek",
+      "İlgisiz kalıp konuyu geçiştirmek",
+      "Bir bilgiyi başkalarından gizlemek",
+      "Kısaca incelemek, şöyle bir bakmak",
+      "Ayrıntılı biçimde araştırıp öğrenmek"
+    ],
+    "dogru": 3,
+    "aciklama": "'Göz atmak' yüzeysel ve kısa süreli bir bakışı anlatır; ayrıntılı inceleme anlamı taşımaz.",
+    "zorluk": "kolay",
+    "kaynak": "TDK Türkçe Sözlük: göz atmak / KPSS deyim bilgisi"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Sözcükte Anlam",
+    "soru": "'Sütten ağzı yanan yoğurdu üfleyerek yer.' atasözüyle anlatılmak istenen nedir?",
+    "siklar": [
+      "Bir kez zarar gören kişi, benzer durumlarda daha tedbirli davranır.",
+      "İnsan ancak yaşayarak ve acı çekerek tecrübe kazanır.",
+      "Süt ürünleri sağlık açısından dikkatli tüketilmelidir.",
+      "Zarar gören kişi öncelikle kendini suçlamayı bırakmalıdır.",
+      "Bir işte başarısız olan kişi o işi bir daha denememelidir."
+    ],
+    "dogru": 0,
+    "aciklama": "Atasözü, yaşanan kötü bir deneyimin kişiyi ileride daha ölçülü ve dikkatli yapacağını vurgular.",
+    "zorluk": "orta",
+    "kaynak": "TDK Atasözleri ve Deyimler Sözlüğü"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Cümlede Anlam",
+    "soru": "Aşağıdaki cümlelerin hangisinde neden-sonuç ilişkisi vardır?",
+    "siklar": [
+      "Sınavı kazanmak için gece gündüz çalışıyordu.",
+      "Hava kararmadan eve varmayı planlıyordu.",
+      "Yollar buzlanınca okullar bir gün süreyle tatil edildi.",
+      "Bu kitabı okumanı kesinlikle tavsiye ederim.",
+      "Sabah erken kalkıp spor yapmayı severdi."
+    ],
+    "dogru": 2,
+    "aciklama": "Buzlanma bir neden, tatil ise onun sonucudur; diğer cümleler amaç, zaman, öneri ve alışkanlık bildirir.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Türkçe müfredatı: cümlede anlam ilişkileri"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Cümlede Anlam",
+    "soru": "Aşağıdaki cümlelerin hangisinde amaç-sonuç ilişkisi vardır?",
+    "siklar": [
+      "Derse yetişebilmek için sabah erkenden yola çıktı.",
+      "Kar yağdığı için yol bir süre trafiğe kapatıldı.",
+      "Akşam olunca sokaklar birden sessizleşti.",
+      "Kitabı bitirince hemen arkadaşına verdi.",
+      "Çok yorgun olduğundan erken yattı."
+    ],
+    "dogru": 0,
+    "aciklama": "'Derse yetişebilmek için' ifadesi ulaşılmak istenen amacı gösterir; diğer cümleler neden-sonuç ya da zaman ilişkisi kurar.",
+    "zorluk": "orta",
+    "kaynak": "KPSS Türkçe müfredatı: amaç-sonuç cümleleri"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Cümlede Anlam",
+    "soru": "Aşağıdaki cümlelerin hangisinde kesinlik anlamı vardır?",
+    "siklar": [
+      "Yarın toplantıya katılabilirim.",
+      "Belki hava yarın düzelir.",
+      "Sanırım bu kitabı daha önce okumuşum.",
+      "Yarın sabah kesinlikle toplantıya katılacağım.",
+      "Galiba otobüs birazdan gelir."
+    ],
+    "dogru": 3,
+    "aciklama": "'Kesinlikle' sözcüğü eylemin gerçekleşeceğine dair kuşku bırakmayan bir yargı kurar; diğerlerinde olasılık anlamı vardır.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Türkçe müfredatı: cümlede anlam / kesinlik"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Paragraf",
+    "soru": "İnsan, okuduğu her kitapta biraz daha değişir. Kimi zaman yeni bir bakış açısı kazanır, kimi zaman kendi düşüncelerini sorgular. Kitaplar bu yüzden yalnızca bilgi kaynağı değil, kişiliğimizi yoğuran sessiz öğretmenlerdir. Bu parçada asıl anlatılmak istenen nedir?",
+    "siklar": [
+      "Kitap seçiminde titiz davranılması gerektiği",
+      "Okuma alışkanlığının küçük yaşta kazanıldığı",
+      "Her kitabın aynı ölçüde faydalı olmadığı",
+      "Bilgi edinmenin en kolay yolunun okumak olduğu",
+      "Kitapların insanı düşünsel ve kişisel olarak geliştirdiği"
+    ],
+    "dogru": 4,
+    "aciklama": "Parçanın bütünü, okumanın kişiyi düşünsel ve kişisel yönden değiştirdiği düşüncesi üzerine kurulmuştur.",
+    "zorluk": "orta",
+    "kaynak": "KPSS Türkçe müfredatı: paragrafta ana fikir"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Paragraf",
+    "soru": "Deniz kirliliği yalnızca sahilde yüzen atıklarla ölçülmez. Tarım ilaçları, sanayi atıkları ve plastik parçacıkları suyun altında uzun yıllar kalır; besin zincirine karışarak balıklarla birlikte soframıza ulaşır. Bu parçanın konusu nedir?",
+    "siklar": [
+      "Deniz kirliliğinin göründüğünden çok daha geniş etkileri",
+      "Denizlerde yaşayan canlı türlerinin hızla azalması",
+      "Tarım ilaçlarının insan sağlığına verdiği zararlar",
+      "Plastik atıkların geri dönüşümünde uygulanan yöntemler",
+      "Sanayi tesislerinin denize atık bırakma biçimleri"
+    ],
+    "dogru": 0,
+    "aciklama": "Parça, deniz kirliliğinin görünen atıkların ötesine geçip besin zinciri yoluyla insana ulaştığını anlatır.",
+    "zorluk": "orta",
+    "kaynak": "KPSS Türkçe müfredatı: paragrafta konu"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Paragraf",
+    "soru": "Küçük bir kasabada yaşayan bir öğretmen her akşam kütüphaneyi açık tutar, çocuklara kitap okurdu. Yıllar sonra o çocuklardan bazıları yazar, bazıları öğretmen oldu. İçlerinden biri şöyle derdi: O akşamlarda öğrendiğim en önemli şey, bir insanın hayatına dokunmanın ne demek olduğuydu. Bu parçaya en uygun başlık aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Kasaba Hayatının Bilinmeyen Zorlukları",
+      "Kütüphanelerin Tarihsel Gelişim Süreci",
+      "Bir Öğretmenin Sessiz Dokunuşu",
+      "Çocukluk Anılarının İnsandaki İzleri",
+      "Kitap Okumanın Ölçülemeyen Faydaları"
+    ],
+    "dogru": 2,
+    "aciklama": "Parça, tek bir öğretmenin çocukların hayatına yaptığı sessiz ama kalıcı etkiyi anlatır; başlık bu ana düşünceyi yansıtmalıdır.",
+    "zorluk": "zor",
+    "kaynak": "KPSS Türkçe müfredatı: paragrafa başlık bulma"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Paragraf",
+    "soru": "Sabahın ilk ışıkları dağların ardından yavaşça yükseldi. Vadinin içinde ince bir sis tabakası asılı kalmıştı; kuşlar birer birer uyanıyor, derenin sesi ıssızlığı bölüyordu. Bu parçada ağırlıklı olarak hangi anlatım biçimi kullanılmıştır?",
+    "siklar": [
+      "Betimleme",
+      "Tartışma",
+      "Öyküleme",
+      "Tanımlama",
+      "Açıklama"
+    ],
+    "dogru": 0,
+    "aciklama": "Parça, bir görünümü ayrıntılarıyla göz önünde canlandırmaya çalıştığı için betimleme (tasvir) ağır basar.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Türkçe müfredatı: anlatım biçimleri"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Paragraf",
+    "soru": "Bir yazarın görüşünü desteklemek amacıyla konunun uzmanı bir kişinin sözlerine yer vermesi, hangi düşünceyi geliştirme yoludur?",
+    "siklar": [
+      "Tanımlama",
+      "Örneklendirme",
+      "Karşılaştırma",
+      "Sayısal verilerden yararlanma",
+      "Tanık gösterme"
+    ],
+    "dogru": 4,
+    "aciklama": "Uzman bir kişinin sözünü kanıt olarak kullanmak tanık gösterme (alıntı yapma) yoludur.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Türkçe müfredatı: düşünceyi geliştirme yolları"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Paragraf",
+    "soru": "Bir işi başarmak için gereken en önemli şey yetenek değil, süreklilik. Yetenek doğuştan gelir ve sınırlıdır; oysa düzenli çalışma herkesin elindedir. ----. Bu nedenle küçük ama düzenli adımlar, büyük hayalleri gerçeğe dönüştürür. Parçada boş bırakılan yere anlam akışına göre aşağıdakilerden hangisi getirilmelidir?",
+    "siklar": [
+      "Başarı çoğu zaman kişinin şansına ve çevresine bağlıdır",
+      "Yetenekli olmadığını düşünen pek çok kişi tam da bu yüzden başarıya ulaşır",
+      "Çalışmak için mutlaka bir öğretmene ihtiyaç duyulduğu söylenebilir",
+      "Doğuştan gelen yetenekler hiçbir zaman geliştirilemez",
+      "Zeki insanlar işlerini herkesten kısa sürede bitirmeye alışkındır"
+    ],
+    "dogru": 1,
+    "aciklama": "Boşluk, yeteneğin değil sürekli çalışmanın belirleyici olduğu düşüncesini sürdürmeli; verilen seçenek bunu tamamlar.",
+    "zorluk": "zor",
+    "kaynak": "KPSS Türkçe müfredatı: paragraf tamamlama"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Yazım Kuralları",
+    "soru": "Aşağıdaki cümlelerin hangisinde 'de' bağlacının yazımı yanlıştır?",
+    "siklar": [
+      "Sen de bu toplantıya katılmalısın.",
+      "Biz de onunla aynı fikirdeyiz.",
+      "Okulda dün büyük bir etkinlik yapıldı.",
+      "Evde kimse kalmamıştı.",
+      "Kitabıda yarın sabah sana getireceğim."
+    ],
+    "dogru": 4,
+    "aciklama": "Cümlede 'da' bağlaç olarak kullanıldığı için ayrı yazılmalıdır; doğru biçim 'kitabı da' olmalıdır.",
+    "zorluk": "kolay",
+    "kaynak": "TDK Yazım Kılavuzu: de bağlacının yazımı"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Yazım Kuralları",
+    "soru": "Aşağıdaki cümlelerden hangisinde 'ki' ayrı yazılmalıdır?",
+    "siklar": [
+      "Akşamki yemek gerçekten çok lezzetliydi.",
+      "Yarınki sınav saat onda başlayacak.",
+      "Sanıyorumki herkes toplantıya zamanında gelmiş.",
+      "Bugünkü ders çok verimli geçti.",
+      "Dünkü haber herkesi çok şaşırttı."
+    ],
+    "dogru": 2,
+    "aciklama": "Bağlaç olan 'ki' her zaman ayrı yazılır; 'sanıyorum ki' doğrudur. Diğerlerindeki -ki eki olup bitişik yazılır.",
+    "zorluk": "orta",
+    "kaynak": "TDK Yazım Kılavuzu: ki bağlacının yazımı"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Yazım Kuralları",
+    "soru": "Aşağıdaki cümlelerin hangisinde büyük harf kullanımıyla ilgili bir yazım yanlışı vardır?",
+    "siklar": [
+      "Ankara'ya yarın sabah erkenden gideceğiz.",
+      "Bu yıl Kurban bayramı eylül ayına denk geliyor.",
+      "Türkçe dersini gerçekten çok seviyorum.",
+      "Amcam her yaz İzmir'e gelip bir ay kalırdı.",
+      "29 Ekim Cumhuriyet Bayramı coşkuyla kutlandı."
+    ],
+    "dogru": 1,
+    "aciklama": "Özel gün ve bayram adları büyük harfle başlar; doğru yazım 'Kurban Bayramı' biçimindedir.",
+    "zorluk": "orta",
+    "kaynak": "TDK Yazım Kılavuzu: büyük harf kullanımı"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Yazım Kuralları",
+    "soru": "Aşağıdaki cümlelerin hangisinde birleşik sözcüklerin yazımıyla ilgili yanlışlık vardır?",
+    "siklar": [
+      "Bir şey söylemek istediğini fark ettim.",
+      "Hiçbir sorunun kalmadığını söyledi.",
+      "Birçok insan bu konuda hemfikirdi.",
+      "Bugün toplantıya hiç kimse gelmedi.",
+      "Herşeyi baştan planlamamız gerektiğini söyledi."
+    ],
+    "dogru": 4,
+    "aciklama": "'Her şey' sözcüğü ayrı yazılır; 'herşeyi' biçimi yazım yanlışıdır. Diğer seçenekler doğru yazılmıştır.",
+    "zorluk": "kolay",
+    "kaynak": "TDK Yazım Kılavuzu: her şey, bir şey, hiçbir"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Noktalama",
+    "soru": "Aşağıdaki cümlelerin hangisinde virgülün kullanımı yanlıştır?",
+    "siklar": [
+      "Ali, dün akşam bize uğradı.",
+      "Kardeşim, kitap ve defterini çantasına koydu.",
+      "Bahçeye fidan, diktik.",
+      "Sabah erken kalktım, kahvaltıyı hazırladım.",
+      "Öğrenciler, sınav sonuçlarını merakla bekliyordu."
+    ],
+    "dogru": 2,
+    "aciklama": "Nesne ile yüklem arasına virgül konmaz; doğru biçim 'Bahçeye fidan diktik.' olmalıdır.",
+    "zorluk": "orta",
+    "kaynak": "TDK Noktalama İşaretleri: virgül"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Noktalama",
+    "soru": "Aşağıdaki cümlelerin hangisinde noktalı virgülün kullanımı doğrudur?",
+    "siklar": [
+      "Kardeşim elmayı ve armudu sepete koydu; ve çileği de kasaya yerleştirdi.",
+      "Kitabı dün akşam okudum; ve hemen özetini çıkardım.",
+      "Küçük kardeşim elmayı, armudu; ablam ise çileği, kavunu seçti.",
+      "Ali salona gelince herkes sustu; Ayşe ise; kimseye bakmadan; çıkıp gitti.",
+      "Sınava çok çalıştım; ama; yine de kazanamadım."
+    ],
+    "dogru": 2,
+    "aciklama": "Noktalı virgül, kendi arasında virgülle ayrılmış öbekleri birbirinden ayırmak için kullanılır; verilen cümle tam olarak bu kurala uygundur.",
+    "zorluk": "zor",
+    "kaynak": "TDK Noktalama İşaretleri: noktalı virgül"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Noktalama",
+    "soru": "Aşağıdaki cümlelerin hangisinde iki noktanın kullanımı doğrudur?",
+    "siklar": [
+      "Toplantıda şu konular görüşülecek: bütçe, eğitim ve sağlık.",
+      "Kitapta; tarih, sanat ve edebiyat konuları anlatılıyor.",
+      "Ali ile Ayşe: dün akşam birlikte sinemaya gitti.",
+      "Sınav: hazırlıksız giren öğrencileri oldukça zorladı.",
+      "Bahçede; gül, lale ve menekşe yetiştiriyordu."
+    ],
+    "dogru": 0,
+    "aciklama": "İki nokta, kendisinden sonra açıklama veya örnek sıralanacak ifadelerden sonra getirilir; verilen cümlede bu kurala uygundur.",
+    "zorluk": "orta",
+    "kaynak": "TDK Noktalama İşaretleri: iki nokta"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Noktalama",
+    "soru": "Aşağıdaki cümlelerin hangisinde kesme işaretinin kullanımı yanlıştır?",
+    "siklar": [
+      "Yarın sabah Ankara'ya gideceğim.",
+      "Bu kitabı Ahmet'ten ödünç aldım.",
+      "Öğrenciler, Türkçe'yi çok seviyordu.",
+      "Sınav saat 15.30'da başlayacak.",
+      "TRT'de yayımlanan belgeseli izledim."
+    ],
+    "dogru": 2,
+    "aciklama": "Dil adlarına getirilen çekim ekleri kesme işaretiyle ayrılmaz; doğru yazım 'Türkçeyi' biçimindedir.",
+    "zorluk": "orta",
+    "kaynak": "TDK Noktalama İşaretleri: kesme işareti"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Dil Bilgisi",
+    "soru": "Aşağıdaki cümlelerin hangisinde zamir (adıl) vardır?",
+    "siklar": [
+      "Kitabı akşam kütüphanede okudum.",
+      "Küçük çocuk bahçede top oynuyor.",
+      "Öğretmen sınıfa yeni bir konu anlattı.",
+      "Bunu bana neden daha önce söylemedin?",
+      "Sınav sonuçları yarın açıklanacak."
+    ],
+    "dogru": 3,
+    "aciklama": "'Bunu', 'bana' ve 'neden' sözcükleri adın yerini tutan zamirlerdir; diğer cümlelerde yalnızca ad ve sıfat bulunur.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Türkçe müfredatı: sözcük türleri / zamir"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Dil Bilgisi",
+    "soru": "Aşağıdaki cümlelerin hangisinde edat (ilgeç) kullanılmıştır?",
+    "siklar": [
+      "Akşam yemeğini birlikte yedik.",
+      "Senin için bu kadar zahmete girdim.",
+      "Sınavı kazandığını duyunca çok sevindim.",
+      "Bu kitabı kütüphaneden ödünç aldım.",
+      "Yarın erken kalkmam gerekiyor."
+    ],
+    "dogru": 1,
+    "aciklama": "'İçin' sözcüğü tek başına anlamı olmayıp kendinden önceki sözcükle ilgi kuran bir edattır.",
+    "zorluk": "orta",
+    "kaynak": "KPSS Türkçe müfredatı: sözcük türleri / edat"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Dil Bilgisi",
+    "soru": "Aşağıdaki cümlelerin hangisinde bağlaç kullanılmıştır?",
+    "siklar": [
+      "Bugün hava dünküne göre çok güzeldi.",
+      "Kardeşimle birlikte parka gittik.",
+      "Akşam yemeğini annem hazırladı.",
+      "Bu soruyu hiç zorlanmadan çözdüm.",
+      "Hem çalıştı hem de ailesine zaman ayırdı."
+    ],
+    "dogru": 4,
+    "aciklama": "'Hem ... hem de' ikilemesi sözcükleri ve cümleleri birbirine bağlayan bir bağlaçtır.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Türkçe müfredatı: sözcük türleri / bağlaç"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Dil Bilgisi",
+    "soru": "Aşağıdaki sözcük gruplarından hangisi belirtisiz isim tamlamasıdır?",
+    "siklar": [
+      "okulun bahçesi",
+      "okul bahçesi",
+      "bahçenin kapısı",
+      "güzel bahçe",
+      "bizim okul"
+    ],
+    "dogru": 1,
+    "aciklama": "Belirtisiz isim tamlamasında tamlayan ek almaz, tamlanan üçüncü kişi iyelik eki alır; 'okul bahçesi' bu kurala uyar.",
+    "zorluk": "orta",
+    "kaynak": "KPSS Türkçe müfredatı: isim tamlamaları"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Dil Bilgisi",
+    "soru": "Aşağıdaki cümlelerin hangisinde yüklem edilgen çatılıdır?",
+    "siklar": [
+      "Çocuklar bahçede top oynadı.",
+      "Öğretmen konuyu tekrar anlattı.",
+      "Sınıfın duvarları dün boyandı.",
+      "Kardeşim kitabı masaya bıraktı.",
+      "Yağmur bütün gece yağdı."
+    ],
+    "dogru": 2,
+    "aciklama": "'-n' edilgenlik ekiyle kurulan 'boyandı' yükleminde işi yapan belli değildir; bu nedenle çatı edilgendir.",
+    "zorluk": "orta",
+    "kaynak": "KPSS Türkçe müfredatı: fiilde çatı"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Dil Bilgisi",
+    "soru": "'Dün akşam arkadaşıma uzun bir mektup yazdım.' cümlesinde 'arkadaşıma' sözcüğü cümlenin hangi ögesidir?",
+    "siklar": [
+      "Belirtili nesne",
+      "Dolaylı tümleç",
+      "Özne",
+      "Zarf tümleci",
+      "Yüklem"
+    ],
+    "dogru": 1,
+    "aciklama": "Yükleme 'kime' sorusu sorulduğunda 'arkadaşıma' cevabı alınır; bu da dolaylı tümleçtir.",
+    "zorluk": "orta",
+    "kaynak": "KPSS Türkçe müfredatı: cümlenin ögeleri"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Anlatım Bozuklukları",
+    "soru": "Aşağıdaki cümlelerin hangisinde gereksiz sözcük kullanımından kaynaklanan anlatım bozukluğu vardır?",
+    "siklar": [
+      "Bu konuyu karşılıklı olarak birbirimize anlattık.",
+      "Sınava hazırlanmak için her gün düzenli çalıştı.",
+      "Öğretmen, sorunun çözümünü tahtaya yazdı.",
+      "Kardeşim okuldan eve her akşam yürüyerek döner.",
+      "Toplantı, katılanların görüşleri alındıktan sonra bitti."
+    ],
+    "dogru": 0,
+    "aciklama": "'Karşılıklı' ve 'birbirimize' aynı anlamı yüklediği için cümlede gereksiz sözcük vardır.",
+    "zorluk": "orta",
+    "kaynak": "KPSS Türkçe müfredatı: anlatım bozuklukları"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Anlatım Bozuklukları",
+    "soru": "Aşağıdaki cümlelerin hangisinde özne ile yüklem arasında uyumsuzluk vardır?",
+    "siklar": [
+      "Öğrenciler soruları büyük bir dikkatle çözdüler.",
+      "Hepimiz alınan bu kararı destekledik.",
+      "Hiç kimse bu konuda bize yardım etmediler.",
+      "Herkes toplantıya zamanında geldi.",
+      "Misafirler salona geçip yerlerine oturdular."
+    ],
+    "dogru": 2,
+    "aciklama": "'Kimse' sözcüğü tekil olduğu için yüklem de tekil olmalıdır; 'etmedi' biçimi doğrudur.",
+    "zorluk": "zor",
+    "kaynak": "KPSS Türkçe müfredatı: özne-yüklem uyumsuzluğu"
+  },
+  {
+    "ders": "Türkçe",
+    "konu": "Anlatım Bozuklukları",
+    "soru": "Aşağıdaki cümlelerin hangisinde tamlama yanlışlığından kaynaklanan anlatım bozukluğu vardır?",
+    "siklar": [
+      "Şehirde ulaşım sorunları her geçen gün artıyor.",
+      "Toplantıda eğitim sorunları ayrıntılı biçimde ele alındı.",
+      "Uzun ve yorucu bir yolculuktan sonra eve vardık.",
+      "Trafik ve sağlık sorunları şehirde giderek büyüyor.",
+      "Yeni ve geniş bir ev tutmayı düşünüyoruz."
+    ],
+    "dogru": 3,
+    "aciklama": "'Trafik ve sağlık sorunları' ifadesinde ortak tamlanan belirsiz kalmıştır; bu bir tamlama yanlışlığıdır.",
+    "zorluk": "zor",
+    "kaynak": "KPSS Türkçe müfredatı: tamlama yanlışlığı"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Temel İşlem",
+    "soru": "48 : 6 + 3 x (7 - 4) işleminin sonucu kaçtır?",
+    "siklar": [
+      "33",
+      "17",
+      "24",
+      "16",
+      "11"
+    ],
+    "dogru": 1,
+    "aciklama": "İşlem sırasına göre önce parantez (3), sonra bölme (8), sonra çarpma (9), en son toplama yapılır: 8 + 9 = 17.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Genel Yetenek matematik: işlem önceliği"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Yüzde Problemleri",
+    "soru": "240 sayısının yüzde 15'i kaçtır?",
+    "siklar": [
+      "36",
+      "48",
+      "40",
+      "32",
+      "24"
+    ],
+    "dogru": 0,
+    "aciklama": "240 x 15 / 100 = 36 bulunur.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Genel Yetenek matematik: yüzde hesapları"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Oran-Orantı",
+    "soru": "3 / 4 = x / 20 orantısında x kaçtır?",
+    "siklar": [
+      "12",
+      "16",
+      "15",
+      "18",
+      "20"
+    ],
+    "dogru": 2,
+    "aciklama": "İçler dışlar çarpımı yapılırsa 4x = 60, buradan x = 15 bulunur.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Genel Yetenek matematik: oran-orantı"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Oran-Orantı",
+    "soru": "Bir işi 5 işçi 12 günde bitirebilmektedir. Aynı işi 6 işçi kaç günde bitirir?",
+    "siklar": [
+      "8",
+      "12",
+      "14",
+      "10",
+      "15"
+    ],
+    "dogru": 3,
+    "aciklama": "İşçi sayısı ile süre ters orantılıdır: 5 x 12 = 6 x t, buradan t = 10 gün bulunur.",
+    "zorluk": "orta",
+    "kaynak": "KPSS Genel Yetenek matematik: ters orantı"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Kâr-Zarar",
+    "soru": "Maliyeti 800 lira olan bir ürün yüzde 25 kârla satılıyor. Bu satıştan elde edilen kâr kaç liradır?",
+    "siklar": [
+      "160",
+      "250",
+      "180",
+      "240",
+      "200"
+    ],
+    "dogru": 4,
+    "aciklama": "Kâr, maliyet üzerinden hesaplanır: 800 x 25 / 100 = 200 lira.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Genel Yetenek matematik: kâr-zarar problemleri"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Hareket Problemleri",
+    "soru": "Saatteki hızı 80 km olan bir araç, 120 km yolu kaç saatte alır?",
+    "siklar": [
+      "1,2",
+      "1,5",
+      "2",
+      "2,5",
+      "1,6"
+    ],
+    "dogru": 1,
+    "aciklama": "Yol = hız x zaman olduğundan zaman = 120 / 80 = 1,5 saat bulunur.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Genel Yetenek matematik: hareket problemleri"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Hareket Problemleri",
+    "soru": "Saatteki hızı 60 km olan bir araç 15 dakikada kaç kilometre yol alır?",
+    "siklar": [
+      "9",
+      "12",
+      "20",
+      "15",
+      "25"
+    ],
+    "dogru": 3,
+    "aciklama": "15 dakika 1/4 saat eder: 60 x 1/4 = 15 km yol alınır.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Genel Yetenek matematik: hareket problemleri"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "İşçi-Havuz Problemleri",
+    "soru": "Bir işi A tek başına 6 günde, B tek başına 12 günde bitirebilmektedir. İkisi birlikte çalışırsa işi kaç günde bitirirler?",
+    "siklar": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "dogru": 1,
+    "aciklama": "Bir günde 1/6 + 1/12 = 1/4 iş yapılır; işin tamamı 4 günde biter.",
+    "zorluk": "orta",
+    "kaynak": "KPSS Genel Yetenek matematik: işçi problemleri"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Denklemler",
+    "soru": "3x - 7 = 2x + 5 denklemini sağlayan x değeri kaçtır?",
+    "siklar": [
+      "12",
+      "2",
+      "6",
+      "10",
+      "14"
+    ],
+    "dogru": 0,
+    "aciklama": "Bilinmeyenler bir tarafa toplanınca x = 7 + 5 = 12 bulunur.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Genel Yetenek matematik: birinci derece denklemler"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Denklemler",
+    "soru": "x / 3 + 4 = 9 eşitliğinde x kaçtır?",
+    "siklar": [
+      "15",
+      "5",
+      "12",
+      "18",
+      "21"
+    ],
+    "dogru": 0,
+    "aciklama": "x / 3 = 5 yazılır ve her iki taraf 3 ile çarpılırsa x = 15 bulunur.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Genel Yetenek matematik: birinci derece denklemler"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Kümeler",
+    "soru": "s(A) = 12, s(B) = 18 ve s(A birleşim B) = 25 olduğuna göre s(A kesişim B) kaçtır?",
+    "siklar": [
+      "4",
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "dogru": 4,
+    "aciklama": "Birleşim sayısından yararlanılır: 12 + 18 - 25 = 5 bulunur.",
+    "zorluk": "orta",
+    "kaynak": "KPSS Genel Yetenek matematik: küme problemleri"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Olasılık",
+    "soru": "Bir zar bir kez atılıyor. Üste gelen yüzün çift sayı olma olasılığı kaçtır?",
+    "siklar": [
+      "1 / 3",
+      "1 / 6",
+      "2 / 3",
+      "1 / 4",
+      "1 / 2"
+    ],
+    "dogru": 4,
+    "aciklama": "Çift sayılar 2, 4 ve 6 olmak üzere 3 tanedir; altı eşit olası durum olduğundan olasılık 3/6 = 1/2 bulunur.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Genel Yetenek matematik: olasılık"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Olasılık",
+    "soru": "İçinde 5 kırmızı ve 3 mavi top bulunan bir torbadan rastgele bir top çekiliyor. Çekilen topun kırmızı olma olasılığı kaçtır?",
+    "siklar": [
+      "5 / 8",
+      "3 / 8",
+      "1 / 2",
+      "3 / 5",
+      "5 / 3"
+    ],
+    "dogru": 0,
+    "aciklama": "Toplam 8 topun 5'i kırmızı olduğundan istenen olasılık 5/8 bulunur.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Genel Yetenek matematik: olasılık"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Sayılar",
+    "soru": "Ardışık üç çift sayının toplamı 54 olduğuna göre bu sayıların en küçüğü kaçtır?",
+    "siklar": [
+      "12",
+      "14",
+      "18",
+      "20",
+      "16"
+    ],
+    "dogru": 4,
+    "aciklama": "Ortanca sayı 54 / 3 = 18, en küçük sayı ise 18 - 2 = 16 bulunur.",
+    "zorluk": "orta",
+    "kaynak": "KPSS Genel Yetenek matematik: ardışık sayılar"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Sayılar",
+    "soru": "1'den 20'ye kadar olan asal sayıların toplamı kaçtır?",
+    "siklar": [
+      "70",
+      "75",
+      "79",
+      "81",
+      "77"
+    ],
+    "dogru": 4,
+    "aciklama": "Asal sayılar 2, 3, 5, 7, 11, 13, 17 ve 19'dur; toplamları 77 eder.",
+    "zorluk": "orta",
+    "kaynak": "KPSS Genel Yetenek matematik: asal sayılar"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Sayılar",
+    "soru": "12 ile 18 sayılarının en küçük ortak katı kaçtır?",
+    "siklar": [
+      "6",
+      "24",
+      "48",
+      "72",
+      "36"
+    ],
+    "dogru": 4,
+    "aciklama": "12 = 2^2 x 3 ve 18 = 2 x 3^2 olduğundan EKOK = 2^2 x 3^2 = 36 bulunur.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Genel Yetenek matematik: EKOK-EBOB"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Sayılar",
+    "soru": "İki basamaklı ab sayısı ile ba sayısının toplamı 121 olduğuna göre a + b kaçtır?",
+    "siklar": [
+      "9",
+      "10",
+      "12",
+      "13",
+      "11"
+    ],
+    "dogru": 4,
+    "aciklama": "ab + ba = 11(a + b) olduğundan 11(a + b) = 121 ve a + b = 11 bulunur.",
+    "zorluk": "zor",
+    "kaynak": "KPSS Genel Yetenek matematik: çözümleme"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Geometri",
+    "soru": "Taban uzunluğu 12 cm, bu tabana ait yüksekliği 5 cm olan bir üçgenin alanı kaç santimetrekaredir?",
+    "siklar": [
+      "17",
+      "24",
+      "30",
+      "34",
+      "60"
+    ],
+    "dogru": 2,
+    "aciklama": "Üçgenin alanı taban ile yüksekliğin çarpımının yarısıdır: 12 x 5 / 2 = 30 bulunur.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Genel Yetenek geometri: üçgende alan"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Geometri",
+    "soru": "Kenar uzunlukları 8 metre ve 5 metre olan dikdörtgenin çevresi kaç metredir?",
+    "siklar": [
+      "13",
+      "21",
+      "30",
+      "26",
+      "40"
+    ],
+    "dogru": 3,
+    "aciklama": "Dikdörtgenin çevresi 2 x (8 + 5) = 26 metre bulunur; 40 ise alanıdır.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Genel Yetenek geometri: dikdörtgenin çevresi"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Geometri",
+    "soru": "Yarıçapı 7 cm olan çemberin çevresi kaç santimetredir? (pi = 22 / 7 alınacaktır.)",
+    "siklar": [
+      "22",
+      "49",
+      "88",
+      "44",
+      "154"
+    ],
+    "dogru": 3,
+    "aciklama": "Çember çevresi 2 x pi x r = 2 x (22/7) x 7 = 44 cm bulunur.",
+    "zorluk": "orta",
+    "kaynak": "KPSS Genel Yetenek geometri: çemberin çevresi"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Yüzde Problemleri",
+    "soru": "Fiyatı 250 lira olan bir ürüne yüzde 20 indirim yapılırsa yeni fiyatı kaç lira olur?",
+    "siklar": [
+      "180",
+      "210",
+      "225",
+      "200",
+      "230"
+    ],
+    "dogru": 3,
+    "aciklama": "İndirim 250 x 20 / 100 = 50 lira, yeni fiyat 250 - 50 = 200 lira bulunur.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Genel Yetenek matematik: yüzde problemleri"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Karışım Problemleri",
+    "soru": "Tuz oranı yüzde 20 olan 30 kg tuzlu su ile tuz oranı yüzde 50 olan 20 kg tuzlu su karıştırılıyor. Yeni karışımın tuz oranı yüzde kaçtır?",
+    "siklar": [
+      "28",
+      "30",
+      "35",
+      "32",
+      "38"
+    ],
+    "dogru": 3,
+    "aciklama": "Toplam tuz 6 + 10 = 16 kg, toplam karışım 50 kg olduğundan oran 16/50 = yüzde 32 bulunur.",
+    "zorluk": "zor",
+    "kaynak": "KPSS Genel Yetenek matematik: karışım problemleri"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Yaş Problemleri",
+    "soru": "Babanın yaşı 36, oğlunun yaşı 8'dir. Kaç yıl sonra babanın yaşı oğlunun yaşının 3 katı olur?",
+    "siklar": [
+      "4",
+      "6",
+      "5",
+      "8",
+      "10"
+    ],
+    "dogru": 1,
+    "aciklama": "36 + x = 3 x (8 + x) denkleminden 36 + x = 24 + 3x ve x = 6 bulunur.",
+    "zorluk": "orta",
+    "kaynak": "KPSS Genel Yetenek matematik: yaş problemleri"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Ortalama",
+    "soru": "Bir öğrencinin ilk dört sınavının ortalaması 75'tir. Beşinci sınavdan kaç alırsa ortalaması 80 olur?",
+    "siklar": [
+      "80",
+      "85",
+      "90",
+      "100",
+      "95"
+    ],
+    "dogru": 3,
+    "aciklama": "Beş sınavın toplamı 5 x 80 = 400, ilk dört sınavın toplamı 4 x 75 = 300 olduğundan beşinci sınav 100 olmalıdır.",
+    "zorluk": "orta",
+    "kaynak": "KPSS Genel Yetenek matematik: aritmetik ortalama"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "İşçi-Havuz Problemleri",
+    "soru": "Aynı kapasitedeki 4 makine bir işi 9 günde bitirmektedir. Aynı işi 6 makine kaç günde bitirir?",
+    "siklar": [
+      "4",
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "dogru": 1,
+    "aciklama": "Makine sayısı ile süre ters orantılıdır: 4 x 9 = 6 x t, buradan t = 6 gün bulunur.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Genel Yetenek matematik: ters orantı"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Kesirler",
+    "soru": "Bir sayının 2/5'i 30 ise bu sayı kaçtır?",
+    "siklar": [
+      "12",
+      "45",
+      "50",
+      "75",
+      "60"
+    ],
+    "dogru": 3,
+    "aciklama": "Sayının tamamı 30 x 5 / 2 = 75 bulunur.",
+    "zorluk": "kolay",
+    "kaynak": "KPSS Genel Yetenek matematik: kesir problemleri"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Sayı Problemleri",
+    "soru": "İki sayının toplamı 42, farkı 8'dir. Bu sayılardan küçük olanı kaçtır?",
+    "siklar": [
+      "17",
+      "16",
+      "19",
+      "21",
+      "25"
+    ],
+    "dogru": 0,
+    "aciklama": "Küçük sayı (42 - 8) / 2 = 17, büyük sayı ise 25 bulunur.",
+    "zorluk": "orta",
+    "kaynak": "KPSS Genel Yetenek matematik: sayı problemleri"
+  },
+  {
+    "ders": "Matematik",
+    "konu": "Yüzde Problemleri",
+    "soru": "Fiyatı 200 lira olan bir ürüne önce yüzde 10 zam, sonra yeni fiyat üzerinden yüzde 10 indirim yapılıyor. Son fiyat kaç lira olur?",
+    "siklar": [
+      "198",
+      "196",
+      "200",
+      "202",
+      "205"
+    ],
+    "dogru": 0,
+    "aciklama": "Zamdan sonra 220 lira olur; 220'nin yüzde 10'u 22 olduğundan son fiyat 198 lira bulunur.",
+    "zorluk": "zor",
+    "kaynak": "KPSS Genel Yetenek matematik: yüzde artış ve azalış"
+  }
+]
