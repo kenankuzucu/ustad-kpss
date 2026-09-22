@@ -1,0 +1,898 @@
+[
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "İşgücü Piyasası Temel Kavramları",
+    "soru": "İstihdam edilenler ile işsizlerin toplamından oluşan ve aktif nüfus olarak da adlandırılan büyüklük hangisidir?",
+    "siklar": [
+      "Çalışabilir nüfus",
+      "Kurumsal olmayan nüfus",
+      "İşgücü",
+      "Pasif nüfus",
+      "Toplam nüfus"
+    ],
+    "dogru": 2,
+    "aciklama": "İşgücü, istihdam edilenler ile işsizlerin toplamıdır; çalışma isteğinde bulunmayanlar pasif nüfusta kalır.",
+    "zorluk": "kolay",
+    "kaynak": "İşgücü piyasası istatistikleri müfredatı: işgücü kavramı"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "İşgücü Piyasası Temel Kavramları",
+    "soru": "İşgücüne katılım oranı aşağıdakilerden hangisiyle hesaplanır?",
+    "siklar": [
+      "İşsiz sayısının toplam nüfusa oranlanmasıyla",
+      "İstihdam edilenlerin toplam nüfusa oranlanmasıyla",
+      "İşsizlerin çalışabilir nüfusa oranlanmasıyla",
+      "İşgücünün kurumsal olmayan çalışma çağındaki nüfusa oranlanmasıyla",
+      "İşgücünün toplam nüfusa oranlanmasıyla"
+    ],
+    "dogru": 3,
+    "aciklama": "Katılım oranı, çalışma çağındaki nüfusun ne kadarının işgücünde yer aldığını gösterir.",
+    "zorluk": "kolay",
+    "kaynak": "İşgücü piyasası istatistikleri müfredatı: katılım oranı"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "İşgücü Piyasası Temel Kavramları",
+    "soru": "İşsizlik oranı aşağıdakilerden hangisiyle hesaplanır?",
+    "siklar": [
+      "İşsiz sayısının toplam nüfusa oranlanmasıyla",
+      "İşsiz sayısının çalışabilir nüfusa oranlanmasıyla",
+      "İstihdam edilenlerin işgücüne oranlanmasıyla",
+      "İşsiz sayısının işgücüne oranlanmasıyla",
+      "Eksik istihdamın toplam istihdama oranlanmasıyla"
+    ],
+    "dogru": 3,
+    "aciklama": "İşsizlik oranı, işsizlerin işgücü içindeki payıdır; payda toplam nüfus değil işgücüdür.",
+    "zorluk": "kolay",
+    "kaynak": "İşgücü piyasası istatistikleri müfredatı: işsizlik oranı"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "İşgücü Piyasası Temel Kavramları",
+    "soru": "Bir kişinin işsiz sayılabilmesi için aranan koşullar arasında aşağıdakilerden hangisi yer almaz?",
+    "siklar": [
+      "Referans döneminde hiçbir işte çalışmamış olmak",
+      "İş aramak için aktif girişimde bulunmak",
+      "Referans döneminde işbaşı yapabilecek durumda olmak",
+      "Referans döneminde bir işte çalışmış olmak",
+      "Çalışmaya hazır ve iş arayan durumda olmak"
+    ],
+    "dogru": 3,
+    "aciklama": "Referans döneminde çalışmış olan kişi istihdamda sayılır; işsizlik için çalışmamış olmak gerekir.",
+    "zorluk": "orta",
+    "kaynak": "İşgücü piyasası istatistikleri: işsiz tanımı"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "İşsizlik Türleri",
+    "soru": "İş arayanlarla mevcut iş olanakları arasındaki bilgi akışının yetersizliğinden ve iş değiştirme sürecinden kaynaklanan işsizlik türü hangisidir?",
+    "siklar": [
+      "Yapısal işsizlik",
+      "Konjonktürel işsizlik",
+      "Arızi yani geçici işsizlik",
+      "Mevsimlik işsizlik",
+      "Teknolojik işsizlik"
+    ],
+    "dogru": 2,
+    "aciklama": "Geçici işsizlik, işe girme ve iş bulma sürecinin zaman almasından kaynaklanır ve kısa sürelidir.",
+    "zorluk": "kolay",
+    "kaynak": "İktisat müfredatı: işsizlik türleri"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "İşsizlik Türleri",
+    "soru": "Ekonominin yapısındaki değişme ve meslekler arasındaki uyumsuzluk nedeniyle ortaya çıkan, eğitim ve nitelik uyuşmazlığına dayanan işsizlik türü hangisidir?",
+    "siklar": [
+      "Arızi yani geçici işsizlik",
+      "Konjonktürel işsizlik",
+      "Mevsimlik işsizlik",
+      "Yapısal işsizlik",
+      "Gizli işsizlik"
+    ],
+    "dogru": 3,
+    "aciklama": "Yapısal işsizlik, talebin bileşimi ve üretim teknolojisi değişirken işgücünün niteliklerinin uyum sağlayamamasından doğar.",
+    "zorluk": "orta",
+    "kaynak": "İktisat müfredatı: işsizlik türleri"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "İşsizlik Türleri",
+    "soru": "Ekonomik durgunluk dönemlerinde toplam talebin yetersiz kalması nedeniyle ortaya çıkan işsizlik türü hangisidir?",
+    "siklar": [
+      "Yapısal işsizlik",
+      "Mevsimlik işsizlik",
+      "Arızi yani geçici işsizlik",
+      "Konjonktürel yani devresel işsizlik",
+      "Teknolojik işsizlik"
+    ],
+    "dogru": 3,
+    "aciklama": "Konjonktürel işsizlik, ekonominin daralma dönemlerinde toplam talebin azalmasıyla ortaya çıkar.",
+    "zorluk": "kolay",
+    "kaynak": "İktisat müfredatı: işsizlik türleri"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "İşsizlik Türleri",
+    "soru": "Bir işyerinde üretime fiilen katkı sağlamadığı hâlde istihdamda görünen kişiler hangi kavramla ifade edilir?",
+    "siklar": [
+      "Açık işsizlik",
+      "Mevsimlik işsizlik",
+      "Teknolojik işsizlik",
+      "Gizli işsizlik",
+      "Konjonktürel işsizlik"
+    ],
+    "dogru": 3,
+    "aciklama": "Gizli işsizlik, özellikle tarım kesiminde emeğin marjinal veriminin sıfıra yakın olduğu aşırı istihdamı ifade eder.",
+    "zorluk": "orta",
+    "kaynak": "İktisat müfredatı: gizli işsizlik"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Ücret Teorileri",
+    "soru": "Bir malın değerinin o mala harcanan emek miktarıyla belirlendiğini savunan klasik görüş hangisidir?",
+    "siklar": [
+      "Marjinal verimlilik teorisi",
+      "Ücret fonu teorisi",
+      "Pazarlıkçı ücret teorisi",
+      "Emek değer teorisi",
+      "Verimlilik ücreti teorisi"
+    ],
+    "dogru": 3,
+    "aciklama": "Emek değer teorisi, değeri üretimde harcanan emeğe bağlar ve klasik iktisatçıların ücret yaklaşımının temelini oluşturur.",
+    "zorluk": "orta",
+    "kaynak": "İktisadi düşünce tarihi: emek değer teorisi"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Ücret Teorileri",
+    "soru": "Ücretin, emeğin marjinal ürün değeri tarafından belirlendiğini savunan teori hangisidir?",
+    "siklar": [
+      "Marjinal verimlilik teorisi",
+      "Emek değer teorisi",
+      "Ücret fonu teorisi",
+      "Artık değer teorisi",
+      "Satın alma gücü teorisi"
+    ],
+    "dogru": 0,
+    "aciklama": "Marjinal verimlilik teorisine göre işveren, emeğin marjinal ürün değeri kadar ücret ödemeye razı olur.",
+    "zorluk": "orta",
+    "kaynak": "İktisat müfredatı: marjinal verimlilik teorisi"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Ücret Teorileri",
+    "soru": "İşçiye piyasa ücretinin üzerinde ücret ödenmesinin verimliliği artıracağını ileri süren görüş hangisidir?",
+    "siklar": [
+      "Ücret fonu teorisi",
+      "Emek değer teorisi",
+      "Artık değer teorisi",
+      "Etkin ücret yani verimlilik ücreti teorisi",
+      "Marjinal verimlilik teorisi"
+    ],
+    "dogru": 3,
+    "aciklama": "Etkin ücret teorisi, yüksek ücretin işgücü devir hızını düşürüp verimliliği artırdığını savunur.",
+    "zorluk": "zor",
+    "kaynak": "İktisat müfredatı: etkin ücret teorisi"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Ücret Teorileri",
+    "soru": "Ücretin, işçinin emek gücünün yeniden üretim maliyetine indirgendiğini ve üretilen değerin bir kısmının işverence alıkonulduğunu savunan yaklaşım hangisidir?",
+    "siklar": [
+      "Marjinal verimlilik teorisi",
+      "Ücret fonu teorisi",
+      "Artık değer teorisi",
+      "Satın alma gücü teorisi",
+      "Beşeri sermaye teorisi"
+    ],
+    "dogru": 2,
+    "aciklama": "Artık değer yaklaşımı, ücret ile yaratılan değer arasındaki farkı sermaye birikiminin kaynağı sayar.",
+    "zorluk": "zor",
+    "kaynak": "İktisadi düşünce tarihi: artık değer yaklaşımı"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Ücret Teorileri",
+    "soru": "Ücret artışlarının işçilerin satın alma gücünü yükselterek toplam talebi canlandıracağını ve bu yolla işletmelere de yarar sağlayacağını savunan görüş hangisidir?",
+    "siklar": [
+      "Satın alma gücü teorisi",
+      "Artık değer teorisi",
+      "Ücret fonu teorisi",
+      "Marjinal verimlilik teorisi",
+      "Pazarlıkçı ücret teorisi"
+    ],
+    "dogru": 0,
+    "aciklama": "Satın alma gücü teorisi, yüksek ücretin talebi ve dolayısıyla satışları artıracağını ileri sürer.",
+    "zorluk": "orta",
+    "kaynak": "İktisat müfredatı: ücret ve talep ilişkisi"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Ücret Teorileri",
+    "soru": "Eğitim ve mesleki deneyim yoluyla kazanılan bilgi ve becerilerin gelir farklılıklarını açıkladığını savunan yaklaşım hangisidir?",
+    "siklar": [
+      "İkili işgücü piyasası teorisi",
+      "Pazarlıkçı ücret teorisi",
+      "Artık değer teorisi",
+      "Ücret fonu teorisi",
+      "Beşeri sermaye teorisi"
+    ],
+    "dogru": 4,
+    "aciklama": "Beşeri sermaye teorisi, bireyin kendisine yaptığı yatırımın verimliliği ve ücreti belirlediğini söyler.",
+    "zorluk": "orta",
+    "kaynak": "İşgücü ekonomisi: beşeri sermaye teorisi"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Ücret Teorileri",
+    "soru": "İşgücü piyasasının, ücret ve güvence koşulları bakımından birbirinden kopuk iki kesimden oluştuğunu savunan yaklaşım hangisidir?",
+    "siklar": [
+      "İkili işgücü piyasası teorisi",
+      "Beşeri sermaye teorisi",
+      "Marjinal verimlilik teorisi",
+      "Pazarlıkçı ücret teorisi",
+      "Satın alma gücü teorisi"
+    ],
+    "dogru": 0,
+    "aciklama": "İkili yapıda birincil kesim yüksek ücret ve güvence sağlarken ikincil kesim düşük ücretli ve güvencesiz işlerden oluşur.",
+    "zorluk": "zor",
+    "kaynak": "İşgücü ekonomisi: ikili işgücü piyasası"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Ücret Yapısı ve Türleri",
+    "soru": "Ücret sisteminin temelini oluşturan ve zamlar ile ek ödemelerin üzerine eklendiği asıl ücret tutarı hangisidir?",
+    "siklar": [
+      "İkramiye",
+      "Prim",
+      "Ücret zammı",
+      "Sosyal yardım",
+      "Kök ücret"
+    ],
+    "dogru": 4,
+    "aciklama": "Kök ücret, işin değerine göre belirlenen temel ücret tutarıdır; diğer ödemeler bunun üzerine eklenir.",
+    "zorluk": "kolay",
+    "kaynak": "Ücret sistemleri müfredatı: temel ücret kavramı"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Ücret Yapısı ve Türleri",
+    "soru": "Çalışanın ürettiği mal veya parça miktarına göre ödeme yapılan ücret sistemi hangisidir?",
+    "siklar": [
+      "Zaman esaslı ücret",
+      "Götürü ücret",
+      "Parça başına ücret",
+      "Primli ücret",
+      "Aylık sabit ücret"
+    ],
+    "dogru": 2,
+    "aciklama": "Parça başına ücrette kazanç doğrudan üretim miktarına bağlanır ve verimlilik artışı teşvik edilir.",
+    "zorluk": "kolay",
+    "kaynak": "Ücret sistemleri müfredatı: ücret ödeme biçimleri"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Ücret Yapısı ve Türleri",
+    "soru": "Bir çalışana emeği karşılığında ödenebilecek en düşük ücret düzeyini ifade eden kavram hangisidir?",
+    "siklar": [
+      "Kök ücret",
+      "Asgari ücret",
+      "Ortalama ücret",
+      "Reel ücret",
+      "Efektif saat ücreti"
+    ],
+    "dogru": 1,
+    "aciklama": "Asgari ücret, yasal olarak belirlenen ve altına inilemeyen ücret sınırıdır.",
+    "zorluk": "kolay",
+    "kaynak": "Çalışma ekonomisi müfredatı: asgari ücret"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Ücret Yapısı ve Türleri",
+    "soru": "Nominal ücretin fiyatlar genel düzeyine göre satın alma gücü cinsinden ifadesi hangisidir?",
+    "siklar": [
+      "Nominal ücret",
+      "Brüt ücret",
+      "Net ücret",
+      "Reel ücret",
+      "Ücret düzeyi"
+    ],
+    "dogru": 3,
+    "aciklama": "Reel ücret, nominal ücretin satın alma gücünü gösterir ve fiyat artışları karşısında alım gücünü ölçer.",
+    "zorluk": "orta",
+    "kaynak": "Ücret kavramları müfredatı: nominal ve reel ücret"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Sendikal Hareket ve Teorileri",
+    "soru": "Çalışanların ortak ekonomik ve sosyal çıkarlarını korumak ve geliştirmek amacıyla kurdukları örgüt hangisidir?",
+    "siklar": [
+      "Kooperatif",
+      "Sendika",
+      "Vakıf",
+      "Dernek",
+      "Meslek odası"
+    ],
+    "dogru": 1,
+    "aciklama": "Sendika, işçilerin çalışma koşullarını iyileştirmek için örgütlü biçimde hareket ettiği yapıdır.",
+    "zorluk": "kolay",
+    "kaynak": "Sendikacılık müfredatı: sendika kavramı"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Sendikal Hareket ve Teorileri",
+    "soru": "Sanayi Devrimi'nin ilk yıllarında İngiltere'de işçilerin ücret ve çalışma koşulları için ortak hareket etmesini yasaklayan düzenlemeler hangi adla anılır?",
+    "siklar": [
+      "Fakir yasaları",
+      "Kombinasyon yasaları",
+      "Tahıl yasaları",
+      "Çırak yasaları",
+      "Sanayi yasaları"
+    ],
+    "dogru": 1,
+    "aciklama": "Kombinasyon yasaları işçi birliklerini yasaklamış, 1824 yılında yürürlükten kaldırılmalarıyla sendikacılık gelişmeye başlamıştır.",
+    "zorluk": "zor",
+    "kaynak": "İngiltere 1799 ve 1800 tarihli Kombinasyon Yasaları"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Sendikal Hareket ve Teorileri",
+    "soru": "Sendikaları, işgücünün alım satım koşullarını iyileştirmeye yönelik ekonomik örgütler olarak inceleyen ve sendikacılığın ilk kuramsal çözümlemesini yapan yazarlar hangileridir?",
+    "siklar": [
+      "Karl Marx ve Friedrich Engels",
+      "Adam Smith ve David Ricardo",
+      "J. M. Keynes ve Joan Robinson",
+      "Friedrich Hayek ve Milton Friedman",
+      "Sidney ve Beatrice Webb"
+    ],
+    "dogru": 4,
+    "aciklama": "Webb çifti, sendikacılığı piyasa ilişkilerinin bir parçası olarak ele alan ortak ekonomik amaç yaklaşımını geliştirmiştir.",
+    "zorluk": "zor",
+    "kaynak": "Sidney ve Beatrice Webb; Industrial Democracy"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Sendikal Hareket ve Teorileri",
+    "soru": "Sendikacılığı, işçilerin iş olanakları üzerindeki denetimini genişletmeye çalışan bir hareket olarak yani iş bilinci kavramıyla açıklayan yazar hangisidir?",
+    "siklar": [
+      "Sidney Webb",
+      "Selig Perlman",
+      "Beatrice Webb",
+      "Karl Marx",
+      "Robert Owen"
+    ],
+    "dogru": 1,
+    "aciklama": "Perlman'a göre işçi hareketinin temel güdüsü, sınırlı iş olanaklarını koruma ve denetleme isteğidir.",
+    "zorluk": "zor",
+    "kaynak": "Selig Perlman; iş bilinci yaklaşımı"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Sendikal Hareket ve Teorileri",
+    "soru": "Sendikaları, emeğin fiyatını yükseltmeye yönelik günlük mücadele örgütleri saymakla birlikte sınıf mücadelesinin de aracı olarak değerlendiren yaklaşım hangisidir?",
+    "siklar": [
+      "Ortak ekonomik amaç teorisi",
+      "İş bilinci yaklaşımı",
+      "İşletme sendikacılığı yaklaşımı",
+      "Marksist sendika teorisi",
+      "Sosyal reform yaklaşımı"
+    ],
+    "dogru": 3,
+    "aciklama": "Marksist yaklaşımda sendika, kapitalist düzende pazarlık aracı olmakla sınırlı kalması bakımından eleştirilir.",
+    "zorluk": "zor",
+    "kaynak": "Sendikal teoriler: Marksist sendikacılık yaklaşımı"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Sendikal Hareket ve Teorileri",
+    "soru": "Türkiye'de işçilere sendika kurma hakkı ilk kez hangi anayasa ile anayasal güvenceye kavuşturulmuştur?",
+    "siklar": [
+      "1924 Anayasası",
+      "1921 Anayasası",
+      "1961 Anayasası",
+      "1876 Kanun-i Esasi",
+      "1982 Anayasası"
+    ],
+    "dogru": 2,
+    "aciklama": "Sendika hakkı ilk kez 1961 Anayasası ile anayasal güvence altına alınmış ve sendikal haklar ayrıntılı düzenlenmiştir.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de sendikal hakların anayasal gelişimi"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Sendikal Hareket ve Teorileri",
+    "soru": "Türkiye'de sendikal örgütlenme, toplu iş sözleşmesi, grev ve lokavta ilişkin temel çerçeveyi bugün belirleyen kanun hangisidir?",
+    "siklar": [
+      "4857 sayılı İş Kanunu",
+      "6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu",
+      "5510 sayılı Sosyal Sigortalar Kanunu",
+      "2821 sayılı Sendikalar Kanunu",
+      "4447 sayılı İşsizlik Sigortası Kanunu"
+    ],
+    "dogru": 1,
+    "aciklama": "Sendikal haklar ve toplu iş sözleşmesi rejimi 6356 sayılı Kanun ile düzenlenmektedir.",
+    "zorluk": "orta",
+    "kaynak": "6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Sendikal Hareket ve Teorileri",
+    "soru": "Türkiye'de işçilere grev hakkı ilk kez hangi anayasa ile tanınmıştır?",
+    "siklar": [
+      "1924 Anayasası",
+      "1921 Anayasası",
+      "1961 Anayasası",
+      "1876 Kanun-i Esasi",
+      "1982 Anayasası"
+    ],
+    "dogru": 2,
+    "aciklama": "Grev hakkı ilk kez 1961 Anayasası ile tanınmış, 1982 Anayasası da grev hakkını korumuştur.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye'de grev hakkının anayasal gelişimi"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Toplu Pazarlık ve Araçları",
+    "soru": "İşçi sendikası ile işveren arasında çalışma koşullarını belirlemek üzere yürütülen karşılıklı görüşme ve pazarlık süreci hangisidir?",
+    "siklar": [
+      "Arabuluculuk",
+      "Toplu pazarlık",
+      "Tahkim",
+      "Uzlaştırma",
+      "Yetki tespiti"
+    ],
+    "dogru": 1,
+    "aciklama": "Toplu pazarlık, tarafların irade serbestisi içinde çalışma koşullarını müzakere ettiği süreçtir.",
+    "zorluk": "kolay",
+    "kaynak": "Toplu iş ilişkileri müfredatı: toplu pazarlık"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Toplu Pazarlık ve Araçları",
+    "soru": "Toplu iş sözleşmesinin tarafları aşağıdakilerden hangisidir?",
+    "siklar": [
+      "İşçi ile işveren",
+      "İşçi sendikası ile devlet",
+      "İşveren sendikası ile devlet",
+      "İşçi ile işçi sendikası",
+      "İşçi sendikası ile işveren veya işveren sendikası"
+    ],
+    "dogru": 4,
+    "aciklama": "Toplu iş sözleşmesi tek bir işçi ile değil, işçi sendikası ile işveren ya da işveren sendikası arasında yapılır.",
+    "zorluk": "kolay",
+    "kaynak": "Toplu iş hukuku müfredatı: toplu iş sözleşmesinin tarafları"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Toplu Pazarlık ve Araçları",
+    "soru": "Yapılmış bir toplu iş sözleşmesinin, uygulandığı işkolundaki diğer işyerlerine de genişletilmesi hangi kavramla ifade edilir?",
+    "siklar": [
+      "Yetki tespiti",
+      "Teşmil",
+      "Dayanışma aidatı",
+      "Sendikal aidat",
+      "Toplu iş uyuşmazlığı"
+    ],
+    "dogru": 1,
+    "aciklama": "Teşmil ile toplu iş sözleşmesinin kapsamı, koşulları taşıyan diğer işyerlerine genişletilir.",
+    "zorluk": "zor",
+    "kaynak": "Toplu iş ilişkileri müfredatı: teşmil uygulaması"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Toplu Pazarlık ve Araçları",
+    "soru": "Bir sendikanın toplu iş sözleşmesi yapabilmesi için gerekli üye ve işkolu koşullarını sağladığının ilgili makamca belirlenmesi hangisidir?",
+    "siklar": [
+      "Teşmil kararı",
+      "Yetki tespiti",
+      "Grev oylaması",
+      "Arabuluculuk başvurusu",
+      "Dayanışma aidatı kararı"
+    ],
+    "dogru": 1,
+    "aciklama": "Yetki tespiti ile sendikanın o işyerinde toplu iş sözleşmesi yapmaya ehil olduğu resmî olarak belirlenir.",
+    "zorluk": "orta",
+    "kaynak": "Toplu iş ilişkileri müfredatı: yetki tespiti"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Grev, Lokavt ve Yasal Çerçeve",
+    "soru": "İşverenin, işyerinde faaliyetleri tamamen durdurarak işçileri topluca işten uzaklaştırması hangisidir?",
+    "siklar": [
+      "Lokavt",
+      "Grev",
+      "Teşmil",
+      "Tahkim",
+      "Boykot"
+    ],
+    "dogru": 0,
+    "aciklama": "Lokavt, işveren tarafında greve karşılık gelen ve aynı yasal çerçeveye tabi toplu iş uyuşmazlığı aracıdır.",
+    "zorluk": "kolay",
+    "kaynak": "Toplu iş ilişkileri müfredatı: lokavt"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Grev, Lokavt ve Yasal Çerçeve",
+    "soru": "Grev yapılmasının yasak olduğu işlerde toplu iş uyuşmazlığını kesin ve bağlayıcı biçimde çözen kurul hangisidir?",
+    "siklar": [
+      "Yüksek Hakem Kurulu",
+      "Bölge Çalışma Müdürlüğü",
+      "İş Mahkemesi",
+      "Danıştay",
+      "Ekonomik ve Sosyal Konsey"
+    ],
+    "dogru": 0,
+    "aciklama": "Grev yasağı bulunan işlerde uyuşmazlık, zorunlu tahkim niteliğinde olan Yüksek Hakem Kurulu kararıyla çözülür.",
+    "zorluk": "zor",
+    "kaynak": "6356 sayılı Kanun: grev yasakları ve Yüksek Hakem Kurulu"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "İş Uyuşmazlıkları ve Çözüm Yolları",
+    "soru": "Uyuşmazlığın çözümünün taraflarca üçüncü bir kişi ya da kurula bırakılması ve verilecek karara önceden uyulacağının kabul edilmesi hangisidir?",
+    "siklar": [
+      "Arabuluculuk",
+      "Uzlaştırma",
+      "Teşmil",
+      "Yetki tespiti",
+      "Tahkim"
+    ],
+    "dogru": 4,
+    "aciklama": "Tahkimde hakem kararı tarafları bağlar; arabuluculukta ise çözüm tarafların anlaşmasına bırakılır.",
+    "zorluk": "orta",
+    "kaynak": "İş uyuşmazlıkları müfredatı: tahkim"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "İş Uyuşmazlıkları ve Çözüm Yolları",
+    "soru": "Toplu iş uyuşmazlıklarında tarafların anlaşamaması durumunda grev veya lokavt kararı alınabilmesi için öncelikle başvurulması gereken yol hangisidir?",
+    "siklar": [
+      "Arabuluculuk",
+      "Tahkim",
+      "Yüksek Hakem Kurulu",
+      "İş müfettişliği incelemesi",
+      "İş Mahkemesine dava açma"
+    ],
+    "dogru": 0,
+    "aciklama": "Toplu iş uyuşmazlıklarında arabuluculuk zorunlu bir aşamadır; anlaşma sağlanamazsa grev veya lokavt gündeme gelir.",
+    "zorluk": "orta",
+    "kaynak": "Toplu iş uyuşmazlıklarında zorunlu arabuluculuk"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "İş Uyuşmazlıkları ve Çözüm Yolları",
+    "soru": "Bireysel iş uyuşmazlıklarında işçinin dava açmadan önce başvurması gereken zorunlu çözüm yolu hangisidir?",
+    "siklar": [
+      "Zorunlu tahkim",
+      "Yüksek Hakem Kurulu",
+      "Dava şartı arabuluculuk",
+      "Uzlaştırma kurulu",
+      "İş müfettişliği başvurusu"
+    ],
+    "dogru": 2,
+    "aciklama": "İş uyuşmazlıklarında dava açılmadan önce arabulucuya başvurulmuş olması dava şartıdır.",
+    "zorluk": "orta",
+    "kaynak": "7036 sayılı İş Mahkemeleri Kanunu: dava şartı arabuluculuk"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Sosyal Politika ve Sosyal Güvenlik",
+    "soru": "Toplumdaki gelir dağılımı adaletsizliklerini ve sosyal dengesizlikleri gidermeye yönelik devlet müdahalelerini ifade eden kavram hangisidir?",
+    "siklar": [
+      "Maliye politikası",
+      "Para politikası",
+      "Ticaret politikası",
+      "Rekabet politikası",
+      "Sosyal politika"
+    ],
+    "dogru": 4,
+    "aciklama": "Sosyal politika, sosyal adaleti ve korunmaya muhtaç kesimlerin refahını hedefleyen önlemleri kapsar.",
+    "zorluk": "kolay",
+    "kaynak": "Sosyal politika müfredatı: tanım ve kapsam"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Sosyal Politika ve Sosyal Güvenlik",
+    "soru": "Sosyal politikanın dar anlamda ilgilendiği kesim aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Bağımlı olarak çalışan işçiler",
+      "Toplumun tüm kesimleri",
+      "Yalnızca işverenler",
+      "Kamu görevlileri",
+      "Yalnızca kırsal kesim"
+    ],
+    "dogru": 0,
+    "aciklama": "Dar anlamda sosyal politikanın konusu işçiler ve bağımlı çalışanlardır; geniş anlamda toplumun tüm kesimleri kapsama girer.",
+    "zorluk": "orta",
+    "kaynak": "Sosyal politika müfredatı: dar ve geniş anlam"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Sosyal Politika ve Sosyal Güvenlik",
+    "soru": "Hastalık, iş kazası, yaşlılık ve işsizlik gibi gelir kaybına yol açan olaylar sosyal güvenlik alanında hangi kavramla ifade edilir?",
+    "siklar": [
+      "Sosyal yardım",
+      "Sosyal hizmet",
+      "Sosyal gelir",
+      "Sosyal denge",
+      "Sosyal risk"
+    ],
+    "dogru": 4,
+    "aciklama": "Sosyal riskler, çalışanın gelirini kesintiye uğratan ve sosyal güvenlikle karşılanan tehlikelerdir.",
+    "zorluk": "orta",
+    "kaynak": "Sosyal güvenlik müfredatı: sosyal risk kavramı"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Sosyal Politika ve Sosyal Güvenlik",
+    "soru": "Aşağıdakilerden hangisi sosyal sigorta kolları arasında yer almaz?",
+    "siklar": [
+      "İş kazası ve meslek hastalığı sigortası",
+      "Hastalık sigortası",
+      "Analık sigortası",
+      "Malullük, yaşlılık ve ölüm sigortası",
+      "Konut sigortası"
+    ],
+    "dogru": 4,
+    "aciklama": "Sosyal sigorta kolları iş kazası ve meslek hastalığı, hastalık, analık, malullük yaşlılık ölüm ile işsizlik sigortalarıdır.",
+    "zorluk": "orta",
+    "kaynak": "5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Sosyal Politika ve Sosyal Güvenlik",
+    "soru": "İşsizlik sigortası kapsamında prim ve diğer koşulları sağlayan sigortalıya işsiz kalması hâlinde yapılan düzenli gelir desteği hangisidir?",
+    "siklar": [
+      "Kısa çalışma ödeneği",
+      "İşsizlik ödeneği",
+      "Ücret garanti fonu ödemesi",
+      "İhbar tazminatı",
+      "İş kaybı tazminatı"
+    ],
+    "dogru": 1,
+    "aciklama": "İşsizlik ödeneği, işsizlik sigortası kapsamında belirli süre ve koşullarla ödenen gelir desteğidir.",
+    "zorluk": "kolay",
+    "kaynak": "4447 sayılı İşsizlik Sigortası Kanunu"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Sosyal Politika ve Sosyal Güvenlik",
+    "soru": "Prim ödeme koşuluna bağlı olmayan, ihtiyaç sahiplerine genellikle vergi gelirleriyle finanse edilerek yapılan sosyal koruma aracı hangisidir?",
+    "siklar": [
+      "Sosyal sigorta",
+      "Sosyal yardım",
+      "Özel sigorta",
+      "Kıdem tazminatı",
+      "Zorunlu bireysel emeklilik"
+    ],
+    "dogru": 1,
+    "aciklama": "Sosyal yardım primsiz ve genellikle gelir testine bağlıdır; sosyal sigorta ise prim karşılığında hak sağlar.",
+    "zorluk": "orta",
+    "kaynak": "Sosyal güvenlik müfredatı: sosyal yardım ve sosyal sigorta ayrımı"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Sosyal Politika ve Sosyal Güvenlik",
+    "soru": "Türkiye'de sağlık hizmetlerine erişimi sosyal sigorta çatısı altında birleştiren uygulama hangisidir?",
+    "siklar": [
+      "Özel sağlık sigortası",
+      "Tamamlayıcı sağlık sigortası",
+      "Genel sağlık sigortası",
+      "İşyeri hekimliği uygulaması",
+      "Serbest hekimlik uygulaması"
+    ],
+    "dogru": 2,
+    "aciklama": "Genel sağlık sigortası, nüfusun tamamını kapsayacak biçimde sağlık hizmetlerine erişimi düzenler.",
+    "zorluk": "kolay",
+    "kaynak": "5510 sayılı Kanun: genel sağlık sigortası"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Sosyal Politika ve Sosyal Güvenlik",
+    "soru": "İş sözleşmesinin yasada belirtilen koşullarda sona ermesi hâlinde, işçinin işyerindeki çalışma süresine göre yapılan toplu ödeme hangisidir?",
+    "siklar": [
+      "İhbar tazminatı",
+      "İşsizlik ödeneği",
+      "Ücret garanti fonu ödemesi",
+      "Yıllık ücretli izin ücreti",
+      "Kıdem tazminatı"
+    ],
+    "dogru": 4,
+    "aciklama": "Kıdem tazminatı, belirli koşullarla sona eren iş sözleşmelerinde kıdeme bağlı olarak ödenir.",
+    "zorluk": "kolay",
+    "kaynak": "4857 sayılı İş Kanunu: kıdem tazminatı"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Uluslararası Çalışma Kuruluşları ve Normları",
+    "soru": "1919 yılında Versailles Antlaşması ile kurulan ve İkinci Dünya Savaşı sonrasında Birleşmiş Milletlerin uzman kuruluşu hâline gelen örgüt hangisidir?",
+    "siklar": [
+      "Uluslararası Çalışma Örgütü",
+      "Dünya Ticaret Örgütü",
+      "Ekonomik İşbirliği ve Kalkınma Örgütü",
+      "Avrupa Konseyi",
+      "Uluslararası Para Fonu"
+    ],
+    "dogru": 0,
+    "aciklama": "ILO, çalışma yaşamına ilişkin uluslararası standartları belirleyen en eski uzman kuruluştur.",
+    "zorluk": "kolay",
+    "kaynak": "ILO kuruluş tarihçesi"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Uluslararası Çalışma Kuruluşları ve Normları",
+    "soru": "Uluslararası Çalışma Örgütünün karar organlarında temsil edilen taraflar aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Hükümetler, işverenler ve işçiler",
+      "Yalnızca hükümetler",
+      "Hükümetler ve işverenler",
+      "Hükümetler ve işçiler",
+      "İşverenler ve işçiler"
+    ],
+    "dogru": 0,
+    "aciklama": "ILO, hükümet, işveren ve işçi temsilcilerinin birlikte yer aldığı üçlü yapıya sahiptir.",
+    "zorluk": "orta",
+    "kaynak": "ILO üçlü yapısı"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Uluslararası Çalışma Kuruluşları ve Normları",
+    "soru": "Uluslararası Çalışma Örgütünün, onaylayan devletler bakımından bağlayıcı yükümlülük doğuran düzenlemeleri hangisidir?",
+    "siklar": [
+      "Sözleşmeler",
+      "Tavsiye kararları",
+      "Bildirgeler",
+      "Teknik yardım raporları",
+      "Genel görüşme tutanakları"
+    ],
+    "dogru": 0,
+    "aciklama": "ILO sözleşmeleri onaylandığında bağlayıcı olur; tavsiye kararları ise yön gösterici nitelikte kalır.",
+    "zorluk": "orta",
+    "kaynak": "ILO normları: sözleşme ve tavsiye kararları"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Uluslararası Çalışma Kuruluşları ve Normları",
+    "soru": "Aşağıdakilerden hangisi uluslararası temel çalışma normlarının kapsadığı konulardan biri değildir?",
+    "siklar": [
+      "Örgütlenme özgürlüğü ve toplu pazarlık hakkı",
+      "Serbest ticaretin yaygınlaştırılması",
+      "Zorla çalıştırmanın yasaklanması",
+      "Çocuk işçiliğinin ortadan kaldırılması",
+      "İş yaşamında ayrımcılığın önlenmesi"
+    ],
+    "dogru": 1,
+    "aciklama": "Temel çalışma normları örgütlenme özgürlüğü, zorla çalıştırma yasağı, çocuk işçiliğinin kaldırılması ve ayrımcılığın önlenmesini kapsar.",
+    "zorluk": "zor",
+    "kaynak": "ILO temel çalışma normları"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Uluslararası Çalışma Kuruluşları ve Normları",
+    "soru": "Uluslararası Çalışma Örgütünün en yüksek karar organı hangisidir?",
+    "siklar": [
+      "Yönetim Kurulu",
+      "Uluslararası Çalışma Bürosu",
+      "Uluslararası Çalışma Konferansı",
+      "Ekonomik ve Sosyal Konsey",
+      "Genel Kurul Komisyonu"
+    ],
+    "dogru": 2,
+    "aciklama": "Uluslararası Çalışma Konferansı, üye devletlerin temsilcilerinin katıldığı ve normların kabul edildiği organdır.",
+    "zorluk": "orta",
+    "kaynak": "ILO organları: Uluslararası Çalışma Konferansı"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Esneklik ve Güvenceli Esneklik",
+    "soru": "İşverenin, üretim miktarındaki değişmelere göre çalıştırdığı işçi sayısını ayarlayabilmesi hangi esneklik türüdür?",
+    "siklar": [
+      "Fonksiyonel esneklik",
+      "Çalışma süresi esnekliği",
+      "Sayısal esneklik",
+      "Ücret esnekliği",
+      "Coğrafi esneklik"
+    ],
+    "dogru": 2,
+    "aciklama": "Sayısal esneklik, istihdam düzeyinin iş yüküne göre değiştirilebilmesini ifade eder.",
+    "zorluk": "orta",
+    "kaynak": "İşgücü piyasası esnekliği müfredatı: esneklik türleri"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Esneklik ve Güvenceli Esneklik",
+    "soru": "İşçinin, farklı işlerde ve görevlerde çalıştırılabilmesi yani iş yükümlülüklerinin çeşitlendirilmesi hangi esneklik türüdür?",
+    "siklar": [
+      "Sayısal esneklik",
+      "Ücret esnekliği",
+      "Fonksiyonel esneklik",
+      "Dışsal esneklik",
+      "Zamana bağlı esneklik"
+    ],
+    "dogru": 2,
+    "aciklama": "Fonksiyonel esneklik, çok becerili işgücü sayesinde işçinin değişik görevlerde görevlendirilebilmesidir.",
+    "zorluk": "orta",
+    "kaynak": "İşgücü piyasası esnekliği müfredatı: esneklik türleri"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "Esneklik ve Güvenceli Esneklik",
+    "soru": "İşgücü piyasasında esnekliği istihdam güvencesiyle birlikte sağlamayı ve bunu aktif işgücü politikalarıyla desteklemeyi hedefleyen model hangisidir?",
+    "siklar": [
+      "Güvenceli esneklik",
+      "Katı istihdam koruması",
+      "İşgücü piyasası kuralsızlaştırması",
+      "Ücret katılığı",
+      "Tam korumalı istihdam rejimi"
+    ],
+    "dogru": 0,
+    "aciklama": "Güvenceli esneklik, işten çıkarma kolaylığını güçlü gelir güvencesi ve yeniden istihdam desteğiyle dengeler.",
+    "zorluk": "zor",
+    "kaynak": "İşgücü piyasası politikaları: güvenceli esneklik"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "İşsizlikle Mücadele Politikaları",
+    "soru": "İşsizlere mesleki eğitim verilmesi ve kamu istihdam kurumlarınca işe yerleştirme hizmeti sunulması hangi politika grubu kapsamındadır?",
+    "siklar": [
+      "Pasif işgücü piyasası politikaları",
+      "Gelir politikası",
+      "Para politikası",
+      "Sosyal yardım politikası",
+      "Aktif işgücü piyasası politikaları"
+    ],
+    "dogru": 4,
+    "aciklama": "Aktif politikalar işsizlerin istihdam edilebilirliğini artırmayı ve yeni iş olanakları yaratmayı amaçlar.",
+    "zorluk": "kolay",
+    "kaynak": "İşgücü piyasası politikaları: aktif politikalar"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "İşsizlikle Mücadele Politikaları",
+    "soru": "İşsizlik ödeneği ve gelir desteği niteliğindeki sosyal yardımlar hangi politika grubu içinde yer alır?",
+    "siklar": [
+      "Aktif işgücü piyasası politikaları",
+      "İstihdam teşvikleri",
+      "Mesleki eğitim programları",
+      "İşe yerleştirme hizmetleri",
+      "Pasif işgücü piyasası politikaları"
+    ],
+    "dogru": 4,
+    "aciklama": "Pasif politikalar gelir kaybını telafi etmeye yöneliktir; istihdam edilebilirliği artırmayı hedeflemez.",
+    "zorluk": "kolay",
+    "kaynak": "İşgücü piyasası politikaları: pasif politikalar"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "İşsizlikle Mücadele Politikaları",
+    "soru": "Ekonomik kriz veya zorunlu nedenlerle işyerindeki faaliyetin geçici olarak azalması hâlinde çalışanlara sağlanan destek hangisidir?",
+    "siklar": [
+      "Kısa çalışma ödeneği",
+      "İşsizlik ödeneği",
+      "Kıdem tazminatı",
+      "Ücret garanti fonu ödemesi",
+      "İhbar tazminatı"
+    ],
+    "dogru": 0,
+    "aciklama": "Kısa çalışma ödeneği, çalışma sürelerinin geçici olarak azaltıldığı dönemlerde gelir kaybını kısmen karşılar.",
+    "zorluk": "orta",
+    "kaynak": "4447 sayılı Kanun: kısa çalışma ödeneği"
+  },
+  {
+    "ders": "Çalışma Ekonomisi ve Endüstri İlişkileri",
+    "konu": "İşsizlikle Mücadele Politikaları",
+    "soru": "Türkiye'de istihdam hizmetlerini yürüten ve iş arayanlarla işverenleri eşleştiren kamu kurumu hangisidir?",
+    "siklar": [
+      "Sosyal Güvenlik Kurumu",
+      "Küçük ve Orta Ölçekli İşletmeleri Geliştirme İdaresi",
+      "Türkiye İstatistik Kurumu",
+      "Türkiye İş Kurumu",
+      "Kamu İhale Kurumu"
+    ],
+    "dogru": 3,
+    "aciklama": "Türkiye İş Kurumu, iş ve işçi bulma hizmetleri ile aktif ve pasif işgücü programlarını yürütür.",
+    "zorluk": "kolay",
+    "kaynak": "4904 sayılı Türkiye İş Kurumu Kanunu"
+  }
+]
