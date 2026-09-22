@@ -1,0 +1,1058 @@
+[
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Temel Hukuk Kavramları",
+  "soru": "Türk hukukunda aşağıdakilerden hangisi hukukun yardımcı (tali) kaynakları arasında yer alır?",
+  "siklar": [
+   "Anayasa ve yürürlükteki kanunlar",
+   "Yargı kararları ve bilimsel görüşler",
+   "Uluslararası andlaşmalar ile Cumhurbaşkanlığı kararnameleri",
+   "Cumhurbaşkanlığı yönetmelikleri ve diğer düzenleyici işlemler",
+   "Örf ve âdet hukuku kuralları"
+  ],
+  "dogru": 1,
+  "aciklama": "Yazılı kaynaklar ile örf ve âdet hukuku asli kaynaklardır; mahkeme kararları ve öğretideki bilimsel görüşler ise bağlayıcı olmayan yardımcı kaynaklardır.",
+  "zorluk": "orta",
+  "kaynak": "Genel hukuk teorisi: hukukun kaynakları"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Temel Hukuk Kavramları",
+  "soru": "Aşağıdakilerden hangisi kamu hukuku dallarından biri değildir?",
+  "siklar": [
+   "Borçlar hukuku",
+   "Anayasa hukuku",
+   "İdare hukuku",
+   "Ceza hukuku",
+   "Vergi hukuku"
+  ],
+  "dogru": 0,
+  "aciklama": "Borçlar hukuku, eşitler arasındaki ilişkileri düzenleyen özel hukuk dallarındandır; diğer seçenekler kamu gücünün kullanımını düzenler.",
+  "zorluk": "kolay",
+  "kaynak": "Genel hukuk teorisi: kamu hukuku ve özel hukuk ayrımı"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Temel Hukuk Kavramları",
+  "soru": "Medeni hukuka göre bir kişinin tam fiil ehliyetine sahip olabilmesi için ayırt etme gücünün yanında aşağıdakilerden hangisi gereklidir?",
+  "siklar": [
+   "En az ilkokul mezunu olmak",
+   "Türkiye'de yerleşmiş olmak",
+   "Ergin olmak ve kısıtlı olmamak",
+   "Mal bildiriminde bulunmuş olmak",
+   "Bir meslek sahibi olmak"
+  ],
+  "dogru": 2,
+  "aciklama": "Fiil ehliyetinin koşulları ayırt etme gücü, erginlik ve kısıtlı olmamaktır; öğrenim, yerleşim veya meslek sahibi olmak aranmaz.",
+  "zorluk": "kolay",
+  "kaynak": "Medeni hukuk müfredatı: ehliyet"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Temel Hukuk Kavramları",
+  "soru": "Medeni hukukta hak ehliyeti bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Herkes hak ehliyetine sahiptir ve bu ehliyet sağ doğumla kazanılır",
+   "Hak ehliyeti ancak ergin olmakla kazanılır",
+   "Hak ehliyeti ayırt etme gücüne sahip olmaya bağlıdır",
+   "Hak ehliyeti yalnızca Türk vatandaşlarına tanınmıştır",
+   "Hak ehliyeti mahkeme kararıyla verilir ve kaldırılabilir"
+  ],
+  "dogru": 0,
+  "aciklama": "Hak ehliyeti kişiliğin ayrılmaz bir parçasıdır; tam ve eşit olarak sağ doğumla kazanılır ve fiil ehliyetinden farklı olarak kişiden kişiye değişmez.",
+  "zorluk": "orta",
+  "kaynak": "Medeni hukuk müfredatı: hak ehliyeti ve fiil ehliyeti ayrımı"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Temel Hukuk Kavramları",
+  "soru": "Kişinin kusuru aranmaksızın, kanunun öngördüğü bir sebebe dayanarak zararı gidermekle yükümlü tutulduğu sorumluluk türü aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Kusura dayanan sorumluluk",
+   "Kusursuz sorumluluk (sebep sorumluluğu)",
+   "Akdi sorumluluk",
+   "Cezai sorumluluk",
+   "Ahlaki sorumluluk"
+  ],
+  "dogru": 1,
+  "aciklama": "Kanunun öngördüğü bazı hâllerde kişi kusuru olmasa da zararı gidermekle yükümlüdür; buna kusursuz sorumluluk veya sebep sorumluluğu denir.",
+  "zorluk": "orta",
+  "kaynak": "Borçlar hukuku: sorumluluğun türleri"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Temel Hukuk Kavramları",
+  "soru": "İdari bir işlemin hukuka aykırı bulunması hâlinde idari yargı tarafından verilen ve işlemi ortadan kaldıran yaptırım aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Tazminat",
+   "İptal",
+   "Cebri icra",
+   "Ceza",
+   "Hükümsüzlük"
+  ],
+  "dogru": 1,
+  "aciklama": "Hukuk kurallarının yaptırımları yerine göre ceza, cebri icra, tazminat, hükümsüzlük ve iptal olarak sıralanır; idari işlemi sona erdiren yaptırım iptaldir.",
+  "zorluk": "orta",
+  "kaynak": "Genel hukuk teorisi: hukuk kurallarının yaptırımları"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Temel Hukuk Kavramları",
+  "soru": "Normlar hiyerarşisinde aşağıdakilerden hangisi yönetmelikten üstte yer alır?",
+  "siklar": [
+   "Bakanlıkların çıkardığı genelge ve tebliğler",
+   "Kamu kurumlarının çıkardığı sirküler ve iç düzenlemeler",
+   "Cumhurbaşkanlığı kararnamesi",
+   "Kamu kurumu niteliğindeki meslek kuruluşlarının genelgeleri",
+   "Bakanlık birimlerinin resmî yazı ve talimatları"
+  ],
+  "dogru": 2,
+  "aciklama": "Anayasa, kanun ve Cumhurbaşkanlığı kararnamesi yönetmelikten üstte; tebliğ, genelge gibi adsız düzenleyici işlemler ise yönetmeliğin altındadır.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.124 ve normlar hiyerarşisi"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Temel Hukuk Kavramları",
+  "soru": "Aşağıdakilerden hangisi hukuk devleti ilkesinin gereklerinden biri değildir?",
+  "siklar": [
+   "İdarenin işlemlerinin yerindelik denetimine tabi tutulması",
+   "Temel hak ve hürriyetlerin güvence altına alınması",
+   "Yargının bağımsız ve tarafsız olması",
+   "Kanunların Anayasaya uygunluğunun denetlenmesi",
+   "İdarenin eylem ve işlemlerinin yargı denetimine bağlı olması"
+  ],
+  "dogru": 0,
+  "aciklama": "Anayasa m.125'e göre yargı yetkisi idari eylem ve işlemlerin hukuka uygunluğunun denetimiyle sınırlıdır; yerindelik denetimi yapılamaz. Bu nedenle yerindelik denetimi hukuk devletinin bir gereği değildir.",
+  "zorluk": "zor",
+  "kaynak": "1982 Anayasası m.2 ve m.125"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Temel Hak ve Ödevler",
+  "soru": "1982 Anayasası'na göre temel hak ve hürriyetlerin sınırlandırılması ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Sınırlama sebepleri idarenin düzenleyici işlemleriyle belirlenebilir",
+   "Sınırlama olağan dönemde Cumhurbaşkanlığı kararnamesiyle yapılabilir",
+   "Sınırlama, hakkın özüne dokunulmadan ve ancak kanunla yapılabilir",
+   "Kanuni dayanak bulunması hâlinde ölçülülük ilkesi aranmaz",
+   "Sınırlama Anayasanın ilgili maddesindeki sebeplere bağlı olmak zorunda değildir"
+  ],
+  "dogru": 2,
+  "aciklama": "Anayasa m.13'e göre temel hak ve hürriyetler özlerine dokunulmaksızın, Anayasanın ilgili maddesinde belirtilen sebeplere bağlı olarak ve ancak kanunla sınırlanabilir; sınırlama ölçülülük ilkesine de aykırı olamaz.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.13"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Temel Hak ve Ödevler",
+  "soru": "Anayasa'nın 12. maddesine göre temel hak ve hürriyetlerin niteliği ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Temel hak ve hürriyetler Devlet tarafından vatandaşlara bağışlanmış haklardır",
+   "Temel hak ve hürriyetler yalnızca Türk vatandaşları için tanınmıştır",
+   "Temel hak ve hürriyetler kanunla her zaman sınırlandırılabilir",
+   "Temel hak ve hürriyetlerden hukuken vazgeçilmesi mümkündür",
+   "Temel hak ve hürriyetler kişinin topluma karşı ödev ve sorumluluklarını da içerir"
+  ],
+  "dogru": 4,
+  "aciklama": "Anayasa m.12'ye göre herkes kişiliğine bağlı, dokunulmaz, devredilmez ve vazgeçilmez temel hak ve hürriyetlere sahiptir; bu haklar kişinin topluma karşı ödev ve sorumluluklarını da içerir.",
+  "zorluk": "kolay",
+  "kaynak": "1982 Anayasası m.12"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Temel Hak ve Ödevler",
+  "soru": "Anayasa'ya göre temel hak ve hürriyetlerin kullanılması hangi hâllerde kısmen veya tamamen durdurulabilir?",
+  "siklar": [
+   "Yalnızca savaş ve seferberlik hâllerinde",
+   "Ağır ekonomik bunalım ilan edilen dönemlerde",
+   "Seçim dönemlerinde ve seçimden sonraki altı ay içinde",
+   "Yalnızca Cumhurbaşkanının takdiriyle her zaman",
+   "Savaş, seferberlik veya olağanüstü hâllerde"
+  ],
+  "dogru": 4,
+  "aciklama": "Anayasa m.15'e göre savaş, seferberlik veya olağanüstü hâllerde, milletlerarası hukuktan doğan yükümlülükler ihlal edilmemek kaydıyla durumun gerektirdiği ölçüde temel hak ve hürriyetlerin kullanılması durdurulabilir.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.15"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Temel Hak ve Ödevler",
+  "soru": "Savaş, seferberlik veya olağanüstü hâllerde bile dokunulması yasak olan güvenceler arasında aşağıdakilerden hangisi yer alır?",
+  "siklar": [
+   "Haberleşme hürriyetinin hiçbir şekilde sınırlanamaması",
+   "Dernek kurma hürriyetinin askıya alınamaması",
+   "Suç ve cezaların geçmişe yürütülememesi",
+   "Mülkiyet hakkının kısıtlanamaması",
+   "Yerleşme ve seyahat hürriyetinin sınırlanamaması"
+  ],
+  "dogru": 2,
+  "aciklama": "Anayasa m.15'e göre savaş hukukuna uygun fiiller dışında kişinin yaşama hakkına ve maddi-manevi varlığının bütünlüğüne dokunulamaz; din, vicdan ve kanaatleri açıklamaya zorlanamama, suç ve cezaların geçmişe yürütülememesi ve masumiyet karinesi bu çekirdek güvencelerdendir.",
+  "zorluk": "zor",
+  "kaynak": "1982 Anayasası m.15"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Temel Hak ve Ödevler",
+  "soru": "Anayasa'nın 14. maddesinde düzenlenen temel hak ve hürriyetlerin kötüye kullanılamaması yasağı ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Yasak yalnızca siyasi partilerin faaliyetleriyle ve programlarıyla sınırlıdır",
+   "Yasağa aykırılığın yaptırımı doğrudan Anayasa metninde gösterilmiştir",
+   "Yasak yalnızca olağanüstü hâl dönemlerinde uygulanabilir",
+   "Hak ve hürriyetler, bölünmez bütünlüğü bozmayı amaçlayan faaliyetler için kullanılamaz",
+   "Anayasa hükümleri, hakların daraltılmasını amaçlayan biçimde yorumlanabilir"
+  ],
+  "dogru": 3,
+  "aciklama": "Anayasa m.14'e göre hak ve hürriyetler, Devletin ülkesi ve milletiyle bölünmez bütünlüğünü bozmayı ve insan haklarına dayanan demokratik ve laik Cumhuriyeti ortadan kaldırmayı amaçlayan faaliyetler biçiminde kullanılamaz; aykırı faaliyetlere uygulanacak müeyyideler kanunla düzenlenir.",
+  "zorluk": "zor",
+  "kaynak": "1982 Anayasası m.14"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Temel Hak ve Ödevler",
+  "soru": "Anayasa'ya göre temel hak ve hürriyetlerin yabancılar bakımından durumu nasıldır?",
+  "siklar": [
+   "Yabancılar temel hak ve hürriyetlerden hiçbir şekilde yararlanamaz",
+   "Temel hak ve hürriyetler yabancılar için milletlerarası hukuka uygun olarak kanunla sınırlanabilir",
+   "Yabancılar bakımından sınırlama ancak milletlerarası andlaşmayla yapılabilir",
+   "Yabancıların hakları yalnızca Cumhurbaşkanlığı kararnamesiyle sınırlanabilir",
+   "Yabancılar bakımından hiçbir sınırlama getirilemez, mutlak eşitlik geçerlidir"
+  ],
+  "dogru": 1,
+  "aciklama": "Anayasa m.16'ya göre temel hak ve hürriyetler, yabancılar için milletlerarası hukuka uygun olarak kanunla sınırlanabilir.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.16"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Temel Hak ve Ödevler",
+  "soru": "Anayasa'ya göre temel hak ve hürriyetlerin korunması bakımından Devletin yükümlülüğü aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Devlet yalnızca kesinleşmiş mahkeme kararlarını yerine getirmekle yükümlüdür",
+   "Devlet, haksız işlemlerden doğan zararı hiçbir hâlde tazmin etmekle yükümlü değildir",
+   "Devlet, hak ihlali iddialarını öncelikle idari yargıda çözmek zorundadır",
+   "Devlet yalnızca olağanüstü hâllerde hakların korunması için tedbir alır",
+   "Devlet, işlemlerinde başvurulacak kanun yollarını, mercileri ve süreleri belirtmek zorundadır"
+  ],
+  "dogru": 4,
+  "aciklama": "Anayasa m.40'a göre hak ve hürriyetleri ihlal edilen herkesin geciktirilmeden yetkili makama başvurma imkânı sağlanır; Devlet işlemlerinde kanun yollarını ve süreleri belirtmek zorundadır; resmî görevlilerin haksız işlemlerinden doğan zarar kural olarak Devletçe tazmin edilir.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.40"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Temel Hak ve Ödevler",
+  "soru": "Anayasanın bağlayıcılığı ve üstünlüğü ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Anayasa hükümleri yasama, yürütme ve yargı organlarını, idare makamlarını ve kişileri bağlar",
+   "Anayasa hükümleri yalnızca kamu organlarını bağlar, kişilere yükümlülük doğurmaz",
+   "Anayasa ile kanun arasında eşitlik ilişkisi vardır, ikisi de aynı düzeydedir",
+   "Anayasanın üstünlüğü yalnızca yargı organlarınca korunabilir",
+   "Anayasaya aykırı kanunlar kendiliğinden hükümsüz hâle gelir"
+  ],
+  "dogru": 0,
+  "aciklama": "Anayasa m.11'e göre Anayasa hükümleri yasama, yürütme ve yargı organlarını, idare makamlarını ve diğer kuruluş ve kişileri bağlayan temel hukuk kurallarıdır ve kanunlar Anayasaya aykırı olamaz.",
+  "zorluk": "kolay",
+  "kaynak": "1982 Anayasası m.11"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Kişi Hakları",
+  "soru": "Anayasa'ya göre kişinin maddi ve manevi varlığının korunması bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Kişinin vücut bütünlüğüne hiçbir hukuki sebeple dokunulamaz",
+   "Organ nakli Anayasa ile tamamen yasaklanmıştır",
+   "Tıbbi zorunluluk bulunmasa da vücut bütünlüğüne müdahale serbesttir",
+   "Kişi, rızası olmadan bilimsel ve tıbbi deneylere tabi tutulamaz",
+   "Kişinin özel hayatına müdahale yalnızca kendi rızasıyla mümkündür"
+  ],
+  "dogru": 3,
+  "aciklama": "Anayasa m.17'ye göre herkes yaşama, maddi ve manevi varlığını koruma ve geliştirme hakkına sahiptir; kişi rızası olmadan bilimsel ve tıbbi deneylere tabi tutulamaz, tıbbi zorunluluklar ve kanunda yazılı hâller dışında vücut bütünlüğüne dokunulamaz.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.17"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Kişi Hakları",
+  "soru": "Anayasa'ya göre aşağıdakilerden hangisi zorla çalıştırma sayılmaz?",
+  "siklar": [
+   "Angarya koşullarında yaptırılan beden çalışması",
+   "Hükümlülük süresi dışında zorla yaptırılan çalışma",
+   "Ücret ödenmeksizin zorla yaptırılan tarım işçiliği",
+   "Olağanüstü hâllerde vatandaşlardan istenecek hizmetler",
+   "İşten ayrılmak isteyene zorla yaptırılan fazla çalışma"
+  ],
+  "dogru": 3,
+  "aciklama": "Anayasa m.18'e göre zorla çalıştırma ve angarya yasaktır; ancak hükümlülük veya tutukluluk süreleri içindeki çalıştırmalar, olağanüstü hâllerde vatandaşlardan istenen hizmetler ve vatandaşlık ödevi niteliğindeki beden ve fikir çalışmaları zorla çalıştırma sayılmaz.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.18"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Kişi Hakları",
+  "soru": "Anayasa'ya göre yakalanan veya tutuklanan kişi, tutulma yerine en yakın mahkemeye gönderilmesi için gerekli süre hariç en geç ne kadar sürede hâkim önüne çıkarılır?",
+  "siklar": [
+   "Yirmi dört saat; toplu olarak işlenen suçlarda en çok iki gün",
+   "Kırk sekiz saat; toplu olarak işlenen suçlarda en çok dört gün",
+   "Yetmiş iki saat; toplu olarak işlenen suçlarda en çok beş gün",
+   "Kırk sekiz saat; toplu olarak işlenen suçlarda en çok on gün",
+   "Otuz altı saat; toplu olarak işlenen suçlarda en çok üç gün"
+  ],
+  "dogru": 1,
+  "aciklama": "Anayasa m.19 uyarınca yakalanan veya tutuklanan kişi en geç kırk sekiz saat, toplu olarak işlenen suçlarda en çok dört gün içinde hâkim önüne çıkarılır.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.19"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Kişi Hakları",
+  "soru": "Anayasa'ya göre kişisel verilerin korunması ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Kişisel verilerin işlenmesi yalnızca mahkeme kararına bağlıdır",
+   "Kişisel verilerin korunmasına ilişkin esaslar yönetmeliğe bırakılmıştır",
+   "Kişisel veriler ancak kanunda öngörülen hâllerde veya kişinin açık rızasıyla işlenebilir",
+   "Kişisel veriler ticari amaçla serbestçe işlenebilir ve aktarılabilir",
+   "Kişisel veriler bakımından hak, yalnızca düzeltme talebini kapsar"
+  ],
+  "dogru": 2,
+  "aciklama": "Anayasa m.20'ye göre herkes kendisiyle ilgili kişisel verilerin korunmasını isteme hakkına sahiptir; veriler ancak kanunda öngörülen hâllerde veya kişinin açık rızasıyla işlenebilir ve korunmaya ilişkin esas ve usuller kanunla düzenlenir.",
+  "zorluk": "kolay",
+  "kaynak": "1982 Anayasası m.20"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Kişi Hakları",
+  "soru": "Anayasa'ya göre konut dokunulmazlığı ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Konuta girme yalnızca savcılık izniyle mümkündür",
+   "Konut dokunulmazlığı hiçbir sebeple sınırlanamaz",
+   "Konuta girme ve arama kural olarak hâkim kararıyla mümkündür",
+   "Gecikmesinde sakınca bulunan hâllerde kolluk amirinin sözlü emri yeterlidir",
+   "Konutta arama yalnızca kişinin rızasıyla yapılabilir"
+  ],
+  "dogru": 2,
+  "aciklama": "Anayasa m.21'e göre kimsenin konutuna dokunulamaz; konuta girme, arama ve eşyaya el koyma usulüne göre verilmiş hâkim kararıyla veya gecikmesinde sakınca bulunan hâllerde kanunla yetkili kılınmış merciin yazılı emriyle olur ve bu karar yirmi dört saat içinde hâkim onayına sunulur.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.21"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Kişi Hakları",
+  "soru": "Anayasa'ya göre haberleşme hürriyeti ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Haberleşme hürriyeti idari makamların genel düzenlemesiyle sınırlanabilir",
+   "Haberleşmenin gizliliği yalnızca Türk vatandaşları bakımından geçerlidir",
+   "Haberleşmenin engellenmesi yalnızca savcılık kararıyla mümkündür",
+   "Haberleşmenin sınırlanmasında hâkim kararı hiçbir hâlde aranmaz",
+   "Haberleşmenin gizliliği esastır ve ancak kanunda belirtilen sebeplerle sınırlanabilir"
+  ],
+  "dogru": 4,
+  "aciklama": "Anayasa m.22'ye göre herkes haberleşme hürriyetine sahiptir ve haberleşmenin gizliliği esastır; sınırlama ancak millî güvenlik, kamu düzeni gibi sebeplerle hâkim kararı veya gecikmesinde sakınca bulunan hâllerde yetkili merciin yazılı emriyle mümkündür.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.22"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Kişi Hakları",
+  "soru": "Anayasa'ya göre din ve vicdan hürriyeti ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Kimse, ibadete, dinî ayin ve törenlere katılmaya zorlanamaz",
+   "Din ve vicdan hürriyeti yalnızca ibadet özgürlüğünü kapsar",
+   "Din eğitimi ve öğretimi Devletin gözetim ve denetimi dışındadır",
+   "Kimse, dinî inancını açıklamaya zorlanabilir ve bundan sorumlu tutulabilir",
+   "Din ve vicdan hürriyeti kanunla hiçbir şekilde sınırlanamaz"
+  ],
+  "dogru": 0,
+  "aciklama": "Anayasa m.24'e göre herkes vicdan, dinî inanç ve kanaat hürriyetine sahiptir; ibadet, dinî ayin ve törenler serbesttir, kimse bunlara katılmaya veya inancını açıklamaya zorlanamaz ve din eğitimi Devletin gözetim ve denetimi altında yapılır.",
+  "zorluk": "kolay",
+  "kaynak": "1982 Anayasası m.24"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Kişi Hakları",
+  "soru": "Anayasa'ya göre basın hürriyeti ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Basımevi kurmak malî teminat yatırma şartına bağlanabilir",
+   "Basın, önceden izin alma esasına göre faaliyet gösterir",
+   "Basın hürriyeti yalnızca süreli yayınları kapsar",
+   "Basın hürdür ve sansür edilemez; basımevi kurmak izin şartına bağlanamaz",
+   "Basının sınırlanması yalnızca yönetmelikle mümkündür"
+  ],
+  "dogru": 3,
+  "aciklama": "Anayasa m.28'e göre basın hürdür ve sansür edilemez; basımevi kurmak izin alma ve malî teminat yatırma şartına bağlanamaz, süreli ve süresiz yayın da önceden izne tabi tutulamaz.",
+  "zorluk": "kolay",
+  "kaynak": "1982 Anayasası m.28"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Kişi Hakları",
+  "soru": "Anayasa'ya göre suç ve cezalara ilişkin esaslar bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Kimse, işlendiği zaman yürürlükte bulunan kanunun suç saymadığı bir fiilden dolayı cezalandırılamaz",
+   "Suç ve ceza hükümleri Cumhurbaşkanlığı kararnamesiyle konulabilir",
+   "Suçluluğu mahkeme kararıyla saptanıncaya kadar kişi suçlu sayılabilir",
+   "Cezalar geçmişe yürütülebilir, ancak ağırlaştırıcı hükümler uygulanamaz",
+   "Kanunsuz suç olmaz, ancak idari yaptırımlar bakımından kural geçerli değildir"
+  ],
+  "dogru": 0,
+  "aciklama": "Anayasa m.38'e göre kanunilik, geçmişe yürümezlik ve masumiyet karinesi esastır; kimse işlendiği zaman kanunun suç saymadığı fiilden dolayı cezalandırılamaz ve kimseye suçu işlediği zamanki cezadan daha ağır ceza verilemez.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.38"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Sosyal ve Ekonomik Haklar",
+  "soru": "Anayasa'ya göre ailenin korunması ve çocuk hakları ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Aile, Anayasa'da yalnızca ekonomik bir birlik olarak tanımlanmıştır",
+   "Devlet, ailenin korunması için tedbir almakla yükümlü değildir",
+   "Çocuk hakları Anayasa'da hiç düzenlenmemiştir",
+   "Aile, Türk toplumunun temelidir ve eşler arasında eşitliğe dayanır",
+   "Aile birliğinin korunması yalnızca mahkemelerin görevidir"
+  ],
+  "dogru": 3,
+  "aciklama": "Anayasa m.41'e göre aile Türk toplumunun temelidir ve eşler arasında eşitliğe dayanır; Devlet ailenin huzur ve refahı ile çocukların korunması için gerekli tedbirleri alır.",
+  "zorluk": "kolay",
+  "kaynak": "1982 Anayasası m.41"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Sosyal ve Ekonomik Haklar",
+  "soru": "Anayasa'ya göre eğitim ve öğrenim hakkı ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Eğitim ve öğretim, Devletin gözetim ve denetimi dışında serbestçe yapılabilir",
+   "Yükseköğretimin tamamı Anayasa bakımından parasız olmak zorundadır",
+   "İlköğretim, kız ve erkek bütün vatandaşlar için zorunludur ve Devlet okullarında parasızdır",
+   "Eğitim öğretim hürriyeti, Anayasaya sadakat borcunu ortadan kaldırır",
+   "Özel okullar, Devlet okullarından bağımsız esaslara göre kurulabilir"
+  ],
+  "dogru": 2,
+  "aciklama": "Anayasa m.42'ye göre kimse eğitim ve öğrenim hakkından yoksun bırakılamaz; eğitim Devletin gözetim ve denetimi altında yapılır, ilköğretim kız ve erkek bütün vatandaşlar için zorunludur ve Devlet okullarında parasızdır.",
+  "zorluk": "kolay",
+  "kaynak": "1982 Anayasası m.42"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Sosyal ve Ekonomik Haklar",
+  "soru": "Anayasa'ya göre kamulaştırma ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Kamulaştırma bedeli her hâlde taksitle ödenir ve süre sınırı yoktur",
+   "Kamulaştırma, gerçek karşılığın peşin ödenmesi şartıyla yapılır",
+   "Kamulaştırma yalnızca taşınır mallar bakımından mümkündür",
+   "Kamulaştırma, bedel ödenmeden idari işlemle tamamlanır",
+   "Kamulaştırmada taşınmaz üzerinde idari irtifak kurulamaz"
+  ],
+  "dogru": 1,
+  "aciklama": "Anayasa m.46'ya göre Devlet ve kamu tüzel kişileri, kamu yararının gerektirdiği hâllerde gerçek karşılığı peşin ödeyerek taşınmazları kamulaştırabilir; kanunun taksitle ödemeye izin verdiği hâllerde taksit süresi beş yılı aşamaz.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.46"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Sosyal ve Ekonomik Haklar",
+  "soru": "Anayasa'ya göre çalışma şartları ve dinlenme hakkı bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Dinlenme hakkı Anayasa'da yalnızca işçiler için düzenlenmiştir",
+   "Ücretli hafta tatili ve yıllık ücretli izin hakkı Anayasa'da yer almaz",
+   "Çalışma şartları yalnızca toplu iş sözleşmesiyle belirlenebilir",
+   "Kadınlar ve çocuklar çalışma bakımından özel olarak korunmaz",
+   "Kimse, yaşına, cinsiyetine ve gücüne uymayan işlerde çalıştırılamaz"
+  ],
+  "dogru": 4,
+  "aciklama": "Anayasa m.50'ye göre kimse yaşına, cinsiyetine ve gücüne uymayan işlerde çalıştırılamaz; dinlenme hakkı, ücretli hafta tatili ve yıllık ücretli izin hakkı vardır, kadınlar ile çocuklar çalışma bakımından özel olarak korunur.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.50"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Sosyal ve Ekonomik Haklar",
+  "soru": "Anayasa'ya göre sosyal güvenlik hakkı ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Sosyal güvenlik hakkı yalnızca çalışanlara tanınmıştır",
+   "Herkes sosyal güvenlik hakkına sahiptir ve Devlet bu güvenliği sağlar",
+   "Devlet, sosyal güvenlik teşkilatı kurmakla yükümlü değildir",
+   "Sosyal güvenlik hakkı Anayasal korumanın dışında tutulmuştur",
+   "Sosyal güvenlik yardımları yalnızca vergi gelirleriyle karşılanır"
+  ],
+  "dogru": 1,
+  "aciklama": "Anayasa m.60'a göre herkes sosyal güvenlik hakkına sahiptir ve Devlet bu güvenliği sağlayacak gerekli tedbirleri almak ve teşkilatı kurmakla görevlidir.",
+  "zorluk": "kolay",
+  "kaynak": "1982 Anayasası m.60"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Sosyal ve Ekonomik Haklar",
+  "soru": "Anayasa'ya göre Devletin iktisadi ve sosyal ödevlerinin sınırları bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Devlet bu görevlerini mali kaynaklarının yeterliliği ölçüsünde yerine getirir",
+   "Devletin sosyal ve ekonomik görevleri bakımından kaynak sınırı gözetilemez",
+   "Sosyal ve ekonomik haklar yargı önünde hiçbir şekilde ileri sürülemez",
+   "Devlet bu görevlerini yalnızca olağanüstü hâllerde yerine getirir",
+   "Bu görevlerin yerine getirilmesinde amaç ve öncelik sırası gözetilemez"
+  ],
+  "dogru": 0,
+  "aciklama": "Anayasa m.65'e göre Devlet, sosyal ve ekonomik alanlarda Anayasa ile belirlenen görevlerini, bu görevlerin amaçlarına uygun öncelikleri gözeterek malî kaynaklarının yeterliliği ölçüsünde yerine getirir.",
+  "zorluk": "zor",
+  "kaynak": "1982 Anayasası m.65"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Siyasi Haklar",
+  "soru": "Anayasa'ya göre Türk vatandaşlığı ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Türk Devletine vatandaşlık bağı ile bağlı olan herkes Türktür",
+   "Türk vatandaşlığı yalnızca doğum yeri esasına göre kazanılır",
+   "Vatandaşlık kanunla kazanılır ancak hiçbir şekilde kaybedilemez",
+   "Vatandaşlıktan çıkarma işlemlerine karşı yargı yolu kapalıdır",
+   "Vatandaşlık, her hâlde soya bağlı olarak kazanılır ve kaybedilmez"
+  ],
+  "dogru": 0,
+  "aciklama": "Anayasa m.66'ya göre Türk Devletine vatandaşlık bağı ile bağlı olan herkes Türktür; vatandaşlık kanunun gösterdiği şartlarla kazanılır, ancak kanunda belirtilen hâllerde kaybedilir ve çıkarma işlemlerine karşı yargı yolu kapatılamaz.",
+  "zorluk": "kolay",
+  "kaynak": "1982 Anayasası m.66"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Siyasi Haklar",
+  "soru": "Anayasa'ya göre seçimler ve halkoylaması hangi esaslara göre yapılır?",
+  "siklar": [
+   "Serbest, eşit, gizli, tek dereceli, genel oy, açık sayım ve döküm esaslarına göre",
+   "Serbest, eşit, açık oy ve gizli sayım ve döküm esaslarına göre",
+   "Genel, eşit, iki dereceli, gizli oy ve kapalı sayım esaslarına göre",
+   "Zorunlu, eşit, açık oy ve gizli sayım ve döküm esaslarına göre",
+   "Serbest, eşit, gizli ve iki dereceli oy esaslarına göre"
+  ],
+  "dogru": 0,
+  "aciklama": "Anayasa m.67'ye göre seçimler ve halkoylaması serbest, eşit, gizli, tek dereceli, genel oy, açık sayım ve döküm esaslarına göre yargı yönetim ve denetimi altında yapılır.",
+  "zorluk": "kolay",
+  "kaynak": "1982 Anayasası m.67"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Siyasi Haklar",
+  "soru": "Anayasa'ya göre aşağıdakilerden hangisi seçme hakkını kullanamaz?",
+  "siklar": [
+   "On sekiz yaşını doldurmuş üniversite öğrencileri",
+   "Yurt dışında yaşayan Türk vatandaşları",
+   "Kamu kurumlarında görev yapan memurlar ve sözleşmeli personel",
+   "Serbest meslek sahibi vatandaşlar",
+   "Silah altında bulunan er ve erbaşlar ile askerî öğrenciler"
+  ],
+  "dogru": 4,
+  "aciklama": "Anayasa m.67'ye göre silah altında bulunan er ve erbaşlar ile askerî öğrenciler, taksirli suçlardan hüküm giyenler hariç olmak üzere hükümlüler oy kullanamaz; yurt dışındaki vatandaşlar için kanun uygulanabilir tedbirler belirler.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.67"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Siyasi Haklar",
+  "soru": "Anayasa'ya göre siyasi parti kurma ve partilere üyelik bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Siyasi partiler kurulabilmek için İçişleri Bakanlığından izin almak zorundadır",
+   "Siyasi partiler önceden izin almadan kurulur ve parti üyeliği için on sekiz yaşını doldurmak gerekir",
+   "Parti üyesi olabilmek için yirmi bir yaşını doldurmak gerekir",
+   "Hâkimler ve savcılar siyasi partilere üye olabilir ve yönetiminde yer alabilir",
+   "Siyasi partilerin tüzük ve programları Anayasaya aykırı olabilir"
+  ],
+  "dogru": 1,
+  "aciklama": "Anayasa m.68'e göre vatandaşlar siyasi parti kurma ve partilere girme hakkına sahiptir; partiler önceden izin almadan kurulur ve üyelik için on sekiz yaş gerekir; hâkimler, savcılar ve belirli kamu görevlileri parti üyesi olamaz.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.68"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Siyasi Haklar",
+  "soru": "Anayasa'ya göre kamu hizmetlerine girme hakkı ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Kamu hizmetlerine girmede cinsiyet ve düşünce ayrımı gözetilebilir",
+   "Kamu hizmetine girenler mal bildiriminde bulunmaktan muaftır",
+   "Kamu görevlileri siyasi partilere üye olabilir ve bu kısıtlanamaz",
+   "Hizmete alınmada, görevin gerektirdiği niteliklerden başka hiçbir ayırım gözetilemez",
+   "Kamu hizmetlerine girme hakkı yalnızca belirli meslek gruplarına tanınmıştır"
+  ],
+  "dogru": 3,
+  "aciklama": "Anayasa m.70'e göre her Türk kamu hizmetlerine girme hakkına sahiptir ve hizmete alınmada görevin gerektirdiği niteliklerden başka bir ayrım gözetilemez; mal bildirimi ise m.71 uyarınca kanunla düzenlenir.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.70 ve m.71"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Siyasi Haklar",
+  "soru": "Anayasa'ya göre dilekçe, bilgi edinme ve kamu denetçisine başvurma hakkı ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Kamu Denetçiliği Kurumu TBMM Başkanlığına bağlıdır",
+   "Kamu Başdenetçisi Cumhurbaşkanı tarafından üç yıl için atanır",
+   "Kamu Denetçiliği Kurumu Anayasa Mahkemesine bağlı olarak kurulmuştur",
+   "Dilekçe hakkı yalnızca Türk vatandaşlarına tanınmış olup yabancıları kapsamaz",
+   "Dilekçe sonuçlarının yazılı olarak bildirilmesi zorunlu değildir"
+  ],
+  "dogru": 0,
+  "aciklama": "Anayasa m.74'e göre vatandaşlar ve karşılıklılık esası gözetilmek kaydıyla Türkiye'de ikamet eden yabancılar dilekçe hakkına sahiptir; herkes bilgi edinme ve kamu denetçisine başvurma hakkına sahiptir, kurum TBMM Başkanlığına bağlıdır ve Başdenetçi TBMM tarafından gizli oyla dört yıl için seçilir.",
+  "zorluk": "zor",
+  "kaynak": "1982 Anayasası m.74"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yasama",
+  "soru": "Anayasa'ya göre Türkiye Büyük Millet Meclisi kaç milletvekilinden oluşur?",
+  "siklar": [
+   "Beş yüz elli milletvekili",
+   "Dört yüz milletvekili",
+   "Altı yüz elli milletvekili",
+   "Beş yüz milletvekili",
+   "Altı yüz milletvekili"
+  ],
+  "dogru": 4,
+  "aciklama": "Anayasa m.75'e göre TBMM genel oyla seçilen altı yüz milletvekilinden oluşur; 2017 değişikliği ile üye sayısı altı yüze çıkarılmıştır.",
+  "zorluk": "kolay",
+  "kaynak": "1982 Anayasası m.75 (2017 değişikliği)"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yasama",
+  "soru": "Anayasa'ya göre milletvekili seçilme yeterliliği bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Yirmi beş yaşını dolduran her Türk milletvekili seçilebilir",
+   "Milletvekili seçilebilmek için en az lise mezunu olmak gerekir",
+   "Yalnızca yükseköğrenim görmüş kişiler milletvekili seçilebilir",
+   "On sekiz yaşını dolduran her Türk milletvekili seçilebilir",
+   "Milletvekili seçilmek için en az on yıl kamu hizmeti şarttır"
+  ],
+  "dogru": 3,
+  "aciklama": "Anayasa m.76'ya göre on sekiz yaşını dolduran her Türk milletvekili seçilebilir; adaylık için belirli bir öğrenim düzeyi veya kamu hizmeti süresi aranmaz.",
+  "zorluk": "kolay",
+  "kaynak": "1982 Anayasası m.76"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yasama",
+  "soru": "Anayasa'ya göre Türkiye Büyük Millet Meclisi üyeleri kimleri temsil eder?",
+  "siklar": [
+   "Seçildikleri bölgeyi veya kendilerini seçenleri değil, bütün Milleti temsil ederler",
+   "Yalnızca kendilerini seçen seçmenleri temsil ederler",
+   "Öncelikle seçildikleri bölgenin yerel çıkarlarını temsil ederler",
+   "Üyesi oldukları siyasi partinin programını temsil ederler",
+   "Temsil görevi TBMM Başkanlığına ait olup üyeler vekil sayılmaz"
+  ],
+  "dogru": 0,
+  "aciklama": "Anayasa m.80'e göre milletvekilleri seçildikleri bölgeyi veya kendilerini seçenleri değil, bütün Milleti temsil eder; bu nedenle kendilerine bağlayıcı talimat verilemez.",
+  "zorluk": "kolay",
+  "kaynak": "1982 Anayasası m.80"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yasama",
+  "soru": "Anayasa'ya göre yasama dokunulmazlığı ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Milletvekilleri hiçbir suçtan dolayı yargılanamaz ve ceza sorumluluğu yoktur",
+   "Milletvekili, Meclis kararı olmadıkça tutulamaz ve yargılanamaz",
+   "Dokunulmazlık yalnızca seçimden sonra işlenen suçları kapsar",
+   "Dokunulmazlığın kaldırılmasına Anayasa Mahkemesi karar verir",
+   "Ağır cezayı gerektiren suçüstü hâli de Meclis kararını gerektirir"
+  ],
+  "dogru": 1,
+  "aciklama": "Anayasa m.83'e göre seçimden önce veya sonra bir suç işlediği ileri sürülen milletvekili Meclis kararı olmadıkça tutulamaz, sorguya çekilemez, tutuklanamaz ve yargılanamaz; ağır cezayı gerektiren suçüstü hâli ile m.14 kapsamındaki durumlar istisnadır.",
+  "zorluk": "zor",
+  "kaynak": "1982 Anayasası m.83"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yasama",
+  "soru": "Anayasa'ya göre aşağıdakilerden hangisi Türkiye Büyük Millet Meclisinin görev ve yetkileri arasında yer alır?",
+  "siklar": [
+   "Kanunların Anayasaya uygunluğunu denetlemek",
+   "Bütçe kanun teklifini hazırlayıp Meclise sunmak",
+   "Genel ve özel af ilanına karar vermek",
+   "Cumhurbaşkanlığı kararnamesi çıkarmak",
+   "Milletlerarası andlaşmaları onaylayıp yayımlamak"
+  ],
+  "dogru": 2,
+  "aciklama": "Anayasa m.87'ye göre TBMM kanun koymak, bütçe ve kesinhesap kanun tekliflerini görüşüp kabul etmek, para basılmasına ve savaş ilanına karar vermek, andlaşmaların onaylanmasını uygun bulmak ve üye tamsayısının beşte üç çoğunluğuyla genel ve özel af ilanına karar vermek yetkilerine sahiptir.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.87"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yasama",
+  "soru": "Anayasa'ya göre Cumhurbaşkanının geri gönderdiği bir kanunun Cumhurbaşkanınca yayımlanması için TBMM hangi çoğunlukla kabul etmelidir?",
+  "siklar": [
+   "Üye tamsayısının üçte iki çoğunluğuyla aynen kabul",
+   "Üye tamsayısının beşte üç çoğunluğuyla aynen kabul",
+   "Toplantıya katılanların salt çoğunluğuyla aynen kabul",
+   "Üye tamsayısının dörtte üç çoğunluğuyla aynen kabul",
+   "Üye tamsayısının salt çoğunluğuyla aynen kabul"
+  ],
+  "dogru": 4,
+  "aciklama": "Anayasa m.89'a göre Cumhurbaşkanı kanunları on beş gün içinde yayımlar; uygun bulmadığı kanunları gerekçesiyle Meclise geri gönderir ve Meclis kanunu üye tamsayısının salt çoğunluğuyla aynen kabul ederse kanun yayımlanır.",
+  "zorluk": "zor",
+  "kaynak": "1982 Anayasası m.89"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yasama",
+  "soru": "Anayasa'ya göre temel hak ve özgürlüklere ilişkin milletlerarası andlaşmalarla kanunların aynı konuda farklı hükümler içermesi hâlinde hangisi esas alınır?",
+  "siklar": [
+   "Kanun hükümleri esas alınır",
+   "Uyuşmazlığı Anayasa Mahkemesi kesin olarak çözer",
+   "Cumhurbaşkanı hangi metnin uygulanacağını belirler",
+   "Sonraki tarihli düzenleme esas alınır",
+   "Milletlerarası andlaşma hükümleri esas alınır"
+  ],
+  "dogru": 4,
+  "aciklama": "Anayasa m.90'a göre usulüne göre yürürlüğe konulmuş temel hak ve özgürlüklere ilişkin milletlerarası andlaşmalarla kanunların farklı hükümler içermesi nedeniyle çıkabilecek uyuşmazlıklarda andlaşma hükümleri esas alınır.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.90"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yasama",
+  "soru": "Anayasa'ya göre aşağıdakilerden hangisi Türkiye Büyük Millet Meclisinin bilgi edinme ve denetleme yolları arasında yer almaz?",
+  "siklar": [
+   "Meclis araştırması",
+   "Genel görüşme",
+   "Meclis soruşturması",
+   "Yazılı soru",
+   "Gensoru"
+  ],
+  "dogru": 4,
+  "aciklama": "Anayasa m.98'e göre TBMM bilgi edinme ve denetleme yetkisini Meclis araştırması, genel görüşme, Meclis soruşturması ve yazılı soru yollarıyla kullanır; gensoru 2017 değişikliği ile kaldırılmıştır.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.98 (2017 değişikliği)"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yürütme",
+  "soru": "Anayasa'ya göre Cumhurbaşkanı seçilebilmek için aşağıdaki şartlardan hangisi aranır?",
+  "siklar": [
+   "Otuz beş yaşını doldurmuş ve en az lise mezunu olmak yeterlidir",
+   "Kırk beş yaşını doldurmuş ve kamu görevlisi olarak çalışıyor olmak yeterlidir",
+   "Kırk yaşını doldurmuş, yükseköğrenim yapmış ve milletvekili seçilme yeterliliğine sahip olmak",
+   "Kırk yaşını doldurmuş ve en az iki dönem milletvekilliği yapmış olmak şarttır",
+   "Otuz yaşını doldurmuş ve yükseköğrenim görmüş olmak yeterlidir"
+  ],
+  "dogru": 2,
+  "aciklama": "Anayasa m.101'e göre Cumhurbaşkanı, kırk yaşını doldurmuş, yükseköğrenim yapmış ve milletvekili seçilme yeterliliğine sahip Türk vatandaşları arasından doğrudan halk tarafından seçilir.",
+  "zorluk": "kolay",
+  "kaynak": "1982 Anayasası m.101"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yürütme",
+  "soru": "Anayasa'ya göre Cumhurbaşkanının görev süresi ve yeniden seçilme durumu nasıldır?",
+  "siklar": [
+   "Yedi yıl için seçilir ve yalnızca bir defa seçilebilir",
+   "Dört yıl için seçilir ve yeniden seçilmesinde süre sınırı yoktur",
+   "Beş yıl için seçilir ve en fazla iki defa seçilebilir",
+   "Beş yıl için seçilir ve en fazla üç defa seçilebilir",
+   "Altı yıl için seçilir ve yeniden seçilemez"
+  ],
+  "dogru": 2,
+  "aciklama": "Anayasa m.101'e göre Cumhurbaşkanının görev süresi beş yıldır ve bir kimse en fazla iki defa Cumhurbaşkanı seçilebilir.",
+  "zorluk": "kolay",
+  "kaynak": "1982 Anayasası m.101"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yürütme",
+  "soru": "Anayasa'ya göre aşağıdakilerden hangisi Cumhurbaşkanının görev ve yetkileri arasında yer alır?",
+  "siklar": [
+   "Kanunları Anayasaya uygunluk bakımından denetlemek ve iptal etmek",
+   "Genel ve özel af ilanına karar vermek ve uygulamak",
+   "Yargı organlarının kesinleşmiş kararlarını değiştirmek",
+   "Kanunları yayımlamak ve uygun bulmadığı kanunları Meclise geri göndermek",
+   "Bütçe kanununa bütçe dışı hükümler koymak"
+  ],
+  "dogru": 3,
+  "aciklama": "Anayasa m.104'e göre Cumhurbaşkanı Devletin başıdır ve yürütme yetkisi ona aittir; kanunları yayımlar, gerekli gördüğü takdirde Meclise geri gönderir, andlaşmaları onaylar ve Cumhurbaşkanlığı kararnamesi çıkarır.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.104"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yürütme",
+  "soru": "Anayasa'ya göre Cumhurbaşkanlığı kararnamesi ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Kararnameler kanunları değiştirebilir ve yürürlükten kaldırabilir",
+   "Kararnameyle temel hak ve hürriyetler serbestçe sınırlandırılabilir",
+   "Kararnameler TBMM'nin uygun bulma kararı olmadan yürürlüğe girmez",
+   "Kararnameler yalnızca olağanüstü hâllerde çıkarılabilir",
+   "Kararname ile kanunlarda farklı hüküm bulunması hâlinde kanun hükümleri uygulanır"
+  ],
+  "dogru": 4,
+  "aciklama": "Anayasa m.104'e göre Cumhurbaşkanı yürütme yetkisine ilişkin konularda Cumhurbaşkanlığı kararnamesi çıkarabilir; kararnameyle kanunlarda farklı hüküm bulunması hâlinde kanun hükümleri uygulanır ve kararnameyle kanunla düzenlenen konularda düzenleme yapılamaz.",
+  "zorluk": "zor",
+  "kaynak": "1982 Anayasası m.104"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yürütme",
+  "soru": "Anayasa'ya göre Cumhurbaşkanı yardımcıları ve bakanların göreve gelmesi ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Bakanlar TBMM'nin güvenoyuyla göreve başlar ve görevde kalır",
+   "Cumhurbaşkanı yardımcıları ve bakanlar Cumhurbaşkanınca atanır ve görevden alınır",
+   "Bakanlar tek tek veya toplu olarak gensoru yoluyla düşürülebilir",
+   "Bakanların atanması TBMM Genel Kurulunun onayına bağlıdır",
+   "Cumhurbaşkanı yardımcıları doğrudan halk tarafından seçilir"
+  ],
+  "dogru": 1,
+  "aciklama": "2017 değişikliği sonrası Cumhurbaşkanı yardımcıları ve bakanlar Cumhurbaşkanınca atanır ve görevden alınır; bakanlar Meclis dışından da atanabilir ve gensoru yolu kaldırılmıştır.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.106 (2017 değişikliği)"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yürütme",
+  "soru": "Anayasa'ya göre Cumhurbaşkanı hakkında bir suç işlediği iddiasıyla soruşturma açılmasına Meclisin hangi çoğunlukla karar verebileceği öngörülmüştür?",
+  "siklar": [
+   "Üye tamsayısının salt çoğunluğunun gizli oyuyla",
+   "Üye tamsayısının üçte iki çoğunluğunun açık oyuyla",
+   "Üye tamsayısının beşte üçünün gizli oyuyla",
+   "Üye tamsayısının dörtte üçünün gizli oyuyla",
+   "Toplantıya katılanların salt çoğunluğunun açık oyuyla"
+  ],
+  "dogru": 2,
+  "aciklama": "Anayasa m.105'e göre soruşturma açılması üye tamsayısının salt çoğunluğunun vereceği önergeyle istenir; Meclis önergeyi en geç bir ay içinde görüşerek üye tamsayısının beşte üçünün gizli oyuyla soruşturma açılmasına karar verebilir.",
+  "zorluk": "zor",
+  "kaynak": "1982 Anayasası m.105"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yürütme",
+  "soru": "Anayasa'ya göre Türkiye Büyük Millet Meclisinin seçimlerin yenilenmesine karar verebilmesi için gereken çoğunluk nedir?",
+  "siklar": [
+   "Üye tamsayısının salt çoğunluğu",
+   "Üye tamsayısının üçte iki çoğunluğu",
+   "Toplantıya katılanların üçte iki çoğunluğu",
+   "Üye tamsayısının dörtte üç çoğunluğu",
+   "Üye tamsayısının beşte üç çoğunluğu"
+  ],
+  "dogru": 4,
+  "aciklama": "Anayasa m.116'ya göre TBMM üye tamsayısının beşte üç çoğunluğuyla seçimlerin yenilenmesine karar verebilir; Cumhurbaşkanı da seçimlerin yenilenmesine karar verebilir.",
+  "zorluk": "zor",
+  "kaynak": "1982 Anayasası m.116"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yürütme",
+  "soru": "Anayasa'ya göre olağanüstü hâl ilanı ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Olağanüstü hâl ilanı ancak TBMM'nin önceden vereceği kararla mümkündür",
+   "Olağanüstü hâl kararı Resmî Gazetede yayımlandıktan otuz gün sonra Meclisin onayına sunulur",
+   "Olağanüstü hâl en çok üç ay için ilan edilebilir ve süresi uzatılamaz",
+   "Olağanüstü hâl ilanı kararı verildiği gün Resmî Gazetede yayımlanır ve aynı gün TBMM'nin onayına sunulur",
+   "Olağanüstü hâl ilan edilmesi hâlinde Meclis tatilde ise toplantıya çağırılmaz"
+  ],
+  "dogru": 3,
+  "aciklama": "Anayasa m.119'a göre Cumhurbaşkanı, belirtilen hâllerde yurdun tamamında veya bir bölgesinde süresi altı ayı geçmemek üzere olağanüstü hâl ilan edebilir; karar verildiği gün Resmî Gazetede yayımlanır ve aynı gün TBMM'nin onayına sunulur.",
+  "zorluk": "zor",
+  "kaynak": "1982 Anayasası m.119 (2017 değişikliği)"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yargı",
+  "soru": "Anayasa'ya göre mahkemelerin bağımsızlığı ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Mahkemeler yargı yetkisini kullanırken Adalet Bakanlığının talimatına uyar",
+   "Görülmekte olan bir dava hakkında TBMM Genel Kurulunda görüşme yapılabilir",
+   "Hâkimler görevlerinden dolayı yürütme organına karşı sorumludur",
+   "Hâkimler görevlerinde bağımsızdır ve vicdani kanaatlerine göre hüküm verirler",
+   "Mahkeme kararlarının yerine getirilmesi idarenin takdirine bırakılabilir"
+  ],
+  "dogru": 3,
+  "aciklama": "Anayasa m.138'e göre hâkimler görevlerinde bağımsızdır; yasama ve yürütme organları ile idare mahkeme kararlarına uymak zorundadır ve görülmekte olan davalar hakkında Mecliste görüşme yapılamaz.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.138"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yargı",
+  "soru": "Anayasa'ya göre duruşmalar ve mahkeme kararları ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Duruşmalar kural olarak kapalı yapılır, açıklık ise istisnadır",
+   "Mahkeme kararlarının gerekçeli olarak yazılması zorunlu değildir",
+   "Duruşmanın kapalı yapılmasına yalnızca taraflar karar verebilir",
+   "Duruşmaların açık olması esastır ve kararlar gerekçeli yazılır",
+   "Kararların gerekçesi yalnızca temyiz aşamasında yazılır"
+  ],
+  "dogru": 3,
+  "aciklama": "Anayasa m.141'e göre mahkemelerde duruşmalar herkese açıktır; genel ahlakın veya kamu güvenliğinin gerekli kıldığı hâllerde duruşmanın bir kısmı veya tamamı kapalı yapılabilir ve bütün mahkeme kararları gerekçeli olarak yazılır.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.141"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yargı",
+  "soru": "Anayasa'ya göre Anayasa Mahkemesi kaç üyeden oluşur?",
+  "siklar": [
+   "On bir üye",
+   "On beş üye",
+   "On üç üye",
+   "On yedi üye",
+   "Yirmi bir üye"
+  ],
+  "dogru": 1,
+  "aciklama": "Anayasa m.146'ya göre Anayasa Mahkemesi on beş üyeden kurulur; üyelerin bir kısmını TBMM, bir kısmını ise Cumhurbaşkanı seçer.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.146"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yargı",
+  "soru": "Anayasa'ya göre aşağıdakilerden hangisi Anayasa Mahkemesinin görevleri arasında yer almaz?",
+  "siklar": [
+   "Kanunların Anayasaya uygunluğunu denetlemek",
+   "Cumhurbaşkanlığı kararnamelerinin Anayasaya uygunluğunu denetlemek",
+   "Anayasa değişikliklerini esas bakımından denetlemek",
+   "Bireysel başvuruları karara bağlamak",
+   "TBMM İçtüzüğünün Anayasaya uygunluğunu denetlemek"
+  ],
+  "dogru": 2,
+  "aciklama": "Anayasa m.148'e göre Anayasa Mahkemesi kanunların, Cumhurbaşkanlığı kararnamelerinin ve TBMM İçtüzüğünün Anayasaya uygunluğunu denetler ve bireysel başvuruları karara bağlar; Anayasa değişikliklerini ise yalnızca şekil bakımından inceler.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.148"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yargı",
+  "soru": "Anayasa'ya göre bir davaya bakmakta olan mahkemenin, uygulanacak kanun hükmünü Anayasaya aykırı görmesi hâlinde başvurduğu yol aşağıdakilerden hangisidir?",
+  "siklar": [
+   "İptal davası",
+   "Bireysel başvuru",
+   "Temyiz yolu",
+   "İtiraz (def'i) yolu",
+   "Uyuşmazlık Mahkemesine başvuru"
+  ],
+  "dogru": 3,
+  "aciklama": "Anayasa m.152'ye göre mahkeme, uygulanacak kanun veya Cumhurbaşkanlığı kararnamesi hükmünü Anayasaya aykırı görürse veya taraflardan birinin iddiasını ciddi bulursa davayı geri bırakarak Anayasa Mahkemesine başvurur; bu yola itiraz yolu denir.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.152"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yargı",
+  "soru": "Anayasa'ya göre Anayasa Mahkemesi kararlarının niteliği ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Anayasa Mahkemesi kararları kesindir ve tüm organları bağlar",
+   "Kararlar yalnızca davanın tarafları bakımından bağlayıcıdır",
+   "Kararlara karşı temyiz yoluna başvurulabilir",
+   "Kararların Resmî Gazetede yayımlanması zorunlu olmayıp takdire bağlıdır",
+   "Kararlar TBMM kararıyla kaldırılabilir veya değiştirilebilir"
+  ],
+  "dogru": 0,
+  "aciklama": "Anayasa m.153'e göre Anayasa Mahkemesi kararları kesindir; iptal kararları Resmî Gazetede yayımlandığı tarihte yürürlükten kalkar ve kararlar yasama, yürütme, yargı organları ile idareyi bağlar.",
+  "zorluk": "zor",
+  "kaynak": "1982 Anayasası m.153"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yargı",
+  "soru": "Anayasa'ya göre Hâkimler ve Savcılar Kurulu ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Kurul on beş üyeden oluşur ve Kurulun Başkanı Yargıtay Başkanıdır",
+   "Kurul on üç üyeden oluşur ve iki daire hâlinde çalışır",
+   "Kurulun başkanı Cumhurbaşkanıdır ve Kurul tek daire hâlinde çalışır",
+   "Kurul üyelerinin tamamı Adalet Bakanı tarafından atanır",
+   "Kurul, Anayasa Mahkemesine bağlı olarak görev yapar"
+  ],
+  "dogru": 1,
+  "aciklama": "Anayasa m.159'a göre Hâkimler ve Savcılar Kurulu on üç üyeden oluşur, iki daire hâlinde çalışır; Kurulun Başkanı Adalet Bakanı olup mahkemelerin bağımsızlığı ve hâkimlik teminatı esaslarına göre görev yapar.",
+  "zorluk": "zor",
+  "kaynak": "1982 Anayasası m.159"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "Yargı",
+  "soru": "Anayasa'ya göre Uyuşmazlık Mahkemesinin görevi aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Adli ve idari yargı mercileri arasındaki görev ve hüküm uyuşmazlıklarını çözmek",
+   "Kamu görevlileri ile idare arasındaki uyuşmazlıkları çözümlemek",
+   "Seçim uyuşmazlıklarını kesin olarak karara bağlamak",
+   "Yüksek yargı organları arasındaki üye uyuşmazlıklarını çözümlemek",
+   "Memurların disiplin cezalarına karşı yapılan itirazları karara bağlamak"
+  ],
+  "dogru": 0,
+  "aciklama": "Anayasa m.158'e göre Uyuşmazlık Mahkemesi, adli ve idari yargı mercileri arasındaki görev ve hüküm uyuşmazlıklarını kesin olarak çözümlemeye yetkilidir; Başkanlığını Anayasa Mahkemesince kendi üyeleri arasından görevlendirilen üye yapar.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.158"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "İdare Hukuku",
+  "soru": "Anayasa'ya göre idarenin kuruluş ve görevleri hangi esaslara dayanır?",
+  "siklar": [
+   "Yalnızca merkezden yönetim esasına",
+   "Yalnızca yerinden yönetim esasına",
+   "Fonksiyonel yönetim ve serbestlik esaslarına",
+   "Yargı ve yürütme ayrılığı esaslarına",
+   "Merkezden yönetim ve yerinden yönetim esaslarına"
+  ],
+  "dogru": 4,
+  "aciklama": "Anayasa m.123'e göre idare, kuruluş ve görevleriyle bir bütündür ve kanunla düzenlenir; idarenin kuruluş ve görevleri merkezden yönetim ve yerinden yönetim esaslarına dayanır.",
+  "zorluk": "kolay",
+  "kaynak": "1982 Anayasası m.123"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "İdare Hukuku",
+  "soru": "Anayasa'ya göre idarenin eylem ve işlemleri bakımından aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "İdarenin takdir yetkisi kapsamındaki işlemleri yargı denetimi dışındadır",
+   "Yargı yetkisi idari işlemlerin yerindeliğini denetlemek üzere kullanılır",
+   "İdarenin her türlü eylem ve işlemine karşı yargı yolu açıktır",
+   "İdari işlemlere karşı dava süresi bildirimden bağımsız olarak başlar",
+   "İdarenin işlemleri yalnızca tazminat davasına konu olabilir"
+  ],
+  "dogru": 2,
+  "aciklama": "Anayasa m.125'e göre idarenin her türlü eylem ve işlemine karşı yargı yolu açıktır; yargı yetkisi hukuka uygunluk denetimiyle sınırlıdır, yerindelik denetimi yapılamaz ve dava süresi yazılı bildirim tarihinden başlar.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.125"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "İdare Hukuku",
+  "soru": "Anayasa'ya göre mahallî idareler ile ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Mahallî idarelerin karar organları seçmenlerce seçilir ve seçimler beş yılda bir yapılır",
+   "Mahallî idareler kamu tüzel kişiliğine sahip değildir",
+   "Merkezî idare, mahallî idareler üzerinde idari vesayet yetkisi kullanamaz",
+   "Mahallî idarelerin görev ve yetkileri yönetmelikle belirlenir",
+   "Mahallî idare organları atama yoluyla göreve gelir"
+  ],
+  "dogru": 0,
+  "aciklama": "Anayasa m.127'ye göre mahallî idareler, karar organları seçmenlerce seçilen kamu tüzel kişileridir; kuruluş ve görevleri yerinden yönetim ilkesine uygun olarak kanunla düzenlenir ve merkezî idarenin bu idareler üzerinde idari vesayet yetkisi vardır.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.127"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "İdare Hukuku",
+  "soru": "Anayasa'ya göre kamu hizmeti görevlileriyle ilgili aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Kamu görevlilerinin özlük işleri yönetmelikle düzenlenir",
+   "Memurlara savunma alınmadan disiplin cezası verilebilir",
+   "Disiplin kararları kanunla yargı denetimi dışında bırakılabilir",
+   "Kamu hizmetlerinin aslî ve sürekli görevleri memurlar eliyle yürütülür",
+   "Görev kusurundan doğan tazminat davası doğrudan görevliye açılır"
+  ],
+  "dogru": 3,
+  "aciklama": "Anayasa m.128 ve m.129'a göre aslî ve sürekli kamu görevleri memurlar ve diğer kamu görevlileri eliyle görülür, özlük işleri kanunla düzenlenir, savunma hakkı tanınmadıkça disiplin cezası verilemez ve görev kusurundan doğan tazminat davaları ancak idare aleyhine açılabilir.",
+  "zorluk": "zor",
+  "kaynak": "1982 Anayasası m.128 ve m.129"
+ },
+ {
+  "ders": "Vatandaşlık ve Anayasa",
+  "konu": "İdare Hukuku",
+  "soru": "İdarenin hiyerarşi ve idari vesayet yetkileri karşılaştırıldığında aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Hiyerarşi farklı tüzel kişilikler arasında, vesayet ise aynı tüzel kişilik içinde kullanılır",
+   "Hiyerarşi aynı tüzel kişilik içinde kullanılırken idari vesayet farklı tüzel kişilikler arasında söz konusudur",
+   "Her iki yetki de yalnızca yerinden yönetim kuruluşları arasında kullanılır",
+   "İdari vesayet, merkezî idarenin yerinden yönetim kuruluşunun yerine geçerek işlem yapma yetkisini içerir",
+   "Hiyerarşi yetkisi ancak mahkeme kararıyla kullanılabilir"
+  ],
+  "dogru": 1,
+  "aciklama": "Hiyerarşi, aynı kamu tüzel kişiliği içindeki ast-üst ilişkisidir; idari vesayet ise merkezî idarenin yerinden yönetim kuruluşları üzerindeki, kanunda öngörülen sınırlı denetim yetkisidir. Bu nedenle iki yetki farklı tüzel kişilikler arasında kullanılır.",
+  "zorluk": "zor",
+  "kaynak": "İdare hukuku müfredatı: hiyerarşi ve idari vesayet"
+ }
+]
