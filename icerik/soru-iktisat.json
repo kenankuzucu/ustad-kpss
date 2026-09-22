@@ -1,0 +1,1090 @@
+[
+ {
+  "ders": "İktisat",
+  "konu": "Temel Kavramlar",
+  "soru": "İktisat biliminin inceleme konusunu belirleyen temel olgu olan kıtlık kavramı aşağıdakilerden hangisini ifade eder?",
+  "siklar": [
+   "İnsan ihtiyaçlarının sınırsız, bu ihtiyaçları karşılayacak kaynakların ise sınırlı olması",
+   "Üretilen malların piyasaya zamanında arz edilememesinden doğan geçici darlık",
+   "Talebin arzı aşması sonucunda piyasada oluşan fiyat artışı ve stok azalması",
+   "Bir ülkenin doğal kaynaklarının yalnızca belirli bölgelerde yoğunlaşmış olması",
+   "Üretim teknolojisinin yeterince gelişmemiş olmasından doğan verimlilik kaybı"
+  ],
+  "dogru": 0,
+  "aciklama": "Kıtlık, kaynakların sınırlı, ihtiyaçların ise sınırsız olmasıdır. Bu nedenle her toplum neyi, nasıl ve kimin için üreteceğine karar vermek zorundadır.",
+  "zorluk": "kolay",
+  "kaynak": "iktisat müfredatı: kıtlık ve iktisadi sorun"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Temel Kavramlar",
+  "soru": "Bir seçim yapıldığında vazgeçilen alternatiflerin en değerlisinin değerine ne ad verilir?",
+  "siklar": [
+   "Batık maliyet",
+   "Marjinal maliyet",
+   "Muhasebe maliyeti",
+   "Gizli maliyet",
+   "Fırsat maliyeti"
+  ],
+  "dogru": 4,
+  "aciklama": "Fırsat maliyeti, tercih nedeniyle elden çıkarılan en iyi alternatifin değeridir. Muhasebe maliyeti yalnızca fiilen ödenen tutarları kapsarken fırsat maliyeti örtük maliyetleri de içerir.",
+  "zorluk": "kolay",
+  "kaynak": "iktisat müfredatı: fırsat maliyeti"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Temel Kavramlar",
+  "soru": "Talep kanununa göre fiyat yükseldikçe talep edilen miktar azalır. Düşük gelirli tüketicilerin zorunlu tüketim mallarında bu kuralın geçersiz olduğu ve fiyat artışına rağmen talebin arttığı mallara ne ad verilir?",
+  "siklar": [
+   "Lüks mal",
+   "İkame mal",
+   "Tamamlayıcı mal",
+   "Düşük mal",
+   "Giffen malı"
+  ],
+  "dogru": 4,
+  "aciklama": "Giffen malında gelir etkisi ikame etkisini bastırır; fiyat artışı reel geliri o kadar düşürür ki tüketici pahalılaşan zorunlu mala yönelir. Düşük mal ise gelir arttıkça talebi azalan maldır, aynı şey değildir.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: talep kanunu ve istisnaları"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Temel Kavramlar",
+  "soru": "Bir malın talebinin fiyat esnekliğinin mutlak değeri birden küçük ise aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Fiyattaki oransal değişme, miktardaki oransal değişmeden büyüktür",
+   "Fiyattaki oransal değişme, miktardaki oransal değişmeden küçüktür",
+   "Fiyat artışı toplam hasılatı her durumda azaltır",
+   "Talep eğrisi yatay eksene paralel bir doğru biçimindedir",
+   "Tüketici fiyat değişimine tam duyarlı tepki vermektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Esnekliğin mutlak değerinin birden küçük olması talebin inelastik olduğunu gösterir; miktar fiyattan daha az oranda değişir. Bu durumda fiyat artışı toplam hasılatı artırır.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: talebin fiyat esnekliği"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Temel Kavramlar",
+  "soru": "Talebi esnek olan bir malda satıcı fiyatı yükseltirse toplam hasılat nasıl değişir?",
+  "siklar": [
+   "Toplam hasılat artar",
+   "Toplam hasılat değişmez",
+   "Toplam hasılat azalır",
+   "Toplam hasılat azalmadan önce kısa süre artar",
+   "Toplam hasılat arz eğrisinin eğimine göre belirlenir"
+  ],
+  "dogru": 2,
+  "aciklama": "Esnek talepte miktardaki oransal düşüş fiyattaki oransal artıştan büyük olduğu için toplam hasılat azalır. Tersi durumda, yani inelastik talepte fiyat artışı hasılatı yükseltir.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: esneklik ve toplam hasılat"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Temel Kavramlar",
+  "soru": "Normal bir malın talebi artarken arzında hiçbir değişme olmazsa piyasa dengesi nasıl etkilenir?",
+  "siklar": [
+   "Denge fiyatı düşer, denge miktarı artar",
+   "Denge fiyatı yükselir, denge miktarı azalır",
+   "Denge fiyatı düşer, denge miktarı azalır",
+   "Denge fiyatı yükselir, denge miktarı artar",
+   "Denge fiyatı ve miktarı değişmeden kalır"
+  ],
+  "dogru": 3,
+  "aciklama": "Talep eğrisi sağa kaydığında arz eğrisi sabitken yeni kesişim noktası daha yüksek fiyat ve daha yüksek miktarda oluşur. Arz artışı ise fiyatı düşürüp miktarı artırır.",
+  "zorluk": "kolay",
+  "kaynak": "iktisat müfredatı: piyasa dengesi"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Temel Kavramlar",
+  "soru": "Devletin, denge fiyatının altında bir tavan fiyat uygulaması aşağıdakilerden hangisine yol açar?",
+  "siklar": [
+   "Arz edilen miktar talep edilen miktarı aşar ve stok fazlası oluşur",
+   "Piyasa dengesi bozulmadan yalnızca üretici geliri artar",
+   "Fiyat kendiliğinden denge düzeyine yükselerek denge kurulur",
+   "Tüketici rantı azalırken toplam refah artar",
+   "Talep edilen miktar arz edilen miktarı aşar ve piyasada kıtlık oluşur"
+  ],
+  "dogru": 4,
+  "aciklama": "Denge fiyatının altındaki tavan fiyat, arzın azalmasına ve talebin canlı kalmasına yol açtığı için arz açığı doğar; kuyruk, karne ve kayıt dışı piyasa görülür.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: tavan fiyat uygulaması"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Tüketici Teorisi",
+  "soru": "Bir maldan tüketilen miktar arttıkça son birimin sağladığı ek faydanın azalması aşağıdakilerden hangisiyle adlandırılır?",
+  "siklar": [
+   "Artan marjinal fayda yasası",
+   "Azalan verimler yasası",
+   "Ölçeğe göre sabit getiri",
+   "Marjinal ikame oranının azalması",
+   "Azalan marjinal fayda yasası"
+  ],
+  "dogru": 4,
+  "aciklama": "Azalan marjinal fayda yasasına göre tüketilen miktar arttıkça toplam fayda artar ancak artış hızı düşer. Azalan verimler yasası ise üretim tarafında, girdi artışına ilişkin bir ilkedir.",
+  "zorluk": "kolay",
+  "kaynak": "iktisat müfredatı: azalan marjinal fayda"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Tüketici Teorisi",
+  "soru": "Mal fiyatları sabitken tüketicinin nominal geliri artarsa bütçe doğrusu nasıl değişir?",
+  "siklar": [
+   "Eğimi değişmeden sola doğru paralel olarak kayar",
+   "Eğimi değişmeden sağa doğru paralel olarak kayar",
+   "Eksenlerden birini kesen noktası değişmez, eğimi artar",
+   "Orijin etrafında saat yönünde dönerek dikleşir",
+   "Bütçe doğrusu üzerinde hiçbir değişme olmaz"
+  ],
+  "dogru": 1,
+  "aciklama": "Fiyatlar sabitken gelir artışı her iki maldan da daha fazla alınabilmesini sağlar; bu yüzden doğru paralel olarak dışa kayar. Yalnızca bir malın fiyatı değişirse doğrunun eğimi değişir.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: bütçe doğrusu"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Tüketici Teorisi",
+  "soru": "Farksızlık eğrilerinin özellikleri arasında aşağıdakilerden hangisi yer almaz?",
+  "siklar": [
+   "Eğriler birbirlerini keserek ortak çözüm noktaları oluşturur",
+   "Orijine göre dışbükey biçimde çizilirler",
+   "Sağ üstte yer alan eğri daha yüksek fayda düzeyini gösterir",
+   "Birbirlerine paralel ve negatif eğimli eğrilerdir",
+   "Eksenlere teğet oldukları noktalarda bir maldan tüketim sıfırdır"
+  ],
+  "dogru": 0,
+  "aciklama": "Farksızlık eğrileri birbirini kesmez; kesişme olsaydı aynı sepetin iki farklı fayda düzeyini temsil etmesi gibi bir çelişki doğardı. Diğer maddeler farksızlık eğrilerinin temel özellikleridir.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: farksızlık eğrileri"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Tüketici Teorisi",
+  "soru": "Kardinal yaklaşıma göre faydasını en çoklaştırmak isteyen tüketicinin her mal için uyduracağı denge koşulu aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Her malda toplam faydanın fiyata oranı eşitlenmelidir",
+   "Her malda marjinal fayda ile marjinal maliyet birbirine eşitlenmelidir",
+   "Her malda ortalama fayda marjinal faydayı aşmalıdır",
+   "Tüm gelir yalnızca en yüksek fiyatlı mala harcanmalıdır",
+   "Her malda marjinal faydanın fiyata oranı eşitlenmelidir"
+  ],
+  "dogru": 4,
+  "aciklama": "İkinci Gossen yasası olarak da bilinen bu koşulda her mala harcanan son liranın sağladığı marjinal fayda eşitlenir. Marjinal maliyetle eşitlik firmanın kar maksimizasyonu koşuludur.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: tüketici dengesi"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Tüketici Teorisi",
+  "soru": "Normal bir malın fiyatı düştüğünde ortaya çıkan gelir ve ikame etkilerinin yönü için aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "İki etki de talep miktarını azaltıcı yönde işler",
+   "İkame etkisi artırıcı, gelir etkisi azaltıcı yönde işler",
+   "Gelir etkisi artırıcı, ikame etkisi azaltıcı yönde işler",
+   "İki etki de talep miktarını artırıcı yönde işler",
+   "Etkilerin yönü malın fiyat esnekliğine göre belirlenir"
+  ],
+  "dogru": 3,
+  "aciklama": "Normal malda fiyat düşüşü reel geliri yükseltir (gelir etkisi talebi artırır) ve mal diğerlerine göre ucuzlar (ikame etkisi talebi artırır). İkisinin ters yönde işlediği tek durum Giffen mallarıdır.",
+  "zorluk": "zor",
+  "kaynak": "iktisat müfredatı: gelir ve ikame etkisi"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Üretim ve Maliyet",
+  "soru": "Üretim teorisinde kısa dönemi uzun dönemden ayıran temel özellik aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Kısa dönemde en az bir üretim faktörünün miktarı sabittir",
+   "Kısa dönemde tüm üretim faktörlerinin miktarı değiştirilebilir",
+   "Kısa dönemde teknoloji her an değiştirilebilir bir değişken durumundadır",
+   "Kısa dönemde firma sayısı piyasaya giriş ve çıkışla değişebilir",
+   "Kısa dönemde üretim ölçeği kesintisiz olarak büyütülebilir"
+  ],
+  "dogru": 0,
+  "aciklama": "Kısa dönem, tüm girdilerin değiştirilemeyeceği kadar kısa süreyi ifade eder; sermaye gibi bazı faktörler sabit kalır. Uzun dönemde ise bütün faktörler değişken hâle gelir.",
+  "zorluk": "kolay",
+  "kaynak": "iktisat müfredatı: kısa ve uzun dönem ayrımı"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Üretim ve Maliyet",
+  "soru": "Sabit bir faktörle birlikte kullanılan değişken faktörün miktarı artırıldığında, bir noktadan sonra her ek birimin marjinal ürününün azalmasına ne ad verilir?",
+  "siklar": [
+   "Azalan verimler yasası",
+   "Azalan marjinal fayda yasası",
+   "Ölçek ekonomileri",
+   "Artan ölçek getirisi",
+   "Dışsal tasarruflar"
+  ],
+  "dogru": 0,
+  "aciklama": "Azalan verimler yasası kısa dönemde, sabit faktörün sınırlaması nedeniyle marjinal ürünün bir maksimumdan sonra azalmasını anlatır. Ölçek ekonomileri ise uzun dönemde bütün faktörler birlikte artırıldığında maliyetin düşmesidir.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: azalan verimler yasası"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Üretim ve Maliyet",
+  "soru": "Marjinal maliyet eğrisi ile ortalama toplam maliyet eğrisi arasındaki ilişki için aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Marjinal maliyet eğrisi, ortalama toplam maliyet eğrisini maksimum noktasından keser",
+   "Marjinal maliyet eğrisi her zaman ortalama toplam maliyetin üzerinde seyreder",
+   "İki eğri hiçbir üretim düzeyinde kesişmez, paralel hareket eder",
+   "Marjinal maliyet eğrisi, ortalama toplam maliyet eğrisini minimum noktasından keser",
+   "Ortalama toplam maliyet eğrisi, marjinal maliyet eğrisini en düşük noktasından keser"
+  ],
+  "dogru": 3,
+  "aciklama": "Ortalamanın altındaki marjinal değer ortalamayı aşağıya, üstündeki marjinal değer yukarıya çeker; bu nedenle kesişme ancak ortalamanın minimum noktasında olur. Aynı mantık ortalama değişken maliyet için de geçerlidir.",
+  "zorluk": "zor",
+  "kaynak": "iktisat müfredatı: maliyet eğrileri"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Üretim ve Maliyet",
+  "soru": "Üretim miktarı arttıkça ortalama sabit maliyet (birim başına sabit maliyet) nasıl değişir?",
+  "siklar": [
+   "Sürekli artar, çünkü sabit maliyet toplamı üretimle büyür",
+   "Sürekli azalır, çünkü sabit maliyet daha fazla ürüne bölünür",
+   "Önce artar, üretim arttıkça azalmaya başlar",
+   "Üretim miktarından bağımsız olarak aynı kalır",
+   "Değişken maliyetle aynı oranda yükselir"
+  ],
+  "dogru": 1,
+  "aciklama": "Sabit maliyetin toplamı üretimden bağımsızdır; birim başına payı ise üretim arttıkça azalır. Bu azalma, kapasite büyüdükçe ortalama toplam maliyetin de düşmesine katkı yapar.",
+  "zorluk": "kolay",
+  "kaynak": "iktisat müfredatı: sabit ve değişken maliyetler"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Üretim ve Maliyet",
+  "soru": "Uzun dönemde üretim ölçeği genişledikçe uzun dönem ortalama maliyetin düşmesine ne ad verilir?",
+  "siklar": [
+   "Ölçeğe göre azalan getiri ve ölçek ekonomisi",
+   "Azalan verimler yasasının geçerli olması",
+   "Sabit maliyetlerin toplam içindeki payının artması",
+   "Ölçeğe göre artan getiri ve ölçek ekonomisi",
+   "Marjinal maliyetin ortalama maliyeti sürekli aşması"
+  ],
+  "dogru": 3,
+  "aciklama": "Ölçek ekonomisinde girdiler aynı oranda artırıldığında hasıla daha yüksek oranda artar; işbölümü, uzmanlaşma ve büyük makine kullanımı maliyeti düşürür. Ölçeğin aşırı büyümesi ise ölçek ekonomisizliğine yol açar.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: ölçek ekonomileri"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Üretim ve Maliyet",
+  "soru": "Aynı üretim düzeyini sağlayan farklı faktör bileşimlerini gösteren eş ürün eğrisi (izoant) ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Eğri üzerindeki bileşimlerde üretim maliyeti aynı, üretim miktarı farklıdır",
+   "Eğri, faktör fiyatları değiştiğinde paralel kayar",
+   "Eğrinin eğimi her zaman yatay eksene eşit olur",
+   "Eğri orijine göre içbükey bir biçimde çizilir",
+   "Eğri üzerindeki bileşimlerde kullanılan teknoloji ve üretim miktarı aynıdır"
+  ],
+  "dogru": 4,
+  "aciklama": "Eş ürün eğrisi teknik olarak aynı hasılayı veren faktör bileşimlerini gösterir ve verimli faktör bileşimleri kümesini tanımlar. Faktör fiyatlarını yansıtan eş maliyet doğrusu (izokost) ise fiyat değişiminde kayar.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: eş ürün eğrisi (izoant)"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Piyasa Yapıları",
+  "soru": "Tam rekabet piyasasının varsayımları arasında aşağıdakilerden hangisi yer almaz?",
+  "siklar": [
+   "Piyasada az sayıda satıcının karşılıklı bağımlılık içinde fiyatı belirlemesi",
+   "Alıcı ve satıcı sayısının çok fazla, her birinin atomize olması",
+   "Piyasaya giriş ve çıkışın tamamen serbest olması",
+   "Alıcı ve satıcıların piyasa hakkında tam bilgiye sahip olması",
+   "Malın homojen, yani birbirinin tam ikamesi olması"
+  ],
+  "dogru": 0,
+  "aciklama": "Az sayıda satıcının karşılıklı bağımlılığı oligopol piyasanın özelliğidir; tam rekabette satıcılar fiyat kabullenicidir. Diğer maddeler tam rekabetin klasik varsayımlarıdır.",
+  "zorluk": "kolay",
+  "kaynak": "iktisat müfredatı: tam rekabet varsayımları"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Piyasa Yapıları",
+  "soru": "Tam rekabetçi bir firmanın kısa dönem arz eğrisi maliyet eğrilerinden nasıl elde edilir?",
+  "siklar": [
+   "Ortalama toplam maliyet eğrisinin en düşük noktasının üzerindeki kısmı",
+   "Ortalama değişken maliyet eğrisinin tamamı",
+   "Marjinal maliyet eğrisinin ortalama değişken maliyetin üzerindeki kısmı",
+   "Marjinal maliyet eğrisinin ortalama toplam maliyetin altındaki kısmı",
+   "Ortalama sabit maliyet eğrisinin yatay bölümü"
+  ],
+  "dogru": 2,
+  "aciklama": "Firma marjinal maliyetin fiyata eşit olduğu üretim düzeyini seçer; ancak fiyat ortalama değişken maliyetin altına düşerse üretimi durdurur. Bu nedenle arz eğrisi marjinal maliyetin ortalama değişken maliyeti kestiği noktadan yukarısıdır.",
+  "zorluk": "zor",
+  "kaynak": "iktisat müfredatı: tam rekabette kısa dönem arz eğrisi"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Piyasa Yapıları",
+  "soru": "Tam rekabetçi bir piyasada uzun dönem dengesi sağlandığında aşağıdakilerden hangisi geçerlidir?",
+  "siklar": [
+   "Fiyat marjinal maliyetin üzerinde kalır ve firmalar aşırı kâr elde eder",
+   "Fiyat ortalama toplam maliyetin üzerinde kalır ve girişler sürer",
+   "Firmalar zarar ettiği hâlde piyasadan çıkmaz",
+   "Fiyat ortalama sabit maliyete eşitlenerek denge kurulur",
+   "Fiyat, ortalama toplam maliyetin minimum düzeyine eşitlenir ve firmalar normal kârla çalışır"
+  ],
+  "dogru": 4,
+  "aciklama": "Aşırı kâr varsa yeni firmalar piyasaya girer, piyasa arzı artar ve fiyat düşer; zarar varsa firmalar çıkar ve fiyat yükselir. Denge fiyatın ortalama toplam maliyetin minimumuna eşit olduğu noktada oluşur.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: tam rekabette uzun dönem dengesi"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Piyasa Yapıları",
+  "soru": "Tekel (monopol) piyasasında kârını en çoklaştıran firmanın dengesi için aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Fiyatı marjinal maliyete eşitlediği üretim düzeyini seçer ve fiyatta kalır",
+   "Ortalama maliyeti en düşük yapan üretim düzeyini seçerek fiyatını belirler",
+   "Marjinal gelir marjinal maliyete eşit olduğu üretim düzeyini seçer ve fiyat marjinal geliri aşar",
+   "Marjinal geliri sıfıra eşitlediği noktada üretimi büsbütün durdurur",
+   "Arz eğrisini talep eğrisiyle aynı hizaya getirerek dengeyi kurar"
+  ],
+  "dogru": 2,
+  "aciklama": "Tekelde talep eğrisi aşağı eğimli olduğundan marjinal gelir fiyattan küçüktür; firma marjinal gelir ile marjinal maliyeti eşitler, fiyatı talep eğrisi üzerinde belirler. Bu nedenle tekel dengesinde fiyat marjinal maliyetten yüksektir.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: monopol dengesi"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Piyasa Yapıları",
+  "soru": "Doğal tekelin ortaya çıkmasının temel ekonomik nedeni aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Devletin yasal düzenlemeyle rakip firmaların piyasaya girişini büsbütün yasaklaması ve ruhsat vermemesi",
+   "Ölçek ekonomileri ve yüksek sabit maliyet nedeniyle uzun dönem ortalama maliyetin sürekli düşmesi",
+   "Ürünün homojen olması ve tüketicinin piyasadaki markalar arasında hiçbir ayrım yapmaması",
+   "Firmanın üretim teknolojisini gösteren patent hakkını süresiz olarak elinde tutabilmesi",
+   "Piyasada çok sayıda küçük firmanın birbirine çok yakın maliyetlerle üretim yapması"
+  ],
+  "dogru": 1,
+  "aciklama": "Doğal tekelde altyapı yatırımının sabit maliyeti çok yüksek, marjinal maliyeti çok düşüktür; tek firma bütün piyasayı beslediğinde ortalama maliyet en düşük olur. Bu nedenle rekabetin sonuçta tekele vardığı kabul edilir.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: doğal tekel"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Piyasa Yapıları",
+  "soru": "Oligopol piyasalarının en belirgin özelliği aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Az sayıda satıcının bulunması ve kararlarında birbirlerine bağımlı davranması",
+   "Çok sayıda küçük satıcının birbirinden bağımsız fiyat belirlemesi",
+   "Tek bir satıcının piyasaya büsbütün hâkim olması",
+   "Malın tamamen homojen ve maliyetlerin herkese eşit olması",
+   "Firmaların piyasadan kâr elde etmeden çalışması"
+  ],
+  "dogru": 0,
+  "aciklama": "Oligopolde firma sayısı az olduğu için her firmanın fiyat ve üretim kararı rakiplerinin tepkisini doğurur; bu karşılıklı bağımlılık oyun teorisi ve kırık talep modelleriyle incelenir. Bu yüzden fiyatlar katı olma eğilimindedir.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: oligopol ve kırık talep modeli"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Piyasa Yapıları",
+  "soru": "Tekelci rekabet piyasası ile tam rekabet piyasasının uzun dönem dengesi karşılaştırıldığında en belirgin fark aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Tekelci rekabette uzun dönemde firma aşırı kâr eder, normal kâr düzeyi görülmez",
+   "Tam rekabette ürün farklılaştırması yapıldığı için fiyat yüksek kalır",
+   "Tam rekabette firmanın karşısındaki talep eğrisi aşağı eğimlidir",
+   "Tekelci rekabette piyasaya giriş ve çıkış tamamen engellenmiştir",
+   "Tekelci rekabette uzun dönemde fiyat hâlâ ortalama maliyetin en düşük noktasının üzerindedir"
+  ],
+  "dogru": 4,
+  "aciklama": "Tekelci rekabette ürün farklılaştırması talebi aşağı eğimli yaptığı için uzun dönemde firma kârı sıfırlanır ama fiyat ortalama maliyetin teğet noktasının üzerinde kalır; bu durum kapasite fazlası doğurur. Tam rekabette talep yataydır ve fiyat minimum ortalama maliyete eşittir.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: tekelci rekabet"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Milli Gelir",
+  "soru": "Gayrisafi yurt içi hasıla hesaplanırken kullanılan temel yöntemler aşağıdakilerin hangisinde birlikte verilmiştir?",
+  "siklar": [
+   "Üretim, tüketim ve tasarruf yöntemleri",
+   "Gelir, yatırım ve tasarruf yöntemleri",
+   "Üretim, gelir ve harcama yöntemleri",
+   "Harcama, borçlanma ve kaynak yöntemleri",
+   "Üretim, gelir ve sermaye yöntemleri"
+  ],
+  "dogru": 2,
+  "aciklama": "Üretim yönteminde sektörlerin katma değeri, gelir yönteminde üretim faktörlerinin elde ettiği gelirler, harcama yönteminde ise tüketim, yatırım, kamu harcamaları ve net ihracat toplanır. Üç yöntem de aynı sonucu vermelidir.",
+  "zorluk": "kolay",
+  "kaynak": "iktisat müfredatı: GSYH hesaplama yöntemleri"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Milli Gelir",
+  "soru": "Gayrisafi yurt içi hasıla ile gayrisafi millî hasıla arasındaki farkı aşağıdakilerden hangisi belirler?",
+  "siklar": [
+   "Amortismanların toplam tutarı",
+   "Net faktör gelirleri",
+   "Dolaylı vergilerin net değeri",
+   "Stok değişimlerinin büyüklüğü",
+   "Kişisel kullanılabilir gelir düzeyi"
+  ],
+  "dogru": 1,
+  "aciklama": "Bir ülkede üretim faktörlerinin elde ettiği gelirlerden yurt dışına giden ve yurt dışından gelen faktör gelirleri düzeltildiğinde GSMH elde edilir. Fark, net faktör geliridir; safi millî hasıla için amortisman da düşülür.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: GSYH ve GSMH ayrımı"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Milli Gelir",
+  "soru": "Aşağıdaki işlemlerden hangisi cari yıl gayrisafi yurt içi hasılasına dâhil edilmez?",
+  "siklar": [
+   "Bir fabrikanın cari yılda ürettiği nihai malların piyasa değeri",
+   "Bir avukatın cari yılda verdiği hizmet karşılığı elde ettiği ücret",
+   "Bir vatandaşın ikinci el otomobil satışından elde ettiği gelir",
+   "Bir işletmenin cari yılda kiraladığı binadan elde ettiği kira geliri",
+   "Devletin cari yılda yaptığı mal ve hizmet alımlarının değeri"
+  ],
+  "dogru": 2,
+  "aciklama": "İkinci el satışlar üretim değil mülkiyet el değiştirmesidir; yalnızca aracılık hizmeti hasılaya katılır. Devletin karşılıksız transfer ödemeleri de hasılaya girmez, ancak mal ve hizmet alımları girer.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: GSYH kapsamı"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Milli Gelir",
+  "soru": "Kapalı ve devletsiz bir ekonomide marjinal tüketim eğilimi 0,8 ise basit harcama çarpanı kaçtır?",
+  "siklar": [
+   "0,8",
+   "1,25",
+   "4",
+   "10",
+   "5"
+  ],
+  "dogru": 4,
+  "aciklama": "Basit çarpan, marjinal tüketim eğiliminin bir eksiğinin tersidir: 1 / (1 - 0,8) = 1 / 0,2 = 5. Çarpan, özerk harcamadaki değişimin millî geliri kaç kat etkilediğini gösterir.",
+  "zorluk": "kolay",
+  "kaynak": "iktisat müfredatı: basit çarpan"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Milli Gelir",
+  "soru": "Yatırım harcamalarının millî gelirdeki değişmeye bağlı olarak ortaya çıkmasını açıklayan hızlandıran katsayısı aşağıdakilerden hangisini ifade eder?",
+  "siklar": [
+   "Sermaye hasıla oranını; yani bir birim ek hasıla için gereken ek sermaye stokunu",
+   "Gelir artışının ne kadarının tüketime gittiğini gösteren oranı",
+   "Vergi sonrası harcanabilir gelirin millî gelire oranını",
+   "Para arzının millî gelire oranını gösteren katsayıyı",
+   "İhracatın ithalatı karşılama oranını gösteren katsayıyı"
+  ],
+  "dogru": 0,
+  "aciklama": "Hızlandıran katsayısı, sermaye stokunun hasılaya oranıdır; gelir artışı talep artışı yaratır ve bu talep ancak kapasite büyütülerek karşılanır. Böylece talepteki değişme ivmeli bir yatırım etkisi doğurur.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: hızlandıran"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Milli Gelir",
+  "soru": "Keynesyen analizde toplumun tüketimi kısıp tasarrufu artırmaya çalışmasının toplam tasarrufu hiç artırmaması, hatta azaltması sonucu aşağıdakilerden hangisiyle adlandırılır?",
+  "siklar": [
+   "Dışlama etkisi",
+   "Çarpan etkisi",
+   "Enflasyon vergisi",
+   "Servet etkisi",
+   "Tasarruf paradoksu"
+  ],
+  "dogru": 4,
+  "aciklama": "Tasarruf paradoksunda toplam talebin düşmesi millî geliri azaltır, gelir azalınca tasarruf edilen tutar da küçülür. Dışlama etkisi ise kamu borçlanmasının özel yatırımı geriletmesidir.",
+  "zorluk": "zor",
+  "kaynak": "iktisat müfredatı: tasarruf paradoksu"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Para ve Bankacılık",
+  "soru": "Paranın, takas (barter) ekonomisinin getirdiği çifte uygunluk zorunluluğunu ortadan kaldıran işlevi aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Hesap birimi olma",
+   "Değişim (mübadele) aracı olma",
+   "Değer saklama aracı olma",
+   "Ödeme aracı olarak borçlanma",
+   "Servet birikimi sağlama"
+  ],
+  "dogru": 1,
+  "aciklama": "Değişim aracı işlevi, malını satanın istediği malı aramasına gerek kalmadan alım yapabilmesini sağlar ve barterda yaşanan zorluğu ortadan kaldırır. Hesap birimi ve değer saklama diğer temel işlevlerdir ancak takas sorununu çözmezler.",
+  "zorluk": "kolay",
+  "kaynak": "iktisat müfredatı: paranın işlevleri"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Para ve Bankacılık",
+  "soru": "Para arzı tanımlarından M1 aşağıdaki varlıklardan hangilerini kapsar?",
+  "siklar": [
+   "Dolaşımdaki para ile yalnızca vadeli mevduat hesapları",
+   "Dolaşımdaki para ile vadesiz Türk lirası mevduatlar",
+   "Vadesiz mevduat ile repo ve para piyasası fonları",
+   "Vadeli mevduat ile yurt dışı yerleşiklerin döviz mevduatları",
+   "Dolaşımdaki para ile sadece bankalar arası mevduatlar"
+  ],
+  "dogru": 1,
+  "aciklama": "M1, dar para tanımıdır ve dolaşımdaki para ile vadesiz TL mevduatları içerir. Vadeli mevduatlar geniş para tanımlarında (M2 ve M3) kapsama girer.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: para arzı tanımları"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Para ve Bankacılık",
+  "soru": "1211 sayılı Türkiye Cumhuriyet Merkez Bankası Kanunu'nun dördüncü maddesine göre Bankanın temel amacı aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Tam istihdamı sağlamak",
+   "Bütçe açıklarını finanse etmek",
+   "Cari işlemler dengesini sağlamak",
+   "Fiyat istikrarını sağlamak",
+   "Ekonomik büyümeyi doğrudan hızlandırmak"
+  ],
+  "dogru": 3,
+  "aciklama": "Kanunun dördüncü maddesinde Bankanın temel amacı fiyat istikrarını sağlamak olarak belirlenmiştir. Büyüme ve istihdam gibi diğer hedefler bu amacın gerçekleşmesini engellememek koşuluyla gözetilebilir.",
+  "zorluk": "kolay",
+  "kaynak": "1211 sayılı TCMB Kanunu m.4"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Para ve Bankacılık",
+  "soru": "Aşağıdakilerden hangisi Türkiye Cumhuriyet Merkez Bankasının kullandığı temel para politikası araçlarından biri değildir?",
+  "siklar": [
+   "Kamu kurumlarına doğrudan avans verilmesi",
+   "Açık piyasa işlemleri yoluyla piyasaya likidite verilmesi",
+   "Zorunlu karşılık oranının para otoritesince değiştirilmesi",
+   "Reeskont oranı üzerinden bankalara kredi kullandırılması",
+   "Disponibilite oranının serbest mevduat için uygulanması"
+  ],
+  "dogru": 0,
+  "aciklama": "1211 sayılı Kanunun dördüncü maddesinde Bankanın kullanacağı araçlar açık piyasa işlemleri, reeskont oranı, zorunlu karşılık oranı ve disponibilite olarak sayılmıştır. Hazineye ve kamu kurumlarına doğrudan avans verilmesi kanunla büsbütün yasaklanmıştır.",
+  "zorluk": "orta",
+  "kaynak": "1211 sayılı TCMB Kanunu m.4 / para politikası araçları"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Para ve Bankacılık",
+  "soru": "Merkez Bankasının bankalarla repo işlemi yaparak menkul kıymet satın alması, piyasa likiditesi üzerinde nasıl bir etki doğurur?",
+  "siklar": [
+   "Piyasaya likidite verir ve kısa vadeli faizlerin düşmesine destek olur",
+   "Piyasadan likidite çeker ve kısa vadeli faizleri yükseltir",
+   "Piyasadaki likiditeyi değiştirmez, yalnızca banka sermayesini güçlendirir",
+   "Bankaların zorunlu karşılık oranını kendiliğinden yükseltir",
+   "Kamu borçlanma faizini doğrudan belirleyerek bütçeyi finanse eder"
+  ],
+  "dogru": 0,
+  "aciklama": "Repo ile Banka menkul kıymeti geçici olarak satın alır ve karşılığında piyasaya para verir; likidite artışı kısa vadeli faizleri düşürür. Ters repo işleminde ise kıymet satılarak likidite çekilir.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: açık piyasa işlemleri"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Para ve Bankacılık",
+  "soru": "Merkez Bankasının zorunlu karşılık oranını yükseltmesinin beklenen etkisi aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Bankaların kredi verme kapasitesi artar, kaydi para yaratma gücü yükselir",
+   "Para arzı değişmez, yalnızca bankalar arası faiz oranı yükselir",
+   "Bankaların kredi verme kapasitesi azalır, kaydi para yaratma gücü ve para arzı düşer",
+   "Bankaların merkez bankasındaki serbest mevduatı hızla artar",
+   "Mevduat çarpanı yükselerek para arzını genişletici etki yapar"
+  ],
+  "dogru": 2,
+  "aciklama": "Zorunlu karşılık oranı yükselince bankaların serbest kaynağı azalır; mevduat çarpanı küçülür ve para arzı daralır. Bu araç, para politikasının en doğrudan nicel araçlarından biridir.",
+  "zorluk": "zor",
+  "kaynak": "iktisat müfredatı: zorunlu karşılık ve para arzı"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Para ve Bankacılık",
+  "soru": "Bankaların mevduat kabul edip bu mevduatın bir bölümünü kredi olarak kullandırması sonucu ek mevduat oluşmasına ne ad verilir?",
+  "siklar": [
+   "Açık piyasa işlemi",
+   "Emisyon hacminin artması",
+   "Reeskont kredisi kullanılması",
+   "Disponibilite tutulması",
+   "Kaydi para yaratılması"
+  ],
+  "dogru": 4,
+  "aciklama": "Kaydi para, banka kayıtlarında oluşturulan ve zorunlu karşılık kadarı kesildikten sonra kredi olarak tekrar mevduata dönüşen mevduat yaratımıdır. Emisyon ise yalnızca merkez bankasının dolaşıma para çıkarmasıdır.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: bankacılıkta kaydi para"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Enflasyon ve İşsizlik",
+  "soru": "Toplam talebin toplam arzı aşması sonucu ortaya çıkan ve para arzı ile kamu harcamalarındaki genişlemenin beslediği enflasyon türü aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Maliyet (arz kaynaklı) enflasyon",
+   "Yapısal enflasyon",
+   "İthal edilmiş enflasyon",
+   "Talep (talep çekişli) enflasyonu",
+   "Bastırılmış (gizli) enflasyon"
+  ],
+  "dogru": 3,
+  "aciklama": "Talep enflasyonu, para arzı artışı ve genişletici maliye politikası gibi nedenlerle toplam talebin toplam arzı aşmasından doğar. Maliyet enflasyonu ise girdi fiyatlarındaki artıştan kaynaklanır ve arz eğrisini sola kaydırır.",
+  "zorluk": "kolay",
+  "kaynak": "iktisat müfredatı: enflasyon türleri"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Enflasyon ve İşsizlik",
+  "soru": "Aşağıdakilerden hangisi maliyet enflasyonunun nedenleri arasında yer almaz?",
+  "siklar": [
+   "Ücret artışlarının verimlilik artışını aşması",
+   "Petrol gibi ithal girdilerin fiyatlarının yükselmesi",
+   "Ulusal paranın değer kaybederek ithal maliyetleri artırması",
+   "Para arzının ve kamu harcamalarının hızla genişlemesi",
+   "Kâr oranlarının maliyet baskısı yaratacak biçimde yükselmesi"
+  ],
+  "dogru": 3,
+  "aciklama": "Ücret, girdi, kâr ve kur kaynaklı baskılar arz eğrisini sola kaydırarak maliyet enflasyonu doğurur. Para arzı ile kamu harcamalarındaki genişleme ise toplam talebi artırdığı için talep enflasyonunun kaynağıdır.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: maliyet enflasyonu"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Enflasyon ve İşsizlik",
+  "soru": "Fiyatlar genel düzeyinin artmaya devam ettiği, ancak artış hızının yavaşladığı durum aşağıdakilerden hangisiyle adlandırılır?",
+  "siklar": [
+   "Deflasyon",
+   "Dezenflasyon",
+   "Stagflasyon",
+   "Hiperenflasyon",
+   "Reflasyon"
+  ],
+  "dogru": 1,
+  "aciklama": "Dezenflasyonda fiyatlar hâlâ yükselmektedir; yalnızca artış hızı düşmektedir. Deflasyonda ise fiyatlar genel düzeyi mutlak olarak geriler.",
+  "zorluk": "kolay",
+  "kaynak": "iktisat müfredatı: enflasyon kavramları"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Enflasyon ve İşsizlik",
+  "soru": "Phillips eğrisi kısa dönemde hangi iki değişken arasındaki ilişkiyi gösterir?",
+  "siklar": [
+   "Enflasyon oranı ile işsizlik oranı arasındaki doğru yönlü ilişkiyi",
+   "Enflasyon oranı ile işsizlik oranı arasındaki ters yönlü ilişkiyi",
+   "İşsizlik oranı ile büyüme hızı arasındaki ters yönlü ilişkiyi",
+   "Faiz oranı ile yatırım harcamaları arasındaki doğru yönlü ilişkiyi",
+   "Para arzı ile fiyatlar genel düzeyi arasındaki doğru yönlü ilişkiyi"
+  ],
+  "dogru": 1,
+  "aciklama": "Phillips eğrisi, işsizliğin azaltılmasının kısa dönemde daha yüksek enflasyonla mümkün olduğunu gösterir. İşsizlik ile büyüme arasındaki ters yönlü ilişki ise Okun yasasıyla açıklanır.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: Phillips eğrisi"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Enflasyon ve İşsizlik",
+  "soru": "Ekonomide durgunluk ve işsizlik artarken enflasyonun da yükselmesi durumu aşağıdakilerden hangisiyle adlandırılır?",
+  "siklar": [
+   "Deflasyon",
+   "Stagflasyon",
+   "Dezenflasyon",
+   "Reflasyon",
+   "Slumpflasyon"
+  ],
+  "dogru": 1,
+  "aciklama": "Stagflasyon, durgunluk (stagnation) ile enflasyonun bir arada görülmesidir; Phillips eğrisinin kısa dönemde bile geçersizleşebildiğini gösterir. Maliyet şokları bu sonucun tipik nedenidir.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: stagflasyon"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Enflasyon ve İşsizlik",
+  "soru": "Ekonominin yapısındaki değişim ve teknolojik gelişme nedeniyle bazı mesleklerin ortadan kalkması ya da beceri uyumsuzluğu doğması sonucu ortaya çıkan işsizlik türü hangisidir?",
+  "siklar": [
+   "Friksiyonel (geçici) işsizlik",
+   "Konjonktürel işsizlik",
+   "Yapısal işsizlik",
+   "Mevsimsel işsizlik",
+   "Gizli işsizlik"
+  ],
+  "dogru": 2,
+  "aciklama": "Yapısal işsizlik, işgücü talebi ile arzının nitelik ve sektör bakımından uyuşmamasından doğar ve eğitim ile yeniden yapılanma gerektirir. Konjonktürel işsizlik ise toplam talebin yetersizliğinden kaynaklanan geçici işsizliktir.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: işsizlik türleri"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Makro Politikalar",
+  "soru": "Maliye politikasının temel araçları aşağıdakilerin hangisinde birlikte verilmiştir?",
+  "siklar": [
+   "Kamu harcamaları, vergiler ve kamu borçlanması",
+   "Açık piyasa işlemleri, zorunlu karşılık ve reeskont oranı",
+   "Politika faizi, disponibilite ve kredi tavanı",
+   "Kur politikası, rezerv yönetimi ve swap işlemleri",
+   "Ücret politikası, fiyat kontrolü ve stok yönetimi"
+  ],
+  "dogru": 0,
+  "aciklama": "Maliye politikası bütçe üzerinden, kamu harcamaları, vergiler ve borçlanma araçlarıyla uygulanır. Politika faizi, zorunlu karşılık ve açık piyasa işlemleri ise para politikasının araçlarıdır.",
+  "zorluk": "kolay",
+  "kaynak": "iktisat müfredatı: maliye politikası araçları"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Makro Politikalar",
+  "soru": "Durgunluk döneminde genişletici maliye politikası uygulaması aşağıdakilerden hangisini ifade eder?",
+  "siklar": [
+   "Vergi oranlarının yükseltilip kamu harcamalarının kısılmasıyla talebin soğutulması",
+   "Kamu harcamalarının artırılması ya da vergilerin azaltılması yoluyla toplam talebin canlandırılması",
+   "Zorunlu karşılık oranının artırılarak kredi hacminin daraltılması",
+   "Açık piyasa satışı yapılarak piyasadan likidite çekilmesi",
+   "Politika faizinin yükseltilerek tasarrufun özendirilmesi"
+  ],
+  "dogru": 1,
+  "aciklama": "Genişletici maliye politikası harcamayı artırıp vergiyi azaltarak toplam talebi ve millî geliri yükseltir; bütçe açığı büyür. Likidite çekme veya faiz yükseltme ise daraltıcı para politikasının araçlarıdır.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: genişletici maliye politikası"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Makro Politikalar",
+  "soru": "Aşağıdakilerden hangisi para politikasının aktarım kanalları arasında yer almaz?",
+  "siklar": [
+   "Faiz oranı kanalıyla yatırım ve tüketim kararlarının etkilenmesi",
+   "Kredi kanalıyla bankaların kredi arzı ve koşullarının etkilenmesi",
+   "Döviz kuru kanalıyla net ihracatın ve ithal fiyatların etkilenmesi",
+   "Kamu harcama programının bileşiminde yapılan değişiklikler",
+   "Varlık fiyatları ve beklenti kanalıyla servet ve harcama kararlarının etkilenmesi"
+  ],
+  "dogru": 3,
+  "aciklama": "Para politikası faiz, kredi, kur, varlık fiyatı ve beklenti kanalları üzerinden reel ekonomiye aktarılır. Kamu harcama programının bileşimi ise bütçe kararı olduğu için maliye politikasının konusudur.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: para politikası aktarım kanalları"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Makro Politikalar",
+  "soru": "Merkez Bankasının politika faizini belirgin biçimde yükseltmesinin beklenen etkisi aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Kredi maliyeti düşer, toplam talep ve enflasyon baskısı artar",
+   "Kredi maliyeti değişmez, yalnızca döviz kuru sabitlenir",
+   "Kredi maliyeti artar, toplam talep ve enflasyon baskısı azalır",
+   "Bankaların kredi hacmi artar, tasarruf eğilimi azalır",
+   "Toplam talebi etkilemeden yalnızca bütçe açığını büyütür"
+  ],
+  "dogru": 2,
+  "aciklama": "Faiz artışı borçlanmayı pahalılaştırarak tüketim ve yatırım talebini, dolayısıyla enflasyon baskısını azaltır. Bu, daraltıcı para politikasının klasik işleyişidir.",
+  "zorluk": "zor",
+  "kaynak": "iktisat müfredatı: sıkı para politikası"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Makro Politikalar",
+  "soru": "Aşağıdakilerden hangisi otomatik stabilizatörlere örnek olarak gösterilebilir?",
+  "siklar": [
+   "Kamu yatırım programının her yıl planda yeniden düzenlenmesi",
+   "Merkez Bankasının politika faizini toplantıyla değiştirmesi",
+   "Artan oranlı gelir vergisi ve işsizlik sigortası ödemeleri",
+   "Hükümetin çıkardığı vergi afları ve borç yapılandırmaları",
+   "Bütçe açığının iç borçlanmayla finanse edilmesi"
+  ],
+  "dogru": 2,
+  "aciklama": "Otomatik stabilizatörler karar gerektirmeden çalışır: gelir düştüğünde artan oranlı vergi hasılatı kendiliğinden azalır, işsizlik ödemeleri kendiliğinden artar. Vergi affı ve faiz kararı ise iradi politika örnekleridir.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: otomatik stabilizatörler"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Makro Politikalar",
+  "soru": "Kamu kesiminin borçlanma gereğinin artması sonucu faiz oranlarının yükselerek özel yatırımların azalmasına ne ad verilir?",
+  "siklar": [
+   "Çarpan etkisiyle millî gelirin harcamanın birkaç katı artması",
+   "Servet etkisiyle tüketim harcamalarının yön değiştirmesi",
+   "İkame etkisiyle bir malın diğerine göre ucuzlaması",
+   "Dışlama (crowding out) etkisi",
+   "Hızlandıran etkisiyle yatırımların gelir değişimine bağlı artması"
+  ],
+  "dogru": 3,
+  "aciklama": "Devletin piyasadan yoğun borçlanması ödünç verilebilir fon talebini artırır, faizler yükselir ve özel yatırımlar geriler. Genişletici maliye politikasının etkisini sınırlayan bu sonuca dışlama etkisi denir.",
+  "zorluk": "zor",
+  "kaynak": "iktisat müfredatı: dışlama (crowding out) etkisi"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Büyüme ve Kalkınma",
+  "soru": "Ekonomik büyüme ile ekonomik kalkınma arasındaki temel fark aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Büyüme üretim hacmindeki niceliksel artışı, kalkınma ise yapısal ve kurumsal dönüşümü ifade eder",
+   "Büyüme yalnızca tarım sektörünü, kalkınma yalnızca sanayi sektörünü kapsar",
+   "Büyüme gelişmiş ülkeler, kalkınma ise yalnızca gelişmekte olan ülkeler için kullanılan kavramlardır",
+   "Büyüme kısa dönemli dalgalanmaları, kalkınma ise yalnızca dış borç düzeyini gösterir",
+   "İki kavram birbirinin tam eşanlamlısıdır ve ölçümü aynı gösterge ile yapılır"
+  ],
+  "dogru": 0,
+  "aciklama": "Büyüme, hasıladaki artışla ölçülen niceliksel bir sonuçtur; kalkınma ise gelir dağılımı, eğitim, sağlık ve kurumsal yapıdaki niteliksel dönüşümü de içerir. Bu yüzden yüksek büyüme tek başına kalkınma anlamına gelmez.",
+  "zorluk": "kolay",
+  "kaynak": "iktisat müfredatı: büyüme ve kalkınma kavramları"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Büyüme ve Kalkınma",
+  "soru": "Solow büyüme modeline göre uzun dönemde kişi başına gelirde sürekli artış hangi etkene bağlıdır?",
+  "siklar": [
+   "Sermaye stokunun sınırsız biçimde büyütülmesine",
+   "Teknolojik gelişmeye",
+   "Nüfus artış hızının sıfıra indirilmesine",
+   "Tasarruf oranının sürekli yükseltilmesine",
+   "Kamu harcamalarının sürekli artırılmasına"
+  ],
+  "dogru": 1,
+  "aciklama": "Solow modelinde sermayenin azalan verimliliği nedeniyle tasarruf artışı yalnızca düzey etkisi yapar, büyüme hızını kalıcı olarak yükseltmez. Uzun dönemde kişi başı gelirin sürekli artışı teknolojik gelişmeyle mümkündür ve model teknolojiyi dışsal varsayar.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: Solow büyüme modeli"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Büyüme ve Kalkınma",
+  "soru": "İçsel büyüme teorilerini geleneksel (Solow tipi) modellerden ayıran temel özellik aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Sermaye birikiminin büyüme üzerinde hiçbir etkisi olmadığının kabul edilmesi",
+   "Uzun dönem büyüme hızının nüfus artış hızına eşitlenmesi",
+   "Teknolojik gelişmenin modelin içinde, Ar-Ge ve beşeri sermaye yatırımlarıyla açıklanması",
+   "Devletin ekonomiden büsbütün çekilmesinin savunulması",
+   "Ölçeğe göre azalan getirinin temel varsayım olarak alınması"
+  ],
+  "dogru": 2,
+  "aciklama": "İçsel büyüme teorileri bilgi, Ar-Ge ve beşeri sermayenin artan getiri yarattığını, dolayısıyla büyümenin uzun dönemde içsel politikalarla etkilenebildiğini savunur. Solow modelinde ise teknoloji dışsal bir büyüklüktür.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: içsel büyüme teorileri"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Büyüme ve Kalkınma",
+  "soru": "Birleşmiş Milletler Kalkınma Programı tarafından hesaplanan İnsani Gelişme Endeksi hangi bileşenlerden oluşur?",
+  "siklar": [
+   "Kişi başına gelir, enflasyon ve işsizlik oranı",
+   "Sanayi üretim endeksi, ihracat hacmi ve dış borç stoku",
+   "Uzun ve sağlıklı yaşam, eğitim düzeyi ve kişi başına gelir",
+   "Okuryazarlık oranı, bütçe açığı ve cari işlemler dengesi",
+   "Gini katsayısı, yoksulluk oranı ve kamu harcama düzeyi"
+  ],
+  "dogru": 2,
+  "aciklama": "İnsani Gelişme Endeksi, yaşam süresi (sağlık), eğitim ve satın alma gücü düzeltilmiş kişi başına gelir göstergelerini birleştirir. Gelir tek başına yeterli görülmediği için endeks üç boyutu birlikte ölçer.",
+  "zorluk": "orta",
+  "kaynak": "Birleşmiş Milletler Kalkınma Programı insani gelişme yaklaşımı"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Büyüme ve Kalkınma",
+  "soru": "Bir ülkede Gini katsayısının sıfıra yaklaşması aşağıdakilerden hangisini gösterir?",
+  "siklar": [
+   "Gelir dağılımında eşitsizliğin arttığını",
+   "Kişi başına gelirin düştüğünü",
+   "Gelir dağılımında eşitliğin arttığını",
+   "Yoksulluk sınırının yükseldiğini",
+   "Kamu harcamalarının azaldığını"
+  ],
+  "dogru": 2,
+  "aciklama": "Gini katsayısı sıfır ile bir arasında değer alır; sıfır tam eşitliği, bir ise tam eşitsizliği gösterir. Katsayının küçülmesi gelir dağılımının daha adil hâle geldiğini ifade eder.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: gelir dağılımı ve Gini katsayısı"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Dış Ticaret ve Ödemeler Dengesi",
+  "soru": "Karşılaştırmalı üstünlük teorisine göre bir ülke hangi malın üretiminde uzmanlaşmalıdır?",
+  "siklar": [
+   "Fırsat maliyetinin diğer ülkeye göre daha düşük olduğu malda",
+   "Mutlak üstünlüğe sahip olduğu, yani daha az kaynakla üretebildiği malda",
+   "Birim üretim maliyeti diğer ülkeye göre en yüksek olan malda",
+   "İç talebin en yüksek olduğu ve tüketicinin en çok tercih ettiği malda",
+   "İhracat fiyatı en düşük olan, dolayısıyla en kolay satılabilen malda"
+  ],
+  "dogru": 0,
+  "aciklama": "Karşılaştırmalı üstünlük, mutlak maliyet üstünlüğünden farklı olarak vazgeçilen alternatifin (fırsat maliyetinin) karşılaştırılmasına dayanır. Ülke, fırsat maliyeti görece düşük olan malda uzmanlaşıp ticaretten kazanç sağlar.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: karşılaştırmalı üstünlük"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Dış Ticaret ve Ödemeler Dengesi",
+  "soru": "İthalata uygulanan tarife (gümrük vergisi) ile ithalat kotası karşılaştırıldığında en belirgin fark aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Tarifede ithalat miktarı kesin olarak sınırlanır, kotada sınırlanmaz",
+   "Kota devletin vergi gelirini artırır, tarife artırmaz",
+   "Tarife yalnızca tüketici refahını yükseltir, üreticiye etkisi olmaz",
+   "Kota uygulaması yerli üreticiyi hiçbir biçimde korumaz",
+   "Tarifede devlet gümrük vergisi geliri elde eder, kotada bu gelir devlete gitmez"
+  ],
+  "dogru": 4,
+  "aciklama": "Kota doğrudan miktar sınırı koyar ve oluşan kıtlık rantı çoğu zaman ithalat lisansı sahiplerinde kalır. Tarifede ise ithalat sürerken devlet vergi geliri elde eder; iki araç da yerli üreticiyi korur ve tüketici refahını azaltır.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: ticaret politikası araçları"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Dış Ticaret ve Ödemeler Dengesi",
+  "soru": "Ödemeler dengesinin ana hesapları arasında aşağıdakilerden hangisi yer almaz?",
+  "siklar": [
+   "Cari işlemler hesabı",
+   "Sermaye hesabı",
+   "Kamu kesimi borçlanma gereği",
+   "Finans hesabı",
+   "Net hata ve noksan kalemi"
+  ],
+  "dogru": 2,
+  "aciklama": "Ödemeler dengesi cari işlemler, sermaye ve finans hesapları ile net hata ve noksan kaleminden oluşur ve resmî rezervlerdeki değişimle kapanır. Kamu kesimi borçlanma gereği ise bütçe ve kamu finansmanına ilişkin bir göstergedir.",
+  "zorluk": "orta",
+  "kaynak": "ödemeler dengesi istatistikleri: ana hesaplar"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Dış Ticaret ve Ödemeler Dengesi",
+  "soru": "Sabit döviz kuru sistemi ile dalgalı döviz kuru sistemini birbirinden ayıran temel özellik hangisidir?",
+  "siklar": [
+   "Sabit kurda merkez bankasının rezerv tutmasına ve piyasaya müdahale etmesine gerek kalmaz",
+   "Sabit kurda parite resmî olarak belirlenir, dalgalı kurda ise kur piyasa arz ve talebiyle oluşur",
+   "Dalgalı kurda cari işlemler açığı hiçbir zaman oluşmaz ve dış denge kendiliğinden kurulur",
+   "Sabit kur sisteminde dış ticaret işlemleri yapılamaz, yalnızca sermaye hareketleri görülür",
+   "Dalgalı kurda devalüasyon kararı hükümet tarafından alınır ve Resmî Gazetede ilan edilir"
+  ],
+  "dogru": 1,
+  "aciklama": "Sabit kur sisteminde merkez bankası pariteyi korumak için piyasaya müdahale eder ve rezerv tutar; aksi hâlde taahhüt sürdürülemez. Dalgalı kurda denge kuru piyasada belirlenir ve dış denge fiyatlar üzerinden düzeltilir.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: döviz kuru sistemleri"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Dış Ticaret ve Ödemeler Dengesi",
+  "soru": "Dış ticaret haddi ihracat fiyat endeksinin ithalat fiyat endeksine oranıyla hesaplanır. Bu oranın yükselmesi aşağıdakilerden hangisini ifade eder?",
+  "siklar": [
+   "İhracat fiyatlarının ithalat fiyatlarına göre gerilediğini, yani ticaret haddinin aleyhe döndüğünü",
+   "Ülkenin dış ticaret hacminin daraldığını ve ihracat miktarının hızla azaldığını",
+   "İthalatın ihracatı karşılama oranının düşerek dış ticaret açığının hızla büyüdüğünü",
+   "Ülkenin bir birim ithalat karşılığında daha az ihracat yapmasının yetmesini; ticaret haddinin lehine gelişmesini",
+   "Kur değişimlerinin ticaret haddini hiç etkilemediğini ve oranın uzun süre sabit kaldığını"
+  ],
+  "dogru": 3,
+  "aciklama": "Oran yükseldiyse ihracat birimi başına daha fazla ithalat alınabiliyor demektir; bu, dış ticaret haddinin ülke lehine geliştiğini gösterir. Oranın düşmesi ise ihracat fiyatlarının görece gerilediği anlamına gelir.",
+  "zorluk": "zor",
+  "kaynak": "iktisat müfredatı: dış ticaret haddi"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Uluslararası Kuruluşlar",
+  "soru": "Uluslararası Para Fonunun (IMF) temel işlevi aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Üye ülkelere kalkınma projeleri için uzun vadeli yatırım kredisi vermek",
+   "Ödemeler dengesi sorunları yaşayan üye ülkelere kısa ve orta vadeli finansman sağlamak",
+   "Çok taraflı ticaret kurallarını belirleyip ticaret uyuşmazlıklarını çözmek",
+   "Üye ülkeler arasında gümrük birliği kurulmasını sağlamak ve yönetmek",
+   "Uluslararası sermaye piyasalarını düzenleyerek borsaları denetlemek"
+  ],
+  "dogru": 1,
+  "aciklama": "IMF, ödemeler dengesi güçlüğü çeken ülkelere koşullu finansman sağlar ve kur istikrarını gözetir; Bretton Woods sisteminin kurumlarından biridir. Kalkınma projelerine uzun vadeli finansman sağlamak ise Dünya Bankası grubunun işlevidir.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: Bretton Woods kurumları"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "Uluslararası Kuruluşlar",
+  "soru": "Gümrük Tarifeleri ve Ticaret Genel Anlaşmasının (GATT) yerini alarak çok taraflı ticaret kurallarını yürüten örgüt aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Uluslararası Para Fonu",
+   "Dünya Bankası",
+   "Dünya Ticaret Örgütü",
+   "Ekonomik İşbirliği ve Kalkınma Örgütü",
+   "Birleşmiş Milletler Ticaret ve Kalkınma Konferansı"
+  ],
+  "dogru": 2,
+  "aciklama": "Uruguay Round görüşmeleri sonunda GATT'ın yerine kurumsal yapıya sahip Dünya Ticaret Örgütü kurulmuş ve anlaşmazlık çözüm mekanizması güçlendirilmiştir. Örgüt, tarifelerin indirilmesi ve ticarette ayrımcılığın azaltılmasını amaçlar.",
+  "zorluk": "kolay",
+  "kaynak": "iktisat müfredatı: GATT ve Dünya Ticaret Örgütü"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "İktisadi Düşünce Tarihi",
+  "soru": "Merkantilist düşüncenin temel önerisi aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Dış ticarete hiçbir sınırlama koymadan tam serbestliği sağlamak",
+   "Servetin temel kaynağının tarımsal üretim olduğunu savunmak",
+   "Devletin ekonomiden büsbütün çekilmesini ve doğal düzeni önermek",
+   "Dış ticaret fazlası vererek değerli maden (altın ve gümüş) birikimini artırmak",
+   "Toplam talebin yetersiz kalabileceğini ve kamunun talep yaratmasını savunmak"
+  ],
+  "dogru": 3,
+  "aciklama": "Merkantilizmde servet, sahip olunan değerli maden miktarıyla ölçülür; bu nedenle ihracatı artırıp ithalatı kısıtlayan korumacı politikalar önerilir. Fizyokrasi ve klasik okul ise bu anlayışa tepki olarak doğmuştur.",
+  "zorluk": "kolay",
+  "kaynak": "iktisat müfredatı: Merkantilizm"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "İktisadi Düşünce Tarihi",
+  "soru": "Tarımı tek üretken sektör kabul eden, servetin kaynağını toprak olarak gören ve doğal düzen görüşünü savunan iktisadi düşünce okulu hangisidir?",
+  "siklar": [
+   "Merkantilizm",
+   "Klasik okul",
+   "Kurumsal iktisat",
+   "Fizyokrasi",
+   "Marksist iktisat"
+  ],
+  "dogru": 3,
+  "aciklama": "Fizyokrasi, sanayi öncesi dönemde tarımın net ürün yaratan tek sektör olduğunu ileri sürmüş ve devlet müdahalesinin sınırlandırılmasını savunmuştur. Laissez faire ilkesi ilk kez bu okulda güçlü biçimde dile getirilmiştir.",
+  "zorluk": "kolay",
+  "kaynak": "iktisat müfredatı: Fizyokrasi"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "İktisadi Düşünce Tarihi",
+  "soru": "Klasik okulun, ekonominin kendiliğinden tam istihdamda dengeye geleceği görüşünü dayandırdığı Say yasası neyi ifade eder?",
+  "siklar": [
+   "Talebin arzı sürekli olarak aştığını ve enflasyon doğduğunu",
+   "Her arzın kendi talebini yaratmasını",
+   "Tasarrufların her zaman yatırıma dönüşemediğini",
+   "Ücretlerin katı olması nedeniyle işsizliğin kalıcılaştığını",
+   "Devletin toplam talebi sürekli desteklemesi gerektiğini"
+  ],
+  "dogru": 1,
+  "aciklama": "Say yasasına göre üretim gelir yarattığı için her arz kendi talebini doğurur; bu nedenle genel talep yetersizliği kalıcı olamaz. Keynesyen iktisat, tasarrufun yatırıma dönüşmeyebileceğini öne sürerek bu ilkeyi eleştirmiştir.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: Say yasası ve klasik okul"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "İktisadi Düşünce Tarihi",
+  "soru": "Keynesyen iktisadın klasik okuldan ayrıldığı temel nokta aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Ekonominin eksik istihdamda dengeye gelebileceği ve devletin toplam talebi desteklemesi gerektiği",
+   "Piyasaların her koşulda tam istihdamda dengeye geldiği ve müdahalenin gereksiz olduğu",
+   "Paranın tek işlevinin mübadele aracı olmaktan ibaret sayıldığı",
+   "Uzun dönemde para arzının hasıla üzerinde hiçbir etkisi bulunmadığı",
+   "Vergilerin yalnızca gelir dağılımı amacıyla kullanılması gerektiği"
+  ],
+  "dogru": 0,
+  "aciklama": "Keynesyen yaklaşıma göre etkin talep yetersiz kaldığında ekonomi eksik istihdamda dengeye oturabilir ve bu durum kendiliğinden düzelmez. Bu nedenle kamu harcamaları ve vergi politikasıyla toplam talebin desteklenmesi önerilir.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: Keynesyen iktisat"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "İktisadi Düşünce Tarihi",
+  "soru": "Monetarist yaklaşımın politika önerisi aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Toplam talebin maliye politikasıyla sürekli biçimde uyarılması",
+   "Faiz oranlarının para otoritesince sabit tutulup piyasaya hiç müdahale edilmemesi",
+   "Kamu harcamalarının talep yaratmak amacıyla sürekli artırılması",
+   "Para arzının, ekonominin üretim artış hızına uygun istikrarlı bir oranda büyütülmesi",
+   "Ücretlerin fiyat endeksine bağlanarak satın alma gücünün korunması"
+  ],
+  "dogru": 3,
+  "aciklama": "Monetarist görüşe göre enflasyon her yerde ve her zaman parasal bir olgudur; bu nedenle iradi müdahaleler yerine kurala bağlı istikrarlı bir para arzı büyümesi önerilir. Uzun dönemde para arzındaki artışın yalnızca fiyatları yükselteceği kabul edilir.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: Monetarizm"
+ },
+ {
+  "ders": "İktisat",
+  "konu": "İktisadi Düşünce Tarihi",
+  "soru": "Vergi oranı belirli bir düzeyi aştığında vergi hasılatının azalmaya başladığını gösteren ve arz yönlü iktisadın dayanağı olan eğri hangisidir?",
+  "siklar": [
+   "Phillips eğrisi",
+   "Lorenz eğrisi",
+   "Farksızlık eğrisi",
+   "Engel eğrisi",
+   "Laffer eğrisi"
+  ],
+  "dogru": 4,
+  "aciklama": "Laffer eğrisine göre vergi oranı yükseldikçe hasılat önce artar, kritik noktadan sonra azalır. Arz yönlü iktisat bu nedenle vergi oranlarının indirilmesini önerir.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: arz yönlü iktisat"
+ }
+]
