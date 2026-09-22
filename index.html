@@ -213,6 +213,11 @@
         </div>
       </div>
       <div class="ileriCubuk"><span id="ileriDolgu"></span></div>
+      <div class="enerjiKap" id="enerjiKap">
+        <span class="enerjiYazi" id="enerjiYazi">ENERJİ 0%</span>
+        <div class="enerjiIz"><span class="enerjiDolgu" id="enerjiDolgu"></span></div>
+        <span class="enerjiAlev" id="enerjiAlev">0</span>
+      </div>
       <div class="soruKart" id="soruKart">
         <div class="soruEtiket"><span id="soruKonu">—</span><span class="zorluk" id="soruZorluk">orta</span></div>
         <div class="soruMetin" id="soruMetin">—</div>
@@ -275,6 +280,11 @@
         </div>
       </div>
       <div class="ileriCubuk"><span id="sinavIleriDolgu"></span></div>
+      <div class="enerjiKap" id="enerjiKapSinav">
+        <span class="enerjiYazi" id="enerjiYaziSinav">ENERJİ 0%</span>
+        <div class="enerjiIz"><span class="enerjiDolgu" id="enerjiDolguSinav"></span></div>
+        <span class="enerjiAlev" id="enerjiAlevSinav">0</span>
+      </div>
       <div class="soruKart" id="sinavSoruKart">
         <div class="soruEtiket"><span id="sinavKonu">—</span><span class="zorluk" id="sinavZorluk">orta</span></div>
         <div class="soruMetin" id="sinavMetin">—</div>
@@ -283,6 +293,7 @@
       <div class="kosuAlt">
         <button class="dugme dugme-sade" id="dSinavGeri">Önceki</button>
         <button class="dugme dugme-sade" id="dSinavIsaretle">İşaretle</button>
+        <button class="dugme dugme-sade" id="dSinavIleri">Sonraki</button>
         <button class="dugme dugme-buyuk dugme-altin" id="dSinavBitir">Sınavı bitir</button>
       </div>
     </div>
@@ -346,6 +357,18 @@
       <p class="dipNot">Uygulama tamamen çevrimdışı çalışır; veriler yalnızca bu telefonda saklanır, hiçbir yere gönderilmez.</p>
     </div>
     <div class="kart">
+      <div class="kartBas"><svg class="ikon"><use href="#i-simsek"/></svg> ANİMASYON VE ENERJİ</div>
+      <div class="secim" id="secAnim">
+        <button data-anim="bol" class="secili">Bol animasyon (önerilen)</button>
+        <button data-anim="normal">Normal</button>
+        <button data-anim="sade">Sade (az hareket)</button>
+      </div>
+      <p class="dipNot">Bol animasyonda: her doğru cevapta kıvılcım ve enerji artışı, her sınav sonunda kutlama,
+      seviye atlamada bant ve konfeti, sayı sayaçları ve ışık geçişleri açıktır. Sade seçeneği harekete duyarlı
+      kullanıcılar ve eski telefonlar içindir.</p>
+    </div>
+
+    <div class="kart">
       <div class="kartBas"><svg class="ikon"><use href="#i-grafik"/></svg> EKRAN VE GÖRÜNTÜ KALİTESİ</div>
       <p class="metin" id="ekranBilgi">Ekran bilgisi yükleniyor…</p>
       <p class="dipNot">OLED ekranlarda tam siyah şablonlar (OLED Siyah / OLED Altın / OLED Neon) daha derin görüntü ve daha az pil tüketimi verir.
@@ -361,6 +384,8 @@
 </main>
 
 <!-- ===================== ALT MENÜ ===================== -->
+<div class="seviyeBandi gizli" id="seviyeBandi"></div>
+
 <nav class="altMenu" id="altMenu">
   <button class="altDugme secili" data-git="panel"><svg class="ikon"><use href="#i-tac"/></svg><span>Panel</span></button>
   <button class="altDugme" data-git="ogren"><svg class="ikon"><use href="#i-hedef"/></svg><span>Öğren</span></button>
@@ -373,6 +398,9 @@
 <canvas id="konfeti" class="gizli"></canvas>
 <div class="uyariKutu" id="uyariKutu"></div>
 
+<script>window.UYGULAMA_SURUM = "1.1";</script>
+<script src="assets/three.min.js"></script>
+<script src="assets/ucboyut.js"></script>
 <script src="icerik/ozetler.js"></script>
 <script src="icerik/sorular.js"></script>
 <script src="assets/uygulama.js"></script>
