@@ -1,0 +1,962 @@
+[
+  {
+    "ders": "Muhasebe",
+    "konu": "Muhasebenin Temel Kavramları",
+    "soru": "Muhasebenin, benzer nitelikteki işlemleri gruplandırarak ilgili hesaplara aktarma işlevi aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Kaydetme",
+      "Özetleme",
+      "Sınıflandırma",
+      "Raporlama",
+      "Analiz ve yorumlama"
+    ],
+    "dogru": 2,
+    "aciklama": "Kaydetme belgeye dayalı ilk kayıttır; sınıflandırma ise benzer nitelikteki işlemlerin ortak hesaplarda gruplandırılmasıdır.",
+    "zorluk": "kolay",
+    "kaynak": "Genel muhasebe müfredatı: muhasebenin işlevleri"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Muhasebenin Temel Kavramları",
+    "soru": "Mali tabloların, ilgili tüm tarafların yeterli biçimde bilgilendirilmesini sağlayacak açıklıkta düzenlenmesini gerektiren temel kavram hangisidir?",
+    "siklar": [
+      "Tam açıklama kavramı",
+      "Sosyal sorumluluk kavramı",
+      "Tutarlılık kavramı",
+      "Önemlilik kavramı",
+      "İhtiyatlılık kavramı"
+    ],
+    "dogru": 0,
+    "aciklama": "Tam açıklama kavramı, tabloların ilgili tarafların kararlarını etkileyebilecek bilgileri içermesini gerektirir.",
+    "zorluk": "orta",
+    "kaynak": "Muhasebenin temel kavramları: tam açıklama"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Muhasebenin Temel Kavramları",
+    "soru": "Muhtemel gider ve zararlar için karşılık ayrılmasını, buna karşılık muhtemel gelirlerin kaydedilmemesini öngören temel kavram hangisidir?",
+    "siklar": [
+      "İhtiyatlılık kavramı",
+      "Dönemsellik kavramı",
+      "Tutarlılık kavramı",
+      "Maliyet esası kavramı",
+      "Süreklilik kavramı"
+    ],
+    "dogru": 0,
+    "aciklama": "İhtiyatlılık kavramı, olası riskleri dikkate almayı, muhtemel gelirleri ise ihtiyatla karşılamayı gerektirir.",
+    "zorluk": "orta",
+    "kaynak": "Muhasebenin temel kavramları: ihtiyatlılık"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Muhasebenin Temel Kavramları",
+    "soru": "İşletmenin sonsuz kabul edilen ömrünün belirli dönemlere bölünmesini ve faaliyet sonuçlarının bu dönemler itibarıyla ölçülmesini öngören kavram hangisidir?",
+    "siklar": [
+      "Dönemsellik kavramı",
+      "Kişilik kavramı",
+      "Süreklilik kavramı",
+      "Parayla ölçülme kavramı",
+      "Önemlilik kavramı"
+    ],
+    "dogru": 0,
+    "aciklama": "Dönemsellik kavramı, gelir ve giderlerin ait oldukları dönemde raporlanmasını gerektirir.",
+    "zorluk": "kolay",
+    "kaynak": "Muhasebenin temel kavramları: dönemsellik"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Mali Tablolar",
+    "soru": "Bilançonun aktif tarafında aşağıdakilerden hangisi yer alır?",
+    "siklar": [
+      "İşletmenin sahip olduğu varlıklar",
+      "Varlıkların finansman kaynakları",
+      "İşletmenin dönem net kârı",
+      "Öz kaynak kalemlerinin toplamı",
+      "Uzun vadeli yabancı kaynaklar"
+    ],
+    "dogru": 0,
+    "aciklama": "Bilançonun aktif tarafı varlıkları, pasif tarafı ise varlıkların finansman kaynaklarını gösterir.",
+    "zorluk": "kolay",
+    "kaynak": "Genel muhasebe müfredatı: bilançonun yapısı"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Mali Tablolar",
+    "soru": "Tamamlanmış bir bilançoda aktif toplamı ile pasif toplamı arasındaki ilişki için hangisi doğrudur?",
+    "siklar": [
+      "Pasif toplamı aktif toplamından büyüktür",
+      "Aktif toplamı yalnızca dönen varlıklardan oluşur",
+      "Pasif toplamı öz kaynak toplamına eşittir",
+      "Aktif toplamı pasif toplamına eşittir",
+      "Aktif toplamı her dönem kâr tutarı kadar artar"
+    ],
+    "dogru": 3,
+    "aciklama": "Bilançonun temel eşitliği gereği varlıklar toplamı, yabancı kaynaklar ile öz kaynakların toplamına eşittir.",
+    "zorluk": "kolay",
+    "kaynak": "Bilanço eşitliği: Varlıklar = Yabancı Kaynaklar + Öz Kaynaklar"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Mali Tablolar",
+    "soru": "İşletmenin belirli bir dönemdeki gelir ve giderlerini karşılaştırarak dönem faaliyet sonucunu gösteren mali tablo hangisidir?",
+    "siklar": [
+      "Gelir tablosu",
+      "Bilanço",
+      "Mizan",
+      "Nakit akış tablosu",
+      "Öz kaynak değişim tablosu"
+    ],
+    "dogru": 0,
+    "aciklama": "Gelir tablosu, bir dönemin gelirleri ile giderlerini karşılaştırarak dönem kârını veya zararını gösterir.",
+    "zorluk": "kolay",
+    "kaynak": "Genel muhasebe müfredatı: gelir tablosu"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Hesap Kavramı ve İşleyişi",
+    "soru": "Bir hesabın sol tarafına yapılan kayıtlar aşağıdakilerden hangisiyle adlandırılır?",
+    "siklar": [
+      "Alacak kaydı",
+      "Borç kaydı",
+      "Kalan (bakiye)",
+      "Devir kaydı",
+      "Mahsup kaydı"
+    ],
+    "dogru": 1,
+    "aciklama": "Hesabın sol tarafı borç, sağ tarafı alacak tarafıdır; iki taraf arasındaki fark kalanı verir.",
+    "zorluk": "kolay",
+    "kaynak": "Genel muhasebe müfredatı: hesap kavramı"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Hesap Kavramı ve İşleyişi",
+    "soru": "Varlık yani aktif nitelikli hesaplarda meydana gelen artışlar hangi yönde kaydedilir?",
+    "siklar": [
+      "Hesabın borç tarafına",
+      "Hesabın alacak tarafına",
+      "Doğrudan öz kaynaklara",
+      "Yalnızca gelir tablosuna",
+      "Nazım hesaplara"
+    ],
+    "dogru": 0,
+    "aciklama": "Aktif hesaplar borç tarafında artar, alacak tarafında azalır.",
+    "zorluk": "kolay",
+    "kaynak": "Genel muhasebe müfredatı: hesap işleyiş kuralları"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Hesap Kavramı ve İşleyişi",
+    "soru": "Kaynak yani pasif nitelikli hesaplardaki artışlar hangi tarafa kaydedilir?",
+    "siklar": [
+      "Hesabın borç tarafına",
+      "Yalnızca sonuç hesaplarına",
+      "Kasa hesabının borcuna",
+      "Dönem başı envanterine",
+      "Hesabın alacak tarafına"
+    ],
+    "dogru": 4,
+    "aciklama": "Pasif hesaplar alacak tarafında artar, borç tarafında azalır.",
+    "zorluk": "kolay",
+    "kaynak": "Genel muhasebe müfredatı: hesap işleyiş kuralları"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Çift Taraflı Kayıt Yöntemi",
+    "soru": "Her işlemin en az bir hesaba borç, bir hesaba alacak kaydı gerektirmesi hangi yöntemin sonucudur?",
+    "siklar": [
+      "Tek taraflı kayıt yöntemi",
+      "Aralıklı envanter yöntemi",
+      "Maliyet kayıt yöntemi",
+      "Nazım hesap yöntemi",
+      "Çift taraflı kayıt yöntemi"
+    ],
+    "dogru": 4,
+    "aciklama": "Çift taraflı kayıt yönteminde her işlemde borç ve alacak toplamları eşit olmak zorundadır.",
+    "zorluk": "kolay",
+    "kaynak": "Genel muhasebe müfredatı: çift taraflı kayıt yöntemi"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Hesaplar ve İşleyişi",
+    "soru": "İşletmenin kasadan nakit ödeme yapması durumunda Kasa hesabı nasıl etkilenir?",
+    "siklar": [
+      "Kasa hesabı borçlanır",
+      "Kasa hesabı alacaklanır",
+      "Kasa hesabı değişmez, yalnızca Satıcılar borçlanır",
+      "Kasa hesabı hem borçlanır hem alacaklanır",
+      "Kasa hesabı öz kaynaklara aktarılır"
+    ],
+    "dogru": 1,
+    "aciklama": "Kasa, aktif bir hesaptır; nakit çıkışında kasa azalacağı için hesap alacaklanır.",
+    "zorluk": "kolay",
+    "kaynak": "Genel muhasebe müfredatı: kasa hesabı"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Hesaplar ve İşleyişi",
+    "soru": "İşletmenin kasadaki parayı bankadaki mevduat hesabına yatırması durumunda hangi kayıt yapılır?",
+    "siklar": [
+      "Bankalar hesabı alacaklanır, Kasa hesabı borçlanır",
+      "Yalnızca Kasa hesabı borçlanır",
+      "Bankalar hesabı borçlanır, Banka kredileri alacaklanır",
+      "Bankalar hesabı borçlanır, Kasa hesabı alacaklanır",
+      "Alıcılar hesabı borçlanır, Kasa hesabı alacaklanır"
+    ],
+    "dogru": 3,
+    "aciklama": "Bankadaki mevduat artar ve kasadaki nakit azalır; bu nedenle Bankalar borçlanır, Kasa alacaklanır.",
+    "zorluk": "kolay",
+    "kaynak": "Genel muhasebe müfredatı: bankalar hesabı"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Hesaplar ve İşleyişi",
+    "soru": "İşletmenin ticari malını kredili olarak satması durumunda hangi hesap borçlanır?",
+    "siklar": [
+      "Satıcılar hesabı",
+      "Bankalar hesabı",
+      "Ticari mallar hesabı",
+      "Diğer ticari borçlar hesabı",
+      "Alıcılar hesabı"
+    ],
+    "dogru": 4,
+    "aciklama": "Kredili satışta işletmenin alacağı doğar; Alıcılar aktif bir hesap olarak borçlanır.",
+    "zorluk": "kolay",
+    "kaynak": "Genel muhasebe müfredatı: alıcılar hesabı"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Hesaplar ve İşleyişi",
+    "soru": "Kredili mal alımında Ticari Mallar ve İndirilecek KDV hesapları borçlanırken hangi hesap alacaklanır?",
+    "siklar": [
+      "Alıcılar hesabı",
+      "Yurtiçi satışlar hesabı",
+      "Hesaplanan KDV hesabı",
+      "Kasa hesabı",
+      "Satıcılar hesabı"
+    ],
+    "dogru": 4,
+    "aciklama": "Kredili alışta işletmenin borcu doğduğu için pasif karakterli Satıcılar hesabı alacaklanır.",
+    "zorluk": "kolay",
+    "kaynak": "Genel muhasebe müfredatı: satıcılar hesabı"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "KDV İşlemleri",
+    "soru": "Mal alışı sırasında satıcıya ödenen katma değer vergisi hangi hesabın borcuna kaydedilir?",
+    "siklar": [
+      "Hesaplanan KDV",
+      "İndirilecek KDV",
+      "Ödenecek vergi ve fonlar",
+      "Diğer çeşitli borçlar",
+      "Satıcılar"
+    ],
+    "dogru": 1,
+    "aciklama": "Alış sırasında ödenen KDV, işletmenin indirim hakkı doğduğu için İndirilecek KDV hesabının borcuna yazılır.",
+    "zorluk": "orta",
+    "kaynak": "Katma Değer Vergisi Kanunu; indirilecek KDV uygulaması"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "KDV İşlemleri",
+    "soru": "Mal satışı sırasında alıcıdan tahsil edilen katma değer vergisi hangi hesabın alacağına kaydedilir?",
+    "siklar": [
+      "İndirilecek KDV",
+      "Hesaplanan KDV",
+      "Yurtiçi satışlar",
+      "Alıcılar",
+      "Diğer çeşitli alacaklar"
+    ],
+    "dogru": 1,
+    "aciklama": "Satışta tahsil edilen KDV devlete aktarılacak bir borç doğurduğu için Hesaplanan KDV alacaklanır.",
+    "zorluk": "orta",
+    "kaynak": "Katma Değer Vergisi Kanunu; hesaplanan KDV uygulaması"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "KDV İşlemleri",
+    "soru": "Bir dönemde indirilecek KDV tutarı hesaplanan KDV tutarından fazla olduğunda aradaki fark nasıl işleme tabi tutulur?",
+    "siklar": [
+      "Vergi dairesinden nakden iade alınır",
+      "Dönem gideri olarak gelir tablosuna yazılır",
+      "Öz kaynaklara eklenerek kapatılır",
+      "Dönem sonunda silinerek yok edilir",
+      "Devreden KDV olarak izleyen döneme aktarılır"
+    ],
+    "dogru": 4,
+    "aciklama": "İndirilemeyen KDV, devreden KDV olarak sonraki dönemlerde indirim konusu yapılmak üzere aktarılır.",
+    "zorluk": "zor",
+    "kaynak": "Katma Değer Vergisi Kanunu; devreden KDV uygulaması"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Kayıt Süreci: Defterler ve Mizan",
+    "soru": "Muhasebe işlemlerinin belgelere dayanarak tarih sırasıyla kaydedildiği defter hangisidir?",
+    "siklar": [
+      "Büyük defter",
+      "Envanter defteri",
+      "Yevmiye defteri",
+      "Kasa defteri",
+      "İşletme hesabı defteri"
+    ],
+    "dogru": 2,
+    "aciklama": "Yevmiye defteri, işlemlerin kronolojik sırayla maddeler hâlinde kaydedildiği defterdir.",
+    "zorluk": "kolay",
+    "kaynak": "Genel muhasebe müfredatı: yevmiye defteri"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Kayıt Süreci: Defterler ve Mizan",
+    "soru": "Yevmiye defterine kaydedilen işlemlerin ait oldukları hesaplar altında sınıflandırılarak izlendiği defter hangisidir?",
+    "siklar": [
+      "Yevmiye defteri",
+      "Envanter defteri",
+      "Büyük defter",
+      "Yardımcı kasa defteri",
+      "Mizan defteri"
+    ],
+    "dogru": 2,
+    "aciklama": "Büyük defter yani defter-i kebir, işlemleri hesaplar itibarıyla sınıflandırarak izler.",
+    "zorluk": "kolay",
+    "kaynak": "Genel muhasebe müfredatı: büyük defter"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Kayıt Süreci: Defterler ve Mizan",
+    "soru": "Büyük defter hesaplarının borç ve alacak toplamları ile kalanlarının eşitliğini kontrol amacıyla düzenlenen tablo hangisidir?",
+    "siklar": [
+      "Bilanço",
+      "Gelir tablosu",
+      "Envanter listesi",
+      "Mizan",
+      "Yevmiye özeti"
+    ],
+    "dogru": 3,
+    "aciklama": "Mizan, borç ve alacak toplamları ile kalanların eşitliğini göstererek kayıt doğruluğunun kontrolünü sağlar.",
+    "zorluk": "kolay",
+    "kaynak": "Genel muhasebe müfredatı: mizan"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Kayıt Süreci: Defterler ve Mizan",
+    "soru": "Dönem sonunda envanter işlemleri tamamlandıktan sonra düzenlenen ve kesinleşmiş kalanları gösteren mizan türü hangisidir?",
+    "siklar": [
+      "Aylık mizan",
+      "Kesin mizan",
+      "Genel geçici mizan",
+      "Ara mizan",
+      "Başlangıç mizanı"
+    ],
+    "dogru": 1,
+    "aciklama": "Envanter işlemleri sonrası düzenlenen kesin mizan, mali tabloların dayanağını oluşturur.",
+    "zorluk": "orta",
+    "kaynak": "Genel muhasebe müfredatı: mizan türleri"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Tekdüzen Hesap Planı",
+    "soru": "Tekdüzen hesap planında 2 numaralı hesap grubu aşağıdakilerden hangisini kapsar?",
+    "siklar": [
+      "Dönen varlıklar",
+      "Kısa vadeli yabancı kaynaklar",
+      "Öz kaynaklar",
+      "Duran varlıklar",
+      "Gelir tablosu hesapları"
+    ],
+    "dogru": 3,
+    "aciklama": "Tekdüzen hesap planında 1 dönen varlıkları, 2 ise duran varlıkları kapsar.",
+    "zorluk": "kolay",
+    "kaynak": "Tekdüzen Hesap Planı: hesap grupları"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Tekdüzen Hesap Planı",
+    "soru": "Tekdüzen hesap planında işletmenin öz kaynakları hangi grup numarası altında izlenir?",
+    "siklar": [
+      "1 numaralı grup",
+      "3 numaralı grup",
+      "5 numaralı grup",
+      "4 numaralı grup",
+      "7 numaralı grup"
+    ],
+    "dogru": 2,
+    "aciklama": "Öz kaynaklar 5 numaralı grupta, yabancı kaynaklar ise 3 ve 4 numaralı gruplarda izlenir.",
+    "zorluk": "kolay",
+    "kaynak": "Tekdüzen Hesap Planı: hesap grupları"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Maliyet Muhasebesi",
+    "soru": "Tekdüzen hesap planındaki 7/A seçeneği aşağıdakilerden hangisini ifade eder?",
+    "siklar": [
+      "Aralıklı envanter yöntemiyle tutulan maliyet hesapları",
+      "Eş zamanlı kayıt yöntemiyle tutulan maliyet hesapları",
+      "Serbest bırakılmış hesap grubu",
+      "Nazım hesaplar grubu",
+      "Dönem sonu envanter işlemleri"
+    ],
+    "dogru": 1,
+    "aciklama": "7/A seçeneğinde giderler tahakkuk ettikleri anda ilgili maliyet hesaplarına aktarılır; bu yönteme eş zamanlı kayıt denir.",
+    "zorluk": "zor",
+    "kaynak": "Tekdüzen Hesap Planı: 7/A eş zamanlı kayıt yöntemi"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Maliyet Muhasebesi",
+    "soru": "Belirli bir mamulle doğrudan ilişkilendirilemeyen, üretimle ilgili dolaylı giderlerden oluşan maliyet unsuru hangisidir?",
+    "siklar": [
+      "Direkt ilk madde ve malzeme giderleri",
+      "Direkt işçilik giderleri",
+      "Pazarlama ve satış giderleri",
+      "Genel üretim giderleri",
+      "Genel yönetim giderleri"
+    ],
+    "dogru": 3,
+    "aciklama": "Direkt ilk madde malzeme ve direkt işçilik doğrudan yüklenebilirken dolaylı üretim giderleri genel üretim giderlerini oluşturur.",
+    "zorluk": "orta",
+    "kaynak": "Maliyet muhasebesi müfredatı: maliyet unsurları"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Amortisman",
+    "soru": "Duran varlıklar için amortisman ayrılması sırasında Birikmiş Amortismanlar hesabı nasıl etkilenir?",
+    "siklar": [
+      "Borçlanır",
+      "Alacaklanır",
+      "Hiç etkilenmez",
+      "Borç kalanı verir",
+      "Nazım hesaba devredilir"
+    ],
+    "dogru": 1,
+    "aciklama": "Birikmiş amortismanlar pasif düzenleyici bir hesaptır ve amortisman ayrıldıkça alacaklanır.",
+    "zorluk": "orta",
+    "kaynak": "Vergi Usul Kanunu; amortisman kayıt esasları"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Gelir Tablosu Hesapları",
+    "soru": "Brüt satış kârı aşağıdakilerden hangisiyle hesaplanır?",
+    "siklar": [
+      "Brüt satışlara diğer faaliyet gelirlerinin eklenmesiyle",
+      "Faaliyet kârına finansman giderlerinin eklenmesiyle",
+      "Dönem kârından vergi karşılığının düşülmesiyle",
+      "Net satışlara dönem giderlerinin eklenmesiyle",
+      "Net satışlardan satışların maliyetinin çıkarılmasıyla"
+    ],
+    "dogru": 4,
+    "aciklama": "Brüt satış kârı, net satışlar ile satışların maliyeti arasındaki farktır.",
+    "zorluk": "kolay",
+    "kaynak": "Gelir tablosu düzenlenme esasları"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Gelir Tablosu Hesapları",
+    "soru": "Dönem kârından vergi ve diğer yasal yükümlülükler düşüldükten sonra kalan tutar hangi hesapta izlenir?",
+    "siklar": [
+      "Dönem kârı",
+      "Faaliyet kârı",
+      "Dönem net kârı",
+      "Geçmiş yıl kârları",
+      "Olağan dışı kâr"
+    ],
+    "dogru": 2,
+    "aciklama": "Vergi karşılığı ayrıldıktan sonra kalan tutar Dönem net kârı hesabında izlenir ve öz kaynaklara aktarılır.",
+    "zorluk": "kolay",
+    "kaynak": "Tekdüzen Hesap Planı: öz kaynak ve sonuç hesapları"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Stoklar ve Mal Alım Satım",
+    "soru": "Stok değerlemesinde satışa çıkarılan malların ilk alınan partilerden karşılandığı varsayımına dayanan yöntem hangisidir?",
+    "siklar": [
+      "Son giren ilk çıkar yöntemi",
+      "İlk giren ilk çıkar yöntemi",
+      "Hareketli ortalama yöntemi",
+      "Basit ortalama yöntemi",
+      "Enflasyon düzeltmesi yöntemi"
+    ],
+    "dogru": 1,
+    "aciklama": "İlk giren ilk çıkar yönteminde ilk alınan partilerin ilk satıldığı varsayılır.",
+    "zorluk": "orta",
+    "kaynak": "Stok değerleme yöntemleri: ilk giren ilk çıkar"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Öz Kaynaklar",
+    "soru": "Aşağıdakilerden hangisi öz kaynak unsurlarından biri değildir?",
+    "siklar": [
+      "Sermaye",
+      "Kâr yedekleri",
+      "Geçmiş yıl kârları",
+      "Alıcılar",
+      "Dönem net kârı"
+    ],
+    "dogru": 3,
+    "aciklama": "Alıcılar bir varlık hesabıdır; diğer seçenekler öz kaynak kalemleridir.",
+    "zorluk": "kolay",
+    "kaynak": "Tekdüzen Hesap Planı: 5 numaralı grup"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Hesap Kavramı ve İşleyişi",
+    "soru": "Gider hesaplarında meydana gelen artışlar hangi yönde kaydedilir?",
+    "siklar": [
+      "Hesabın alacak tarafına",
+      "Doğrudan öz kaynaklara",
+      "Pasif geçici hesaplara",
+      "Hesabın borç tarafına",
+      "Nazım hesaplara"
+    ],
+    "dogru": 3,
+    "aciklama": "Giderler dönem sonucunu azalttığı için borç tarafında izlenir.",
+    "zorluk": "kolay",
+    "kaynak": "Genel muhasebe müfredatı: hesap işleyiş kuralları"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Hesap Kavramı ve İşleyişi",
+    "soru": "Satıştan elde edilen hasılat gelir hesaplarında hangi tarafa yazılır?",
+    "siklar": [
+      "Borç tarafına",
+      "Aktif hesaplara doğrudan",
+      "Alacak tarafına",
+      "Maliyet hesaplarına",
+      "Öz kaynak düzeltmesine"
+    ],
+    "dogru": 2,
+    "aciklama": "Gelirler dönem sonucunu artırdığı için alacak tarafında izlenir.",
+    "zorluk": "kolay",
+    "kaynak": "Genel muhasebe müfredatı: hesap işleyiş kuralları"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Gelir Tablosu Hesapları",
+    "soru": "Satılan Ticari Malların Maliyeti hesabı tekdüzen hesap planında hangi grup içinde yer alır?",
+    "siklar": [
+      "Maliyet hesapları",
+      "Gelir tablosu hesapları",
+      "Dönen varlıklar",
+      "Öz kaynaklar",
+      "Nazım hesaplar"
+    ],
+    "dogru": 1,
+    "aciklama": "Satışların maliyeti kalemleri 6 numaralı gelir tablosu hesapları grubunda yer alır.",
+    "zorluk": "kolay",
+    "kaynak": "Tekdüzen Hesap Planı: 6 numaralı grup"
+  },
+  {
+    "ders": "Muhasebe",
+    "konu": "Hesaplar ve İşleyişi",
+    "soru": "Aşağıdaki hesaplardan hangisi pasif karakterli bir hesaptır?",
+    "siklar": [
+      "Alıcılar",
+      "Kasa",
+      "Ticari mallar",
+      "İndirilecek KDV",
+      "Satıcılar"
+    ],
+    "dogru": 4,
+    "aciklama": "Satıcılar bir borç hesabı olduğu için pasif karakterlidir; diğer seçenekler aktif hesaplardır.",
+    "zorluk": "orta",
+    "kaynak": "Genel muhasebe müfredatı: pasif karakterli hesaplar"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "İşletmenin Amaçları ve Çevresi",
+    "soru": "Aşağıdakilerden hangisi bir işletmenin amaçları arasında gösterilemez?",
+    "siklar": [
+      "Kâr sağlamak",
+      "Topluma hizmet etmek",
+      "Siyasi tercihleri yönlendirmek",
+      "Varlığını uzun süre sürdürmek",
+      "Kaynakları verimli kullanmak"
+    ],
+    "dogru": 2,
+    "aciklama": "İşletmeler kâr sağlama, topluma hizmet ve süreklilik amaçları güder; siyasi yönlendirme işletme amacı değildir.",
+    "zorluk": "kolay",
+    "kaynak": "İşletme yönetimi müfredatı: işletmenin amaçları"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "İşletmenin Amaçları ve Çevresi",
+    "soru": "Aşağıdakilerden hangisi işletmenin genel yani makro çevre unsurlarından biri değildir?",
+    "siklar": [
+      "Ekonomik koşullar",
+      "Teknolojik gelişmeler",
+      "Yasal ve siyasi düzenlemeler",
+      "Rakipler",
+      "Demografik yapı"
+    ],
+    "dogru": 3,
+    "aciklama": "Rakipler işletmenin yakın yani görev çevresinde yer alır; genel çevre unsuru değildir.",
+    "zorluk": "orta",
+    "kaynak": "İşletme yönetimi müfredatı: işletme çevresi"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Yönetim Fonksiyonları",
+    "soru": "Yönetimin, belirlenen amaçlara ulaşmak için izlenecek yol ve kullanılacak araçları önceden tespit etmesi hangi fonksiyondur?",
+    "siklar": [
+      "Örgütleme",
+      "Yöneltme",
+      "Koordinasyon",
+      "Planlama",
+      "Denetim"
+    ],
+    "dogru": 3,
+    "aciklama": "Planlama, amaçlar ile bu amaçlara ulaşma yollarının önceden belirlenmesidir.",
+    "zorluk": "kolay",
+    "kaynak": "Yönetim müfredatı: yönetim fonksiyonları"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Yönetim Fonksiyonları",
+    "soru": "İşlerin gruplandırılması, yetki ve sorumlulukların belirlenmesi ve kaynakların birimlere tahsisi hangi fonksiyon kapsamındadır?",
+    "siklar": [
+      "Örgütleme",
+      "Planlama",
+      "Yöneltme",
+      "Denetim",
+      "Koordinasyon"
+    ],
+    "dogru": 0,
+    "aciklama": "Örgütleme, işlerin ve kaynakların örgüt yapısı içinde düzenlenmesini kapsar.",
+    "zorluk": "kolay",
+    "kaynak": "Yönetim müfredatı: yönetim fonksiyonları"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Yönetim Fonksiyonları",
+    "soru": "Astların motive edilmesi, yönlendirilmesi ve etkili iletişim kurulması hangi yönetim fonksiyonunun içeriğidir?",
+    "siklar": [
+      "Planlama",
+      "Örgütleme",
+      "Denetim",
+      "Bütçeleme",
+      "Yöneltme"
+    ],
+    "dogru": 4,
+    "aciklama": "Yöneltme fonksiyonu emir verme, motive etme, iletişim ve liderlik davranışlarını kapsar.",
+    "zorluk": "kolay",
+    "kaynak": "Yönetim müfredatı: yönetim fonksiyonları"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Yönetim Fonksiyonları",
+    "soru": "Örgüt içindeki farklı birimlerin çabalarının ortak amaç doğrultusunda uyumlaştırılması hangi fonksiyonla açıklanır?",
+    "siklar": [
+      "Koordinasyon",
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Denetim"
+    ],
+    "dogru": 0,
+    "aciklama": "Koordinasyon, birimler arası uyum ve bütünlüğün sağlanmasıdır.",
+    "zorluk": "orta",
+    "kaynak": "Yönetim müfredatı: yönetim fonksiyonları"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Yönetim Fonksiyonları",
+    "soru": "Fiili sonuçların belirlenen standartlarla karşılaştırılıp sapmaların düzeltilmesi süreci hangi fonksiyondur?",
+    "siklar": [
+      "Planlama",
+      "Örgütleme",
+      "Yöneltme",
+      "Koordinasyon",
+      "Denetim"
+    ],
+    "dogru": 4,
+    "aciklama": "Denetim yani kontrol, ölçme, karşılaştırma ve düzeltici önlem alma aşamalarından oluşur.",
+    "zorluk": "kolay",
+    "kaynak": "Yönetim müfredatı: denetim fonksiyonu"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Örgüt Yapıları",
+    "soru": "Birden fazla ürün hattı bulunan bir işletmede her ürün grubunun ayrı bir birim olarak örgütlenmesi hangi bölümlendirme esasıdır?",
+    "siklar": [
+      "Fonksiyona göre bölümlendirme",
+      "Ürüne göre bölümlendirme",
+      "Coğrafi bölümlendirme",
+      "Müşteriye göre bölümlendirme",
+      "Sürece göre bölümlendirme"
+    ],
+    "dogru": 1,
+    "aciklama": "Ürüne göre bölümlendirmede her ürün hattı kendi birimiyle yönetilir ve sonuçlar ürün bazında izlenir.",
+    "zorluk": "orta",
+    "kaynak": "Yönetim müfredatı: bölümlendirme esasları"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Örgüt Yapıları",
+    "soru": "Çalışanların hem fonksiyonel yöneticiye hem de proje yöneticisine bağlı olduğu örgüt yapısı hangisidir?",
+    "siklar": [
+      "Fonksiyonel örgüt yapısı",
+      "Hiyerarşik yapı",
+      "Matris örgüt yapısı",
+      "Komite örgüt yapısı",
+      "Serbest biçimli örgüt yapısı"
+    ],
+    "dogru": 2,
+    "aciklama": "Matris yapıda fonksiyonel bölümlendirme ile proje örgütlenmesi kesişir ve çift bağlılık ortaya çıkar.",
+    "zorluk": "orta",
+    "kaynak": "Yönetim müfredatı: matris örgüt yapısı"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Motivasyon Teorileri",
+    "soru": "Maslow ihtiyaçlar hiyerarşisinde, fizyolojik ihtiyaçların karşılanmasından sonra gelen ikinci düzey hangisidir?",
+    "siklar": [
+      "Güvenlik ihtiyacı",
+      "Sosyal yani ait olma ihtiyacı",
+      "Saygı görme ihtiyacı",
+      "Kendini gerçekleştirme ihtiyacı",
+      "Başarı ihtiyacı"
+    ],
+    "dogru": 0,
+    "aciklama": "Hiyerarşide sırasıyla fizyolojik, güvenlik, sosyal, saygı ve kendini gerçekleştirme ihtiyaçları yer alır.",
+    "zorluk": "kolay",
+    "kaynak": "Maslow ihtiyaçlar hiyerarşisi"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Motivasyon Teorileri",
+    "soru": "Herzberg iki faktör kuramına göre ücret, çalışma koşulları ve iş güvencesi gibi unsurlar hangi grupta yer alır?",
+    "siklar": [
+      "Motive edici faktörler",
+      "Gelişme ve ilerleme faktörleri",
+      "Hijyen faktörleri",
+      "Başarı ve tanınma faktörleri",
+      "İçsel ödül faktörleri"
+    ],
+    "dogru": 2,
+    "aciklama": "Hijyen faktörleri iş tatminsizliğini önler ancak tek başına motive edici etkisi yoktur.",
+    "zorluk": "orta",
+    "kaynak": "Herzberg iki faktör kuramı"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Motivasyon Teorileri",
+    "soru": "Çalışanların işten doğal olarak kaçındığını, bu nedenle sıkı denetim ve cezalandırmanın gerekli olduğunu varsayan yaklaşım hangisidir?",
+    "siklar": [
+      "Y teorisi",
+      "Z teorisi",
+      "İki faktör kuramı",
+      "X teorisi",
+      "İhtiyaçlar hiyerarşisi"
+    ],
+    "dogru": 3,
+    "aciklama": "X teorisi insanı tembel ve denetlenmeye muhtaç görürken Y teorisi sorumluluk alan bir varlık kabul eder.",
+    "zorluk": "orta",
+    "kaynak": "McGregor X ve Y teorileri"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Liderlik",
+    "soru": "Kararların yalnızca lider tarafından alındığı, astların kararlara katılmadığı ve otoritenin belirgin olduğu liderlik tarzı hangisidir?",
+    "siklar": [
+      "Demokratik liderlik",
+      "Serbest bırakıcı liderlik",
+      "Otokratik liderlik",
+      "Etkileşimci liderlik",
+      "Dönüşümcü liderlik"
+    ],
+    "dogru": 2,
+    "aciklama": "Otokratik liderlikte karar yetkisi liderde toplanır ve astların katılımı sınırlıdır.",
+    "zorluk": "kolay",
+    "kaynak": "Yönetim müfredatı: liderlik tarzları"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Üretim Yönetimi",
+    "soru": "Aşağıdakilerden hangisi üretim yeri seçimini etkileyen faktörlerden biri değildir?",
+    "siklar": [
+      "İşletmenin reklam bütçesinin büyüklüğü",
+      "Hammadde kaynaklarına yakınlık",
+      "Pazara yakınlık",
+      "Ulaşım olanakları",
+      "İşgücü arzı ve niteliği"
+    ],
+    "dogru": 0,
+    "aciklama": "Yer seçiminde hammadde, pazar, ulaşım ve işgücü gibi maliyet unsurları belirleyicidir; reklam bütçesi yer seçimi faktörü değildir.",
+    "zorluk": "kolay",
+    "kaynak": "Üretim yönetimi müfredatı: kuruluş yeri seçimi"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Üretim Yönetimi",
+    "soru": "Ekonomik sipariş miktarı modelinin temel amacı aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Stok düzeyini işletme için her zaman en yüksek seviyede tutmak",
+      "Yıl içinde verilen sipariş sayısını olabildiğince artırmak",
+      "Sipariş ve stok tutma maliyetleri toplamını en aza indirmek",
+      "Stok devir hızını sıfır düzeyine indirmek",
+      "Yalnızca hammadde stoklarını izlemek"
+    ],
+    "dogru": 2,
+    "aciklama": "Model, sipariş verme maliyeti ile stok tutma maliyetini dengeleyerek toplam stok maliyetini en aza indirir.",
+    "zorluk": "zor",
+    "kaynak": "Üretim yönetimi müfredatı: ekonomik sipariş miktarı"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Üretim Yönetimi",
+    "soru": "Toplam kalite yönetimi anlayışı için aşağıdakilerden hangisi doğrudur?",
+    "siklar": [
+      "Kalite yalnızca üretim sonrası kontrol biriminin görevidir",
+      "Kalite maliyetini düşürmek için kontrol faaliyetleri azaltılmalıdır",
+      "Kalite yalnızca nihai ürünün muayenesiyle güvence altına alınır",
+      "Kalite, tüm çalışanların katılımıyla süreçlerin iyileştirilmesi yoluyla sağlanır",
+      "Kalite standartları yalnızca üst yönetimce belirlenip astlara duyurulur"
+    ],
+    "dogru": 3,
+    "aciklama": "Toplam kalite yönetimi sürekli iyileştirme, müşteri odaklılık ve tüm çalışanların katılımını esas alır.",
+    "zorluk": "orta",
+    "kaynak": "Toplam kalite yönetimi ilkeleri"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Pazarlama",
+    "soru": "Pazarlama karmasında ürün, fiyat ve dağıtım elemanlarından sonra gelen dördüncü eleman hangisidir?",
+    "siklar": [
+      "Üretim planlaması",
+      "Tutundurma",
+      "Araştırma ve geliştirme",
+      "Finansman yönetimi",
+      "İnsan kaynakları yönetimi"
+    ],
+    "dogru": 1,
+    "aciklama": "Klasik pazarlama karması ürün, fiyat, dağıtım ve tutundurma elemanlarından oluşur.",
+    "zorluk": "kolay",
+    "kaynak": "Pazarlama müfredatı: pazarlama karması"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Pazarlama",
+    "soru": "Aşağıdakilerden hangisi tutundurma karması içinde yer almaz?",
+    "siklar": [
+      "Reklam",
+      "Kişisel satış",
+      "Satış geliştirme",
+      "Halkla ilişkiler",
+      "Ambalaj tasarımı"
+    ],
+    "dogru": 4,
+    "aciklama": "Ambalaj tasarımı ürün kararları kapsamındadır; tutundurma karması reklam, kişisel satış, satış geliştirme ve halkla ilişkilerden oluşur.",
+    "zorluk": "kolay",
+    "kaynak": "Pazarlama müfredatı: tutundurma karması"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Pazarlama",
+    "soru": "Maliyetlere belirli bir kâr marjı eklenerek satış fiyatının belirlendiği fiyatlama yöntemi hangisidir?",
+    "siklar": [
+      "Talebe dayalı fiyatlama",
+      "Rekabete dayalı fiyatlama",
+      "Maliyete dayalı fiyatlama",
+      "Değere dayalı fiyatlama",
+      "Psikolojik fiyatlama"
+    ],
+    "dogru": 2,
+    "aciklama": "Maliyete dayalı fiyatlamada birim maliyet esas alınır ve üzerine belirli bir kâr marjı eklenir.",
+    "zorluk": "orta",
+    "kaynak": "Pazarlama müfredatı: fiyatlama yöntemleri"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Pazarlama",
+    "soru": "Üreticinin ürününü hiçbir aracı kullanmadan doğrudan tüketiciye satması hangi dağıtım kanalına örnektir?",
+    "siklar": [
+      "Tek aracılı dağıtım kanalı",
+      "İki aracılı dağıtım kanalı",
+      "Toptancı temelli dağıtım kanalı",
+      "Dolaylı dağıtım kanalı",
+      "Doğrudan dağıtım kanalı"
+    ],
+    "dogru": 4,
+    "aciklama": "Aracı bulunmayan üretici-tüketici ilişkisi doğrudan dağıtım kanalı olarak adlandırılır.",
+    "zorluk": "kolay",
+    "kaynak": "Pazarlama müfredatı: dağıtım kanalları"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Finansman",
+    "soru": "Başabaş noktası analizi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "siklar": [
+      "İşletmenin en yüksek kârı elde ettiği üretim düzeyini gösterir",
+      "Sabit maliyetlerin en düşük olduğu üretim düzeyini gösterir",
+      "Değişken maliyetlerin sıfırlandığı üretim düzeyini gösterir",
+      "Toplam gelirin toplam maliyete eşit olduğu üretim düzeyini gösterir",
+      "Toplam gelirin toplam maliyetten en fazla olduğu düzeyi gösterir"
+    ],
+    "dogru": 3,
+    "aciklama": "Başabaş noktasında toplam gelir toplam maliyete eşittir; bu düzeyin altında zarar, üstünde kâr oluşur.",
+    "zorluk": "orta",
+    "kaynak": "Finansman müfredatı: başabaş noktası analizi"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Finansman",
+    "soru": "Dönen varlıkların kısa vadeli yabancı kaynaklara oranlanmasıyla hesaplanan ve kısa vadeli borç ödeme gücünü gösteren oran hangisidir?",
+    "siklar": [
+      "Asit-test oranı",
+      "Cari oran",
+      "Borçlanma oranı",
+      "Brüt kâr marjı",
+      "Stok devir hızı"
+    ],
+    "dogru": 1,
+    "aciklama": "Cari oran, dönen varlıkların kısa vadeli borçlara bölünmesiyle bulunur ve likiditeyi gösterir.",
+    "zorluk": "orta",
+    "kaynak": "Finansal tablo analizi: oran analizi"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Finansman",
+    "soru": "İşletmenin finansmanında yabancı kaynak kullanımının öz kaynağa göre artmasının doğrudan sonucu aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Finansal riskin artması",
+      "Finansal riskin azalması",
+      "Faiz yükünün tamamen ortadan kalkması",
+      "Borç ödeme gücünün kesin olarak güçlenmesi",
+      "Öz kaynak kârlılığının kesin olarak azalması"
+    ],
+    "dogru": 0,
+    "aciklama": "Yabancı kaynak oranı yükseldikçe faiz ve anapara ödeme yükümlülüğü arttığı için finansal risk artar.",
+    "zorluk": "zor",
+    "kaynak": "Finansman müfredatı: sermaye yapısı ve finansal risk"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Girişimcilik ve KOBİ",
+    "soru": "Aşağıdakilerden hangisi girişimcinin temel özellikleri arasında yer alır?",
+    "siklar": [
+      "Belirsizlikten kaçınma",
+      "Yalnızca rutin işleri sürdürme",
+      "Değişime direnç gösterme",
+      "Mevcut kaynakları tüketmeye odaklanma",
+      "Risk üstlenme ve yenilik yapma"
+    ],
+    "dogru": 4,
+    "aciklama": "Girişimci, fırsatları görerek risk üstlenen ve yenilik yapan kişidir.",
+    "zorluk": "kolay",
+    "kaynak": "Girişimcilik müfredatı: girişimci özellikleri"
+  },
+  {
+    "ders": "İşletme",
+    "konu": "Girişimcilik ve KOBİ",
+    "soru": "Küçük ve orta büyüklükteki işletmelerin avantajlarından biri aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Pazar ve talep değişimlerine hızlı uyum sağlayabilme esnekliği",
+      "Ölçek ekonomilerinden büyük işletmeler kadar yararlanma",
+      "Araştırma geliştirme için çok yüksek bütçe ayırabilme",
+      "Uzmanlaşmış yönetim kadrosuna kolay erişebilme",
+      "Uluslararası pazarlarda güçlü marka üstünlüğü"
+    ],
+    "dogru": 0,
+    "aciklama": "Esnek yapıları sayesinde KOBİ'ler talep ve pazar koşullarındaki değişimlere hızlı tepki verebilir.",
+    "zorluk": "orta",
+    "kaynak": "Girişimcilik müfredatı: KOBİ avantajları"
+  }
+]
