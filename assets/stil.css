@@ -643,10 +643,13 @@ main,.tepe,.altMenu{position:relative;z-index:1}
 .yildizKap.kaybol{animation:kaybol .6s 1.5s var(--gecis) forwards}
 @keyframes kaybol{to{opacity:0;transform:scale(1.14)}}
 /* enerji göstergesi */
-.enerjiKap{display:flex;align-items:center;gap:16px;margin:8px 0 4px;flex-wrap:wrap}
-.enerjiYazi{font-family:var(--zarif);font-weight:700;font-size:.82rem;letter-spacing:.04em;color:var(--ana);
-  min-width:124px;white-space:nowrap}
-@media (max-width:400px){.enerjiYazi{min-width:104px;font-size:.78rem}}
+/* enerji satırı: etiket ve alev üstte, çubuk tam genişlikte altta */
+.enerjiKap{display:grid;grid-template-columns:1fr auto;align-items:center;gap:7px 12px;margin:10px 0 4px}
+.enerjiYazi{grid-column:1;grid-row:1;font-family:var(--zarif);font-weight:700;font-size:.82rem;
+  letter-spacing:.06em;color:var(--ana);white-space:nowrap}
+.enerjiAlev{grid-column:2;grid-row:1;font-family:var(--zarif);font-weight:700;font-size:.86rem;
+  color:var(--vurgu);text-align:right;white-space:nowrap}
+.enerjiIz{grid-column:1 / -1;grid-row:2}
 .enerjiIz{flex:1;height:14px;border-radius:999px;background:var(--kart2);border:1px solid var(--cizgi);overflow:hidden;position:relative}
 .enerjiDolgu{display:block;height:100%;width:0;border-radius:999px;
   background:linear-gradient(90deg,#f59e0b,#ef4444,#22d3ee,#a3e635);background-size:280% 100%;
@@ -654,7 +657,6 @@ main,.tepe,.altMenu{position:relative;z-index:1}
 @keyframes enerjiAkis{to{background-position:280% 0}}
 .enerjiDolgu.parla{animation:enerjiAkis 4.5s linear infinite, enerjiParla .55s var(--gecis)}
 @keyframes enerjiParla{0%{filter:brightness(1)}45%{filter:brightness(1.85) saturate(1.5)}100%{filter:brightness(1)}}
-.enerjiAlev{font-family:var(--zarif);font-weight:700;font-size:.86rem;color:var(--vurgu);min-width:34px;text-align:right}
 html[data-anim="bol"] .enerjiDolgu{box-shadow:0 0 14px color-mix(in srgb,var(--ana) 55%, transparent)}
 /* seviye atlama bandı */
 .seviyeBandi{position:fixed;left:50%;top:22px;transform:translateX(-50%);z-index:90;
