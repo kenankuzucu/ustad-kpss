@@ -1,0 +1,1218 @@
+[
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Kuruluş Dönemi",
+    "soru": "Osmanlı Beyliği kim tarafından ve hangi merkezde kurulmuştur?",
+    "siklar": [
+      "Osman Bey - Söğüt",
+      "Orhan Bey - Bursa",
+      "Ertuğrul Gazi - Karacahisar",
+      "I. Murat - Edirne",
+      "Süleyman Paşa - İznik"
+    ],
+    "dogru": 0,
+    "aciklama": "Osmanlı Beyliği, Ertuğrul Gazi'nin oğlu Osman Bey tarafından Söğüt merkezli olarak kurulmuştur. Osman Bey, Bizans'a karşı yürüttüğü mücadeleyle beyliği bağımsız bir devlete dönüştürmüştür.",
+    "zorluk": "kolay",
+    "kaynak": "Osmanlı tarihi: kuruluş dönemi"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Kuruluş Dönemi",
+    "soru": "Bursa'yı fethederek Osmanlı Devleti'nin başkenti yapan padişah hangisidir?",
+    "siklar": [
+      "Osman Bey",
+      "Orhan Bey",
+      "I. Murat",
+      "Yıldırım Bayezid",
+      "Çelebi Mehmet"
+    ],
+    "dogru": 1,
+    "aciklama": "Orhan Bey 1326'da Bursa'yı fethederek başkent yapmıştır. Bu fetihle Osmanlı Beyliği devletleşme sürecinde önemli bir aşama kaydetmiştir.",
+    "zorluk": "kolay",
+    "kaynak": "Osmanlı tarihi: kuruluş dönemi"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Kuruluş Dönemi",
+    "soru": "1389'da Haçlı ordusuyla yapılan I. Kosova Savaşı'nda şehit düşen Osmanlı padişahı hangisidir?",
+    "siklar": [
+      "Yıldırım Bayezid",
+      "Orhan Bey",
+      "I. Murat",
+      "II. Murat",
+      "Çelebi Mehmet"
+    ],
+    "dogru": 2,
+    "aciklama": "I. Murat, 1389 I. Kosova Savaşı'nın kazanılmasının ardından savaş alanında şehit edilmiştir. Yerine oğlu Yıldırım Bayezid geçmiştir.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı tarihi: I. Kosova Savaşı"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Kuruluş Dönemi",
+    "soru": "1396 Niğbolu Savaşı'nda Haçlı ordusunu yenilgiye uğratan Osmanlı padişahı hangisidir?",
+    "siklar": [
+      "I. Murat",
+      "Çelebi Mehmet",
+      "II. Murat",
+      "Yıldırım Bayezid",
+      "Fatih Sultan Mehmet"
+    ],
+    "dogru": 3,
+    "aciklama": "Yıldırım Bayezid 1396'da Niğbolu'da büyük Haçlı ordusunu yenmiştir. Bu zafer Osmanlı'nın Balkanlar'daki egemenliğini güçlendirmiştir.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı tarihi: Niğbolu Savaşı"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Kuruluş Dönemi",
+    "soru": "1402 Ankara Savaşı'nın ardından Osmanlı Devleti'nde yaşanan siyasi dönem hangi adla anılır?",
+    "siklar": [
+      "Lale Devri",
+      "Yükselme Devri",
+      "Tanzimat Devri",
+      "Islahat Devri",
+      "Fetret Devri"
+    ],
+    "dogru": 4,
+    "aciklama": "Timur'a karşı kaybedilen 1402 Ankara Savaşı sonrası şehzadeler arası taht kavgalarıyla geçen dönem Fetret Devri olarak adlandırılır. Bu dönem 1413'te Çelebi Mehmet'in devletin birliğini sağlamasıyla sona ermiştir.",
+    "zorluk": "kolay",
+    "kaynak": "Osmanlı tarihi: Ankara Savaşı ve Fetret Devri"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Yükselme Dönemi",
+    "soru": "1453'te İstanbul'u fethederek Bizans İmparatorluğu'na son veren Osmanlı padişahı hangisidir?",
+    "siklar": [
+      "Fatih Sultan Mehmet",
+      "II. Bayezid",
+      "Yavuz Sultan Selim",
+      "Kanuni Sultan Süleyman",
+      "Yıldırım Bayezid"
+    ],
+    "dogru": 0,
+    "aciklama": "Fatih Sultan Mehmet 1453'te İstanbul'u fethetmiş ve Bizans İmparatorluğu'nu yıkmıştır. Bu fetihle Osmanlı Devleti bir dünya gücü hâline gelmiştir.",
+    "zorluk": "kolay",
+    "kaynak": "Osmanlı tarihi: İstanbul'un fethi"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Yükselme Dönemi",
+    "soru": "1473 Otlukbeli Savaşı'nda Fatih Sultan Mehmet hangi devleti yenmiştir?",
+    "siklar": [
+      "Karamanoğulları",
+      "Akkoyunlular",
+      "Dulkadiroğulları",
+      "Memlükler",
+      "Safeviler"
+    ],
+    "dogru": 1,
+    "aciklama": "Otlukbeli Savaşı'nda Fatih Sultan Mehmet, Akkoyunlu hükümdarı Uzun Hasan'ı yenmiştir. Bu zafer Anadolu'daki siyasi birliğin sağlanmasına katkı sağlamıştır.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı tarihi: Otlukbeli Savaşı"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Yükselme Dönemi",
+    "soru": "1514 Çaldıran Savaşı'nda Yavuz Sultan Selim'in karşı karşıya geldiği hükümdar hangisidir?",
+    "siklar": [
+      "Akkoyunlu Uzun Hasan",
+      "Memlük Kansu Gavri",
+      "Safevi Şahı İsmail",
+      "Timur",
+      "Karamanoğlu İbrahim Bey"
+    ],
+    "dogru": 2,
+    "aciklama": "Çaldıran Savaşı, Yavuz Sultan Selim ile Safevi hükümdarı Şah İsmail arasında yapılmış ve Osmanlı kazanmıştır. Bu savaşla Doğu Anadolu'da Osmanlı egemenliği güçlenmiştir.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı tarihi: Çaldıran Savaşı"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Yükselme Dönemi",
+    "soru": "1517 Ridaniye Savaşı sonucunda yıkılan devlet hangisidir?",
+    "siklar": [
+      "Safevi Devleti",
+      "Akkoyunlu Devleti",
+      "Bizans İmparatorluğu",
+      "Memlük Devleti",
+      "Altın Orda Devleti"
+    ],
+    "dogru": 3,
+    "aciklama": "Yavuz Sultan Selim'in Mısır seferi sırasında kazanılan Ridaniye Savaşı ile Memlük Devleti yıkılmıştır. Böylece halifelik de Osmanlı hanedanına geçmiştir.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı tarihi: Mısır seferi"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Yükselme Dönemi",
+    "soru": "1538 Preveze Deniz Savaşı'nda Osmanlı donanmasına komuta eden kaptan-ı derya hangisidir?",
+    "siklar": [
+      "Turgut Reis",
+      "Piri Reis",
+      "Kılıç Ali Paşa",
+      "Sokullu Mehmet Paşa",
+      "Barbaros Hayreddin Paşa"
+    ],
+    "dogru": 4,
+    "aciklama": "Preveze Deniz Savaşı'nda Osmanlı donanmasının başında Barbaros Hayreddin Paşa bulunuyordu. Kazanılan bu zaferle Akdeniz'de Osmanlı üstünlüğü kesinleşmiştir.",
+    "zorluk": "kolay",
+    "kaynak": "Osmanlı tarihi: Preveze Deniz Savaşı"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Yükselme Dönemi",
+    "soru": "1526 Mohaç Savaşı sonucunda Osmanlı Devleti hangi ülkeyi egemenliği altına almıştır?",
+    "siklar": [
+      "Avusturya",
+      "Macaristan",
+      "Lehistan",
+      "Venedik",
+      "Safevi Devleti"
+    ],
+    "dogru": 1,
+    "aciklama": "Kanuni Sultan Süleyman döneminde kazanılan Mohaç Savaşı ile Macaristan Osmanlı egemenliği altına girmiştir. Böylece Osmanlı Devleti Orta Avrupa'da doğrudan komşu hâline gelmiştir.",
+    "zorluk": "kolay",
+    "kaynak": "Osmanlı tarihi: Mohaç Savaşı"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Yükselme Dönemi",
+    "soru": "Halifelik hangi Osmanlı padişahı döneminde Osmanlı hanedanına geçmiştir?",
+    "siklar": [
+      "Yavuz Sultan Selim",
+      "Fatih Sultan Mehmet",
+      "Kanuni Sultan Süleyman",
+      "II. Bayezid",
+      "III. Murat"
+    ],
+    "dogru": 0,
+    "aciklama": "Yavuz Sultan Selim'in 1517 Mısır seferi sonucunda Memlük Devleti yıkılmış ve halifelik Osmanlı hanedanına geçmiştir. Böylece Osmanlı padişahları aynı zamanda halife unvanını taşımıştır.",
+    "zorluk": "kolay",
+    "kaynak": "Osmanlı tarihi: halifeliğin geçişi"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Yükselme Dönemi",
+    "soru": "Kapitülasyonlar Osmanlı Devleti'nde ilk kez hangi padişah döneminde Fransa'ya verilmiştir?",
+    "siklar": [
+      "Fatih Sultan Mehmet",
+      "II. Bayezid",
+      "Kanuni Sultan Süleyman",
+      "Yavuz Sultan Selim",
+      "III. Murat"
+    ],
+    "dogru": 2,
+    "aciklama": "Kapitülasyonlar ilk kez Kanuni Sultan Süleyman döneminde Fransa'ya tanınmıştır. Başlangıçta siyasi bir denge aracı olan bu ayrıcalıklar zamanla Osmanlı ekonomisine zarar vermiştir.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı tarihi: kapitülasyonlar"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Devlet Teşkilatı",
+    "soru": "Divan-ı Hümayun'da devletin mali işlerinden sorumlu olan üye hangisidir?",
+    "siklar": [
+      "Defterdar",
+      "Kazasker",
+      "Nişancı",
+      "Reisülküttap",
+      "Müftü"
+    ],
+    "dogru": 0,
+    "aciklama": "Divan-ı Hümayun'da maliye işlerini defterdar yürütürdü. Kazasker adalet ve eğitim, nişancı ise yazışma ile tuğra işlerinden sorumluydu.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı devlet teşkilatı: Divan-ı Hümayun"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Devlet Teşkilatı",
+    "soru": "Osmanlı Devleti'nde toprağın askerlere hizmet karşılığı olarak tahsis edildiği sistem hangisidir?",
+    "siklar": [
+      "Mülk arazi düzeni",
+      "Vakıf arazi düzeni",
+      "Tımar sistemi",
+      "İltizam sistemi",
+      "Malikane sistemi"
+    ],
+    "dogru": 2,
+    "aciklama": "Tımar sistemi, devlet topraklarının belirli bir hizmet ve gelir karşılığında askerlere tahsis edilmesine dayanır. Sistem hem asker beslenmesini hem de tarımsal üretimin denetimini sağlardı.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı toprak sistemi: tımar"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Devlet Teşkilatı",
+    "soru": "İlk düzenli Osmanlı ordusu sayılan yaya ve müsellem birlikleri hangi padişah döneminde kurulmuştur?",
+    "siklar": [
+      "Osman Bey",
+      "I. Murat",
+      "Yıldırım Bayezid",
+      "Orhan Bey",
+      "II. Murat"
+    ],
+    "dogru": 3,
+    "aciklama": "Yaya ve müsellem birlikleri Orhan Bey döneminde kurulmuş, savaş zamanı çağrılan ilk düzenli Osmanlı askerî birlikleri olmuştur. Bunlar Kapıkulu Ocağı'nın kurulmasına kadar ordunun temelini oluşturmuştur.",
+    "zorluk": "zor",
+    "kaynak": "Osmanlı askerî teşkilatı: yaya ve müsellem"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Yükselme Dönemi",
+    "soru": "Yükselme Dönemi padişahları hangi seçenekte kronolojik sırayla verilmiştir?",
+    "siklar": [
+      "Yavuz Sultan Selim - Fatih Sultan Mehmet - Kanuni Sultan Süleyman - II. Bayezid",
+      "II. Bayezid - Yavuz Sultan Selim - Fatih Sultan Mehmet - Kanuni Sultan Süleyman",
+      "Fatih Sultan Mehmet - Yavuz Sultan Selim - II. Bayezid - Kanuni Sultan Süleyman",
+      "Kanuni Sultan Süleyman - Fatih Sultan Mehmet - II. Bayezid - Yavuz Sultan Selim",
+      "Fatih Sultan Mehmet - II. Bayezid - Yavuz Sultan Selim - Kanuni Sultan Süleyman"
+    ],
+    "dogru": 4,
+    "aciklama": "Yükselme Dönemi sırasıyla Fatih Sultan Mehmet, II. Bayezid, Yavuz Sultan Selim ve Kanuni Sultan Süleyman dönemlerini kapsar. Kanuni sonrasında devlet duraklama dönemine girmiştir.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı tarihi: padişah kronolojisi"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Yükselme Dönemi",
+    "soru": "Fatih Sultan Mehmet'in İstanbul'da kurduğu ve yüksek öğretim kurumu niteliği taşıyan medreseler hangi adla anılır?",
+    "siklar": [
+      "Süleymaniye Medreseleri",
+      "Sahn-ı Seman Medreseleri",
+      "Nizamiye Medreseleri",
+      "Darülfünun Medreseleri",
+      "Enderun Medreseleri"
+    ],
+    "dogru": 1,
+    "aciklama": "Fatih Sultan Mehmet, İstanbul'un fethinden sonra Sahn-ı Seman Medreselerini kurmuştur. Bu medreseler Osmanlı'da en yüksek eğitim kurumları arasında yer almıştır.",
+    "zorluk": "zor",
+    "kaynak": "Osmanlı eğitim kurumları: Sahn-ı Seman"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Yükselme Dönemi",
+    "soru": "1475'te Kefe'nin fethedilmesinin Osmanlı Devleti açısından sonucu hangisidir?",
+    "siklar": [
+      "Karadeniz'de Osmanlı egemenliği pekişerek deniz adeta Türk gölü hâline gelmiştir",
+      "İstanbul'un fethi için gerekli bütün askerî hazırlıklar tamamlanmıştır",
+      "Memlük Devleti ile ilk kez ortak bir sınır oluşmuştur",
+      "Akdeniz'deki üstünlük Venedik Cumhuriyeti'ne geçmiştir",
+      "Rusya ile ilk resmî diplomatik ilişki kurulmuştur"
+    ],
+    "dogru": 0,
+    "aciklama": "Kırım'daki Kefe'nin fethiyle Karadeniz'deki Ceneviz ve Venedik etkinliği sona ermiş, deniz Osmanlı egemenliğine girmiştir. Böylece Karadeniz ticaret yolu doğrudan Osmanlı denetimine geçmiştir.",
+    "zorluk": "zor",
+    "kaynak": "Osmanlı tarihi: Kefe'nin fethi"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Yükselme Dönemi",
+    "soru": "Coğrafi Keşifler'in Osmanlı Devleti üzerindeki etkilerinden biri hangisidir?",
+    "siklar": [
+      "Baharat ve İpek yollarının önemi azalarak Osmanlı gümrük gelirleri düşmüştür",
+      "Osmanlı Devleti Atlas Okyanusu kıyılarında yeni sömürgeler kurmuştur",
+      "Akdeniz limanlarının tamamı Osmanlı Devleti'nin eline geçmiştir",
+      "Avrupa'da Rönesans hareketi başlamış ve Osmanlı bilimde gerilemiştir",
+      "Osmanlı Devleti dünya ticaretinin tek denetleyicisi hâline gelmiştir"
+    ],
+    "dogru": 0,
+    "aciklama": "Coğrafi Keşiflerle ticaret yolları Atlas Okyanusu'na kaymış, İpek ve Baharat yolları önemini yitirmiştir. Bu durum Osmanlı gümrük gelirlerini azaltıp ekonomiyi olumsuz etkilemiştir.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı tarihi: Coğrafi Keşifler'in etkileri"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Duraklama ve Gerileme Dönemi",
+    "soru": "1683'te Viyana'yı ikinci kez kuşatan Osmanlı ordusunun komutanı hangisidir?",
+    "siklar": [
+      "Sokullu Mehmet Paşa",
+      "Köprülü Fazıl Ahmet Paşa",
+      "Gedik Ahmet Paşa",
+      "Tarhuncu Ahmet Paşa",
+      "Merzifonlu Kara Mustafa Paşa"
+    ],
+    "dogru": 4,
+    "aciklama": "II. Viyana Kuşatması Merzifonlu Kara Mustafa Paşa komutasında yapılmış ve başarısızlıkla sonuçlanmıştır. Bu bozgun Avrupa'da Osmanlı'ya karşı Kutsal İttifak'ın kurulmasına yol açmıştır.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı tarihi: II. Viyana Kuşatması"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Duraklama ve Gerileme Dönemi",
+    "soru": "1699 Karlofça Antlaşması'nın Osmanlı Devleti açısından en önemli sonucu hangisidir?",
+    "siklar": [
+      "Osmanlı Devleti ilk kez Atlas Okyanusu'na açılan bir liman kazanmıştır",
+      "Osmanlı Devleti Avrupa devletleriyle eşit statüde sayılmaya başlanmıştır",
+      "Osmanlı Devleti kapitülasyonları bütün devletlere kapatmıştır",
+      "Osmanlı Devleti ilk kez geniş topraklar kaybettiği bir antlaşma imzalamıştır",
+      "Osmanlı Devleti Boğazlar üzerindeki egemenliğini büsbütün yitirmiştir"
+    ],
+    "dogru": 3,
+    "aciklama": "Karlofça Antlaşması ile Osmanlı Devleti Macaristan ve Erdel gibi geniş toprakları kaybetmiştir. Bu antlaşma Osmanlı'nın Avrupa karşısında savunmaya çekildiği gerileme döneminin başlangıcı sayılır.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı tarihi: Karlofça Antlaşması"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Gerileme Dönemi Islahatları",
+    "soru": "1718 Pasarofça Antlaşması sonrasında başlayan, matbaanın kurulmasıyla anılan dönem hangisidir?",
+    "siklar": [
+      "Fetret Devri",
+      "Tanzimat Devri",
+      "Lale Devri",
+      "Meşrutiyet Devri",
+      "Islahat Devri"
+    ],
+    "dogru": 2,
+    "aciklama": "Lale Devri, Pasarofça Antlaşması'ndan (1718) Patrona Halil İsyanı'na kadar süren yenilik ve sanat dönemidir. Bu dönemde İbrahim Müteferrika ve Sait Efendi tarafından ilk Türk matbaası kurulmuştur.",
+    "zorluk": "kolay",
+    "kaynak": "Osmanlı tarihi: Lale Devri"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Gerileme Dönemi Islahatları",
+    "soru": "1730'da Patrona Halil İsyanı sonucunda tahttan indirilen Osmanlı padişahı hangisidir?",
+    "siklar": [
+      "II. Mahmut",
+      "III. Ahmet",
+      "I. Mahmut",
+      "III. Selim",
+      "II. Abdülhamit"
+    ],
+    "dogru": 1,
+    "aciklama": "Patrona Halil İsyanı, Lale Devri'ni sona erdirmiş ve III. Ahmet'i tahttan indirmiştir. Yerine I. Mahmut padişah olmuştur.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı tarihi: Patrona Halil İsyanı"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Gerileme Dönemi",
+    "soru": "1774 Küçük Kaynarca Antlaşması ile Osmanlı Devleti aşağıdakilerden hangisini kabul etmiştir?",
+    "siklar": [
+      "Mısır'ın İngiltere yönetimine bırakılmasını",
+      "Sırbistan'a geniş bir özerklik tanınmasını",
+      "Rusya'ya Boğazlarda üs kurma hakkı verilmesini",
+      "Kırım Hanlığı'nın bağımsız bir hanlık olarak tanınmasını",
+      "Yunanistan'ın bağımsız bir devlet sayılmasını"
+    ],
+    "dogru": 3,
+    "aciklama": "Küçük Kaynarca Antlaşması ile Kırım Hanlığı bağımsız sayılmış, böylece Osmanlı'nın Karadeniz'deki üstünlüğü sarsılmıştır. Antlaşma Rusya'ya Osmanlı topraklarında konsolosluk açma gibi ayrıcalıklar da tanımıştır.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı tarihi: Küçük Kaynarca Antlaşması"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Dağılma Dönemi",
+    "soru": "1792 Yaş Antlaşması ile Osmanlı Devleti aşağıdakilerden hangisini kabul etmiştir?",
+    "siklar": [
+      "Sırbistan'ın bağımsızlığını tanımıştır",
+      "Boğazların uluslararası denetime açılmasını onaylamıştır",
+      "Mısır'ın Fransa'ya bırakılmasını uygun görmüştür",
+      "Kapitülasyonları bütün Avrupa devletlerine genişletmiştir",
+      "Kırım'ın Rusya'ya ait olduğunu kabul etmiştir"
+    ],
+    "dogru": 4,
+    "aciklama": "Yaş Antlaşması ile Osmanlı Devleti, Kırım'ın Rusya'ya bağlı olduğunu resmen kabul etmiştir. Böylece Osmanlı'nın Karadeniz'in kuzeyindeki egemenliği sona ermiştir.",
+    "zorluk": "zor",
+    "kaynak": "Osmanlı tarihi: Yaş Antlaşması"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Dağılma Dönemi",
+    "soru": "1808'de ayanlar ile padişah arasında imzalanan ve padişahın yetkilerini ilk kez sınırlayan belge hangisidir?",
+    "siklar": [
+      "Tanzimat Fermanı",
+      "Islahat Fermanı",
+      "Sened-i İttifak",
+      "Kanun-i Esasi",
+      "Adalet Fermanı"
+    ],
+    "dogru": 2,
+    "aciklama": "Sened-i İttifak, II. Mahmut ile ayanlar arasında imzalanmıştır. Padişahın yetkilerini ilk kez sınırlayan belge olması bakımından Osmanlı anayasal gelişmelerinin başlangıcı sayılır.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı tarihi: Sened-i İttifak"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Dağılma Dönemi",
+    "soru": "1826'da Yeniçeri Ocağı'nın kaldırılması olayı hangi adla anılır?",
+    "siklar": [
+      "Kabakçı Mustafa İsyanı",
+      "Vaka-i Hayriye",
+      "Patrona Halil İsyanı",
+      "31 Mart Vakası",
+      "Babıali Baskını"
+    ],
+    "dogru": 1,
+    "aciklama": "II. Mahmut'un 1826'da Yeniçeri Ocağı'nı kaldırması Vaka-i Hayriye olarak adlandırılır. Bu olayla askerî alanda köklü ıslahatların önü açılmıştır.",
+    "zorluk": "kolay",
+    "kaynak": "Osmanlı tarihi: Vaka-i Hayriye"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Tanzimat ve Islahat Dönemi",
+    "soru": "1839 Tanzimat Fermanı hangi Osmanlı padişahı döneminde ilan edilmiştir?",
+    "siklar": [
+      "Abdülmecit",
+      "II. Mahmut",
+      "Abdülaziz",
+      "V. Murat",
+      "III. Selim"
+    ],
+    "dogru": 0,
+    "aciklama": "Tanzimat Fermanı, Abdülmecit döneminde 1839'da okunmuştur. Ferman can, mal ve namus güvenliği ile vergi adaleti gibi ilkeleri getirmiştir.",
+    "zorluk": "kolay",
+    "kaynak": "Osmanlı tarihi: Tanzimat Fermanı"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Tanzimat ve Islahat Dönemi",
+    "soru": "1839 Tanzimat Fermanı'nı hazırlayıp okuyan devlet adamı hangisidir?",
+    "siklar": [
+      "Mithat Paşa",
+      "Âli Paşa",
+      "Keçecizade Fuat Paşa",
+      "Mustafa Reşit Paşa",
+      "Namık Kemal"
+    ],
+    "dogru": 3,
+    "aciklama": "Tanzimat Fermanı, Gülhane Meydanı'nda Mustafa Reşit Paşa tarafından okunmuştur. Bu nedenle ferman Gülhane Hatt-ı Hümayunu olarak da bilinir.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı tarihi: Tanzimat Fermanı"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Tanzimat ve Islahat Dönemi",
+    "soru": "1856 Islahat Fermanı hangi savaşın ardından ilan edilmiştir?",
+    "siklar": [
+      "93 Harbi",
+      "Balkan Savaşı",
+      "Trablusgarp Savaşı",
+      "I. Dünya Savaşı",
+      "Kırım Savaşı"
+    ],
+    "dogru": 4,
+    "aciklama": "Islahat Fermanı, Kırım Savaşı'nın ardından toplanan Paris Konferansı öncesinde ilan edilmiştir. Ferman özellikle gayrimüslim tebaanın haklarına ilişkin düzenlemeler getirmiştir.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı tarihi: Islahat Fermanı"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Tanzimat ve Islahat Dönemi",
+    "soru": "Osmanlı Devleti'nin ilk anayasası niteliğindeki belge hangisidir?",
+    "siklar": [
+      "Tanzimat Fermanı",
+      "Islahat Fermanı",
+      "Kanun-i Esasi",
+      "Sened-i İttifak",
+      "Mecelle"
+    ],
+    "dogru": 2,
+    "aciklama": "1876'da ilan edilen Kanun-i Esasi, Osmanlı Devleti'nin ilk anayasasıdır. Bu belge ile I. Meşrutiyet dönemi başlamış ve meclisli bir yönetim kurulmuştur.",
+    "zorluk": "kolay",
+    "kaynak": "Osmanlı tarihi: Kanun-i Esasi"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Meşrutiyet Dönemleri",
+    "soru": "I. Meşrutiyet hangi Osmanlı padişahı döneminde ilan edilmiştir?",
+    "siklar": [
+      "Sultan V. Murat",
+      "Sultan Abdülmecit",
+      "II. Abdülhamit",
+      "Sultan II. Mahmut",
+      "Sultan Abdülaziz"
+    ],
+    "dogru": 2,
+    "aciklama": "I. Meşrutiyet, 1876'da II. Abdülhamit döneminde Kanun-i Esasi'nin ilan edilmesiyle başlamıştır. Böylece Osmanlı Devleti'nde meşruti yönetim dönemi açılmıştır.",
+    "zorluk": "kolay",
+    "kaynak": "Osmanlı tarihi: I. Meşrutiyet"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Meşrutiyet Dönemleri",
+    "soru": "1909'da 31 Mart Vakası sonucunda tahttan indirilen Osmanlı padişahı hangisidir?",
+    "siklar": [
+      "Sultan V. Murat",
+      "Sultan Abdülaziz",
+      "Sultan II. Mahmut",
+      "Sultan VI. Mehmet Vahdettin",
+      "II. Abdülhamit"
+    ],
+    "dogru": 4,
+    "aciklama": "31 Mart Vakası, II. Meşrutiyet'e karşı çıkan bir ayaklanmadır. Hareket Ordusu'nun müdahalesiyle bastırılmış ve II. Abdülhamit tahttan indirilmiştir.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı tarihi: 31 Mart Vakası"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Dağılma Dönemi",
+    "soru": "Duyun-u Umumiye İdaresi hangi amaçla kurulmuştur?",
+    "siklar": [
+      "Osmanlı Devleti'nin dış borçlarının alacaklı devletlerce tahsil edilmesi",
+      "Osmanlı ordusunun Avrupa devletlerinin denetiminde yeniden düzenlenmesi",
+      "Gayrimüslim tebaanın askerlik işlemlerinin yürütülmesi",
+      "Yeni açılacak okulların müfredatının düzenlenmesi",
+      "Liman ve demiryolu yapım işlerinin planlanması"
+    ],
+    "dogru": 0,
+    "aciklama": "Duyun-u Umumiye İdaresi, Osmanlı Devleti'nin ödeyemediği dış borçları için alacaklı devletlerin kurduğu bir kurumdur. Bu kurum Osmanlı'nın önemli gelir kaynaklarını denetim altına almıştır.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı tarihi: Duyun-u Umumiye"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Dağılma Dönemi",
+    "soru": "Trablusgarp Savaşı'nı sona erdiren antlaşma hangisidir?",
+    "siklar": [
+      "Mondros Ateşkes Antlaşması",
+      "Londra Antlaşması",
+      "Bükreş Antlaşması",
+      "Atina Antlaşması",
+      "Uşi Antlaşması"
+    ],
+    "dogru": 4,
+    "aciklama": "Osmanlı Devleti ile İtalya arasındaki Trablusgarp Savaşı, 1912 Uşi Antlaşması ile sona ermiştir. Bu antlaşmayla Trablusgarp ve Bingazi İtalya'ya bırakılmıştır.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı tarihi: Uşi Antlaşması"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Dağılma Dönemi",
+    "soru": "III. Selim döneminde Avrupa tarzında kurulan ordu hangisidir?",
+    "siklar": [
+      "Sekban-ı Cedit",
+      "Nizam-ı Cedit",
+      "Asakir-i Mansure-i Muhammediye",
+      "Yaya ve Müsellem",
+      "Eşkinci Ocağı"
+    ],
+    "dogru": 1,
+    "aciklama": "Nizam-ı Cedit, III. Selim döneminde Avrupa usullerinde eğitim gören yeni bir ordu olarak kurulmuştur. Yenilikçi bu ordu, Kabakçı Mustafa İsyanı sırasında dağıtılmıştır.",
+    "zorluk": "zor",
+    "kaynak": "Osmanlı askerî ıslahatları: Nizam-ı Cedit"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Osmanlı Dağılma Dönemi",
+    "soru": "Yeniçeri Ocağı'nın kaldırılmasının ardından II. Mahmut'un kurduğu yeni ordu hangisidir?",
+    "siklar": [
+      "I. Meşrutiyet döneminde kurulan yeni ordu olan Sekban-ı Cedit",
+      "II. Meşrutiyet döneminde kurulan yeni ordu olan Eşkinci Ocağı",
+      "III. Selim'in kurduğu Avrupa usulü ordu olan Nizam-ı Cedit",
+      "Taşrada görev yapan yedek asker birlikleri olan Redif Birlikleri",
+      "Asakir-i Mansure-i Muhammediye"
+    ],
+    "dogru": 4,
+    "aciklama": "II. Mahmut, Vaka-i Hayriye'nin ardından Asakir-i Mansure-i Muhammediye adıyla yeni bir ordu kurmuştur. Bu ordu Avrupa tarzında eğitilmiş ve teşkilatlandırılmıştır.",
+    "zorluk": "zor",
+    "kaynak": "Osmanlı askerî ıslahatları: Asakir-i Mansure-i Muhammediye"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Tanzimat ve Islahat Dönemi",
+    "soru": "İlk resmî Osmanlı gazetesi Takvim-i Vekayi hangi padişah döneminde çıkarılmıştır?",
+    "siklar": [
+      "II. Mahmut",
+      "Abdülmecit",
+      "III. Selim",
+      "II. Abdülhamit",
+      "I. Mahmut"
+    ],
+    "dogru": 0,
+    "aciklama": "Takvim-i Vekayi, II. Mahmut döneminde çıkarılan ilk resmî Osmanlı gazetesidir. Gazete, devletin yaptığı düzenlemeleri halka duyurma amacı taşımıştır.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı basın tarihi: Takvim-i Vekayi"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Meşrutiyet Dönemleri",
+    "soru": "1908'de II. Meşrutiyet'in ilan edilmesiyle Osmanlı Devleti'nde aşağıdakilerden hangisi gerçekleşmiştir?",
+    "siklar": [
+      "Yeni bir anayasa hazırlanarak Kanun-i Esasi yürürlükten kaldırılmıştır",
+      "Padişahın bütün yetkileri İttihat ve Terakki Cemiyeti'ne devredilmiştir",
+      "Halifelik kurumu Osmanlı hanedanından ayrılarak ayrı bir makama verilmiştir",
+      "Meclis-i Mebusan'ın bütün yetkileri Meclis-i Âyan'a aktarılmıştır",
+      "Kanun-i Esasi yeniden yürürlüğe girmiş ve Meclis-i Mebusan tekrar açılmıştır"
+    ],
+    "dogru": 4,
+    "aciklama": "II. Meşrutiyet'in ilanıyla Kanun-i Esasi yeniden yürürlüğe girmiş ve Meclis-i Mebusan açılmıştır. Böylece I. Meşrutiyet döneminde askıya alınan meşruti yönetim yeniden kurulmuştur.",
+    "zorluk": "orta",
+    "kaynak": "Osmanlı tarihi: II. Meşrutiyet"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Kurtuluş Savaşı Hazırlık Dönemi",
+    "soru": "Osmanlı Devleti'nin I. Dünya Savaşı'ndan çekilmesini sağlayan ve işgallere zemin hazırlayan ateşkes antlaşması hangisidir?",
+    "siklar": [
+      "Mondros Ateşkes Antlaşması",
+      "Sevr Antlaşması",
+      "Mudanya Ateşkes Antlaşması",
+      "Uşi Antlaşması",
+      "Bükreş Antlaşması"
+    ],
+    "dogru": 0,
+    "aciklama": "30 Ekim 1918'de imzalanan Mondros Ateşkes Antlaşması, İtilaf Devletleri'ne geniş işgal yetkileri tanımıştır. Antlaşmanın uygulanmaya başlaması Anadolu'da işgalleri ve millî direniş hareketlerini doğurmuştur.",
+    "zorluk": "kolay",
+    "kaynak": "Kurtuluş Savaşı tarihi: Mondros Ateşkes Antlaşması"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Kurtuluş Savaşı Hazırlık Dönemi",
+    "soru": "Mustafa Kemal, Kurtuluş Savaşı'nı başlatmak üzere hangi tarihte Samsun'a çıkmıştır?",
+    "siklar": [
+      "13 Kasım 1918",
+      "19 Mayıs 1919",
+      "22 Haziran 1919",
+      "23 Temmuz 1919",
+      "23 Nisan 1920"
+    ],
+    "dogru": 1,
+    "aciklama": "Mustafa Kemal 19 Mayıs 1919'da Samsun'a çıkarak millî mücadelenin örgütlenmesini başlatmıştır. Bu tarih Kurtuluş Savaşı'nın fiilî başlangıcı kabul edilir.",
+    "zorluk": "kolay",
+    "kaynak": "Kurtuluş Savaşı tarihi: Samsun'a çıkış"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Kurtuluş Savaşı Hazırlık Dönemi",
+    "soru": "'Milletin istiklalini yine milletin azim ve kararı kurtaracaktır' ifadesi hangi belgede yer almaktadır?",
+    "siklar": [
+      "Erzurum Kongresi kararları",
+      "Sivas Kongresi kararları",
+      "Amasya Genelgesi",
+      "Misak-ı Milli",
+      "Havza Genelgesi"
+    ],
+    "dogru": 2,
+    "aciklama": "Amasya Genelgesi, milletin bağımsızlığını yine milletin kendisinin kurtaracağını ilan ederek millî egemenliğe vurgu yapmıştır. Belge, Kurtuluş Savaşı'nın gerekçe ve yöntemini ortaya koyması bakımından önemlidir.",
+    "zorluk": "orta",
+    "kaynak": "Kurtuluş Savaşı tarihi: Amasya Genelgesi"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Kurtuluş Savaşı Hazırlık Dönemi",
+    "soru": "Erzurum Kongresi ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "siklar": [
+      "Kongre yalnızca İstanbul Hükümeti'nin çağrısıyla toplanmıştır",
+      "Kongrede manda ve himaye yönetimi kabul edilmiştir",
+      "Kongre kararları yalnızca İstanbul'da uygulanmak üzere alınmıştır",
+      "Kongre toplanış bakımından bölgesel, kararları bakımından ulusal nitelik taşır",
+      "Kongre yalnızca ekonomik konuları görüşmek üzere toplanmıştır"
+    ],
+    "dogru": 3,
+    "aciklama": "Erzurum Kongresi bölgesel bir kongre olarak toplanmış, ancak millî sınırlar ve tam bağımsızlık gibi ulusal nitelikli kararlar almıştır. Kongrede manda ve himaye kesin olarak reddedilmiştir.",
+    "zorluk": "orta",
+    "kaynak": "Kurtuluş Savaşı tarihi: Erzurum Kongresi"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Kurtuluş Savaşı Hazırlık Dönemi",
+    "soru": "Sivas Kongresi'nde millî cemiyetlerin tek çatı altında birleştirilmesiyle kurulan yapı hangisidir?",
+    "siklar": [
+      "Kuvâ-yı Milliye adı verilen millî direniş teşkilatı",
+      "Millî Kongre adı verilen cemiyetler birliği",
+      "İttihat ve Terakki adı verilen siyasi cemiyet",
+      "Hürriyet ve İtilaf adı verilen siyasi fırka",
+      "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti"
+    ],
+    "dogru": 4,
+    "aciklama": "Sivas Kongresi'nde bütün millî cemiyetler Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti adı altında birleştirilmiştir. Böylece millî mücadele tek merkezden yönetilmeye başlanmıştır.",
+    "zorluk": "orta",
+    "kaynak": "Kurtuluş Savaşı tarihi: Sivas Kongresi"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Kurtuluş Savaşı Hazırlık Dönemi",
+    "soru": "Son Osmanlı Mebusan Meclisi'nde kabul edilen ve millî sınırları ilan eden kararlar hangi adla anılır?",
+    "siklar": [
+      "Misak-ı Milli",
+      "Kanun-i Esasi",
+      "Tanzimat Fermanı",
+      "Amasya Genelgesi",
+      "Erzurum Kongresi kararları"
+    ],
+    "dogru": 0,
+    "aciklama": "Misak-ı Milli, 28 Ocak 1920'de kabul edilen ve Türk vatanının sınırlarını ilan eden kararlardır. Bu kararlar İtilaf Devletleri'nin İstanbul'u işgal etmesine gerekçe olmuştur.",
+    "zorluk": "orta",
+    "kaynak": "Kurtuluş Savaşı tarihi: Misak-ı Milli"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Kurtuluş Savaşı Hazırlık Dönemi",
+    "soru": "Türkiye Büyük Millet Meclisi hangi tarihte açılmıştır?",
+    "siklar": [
+      "29 Ekim 1923",
+      "23 Nisan 1920",
+      "1 Kasım 1922",
+      "28 Ocak 1920",
+      "10 Ağustos 1920"
+    ],
+    "dogru": 1,
+    "aciklama": "TBMM 23 Nisan 1920'de Ankara'da açılmıştır. Meclis, millî iradeyi temsil ederek Kurtuluş Savaşı'nın yönetimini üstlenmiştir.",
+    "zorluk": "kolay",
+    "kaynak": "Kurtuluş Savaşı tarihi: TBMM'nin açılışı"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Kurtuluş Savaşı Hazırlık Dönemi",
+    "soru": "10 Ağustos 1920'de imzalanan ve Osmanlı topraklarını işgalciler arasında paylaştıran antlaşma hangisidir?",
+    "siklar": [
+      "Mondros Ateşkes Antlaşması",
+      "Mudanya Ateşkes Antlaşması",
+      "Sevr Antlaşması",
+      "Lozan Barış Antlaşması",
+      "Uşi Antlaşması"
+    ],
+    "dogru": 2,
+    "aciklama": "Sevr Antlaşması, Osmanlı Devleti'ne ağır koşullar getiren bir paylaşım antlaşmasıdır. TBMM bu antlaşmayı tanımamış ve millet bundan sonra millî mücadeleyi TBMM çatısı altında sürdürmüştür.",
+    "zorluk": "kolay",
+    "kaynak": "Kurtuluş Savaşı tarihi: Sevr Antlaşması"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Kurtuluş Savaşı Cepheler",
+    "soru": "Doğu Cephesi'nde Ermenistan ile imzalanan antlaşma hangisidir?",
+    "siklar": [
+      "Kars Antlaşması",
+      "Moskova Antlaşması",
+      "Ankara Antlaşması",
+      "Mudanya Ateşkes Antlaşması",
+      "Gümrü Antlaşması"
+    ],
+    "dogru": 4,
+    "aciklama": "Doğu Cephesi'nde kazanılan başarı sonucunda Ermenistan ile 1920 Gümrü Antlaşması imzalanmıştır. Bu antlaşma TBMM'nin imzaladığı ilk askerî ve siyasi nitelikli antlaşmadır.",
+    "zorluk": "orta",
+    "kaynak": "Kurtuluş Savaşı tarihi: Gümrü Antlaşması"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Kurtuluş Savaşı Cepheler",
+    "soru": "I. İnönü Zaferi'nin ardından TBMM tarafından kabul edilen ilk anayasa niteliğindeki belge hangisidir?",
+    "siklar": [
+      "Kanun-i Esasi",
+      "Mecelle",
+      "Sened-i İttifak",
+      "Teşkilat-ı Esasiye Kanunu",
+      "Müdafaa-i Hukuk Nizamnamesi"
+    ],
+    "dogru": 3,
+    "aciklama": "1921 Teşkilat-ı Esasiye Kanunu, TBMM'nin kabul ettiği ilk anayasadır. Anayasa millî egemenlik ilkesini ve meclis üstünlüğünü temel almıştır.",
+    "zorluk": "zor",
+    "kaynak": "Kurtuluş Savaşı tarihi: 1921 Teşkilat-ı Esasiye Kanunu"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Kurtuluş Savaşı Cepheler",
+    "soru": "Güney Cephesi'ndeki çatışmaları sona erdirerek TBMM ile Fransa arasında imzalanan antlaşma hangisidir?",
+    "siklar": [
+      "Ankara Antlaşması",
+      "Moskova Antlaşması",
+      "Gümrü Antlaşması",
+      "Kars Antlaşması",
+      "Lozan Barış Antlaşması"
+    ],
+    "dogru": 0,
+    "aciklama": "1921 Ankara Antlaşması ile Fransa, TBMM'yi tanıyan ilk İtilaf Devleti olmuştur. Antlaşma ile Güney Cephesi'ndeki çatışmalar sona ermiş ve güney sınırı belirlenmiştir.",
+    "zorluk": "orta",
+    "kaynak": "Kurtuluş Savaşı tarihi: Ankara Antlaşması"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Kurtuluş Savaşı Cepheler",
+    "soru": "Sakarya Savaşı öncesinde halkı orduya mal ve hizmet yardımına çağıran emirler hangi adla yayımlanmıştır?",
+    "siklar": [
+      "Aşar Emirleri",
+      "Tekalif-i Milliye Emirleri",
+      "Müdafaa-i Milliye Kararları",
+      "Misak-ı İktisadi Kararları",
+      "Nizamname-i Hümayun Kararları"
+    ],
+    "dogru": 1,
+    "aciklama": "Tekalif-i Milliye Emirleri ile halktan yiyecek, giyecek, silah ve hayvan temini istenmiştir. Bu uygulama ordunun Sakarya öncesi ihtiyaçlarının karşılanmasını sağlamıştır.",
+    "zorluk": "orta",
+    "kaynak": "Kurtuluş Savaşı tarihi: Tekalif-i Milliye Emirleri"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Kurtuluş Savaşı Cepheler",
+    "soru": "Büyük Taarruz'un başarıyla sonuçlanmasının ardından aşağıdakilerden hangisi gerçekleşmiştir?",
+    "siklar": [
+      "İtilaf Devletleri Sevr Antlaşması'nın koşullarını yumuşatmayı kabul etmiştir",
+      "TBMM ile İngiltere arasında doğrudan bir ittifak antlaşması imzalanmıştır",
+      "İşgal altındaki topraklar kurtarılmış ve Mudanya Ateşkes Antlaşması'na giden süreç başlamıştır",
+      "Osmanlı saltanatı kendiliğinden sona ermiş ve padişah ülkeyi terk etmiştir",
+      "Yunanistan Anadolu'daki işgal bölgelerini Lozan görüşmelerinde resmen tanımıştır"
+    ],
+    "dogru": 2,
+    "aciklama": "26 Ağustos 1922'de başlayan Büyük Taarruz ile işgal altındaki Anadolu toprakları kurtarılmıştır. Bu başarı Mudanya Ateşkes Antlaşması'nı ve ardından Lozan sürecini getirmiştir.",
+    "zorluk": "orta",
+    "kaynak": "Kurtuluş Savaşı tarihi: Büyük Taarruz"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Kurtuluş Savaşı Sonrası",
+    "soru": "Mudanya Ateşkes Antlaşması hangi tarihte imzalanmıştır?",
+    "siklar": [
+      "24 Temmuz 1923",
+      "30 Ekim 1918",
+      "10 Ağustos 1920",
+      "11 Ekim 1922",
+      "20 Ocak 1921"
+    ],
+    "dogru": 3,
+    "aciklama": "Mudanya Ateşkes Antlaşması 11 Ekim 1922'de imzalanmıştır. Bu antlaşma ile silahlı mücadele sona ermiş ve TBMM uluslararası alanda muhatap kabul edilmiştir.",
+    "zorluk": "zor",
+    "kaynak": "Kurtuluş Savaşı tarihi: Mudanya Ateşkes Antlaşması"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Kurtuluş Savaşı Sonrası",
+    "soru": "Lozan Barış Antlaşması hangi tarihte imzalanmıştır?",
+    "siklar": [
+      "11 Ekim 1922",
+      "29 Ekim 1923",
+      "1 Kasım 1922",
+      "23 Nisan 1920",
+      "24 Temmuz 1923"
+    ],
+    "dogru": 4,
+    "aciklama": "Lozan Barış Antlaşması 24 Temmuz 1923'te imzalanmıştır. Antlaşma yeni Türk Devleti'nin bağımsızlığını uluslararası düzeyde tanıyan temel belgedir.",
+    "zorluk": "kolay",
+    "kaynak": "Kurtuluş Savaşı tarihi: Lozan Barış Antlaşması"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Kurtuluş Savaşı Sonrası",
+    "soru": "Kapitülasyonlar hangi antlaşma ile kesin olarak kaldırılmıştır?",
+    "siklar": [
+      "Sevr Antlaşması",
+      "Mondros Ateşkes Antlaşması",
+      "Mudanya Ateşkes Antlaşması",
+      "Lozan Barış Antlaşması",
+      "Ankara Antlaşması"
+    ],
+    "dogru": 3,
+    "aciklama": "Kapitülasyonlar Lozan Barış Antlaşması ile kesin olarak kaldırılmıştır. Böylece Türkiye ekonomik bağımsızlığını güçlendiren önemli bir kazanım elde etmiştir.",
+    "zorluk": "orta",
+    "kaynak": "Lozan Barış Antlaşması: kapitülasyonlar"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Cumhuriyet Dönemi Siyasi Gelişmeler",
+    "soru": "Saltanat hangi tarihte kaldırılmıştır?",
+    "siklar": [
+      "1 Kasım 1922",
+      "29 Ekim 1923",
+      "3 Mart 1924",
+      "24 Temmuz 1923",
+      "23 Nisan 1920"
+    ],
+    "dogru": 0,
+    "aciklama": "Saltanat 1 Kasım 1922'de TBMM kararıyla kaldırılmıştır. Böylece millî egemenliğe dayalı yeni devlet düzeni yolunda önemli bir adım atılmıştır.",
+    "zorluk": "orta",
+    "kaynak": "Cumhuriyet tarihi: saltanatın kaldırılması"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Cumhuriyet Dönemi Siyasi Gelişmeler",
+    "soru": "Cumhuriyet hangi tarihte ilan edilmiştir?",
+    "siklar": [
+      "1 Kasım 1922",
+      "29 Ekim 1923",
+      "3 Mart 1924",
+      "20 Ocak 1921",
+      "24 Temmuz 1923"
+    ],
+    "dogru": 1,
+    "aciklama": "Cumhuriyet 29 Ekim 1923'te ilan edilmiş ve Mustafa Kemal ilk cumhurbaşkanı seçilmiştir. Böylece devletin yönetim biçimi de açıkça belirlenmiştir.",
+    "zorluk": "kolay",
+    "kaynak": "Cumhuriyet tarihi: cumhuriyetin ilanı"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Cumhuriyet Dönemi Siyasi Gelişmeler",
+    "soru": "Halifelik hangi tarihte kaldırılmıştır?",
+    "siklar": [
+      "1 Kasım 1922",
+      "29 Ekim 1923",
+      "3 Mart 1924",
+      "24 Temmuz 1923",
+      "3 Aralık 1920"
+    ],
+    "dogru": 2,
+    "aciklama": "Halifelik 3 Mart 1924'te kaldırılmıştır. Aynı gün alınan kararlarla Şer'iye ve Evkaf Vekâleti ile Erkân-ı Harbiye Vekâleti de kaldırılmıştır.",
+    "zorluk": "orta",
+    "kaynak": "Cumhuriyet tarihi: halifeliğin kaldırılması"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Cumhuriyet Dönemi İnkılapları",
+    "soru": "Eğitim ve öğretimin birleştirilerek bütün okulların Millî Eğitim Bakanlığı'na bağlanmasını sağlayan kanun hangisidir?",
+    "siklar": [
+      "Maarif Teşkilatı Kanunu",
+      "İlk Mektepler Nizamnamesi",
+      "Darülfünun Kanunu",
+      "Tevhid-i Tedrisat Kanunu",
+      "Medreseler Nizamnamesi"
+    ],
+    "dogru": 3,
+    "aciklama": "1924 Tevhid-i Tedrisat Kanunu ile bütün eğitim kurumları Millî Eğitim Bakanlığı'na bağlanmıştır. Böylece eğitimde birlik sağlanmış ve öğretim laik bir temele oturtulmuştur.",
+    "zorluk": "orta",
+    "kaynak": "Cumhuriyet tarihi: Tevhid-i Tedrisat Kanunu"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Cumhuriyet Dönemi İnkılapları",
+    "soru": "Şapka Kanunu hangi yıl çıkarılmıştır?",
+    "siklar": [
+      "1924",
+      "1926",
+      "1928",
+      "1934",
+      "1925"
+    ],
+    "dogru": 4,
+    "aciklama": "Şapka Kanunu 1925'te çıkarılmıştır. Aynı yıl tekke, zaviye ve türbelerin kapatılması ile takvim ve saat düzenlemeleri de yapılmıştır.",
+    "zorluk": "orta",
+    "kaynak": "Cumhuriyet tarihi: Şapka Kanunu"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Cumhuriyet Dönemi İnkılapları",
+    "soru": "1926'da kabul edilen Türk Medeni Kanunu hazırlanırken hangi ülkenin medeni kanunu esas alınmıştır?",
+    "siklar": [
+      "İsviçre",
+      "Fransa",
+      "Almanya",
+      "İtalya",
+      "Belçika"
+    ],
+    "dogru": 0,
+    "aciklama": "Türk Medeni Kanunu hazırlanırken İsviçre Medeni Kanunu esas alınmıştır. Kanun aile, miras ve mülkiyet alanlarında laik ve çağdaş düzenlemeler getirmiştir.",
+    "zorluk": "orta",
+    "kaynak": "Cumhuriyet tarihi: Türk Medeni Kanunu"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Cumhuriyet Dönemi İnkılapları",
+    "soru": "Yeni Türk harflerinin kabulü hangi yıl gerçekleşmiştir?",
+    "siklar": [
+      "1925",
+      "1928",
+      "1926",
+      "1931",
+      "1934"
+    ],
+    "dogru": 1,
+    "aciklama": "Harf İnkılabı 1928'de kabul edilmiştir. Latin harflerine dayanan yeni alfabe ile okuma yazma öğrenimi kolaylaştırılmış ve okur yazar oranının artırılması hedeflenmiştir.",
+    "zorluk": "kolay",
+    "kaynak": "Cumhuriyet tarihi: harf inkılabı"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Cumhuriyet Dönemi İnkılapları",
+    "soru": "Soyadı Kanunu hangi yıl kabul edilmiştir?",
+    "siklar": [
+      "1926",
+      "1928",
+      "1934",
+      "1930",
+      "1935"
+    ],
+    "dogru": 2,
+    "aciklama": "Soyadı Kanunu 1934'te kabul edilmiştir. Kanunla birlikte ağa, hacı, bey gibi unvanlar da kaldırılmıştır.",
+    "zorluk": "kolay",
+    "kaynak": "Cumhuriyet tarihi: Soyadı Kanunu"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Cumhuriyet Dönemi İnkılapları",
+    "soru": "Türk kadınlarına milletvekili seçme ve seçilme hakkı hangi yıl verilmiştir?",
+    "siklar": [
+      "1926",
+      "1930",
+      "1933",
+      "1934",
+      "1945"
+    ],
+    "dogru": 3,
+    "aciklama": "Türk kadınlarına milletvekili seçme ve seçilme hakkı 1934'te tanınmıştır. Kadınlar 1935 seçimlerinde ilk kez milletvekili olarak TBMM'ye girmiştir.",
+    "zorluk": "orta",
+    "kaynak": "Cumhuriyet tarihi: kadınlara seçme ve seçilme hakkı"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Cumhuriyet Dönemi İnkılapları",
+    "soru": "Aşar vergisi hangi yıl kaldırılmıştır?",
+    "siklar": [
+      "1923",
+      "1926",
+      "1930",
+      "1934",
+      "1925"
+    ],
+    "dogru": 4,
+    "aciklama": "Aşar vergisi 1925'te kaldırılmıştır. Bu düzenleme köylünün üzerindeki ağır vergi yükünü azaltmayı ve tarımsal üretimi artırmayı amaçlamıştır.",
+    "zorluk": "zor",
+    "kaynak": "Cumhuriyet tarihi: aşar vergisinin kaldırılması"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Çok Partili Hayat",
+    "soru": "Cumhuriyet döneminin ilk muhalefet partisi hangisidir?",
+    "siklar": [
+      "Terakkiperver Cumhuriyet Fırkası",
+      "Serbest Cumhuriyet Fırkası",
+      "Demokrat Parti",
+      "Millî Kalkınma Partisi",
+      "Ahali Fırkası"
+    ],
+    "dogru": 0,
+    "aciklama": "Terakkiperver Cumhuriyet Fırkası 1924'te kurulmuş ve Cumhuriyet döneminin ilk muhalefet partisi olmuştur. Parti Şeyh Sait İsyanı'nın ardından kapatılmıştır.",
+    "zorluk": "orta",
+    "kaynak": "Cumhuriyet tarihi: Terakkiperver Cumhuriyet Fırkası"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Çok Partili Hayat",
+    "soru": "1930'da Atatürk'ün teşvikiyle kurulan ve çok partili hayata geçiş denemesi olan parti hangisidir?",
+    "siklar": [
+      "Terakkiperver Cumhuriyet Fırkası",
+      "Serbest Cumhuriyet Fırkası",
+      "Demokrat Parti",
+      "Millî Kalkınma Partisi",
+      "Müdafaa-i Hukuk Cemiyeti"
+    ],
+    "dogru": 1,
+    "aciklama": "Serbest Cumhuriyet Fırkası 1930'da Fethi Okyar tarafından kurulmuştur. Parti kısa süre sonra kendini feshetmiş ve çok partili hayat denemesi kesintiye uğramıştır.",
+    "zorluk": "orta",
+    "kaynak": "Cumhuriyet tarihi: Serbest Cumhuriyet Fırkası"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Çok Partili Hayat",
+    "soru": "1946'da kurulan ve 1950 seçimlerini kazanarak iktidara gelen siyasi parti hangisidir?",
+    "siklar": [
+      "Millet Partisi",
+      "Millî Kalkınma Partisi",
+      "Demokrat Parti",
+      "Cumhuriyet Halk Partisi",
+      "Serbest Cumhuriyet Fırkası"
+    ],
+    "dogru": 2,
+    "aciklama": "Demokrat Parti 1946'da kurulmuş, 1950 seçimlerini kazanarak iktidara gelmiştir. Bu sonuç Türkiye'de çok partili hayatın yerleşmesinde dönüm noktası sayılır.",
+    "zorluk": "orta",
+    "kaynak": "Cumhuriyet tarihi: Demokrat Parti ve 1950 seçimleri"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Atatürk İlkeleri",
+    "soru": "Devletin ekonominin gerektirdiği işleri üstlenmesini ve özel sektörü yönlendirmesini öngören Atatürk ilkesi hangisidir?",
+    "siklar": [
+      "Halkçılık",
+      "Laiklik",
+      "Milliyetçilik",
+      "Devletçilik",
+      "İnkılapçılık"
+    ],
+    "dogru": 3,
+    "aciklama": "Devletçilik ilkesi, özel girişimin yetersiz kaldığı alanlarda devletin yatırım yapmasını öngörür. 1930'lu yıllarda sanayileşme hamleleri bu ilke doğrultusunda yürütülmüştür.",
+    "zorluk": "orta",
+    "kaynak": "Atatürk ilkeleri: devletçilik"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Atatürk Dönemi Dış Politikası",
+    "soru": "1934'te Türkiye, Yunanistan, Yugoslavya ve Romanya arasında imzalanan ve Balkanlar'da statükoyu korumayı amaçlayan antlaşma hangisidir?",
+    "siklar": [
+      "Sadabat Paktı",
+      "Balkan Antantı",
+      "Montrö Boğazlar Sözleşmesi",
+      "Lozan Barış Antlaşması",
+      "Ankara Antlaşması"
+    ],
+    "dogru": 1,
+    "aciklama": "Balkan Antantı 1934'te Türkiye, Yunanistan, Yugoslavya ve Romanya arasında imzalanmıştır. Antlaşma Balkan sınırlarının korunmasını ve saldırmazlığı esas almıştır.",
+    "zorluk": "zor",
+    "kaynak": "Atatürk dönemi dış politika: Balkan Antantı"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Atatürk Dönemi Dış Politikası",
+    "soru": "Boğazlar üzerinde Türkiye'nin tam egemenliğini sağlayan ve Boğazlar Komisyonu'nu kaldıran sözleşme hangisidir?",
+    "siklar": [
+      "Lozan Boğazlar Sözleşmesi",
+      "Balkan Antantı",
+      "Sadabat Paktı",
+      "Mudanya Ateşkes Antlaşması",
+      "Montrö Boğazlar Sözleşmesi"
+    ],
+    "dogru": 4,
+    "aciklama": "1936 Montrö Boğazlar Sözleşmesi ile Boğazlar Komisyonu kaldırılmış ve Boğazların yönetimi Türkiye'ye geçmiştir. Türkiye ayrıca Boğazlarda asker bulundurma hakkı elde etmiştir.",
+    "zorluk": "orta",
+    "kaynak": "Atatürk dönemi dış politika: Montrö Boğazlar Sözleşmesi"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Atatürk Dönemi Dış Politikası",
+    "soru": "Türkiye hangi yıl Milletler Cemiyeti'ne üye olmuştur?",
+    "siklar": [
+      "1928",
+      "1930",
+      "1932",
+      "1934",
+      "1937"
+    ],
+    "dogru": 2,
+    "aciklama": "Türkiye 1932'de Milletler Cemiyeti'ne üye olmuştur. Bu üyelik, Türkiye'nin uluslararası alanda artan saygınlığının bir göstergesidir.",
+    "zorluk": "zor",
+    "kaynak": "Atatürk dönemi dış politika: Milletler Cemiyeti üyeliği"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Atatürk Dönemi Dış Politikası",
+    "soru": "1937'de Türkiye, İran, Irak ve Afganistan arasında imzalanan ve Orta Doğu'da barışı amaçlayan pakt hangisidir?",
+    "siklar": [
+      "Balkan Antantı",
+      "Montrö Boğazlar Sözleşmesi",
+      "Bağdat Paktı",
+      "Sadabat Paktı",
+      "Ankara Paktı"
+    ],
+    "dogru": 3,
+    "aciklama": "Sadabat Paktı 1937'de Türkiye, İran, Irak ve Afganistan arasında imzalanmıştır. Pakt, bölge ülkelerinin sınırlarına saygı ve saldırmazlık esaslarına dayanır.",
+    "zorluk": "zor",
+    "kaynak": "Atatürk dönemi dış politika: Sadabat Paktı"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Atatürk Dönemi Dış Politikası",
+    "soru": "Hatay hangi yıl Türkiye'ye katılmıştır?",
+    "siklar": [
+      "1936",
+      "1937",
+      "1938",
+      "1939",
+      "1945"
+    ],
+    "dogru": 3,
+    "aciklama": "Hatay 1939'da Türkiye'ye katılmıştır. Atatürk'ün üzerinde önemle durduğu Hatay sorunu, Fransa ile yürütülen görüşmeler sonucunda Türkiye lehine çözülmüştür.",
+    "zorluk": "zor",
+    "kaynak": "Atatürk dönemi dış politika: Hatay'ın Türkiye'ye katılması"
+  },
+  {
+    "ders": "Genel Kültür - Tarih",
+    "konu": "Cumhuriyet Dönemi İnkılapları",
+    "soru": "Türk karasularında deniz taşımacılığı ve liman hizmetlerini yalnızca Türk gemilerine bırakan Kabotaj Kanunu hangi yıl yürürlüğe girmiştir?",
+    "siklar": [
+      "1923",
+      "1925",
+      "1926",
+      "1928",
+      "1931"
+    ],
+    "dogru": 2,
+    "aciklama": "Kabotaj Kanunu 1926'da yürürlüğe girmiştir. Kanunla Türk karasularındaki taşımacılık hakkı Türk gemilerine bırakılarak deniz ticareti millîleştirilmiştir.",
+    "zorluk": "zor",
+    "kaynak": "Cumhuriyet tarihi: Kabotaj Kanunu"
+  }
+]
