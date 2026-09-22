@@ -1,0 +1,1058 @@
+[
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Yönetim Biliminin Doğuşu",
+    "soru": "Kamu yönetiminin bağımsız bir bilim dalı olarak doğuşunda başlangıç kabul edilen 1887 tarihli İdarenin İncelenmesi adlı çalışma kime aittir?",
+    "siklar": [
+      "Max Weber",
+      "Frederick Taylor",
+      "Woodrow Wilson",
+      "Henri Fayol",
+      "Elton Mayo"
+    ],
+    "dogru": 2,
+    "aciklama": "Kamu yönetimi disiplininin başlangıcı Woodrow Wilson'ın 1887 tarihli bu makalesi kabul edilir; yönetimin siyasetten ayrı olarak incelenmesi gerektiğini savunmuştur.",
+    "zorluk": "kolay",
+    "kaynak": "kamu yönetimi müfredatı: Wilson, The Study of Administration (1887)"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Klasik Kuram",
+    "soru": "Klasik yönetim kuramı içinde iş etüdü, standartlaştırma ve zaman-hareket incelemeleriyle verimliliği artırmayı amaçlayan yaklaşım hangisidir?",
+    "siklar": [
+      "Bilimsel yönetim yaklaşımı",
+      "İnsan ilişkileri yaklaşımı",
+      "Bürokrasi yaklaşımı",
+      "Sistem yaklaşımı",
+      "Olasılık yaklaşımı"
+    ],
+    "dogru": 0,
+    "aciklama": "Bilimsel yönetim yaklaşımı, Frederick Taylor'un öncülüğünde iş süreçlerinin ölçülmesi ve standartlaştırılması yoluyla verimliliği artırmayı hedefler.",
+    "zorluk": "kolay",
+    "kaynak": "kamu yönetimi müfredatı: Taylor ve bilimsel yönetim"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Weber ve Bürokrasi",
+    "soru": "Weber'in ideal bürokrasi modelinin özellikleri arasında aşağıdakilerden hangisi yer almaz?",
+    "siklar": [
+      "Hiyerarşik otorite zinciri",
+      "Yazılı belge ve dosya düzeni",
+      "Gayrişahsi kurallara bağlılık",
+      "Liyakate dayalı atama",
+      "Duygusal bağlılığa dayalı karar"
+    ],
+    "dogru": 4,
+    "aciklama": "Model gayrişahsilik ilkesine dayanır; kararlar kişisel duygu ve bağlılıklara göre değil, önceden belirlenmiş kurallara göre alınır.",
+    "zorluk": "orta",
+    "kaynak": "kamu yönetimi müfredatı: Weber'in ideal tip bürokrasi modeli"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "İnsan İlişkileri Yaklaşımı",
+    "soru": "İnsan İlişkileri yaklaşımının doğuşuna kaynaklık eden ve işçi verimliliğinde sosyal ilişkilerin önemini ortaya koyan araştırma hangisidir?",
+    "siklar": [
+      "Taylor'un iş etütleri",
+      "Hawthorne araştırmaları",
+      "Bürokrasi üzerine çalışmalar",
+      "Zaman ve hareket etütleri",
+      "Örgütsel sistem analizleri"
+    ],
+    "dogru": 1,
+    "aciklama": "Elton Mayo ve arkadaşlarının Hawthorne fabrikalarında yaptığı araştırmalar, verimlilikte fiziksel koşullardan çok sosyal ilişkilerin belirleyici olduğunu göstermiştir.",
+    "zorluk": "orta",
+    "kaynak": "kamu yönetimi müfredatı: Hawthorne araştırmaları"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Neo-klasik Yaklaşım",
+    "soru": "Neo-klasik (davranışsal) yaklaşımı klasik kuramdan ayıran temel özellik aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Örgütte yalnızca biçimsel yapıyı inceler.",
+      "Verimlilik için kuralları katılaştırır.",
+      "Yetkiyi tek merkezde toplamayı savunur.",
+      "İnformal örgüt ve insan faktörünü öne çıkarır.",
+      "Örgütü kapalı bir sistem sayar."
+    ],
+    "dogru": 3,
+    "aciklama": "Neo-klasik yaklaşım, biçimsel yapının yanında informal ilişkileri, grup dinamiklerini ve insan davranışını yönetimin merkezine alır.",
+    "zorluk": "orta",
+    "kaynak": "kamu yönetimi müfredatı: neo-klasik (davranışsal) yaklaşım"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Sistem Yaklaşımı",
+    "soru": "Örgütü çevresiyle etkileşen, girdi alıp çıktı üreten açık bir sistem olarak gören yaklaşım hangisidir?",
+    "siklar": [
+      "Sistem yaklaşımı",
+      "Klasik yaklaşım",
+      "İnsan ilişkileri yaklaşımı",
+      "Bürokrasi modeli",
+      "Bilimsel yönetim"
+    ],
+    "dogru": 0,
+    "aciklama": "Sistem yaklaşımı örgütü bir bütün olarak ele alır; örgüt çevreden girdi alan, bunu süreçlerde işleyip çıktıya dönüştüren ve geri bildirimle kendini yenileyen açık bir sistemdir.",
+    "zorluk": "kolay",
+    "kaynak": "kamu yönetimi müfredatı: sistem yaklaşımı"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Olasılık Yaklaşımı",
+    "soru": "Olasılık (durumsallık) yaklaşımının temel savı aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Her örgüt için tek ve en iyi yönetim biçimi vardır.",
+      "Örgüt yapısı yalnızca yazılı kurallarla belirlenir.",
+      "Yönetim yalnızca hiyerarşiye dayanır.",
+      "En uygun yapı, içinde bulunulan koşullara göre değişir.",
+      "İnsan davranışı yönetimde belirsizlik yaratır."
+    ],
+    "dogru": 3,
+    "aciklama": "Olasılık yaklaşımına göre her koşulda geçerli tek bir doğru örgütlenme biçimi yoktur; uygun yapı çevre, teknoloji ve örgütün niteliğine göre belirlenir.",
+    "zorluk": "orta",
+    "kaynak": "kamu yönetimi müfredatı: olasılık (durumsallık) yaklaşımı"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Kamu ve Özel Yönetim Ayrımı",
+    "soru": "Kamu yönetimini özel yönetimden ayıran özellik aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Faaliyetlerin rekabet içinde yürütülmesi",
+      "Kamu yararı ve kamu hukuku rejimine bağlılık",
+      "Kar maksimizasyonunun esas alınması",
+      "Müşteri tercihlerinin belirleyici olması",
+      "Sermayenin özel mülkiyete ait olması"
+    ],
+    "dogru": 1,
+    "aciklama": "Kamu yönetimi kamu yararını gözetir, kamu hukuku kurallarına ve idare hukuku rejimine tabidir; özel yönetim ise kâr ve rekabet esasına dayanır.",
+    "zorluk": "kolay",
+    "kaynak": "kamu yönetimi müfredatı: kamu yönetimi-özel yönetim ayrımı"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Kamu Personel Rejimi",
+    "soru": "657 sayılı Devlet Memurları Kanunu'na göre memurluğa alınmada esas alınan temel ilke aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Kayırmacılık ve kişisel sadakat",
+      "Kıdem ve siyasi aidiyet",
+      "Referans ve tanışıklık",
+      "Yalnızca sözlü değerlendirme",
+      "Kariyer ve liyakat"
+    ],
+    "dogru": 4,
+    "aciklama": "Kanun, memurluğa girişte ve yükselmede kariyer ve liyakat ilkesini esas alır; atama sınav ve nesnel ölçütlerle yapılır.",
+    "zorluk": "kolay",
+    "kaynak": "657 sayılı Devlet Memurları Kanunu m.3"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Disiplin Hukuku",
+    "soru": "657 sayılı Kanun'da öngörülen disiplin cezaları arasında aşağıdakilerden hangisi yer alır?",
+    "siklar": [
+      "Görevden süresiz uzaklaştırma",
+      "Memuriyetten sürekli men",
+      "Kademe ilerlemesinin durdurulması",
+      "Hapis cezası verilmesi",
+      "Rütbe ve nişanın sökülmesi"
+    ],
+    "dogru": 2,
+    "aciklama": "Kanundaki disiplin cezaları uyarı, kınama, aylıktan kesme, kademe ilerlemesinin durdurulması ve devlet memurluğundan çıkarma biçimindedir.",
+    "zorluk": "orta",
+    "kaynak": "657 sayılı Devlet Memurları Kanunu m.125"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Disiplin Hukuku",
+    "soru": "Memura görevinde ve davranışlarında özen göstermediği için verilen, Kanun'daki en hafif disiplin cezası hangisidir?",
+    "siklar": [
+      "Kınama",
+      "Aylıktan kesme",
+      "Kademe ilerlemesinin durdurulması",
+      "Devlet memurluğundan çıkarma",
+      "Uyarı"
+    ],
+    "dogru": 4,
+    "aciklama": "Uyarı, memura görevinde ve davranışlarında daha dikkatli olması gerektiğinin yazılı olarak bildirilmesidir ve en hafif disiplin cezasıdır.",
+    "zorluk": "kolay",
+    "kaynak": "657 sayılı Devlet Memurları Kanunu m.125"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Kamu Personel Rejimi",
+    "soru": "Kamu kurumlarında personel istihdam biçimleri arasında aşağıdakilerden hangisi yer alır?",
+    "siklar": [
+      "Gönüllü çalışan",
+      "Stajyer öğrenci",
+      "Sözleşmeli personel",
+      "Yarı zamanlı asker",
+      "Geçici görevlendirme"
+    ],
+    "dogru": 2,
+    "aciklama": "Kamu personeli esas olarak memur, sözleşmeli personel ve işçi olarak istihdam edilir; geçici görevlendirme bir istihdam biçimi değildir.",
+    "zorluk": "orta",
+    "kaynak": "657 sayılı Devlet Memurları Kanunu m.36 ve ilgili hükümler"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Kamu Personel Rejimi",
+    "soru": "Memurun görevini yürütürken siyasi parti tercihlerini işine yansıtmaması hangi ilkenin gereğidir?",
+    "siklar": [
+      "Siyasi tarafsızlık",
+      "Kariyer ve liyakat",
+      "Devlete sadakat",
+      "Hiyerarşik bağlılık",
+      "Disiplin sorumluluğu"
+    ],
+    "dogru": 0,
+    "aciklama": "Memurların siyasi partilere üye olmaları ve parti faaliyetlerine katılmaları yasak olup görevlerinde siyasi tarafsızlık esastır.",
+    "zorluk": "kolay",
+    "kaynak": "657 sayılı Devlet Memurları Kanunu m.7"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Merkezi Yönetim: Taşra Teşkilatı",
+    "soru": "Merkezi yönetimin il düzeyindeki en yetkili temsilcisi aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Kaymakam",
+      "Belediye başkanı",
+      "İl genel meclisi başkanı",
+      "Vali",
+      "Bölge müdürü"
+    ],
+    "dogru": 3,
+    "aciklama": "Vali, merkezi yönetimin il düzeyindeki en yetkili temsilcisi ve ilin genel idaresinin başıdır; kaymakam ise ilçe düzeyinde görev yapar.",
+    "zorluk": "kolay",
+    "kaynak": "1982 Anayasası m.126 ve 5442 sayılı İl İdaresi Kanunu"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Merkezi Yönetim: Taşra Teşkilatı",
+    "soru": "Aşağıdakilerden hangisi merkezi yönetimin taşra teşkilatı içinde yer alır?",
+    "siklar": [
+      "Belediye meclisi",
+      "Kaymakamlık",
+      "İl genel meclisi",
+      "Belediye encümeni",
+      "Köy ihtiyar meclisi"
+    ],
+    "dogru": 1,
+    "aciklama": "Kaymakamlık, merkezi yönetimin ilçe düzeyindeki taşra birimidir; diğer seçenekler yerinden yönetim kuruluşlarının organlarıdır.",
+    "zorluk": "kolay",
+    "kaynak": "1982 Anayasası m.126"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Yardımcı Kuruluşlar",
+    "soru": "Aşağıdakilerden hangisi merkezi yönetimin yardımcı kuruluşları arasında yer alır?",
+    "siklar": [
+      "Belediye",
+      "Sayıştay",
+      "Köy",
+      "İl özel idaresi",
+      "Meslek odası"
+    ],
+    "dogru": 1,
+    "aciklama": "Sayıştay, merkezi yönetime kararlarıyla ve görüşleriyle yardımcı olan kuruluşlardandır; diğer seçenekler yerinden yönetim ya da meslek kuruluşlarıdır.",
+    "zorluk": "orta",
+    "kaynak": "1982 Anayasası m.160 ve kamu yönetimi müfredatı: yardımcı kuruluşlar"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Yardımcı Kuruluşlar",
+    "soru": "Danıştay'ın görevleri arasında aşağıdakilerden hangisi yer alır?",
+    "siklar": [
+      "Kamu gelirlerini denetlemek",
+      "Memurları atamak",
+      "Yerel yönetimleri denetlemek",
+      "Bütçeyi hazırlamak",
+      "İdari davalara bakmak"
+    ],
+    "dogru": 4,
+    "aciklama": "Danıştay hem idari yargı mercii olarak idari davalara bakar hem de idari konularda danışma görüşü verir.",
+    "zorluk": "orta",
+    "kaynak": "1982 Anayasası m.155"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Mahalli İdareler",
+    "soru": "1982 Anayasası'na göre mahalli idarelerle ilgili temel ilke aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Merkezi yönetime tam bağlılık",
+      "Göreve atama ile gelinmesi",
+      "Mahalli idarelerin özerkliği ve seçimle oluşması",
+      "Kararların vesayet makamınca alınması",
+      "Hizmetlerin yalnızca il düzeyinde yürütülmesi"
+    ],
+    "dogru": 2,
+    "aciklama": "Anayasa mahalli idarelerin kuruluş ve görevleriyle özerk olduğunu, karar organlarının seçimle oluştuğunu belirtir; merkezi yönetimin denetimi kanunda öngörülen sınırlar içindedir.",
+    "zorluk": "orta",
+    "kaynak": "1982 Anayasası m.127"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Belediye Yönetimi",
+    "soru": "Belediyenin karar organı aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Belediye meclisi",
+      "Belediye encümeni",
+      "Belediye başkanı",
+      "İl genel meclisi",
+      "Valilik"
+    ],
+    "dogru": 0,
+    "aciklama": "Belediye meclisi belediyenin karar organıdır; belediye başkanı yürütme organı, belediye encümeni ise danışma ve karar organıdır.",
+    "zorluk": "kolay",
+    "kaynak": "5393 sayılı Belediye Kanunu"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Köy Yönetimi",
+    "soru": "Köy yönetiminde köy işlerini görüşen ve muhtarın yanında yer alan kurul hangisidir?",
+    "siklar": [
+      "Köy derneği",
+      "İl genel meclisi",
+      "Belediye encümeni",
+      "Köy ihtiyar meclisi",
+      "İl encümeni"
+    ],
+    "dogru": 3,
+    "aciklama": "Köy tüzel kişiliğinin organları köy derneği, köy ihtiyar meclisi ve muhtardır; muhtarın yanında karar sürecine katılan kurul köy ihtiyar meclisidir.",
+    "zorluk": "kolay",
+    "kaynak": "442 sayılı Köy Kanunu"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "İdari Denetim",
+    "soru": "Merkezi yönetimin, yerinden yönetim kuruluşları üzerinde kanunda öngörülen sınırlar içinde yaptığı denetime ne ad verilir?",
+    "siklar": [
+      "Hiyerarşik denetim",
+      "Yargı denetimi",
+      "İç denetim",
+      "Vesayet denetimi",
+      "Kamuoyu denetimi"
+    ],
+    "dogru": 3,
+    "aciklama": "Vesayet denetimi birbirinden bağımsız iki ayrı tüzel kişilik arasındaki denetimdir ve yerinden yönetim kuruluşlarının özerkliğini ortadan kaldırmayacak biçimde kanunla düzenlenir.",
+    "zorluk": "orta",
+    "kaynak": "1982 Anayasası m.127 ve idare hukuku müfredatı"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Örgütlenme İlkeleri",
+    "soru": "Bir kamu görevlisinin sahip olduğu yetkiyi kullanma hakkını astına aktarmasına ne ad verilir?",
+    "siklar": [
+      "Yetki gasbı",
+      "Yetki devri",
+      "Sorumluluk aktarımı",
+      "Hiyerarşi",
+      "Vesayet"
+    ],
+    "dogru": 1,
+    "aciklama": "Yetki devri, üstün sahip olduğu yetkinin bir kısmını kullanma hakkını sınırları belirli biçimde astına aktarmasıdır; sorumluluk ise devredilmez.",
+    "zorluk": "orta",
+    "kaynak": "idare hukuku müfredatı: yetki devri ve yetki gaspı"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "İdari Denetim",
+    "soru": "Hiyerarşik denetim ile vesayet denetimi arasındaki temel fark aşağıdakilerden hangisidir?",
+    "siklar": [
+      "İkisi de yalnızca yargıca yapılır.",
+      "Hiyerarşik denetim yerel yönetimlerde uygulanır.",
+      "Vesayet astın üstü denetlemesidir.",
+      "Aralarında hukuki bir fark yoktur.",
+      "Hiyerarşi aynı kurum içinde, vesayet kurumlar arasıdır."
+    ],
+    "dogru": 4,
+    "aciklama": "Hiyerarşik denetim aynı tüzel kişilik içindeki üst-ast ilişkisine dayanır; vesayet denetimi ise farklı tüzel kişilikler arasında kanunla öngörülen sınırlar içinde işler.",
+    "zorluk": "zor",
+    "kaynak": "idare hukuku müfredatı: hiyerarşik denetim-vesayet denetimi"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Yeni Kamu Yönetimi",
+    "soru": "Yeni kamu yönetimi anlayışının öne çıkardığı ilkeler arasında aşağıdakilerden hangisi yer alır?",
+    "siklar": [
+      "Gizlilik ve aşırı merkezileşme",
+      "Katı hiyerarşi ve kuralcılık",
+      "Şeffaflık ve hesap verebilirlik",
+      "Yalnızca süreç odaklılık",
+      "Tek elden karar alma"
+    ],
+    "dogru": 2,
+    "aciklama": "Yeni kamu yönetimi anlayışı şeffaflık, hesap verebilirlik, katılım ve sonuç odaklılık gibi ilkeleri öne çıkarır.",
+    "zorluk": "kolay",
+    "kaynak": "kamu yönetimi müfredatı: yeni kamu yönetimi (new public management)"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Yönetişim",
+    "soru": "Yönetişim (governance) kavramının kamu yönetimindeki temel anlamı aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Devlet dışı aktörlerin karar süreçlerine katılması",
+      "Yönetimin yalnızca merkezden yürütülmesi",
+      "Kararların tek bir organ tarafından alınması",
+      "Denetim mekanizmalarının kaldırılması",
+      "Hizmetlerin tamamen özelleştirilmesi"
+    ],
+    "dogru": 0,
+    "aciklama": "Yönetişim, yönetimin yalnızca devlet tarafından değil; sivil toplum, özel sektör ve vatandaşların katılımıyla yürütülmesini ifade eder.",
+    "zorluk": "orta",
+    "kaynak": "kamu yönetimi müfredatı: yönetişim ve katılımcı yönetim"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "E-Devlet",
+    "soru": "Kamu hizmetlerinin elektronik ortamda sunulmasını ve bilgiye hızlı erişimi ifade eden kavram hangisidir?",
+    "siklar": [
+      "Bürokrasi",
+      "Özelleştirme",
+      "E-devlet",
+      "Yerinden yönetim",
+      "Kariyer sistemi"
+    ],
+    "dogru": 2,
+    "aciklama": "E-devlet, bilişim teknolojileri aracılığıyla kamu hizmetlerinin elektronik ortamda ve vatandaş odaklı biçimde sunulmasıdır.",
+    "zorluk": "kolay",
+    "kaynak": "kamu yönetimi müfredatı: e-devlet uygulamaları"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Toplam Kalite Yönetimi",
+    "soru": "Toplam kalite yönetiminin kamu sektöründe uygulanmasında öne çıkan ilke aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Hizmet alanların memnuniyetini esas almak",
+      "Hataları ancak sonradan denetimle bulmak",
+      "Kararları yalnızca üst yönetime bırakmak",
+      "Standartları hiç değiştirmeden korumak",
+      "Süreçleri sık sık yeniden düzenlemek"
+    ],
+    "dogru": 0,
+    "aciklama": "Toplam kalite yönetimi, hizmetten yararlananın memnuniyetini merkeze alır ve sürekli iyileştirmeyi, çalışan katılımını esas alır.",
+    "zorluk": "orta",
+    "kaynak": "kamu yönetimi müfredatı: toplam kalite yönetimi"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Türkiye'de Yönetim Reformları",
+    "soru": "5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu'nun kamu idarelerine getirdiği uygulama aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Kaynak kullanımının denetimsiz bırakılması",
+      "Bütçenin yalnızca yıl sonunda hazırlanması",
+      "Tek merkezli harcama sistemine geçilmesi",
+      "Denetimin yalnızca Sayıştay'a bırakılması",
+      "Stratejik plan ve performans esaslı bütçeleme"
+    ],
+    "dogru": 4,
+    "aciklama": "Kanun, kamu idarelerinde stratejik planlama, performans programı ve faaliyet raporu ile iç kontrol sistemini zorunlu hale getirmiştir.",
+    "zorluk": "zor",
+    "kaynak": "5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Şeffaflık ve Bilgi Edinme",
+    "soru": "Vatandaşların kamu kurumlarından bilgi talep edebilmesini düzenleyen ve şeffaflığı artırmayı amaçlayan kanun hangisidir?",
+    "siklar": [
+      "Devlet Memurları Kanunu",
+      "Bilgi Edinme Hakkı Kanunu",
+      "Kamu İhale Kanunu",
+      "Sendika ve Toplu Sözleşme Kanunu",
+      "Basın Kanunu"
+    ],
+    "dogru": 1,
+    "aciklama": "Bilgi Edinme Hakkı Kanunu, vatandaşların kamu kurum ve kuruluşlarından bilgi ve belge talep edebilmesini düzenler ve yönetimde şeffaflığı güçlendirir.",
+    "zorluk": "kolay",
+    "kaynak": "4982 sayılı Bilgi Edinme Hakkı Kanunu"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Cumhurbaşkanlığı Teşkilatı",
+    "soru": "Cumhurbaşkanlığı hükümet sisteminde bakanlıkların kurulması, kaldırılması ve görev alanlarının belirlenmesi hangi yolla olur?",
+    "siklar": [
+      "TBMM kanunu çıkarılarak",
+      "Anayasa değişikliği yapılarak",
+      "Danıştay kararıyla",
+      "Cumhurbaşkanlığı kararnamesiyle",
+      "Bakanlar Kurulu kararıyla"
+    ],
+    "dogru": 3,
+    "aciklama": "2017 Anayasa değişikliği sonrasında bakanlıkların kurulması, kaldırılması, görev ve yetkilerinin belirlenmesi Cumhurbaşkanlığı kararnamesiyle düzenlenir.",
+    "zorluk": "orta",
+    "kaynak": "1982 Anayasası m.104 ve Cumhurbaşkanlığı teşkilatına ilişkin kararname"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "İdari Denetim",
+    "soru": "Kamu yönetiminde hiyerarşik denetimin temel işlevi aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Üstün, astın işlem ve eylemlerini denetlemesi",
+      "Yerel yönetimlerin merkezce denetlenmesi",
+      "Vatandaşın idareyi denetlemesi",
+      "Yasama organının yürütmeyi denetlemesi",
+      "Yargının idari işlemleri denetlemesi"
+    ],
+    "dogru": 0,
+    "aciklama": "Hiyerarşik denetim, aynı tüzel kişilik içinde üstün astı denetlemesi ve gerektiğinde işlemi geri alması ya da düzeltmesidir.",
+    "zorluk": "orta",
+    "kaynak": "idare hukuku müfredatı: idari denetim türleri"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Kamu ve Özel Yönetim Ayrımı",
+    "soru": "Kamu yönetimi ile özel yönetim arasındaki fark bakımından aşağıdakilerden hangisi doğrudur?",
+    "siklar": [
+      "Kamu yönetimi kar amacı güder ve rekabet eder.",
+      "Özel yönetim kamu hukuku kurallarına tabidir.",
+      "İkisi de aynı denetim rejimine tabidir.",
+      "Kamu yönetimi kamu hukukuna ve kamu yararına bağlıdır.",
+      "Özel yönetimde vatandaşlık hakkı esastır."
+    ],
+    "dogru": 3,
+    "aciklama": "Kamu yönetimi kamu yararı doğrultusunda hareket eder ve kamu hukuku kurallarına tabidir; yargı ve kamuoyu denetimi bakımından da özel yönetimden ayrılır.",
+    "zorluk": "orta",
+    "kaynak": "kamu yönetimi müfredatı: kamu yönetiminin özellikleri"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Örgütlenme İlkeleri",
+    "soru": "Kamu hizmetlerinin merkezî birimler elinde toplanması ve taşraya aktarılan yetkilerin sınırlı tutulması hangi kavramla ifade edilir?",
+    "siklar": [
+      "Yerinden yönetim",
+      "Merkezileşme",
+      "Vesayet",
+      "Adem-i merkeziyet",
+      "Özerklik"
+    ],
+    "dogru": 1,
+    "aciklama": "Merkezileşme, karar alma yetkisinin başkentteki merkezî birimlerde toplanmasını ifade eder; yetkinin taşraya aktarılması ise yetki genişliği ya da adem-i merkezileşme ile açıklanır.",
+    "zorluk": "orta",
+    "kaynak": "kamu yönetimi müfredatı: merkezden yönetim-yerinden yönetim"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Yerinden Yönetim Kuruluşları",
+    "soru": "Üniversiteler ve sosyal güvenlik kurumları gibi belli bir hizmeti yürütmek üzere kurulan ve kamu tüzel kişiliği bulunan kuruluşlara ne ad verilir?",
+    "siklar": [
+      "Başkentteki merkezi yönetim birimleri",
+      "Yardımcı kuruluşlar",
+      "Taşra teşkilatı",
+      "Meslek kuruluşları",
+      "Hizmet yerinden yönetim kuruluşları"
+    ],
+    "dogru": 4,
+    "aciklama": "Hizmet yerinden yönetim kuruluşları, kamu tüzel kişiliği olan ve belirli bir hizmeti özerk biçimde yürüten kuruluşlardır; üniversiteler ve sosyal güvenlik kurumları bu kapsamdadır.",
+    "zorluk": "zor",
+    "kaynak": "kamu yönetimi müfredatı: yerinden yönetim kuruluşları"
+  },
+  {
+    "ders": "Kamu Yönetimi",
+    "konu": "Yargısal Denetim",
+    "soru": "Kamu idaresinin işlem ve eylemlerinin hukuka uygunluğunun yargı tarafından denetlenmesine ne ad verilir?",
+    "siklar": [
+      "Kamuoyu denetimi",
+      "Hiyerarşik denetim",
+      "İdari yargı denetimi",
+      "Vesayet denetimi",
+      "İç denetim"
+    ],
+    "dogru": 2,
+    "aciklama": "İdarenin her türlü işlem ve eylemine karşı yargı yolu açıktır; bu denetim idari yargı mercileri tarafından yapılır.",
+    "zorluk": "kolay",
+    "kaynak": "1982 Anayasası m.125"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Temel Kavramlar",
+    "soru": "Uluslararası ilişkilerde devletlerin ortak bir üst otorite olmaksızın bir arada bulunduğu durumu ifade eden kavram hangisidir?",
+    "siklar": [
+      "Hiyerarşi",
+      "Vesayet",
+      "Hegemonya",
+      "Entegrasyon",
+      "Anarşi"
+    ],
+    "dogru": 4,
+    "aciklama": "Uluslararası sistemde devletlerin üzerinde buyurucu bir otorite bulunmaması anarşi kavramıyla ifade edilir; bu, düzensizlik değil merkezî otoritenin yokluğudur.",
+    "zorluk": "orta",
+    "kaynak": "uluslararası ilişkiler müfredatı: uluslararası sistem ve anarşi"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Realizm",
+    "soru": "Realizm okulunun uluslararası ilişkilere bakışında temel belirleyici aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Uluslararası hukukun üstünlüğü",
+      "Uluslararası örgütlerin kararları",
+      "Devletlerin güç ve ulusal çıkar arayışı",
+      "Ekonomik sınıflar arası çelişki",
+      "Kimlik ve normların sosyal inşası"
+    ],
+    "dogru": 2,
+    "aciklama": "Realizm, devleti temel aktör kabul eder ve uluslararası politikayı güç dağılımı ile ulusal çıkar ekseninde açıklar.",
+    "zorluk": "kolay",
+    "kaynak": "uluslararası ilişkiler müfredatı: realizm"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Liberalizm",
+    "soru": "Liberalizmin uluslararası ilişkilerde öne çıkardığı unsur aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Askeri gücün tek belirleyici olması",
+      "Devletlerin değişmez çıkar çatışması",
+      "Büyük güçler arasında sürekli denge arayışı",
+      "Uluslararası örgütler ve karşılıklı bağımlılık",
+      "Sınıf mücadelesinin belirleyiciliği"
+    ],
+    "dogru": 3,
+    "aciklama": "Liberalizm, uluslararası kurumların, hukukun ve ekonomik karşılıklı bağımlılığın işbirliğini mümkün kıldığını savunur.",
+    "zorluk": "kolay",
+    "kaynak": "uluslararası ilişkiler müfredatı: liberalizm"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Marksizm",
+    "soru": "Uluslararası ilişkileri üretim ilişkileri ve sınıf çelişkisi üzerinden açıklayan yaklaşım hangisidir?",
+    "siklar": [
+      "Marksizm",
+      "Realizm",
+      "Liberalizm",
+      "İnşacılık",
+      "Davranışsalcılık"
+    ],
+    "dogru": 0,
+    "aciklama": "Marksist yaklaşım, uluslararası politikayı kapitalist üretim ilişkileri ve sınıf mücadelesi temelinde açıklar.",
+    "zorluk": "kolay",
+    "kaynak": "uluslararası ilişkiler müfredatı: marksist yaklaşım"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "İnşacılık",
+    "soru": "İnşacı (konstrüktivist) yaklaşıma göre uluslararası ilişkilerde belirleyici olan aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Yalnızca maddi güç dağılımını belirleyici sayar",
+      "Coğrafi konumun değişmez etkisini vurgular",
+      "Askeri ittifakların sayısını ölçüt alır",
+      "Kimlik, norm ve fikirlerin sosyal inşası",
+      "Piyasa mekanizmasının işleyişini esas alır"
+    ],
+    "dogru": 3,
+    "aciklama": "İnşacılık, devletlerin çıkarlarının ve kimliklerinin toplumsal etkileşimle inşa edildiğini, bu nedenle sabit olmadığını savunur.",
+    "zorluk": "zor",
+    "kaynak": "uluslararası ilişkiler müfredatı: inşacılık"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Güç Kavramı",
+    "soru": "Uluslararası ilişkilerde yumuşak güç kavramı aşağıdakilerden hangisini ifade eder?",
+    "siklar": [
+      "Askeri müdahale kapasitesini",
+      "Kültür, değer ve imaj yoluyla etkilemeyi",
+      "Ekonomik ambargo uygulamayı",
+      "İttifaklarla caydırıcılık sağlamayı",
+      "Silah satışı yapmayı"
+    ],
+    "dogru": 1,
+    "aciklama": "Yumuşak güç, zorlama yerine cazibe yoluyla; kültür, değerler ve olumlu imaj aracılığıyla etkileme kapasitesidir.",
+    "zorluk": "kolay",
+    "kaynak": "uluslararası ilişkiler müfredatı: sert güç-yumuşak güç"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Egemenlik",
+    "soru": "1648 Westphalia Barışı ile uluslararası sistemde öne çıkan ilke aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Kolektif güvenlik",
+      "Devletlerin egemen eşitliği",
+      "Uluslararası örgütlenme",
+      "İnsan haklarının korunması",
+      "Serbest ticaret"
+    ],
+    "dogru": 1,
+    "aciklama": "Westphalia düzeni, devletlerin egemen eşitliği ve iç işlerine karışmama ilkelerini uluslararası sistemin temeline yerleştirmiştir.",
+    "zorluk": "orta",
+    "kaynak": "uluslararası ilişkiler müfredatı: Westphalia düzeni ve egemenlik"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Temel Kavramlar",
+    "soru": "Uluslararası ilişkilerde ulusal çıkar kavramıyla anlatılmak istenen aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Uluslararası örgütlerin ortak kararları",
+      "Küresel kamuoyunun beklentileri",
+      "İnsan hakları normlarının gereği",
+      "Çok uluslu şirketlerin talepleri",
+      "Devletin kendi güvenlik ve refah hedefleri"
+    ],
+    "dogru": 4,
+    "aciklama": "Ulusal çıkar, bir devletin güvenlik, refah ve bekasını korumaya yönelik hedeflerinin bütünüdür ve dış politikanın temel yönlendiricisidir.",
+    "zorluk": "kolay",
+    "kaynak": "uluslararası ilişkiler müfredatı: ulusal çıkar"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Birinci Dünya Savaşı Sonrası",
+    "soru": "Birinci Dünya Savaşı sonrasında kurulan ve savaşları önlemeyi amaçlayan uluslararası örgüt hangisidir?",
+    "siklar": [
+      "Birleşmiş Milletler",
+      "NATO",
+      "Milletler Cemiyeti",
+      "Varşova Paktı",
+      "Avrupa Birliği"
+    ],
+    "dogru": 2,
+    "aciklama": "Milletler Cemiyeti, Birinci Dünya Savaşı sonrasında barışı korumak amacıyla kurulmuş; ancak etkili bir yaptırım mekanizması kuramamıştır.",
+    "zorluk": "kolay",
+    "kaynak": "uluslararası ilişkiler müfredatı: iki savaş arası dönem"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Birleşmiş Milletler",
+    "soru": "Birleşmiş Milletler'in kurulmasına ilişkin süreçte 1945 yılında imzalanan temel belge aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Birleşmiş Milletler Şartı",
+      "Versailles Antlaşması",
+      "Helsinki Nihai Senedi",
+      "Locarno Antlaşması",
+      "Kuzey Atlantik Antlaşması"
+    ],
+    "dogru": 0,
+    "aciklama": "Birleşmiş Milletler Şartı 1945 yılında San Francisco'da imzalanmış ve örgütün kurucu belgesi olmuştur.",
+    "zorluk": "kolay",
+    "kaynak": "uluslararası ilişkiler müfredatı: Birleşmiş Milletler Şartı"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Birleşmiş Milletler",
+    "soru": "Birleşmiş Milletler'in karar alma ve yürütme bakımından en etkili organı aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Genel Kurul",
+      "Ekonomik ve Sosyal Konsey",
+      "Sekretarya",
+      "Güvenlik Konseyi",
+      "Uluslararası Adalet Divanı"
+    ],
+    "dogru": 3,
+    "aciklama": "Güvenlik Konseyi, barış ve güvenliğin korunmasından birincil sorumlu organdır ve kararları üye devletleri bağlar.",
+    "zorluk": "kolay",
+    "kaynak": "uluslararası ilişkiler müfredatı: Birleşmiş Milletler organları"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Birleşmiş Milletler",
+    "soru": "Birleşmiş Milletler Güvenlik Konseyi'nde veto hakkına sahip daimi üyeler arasında aşağıdakilerden hangisi yer alır?",
+    "siklar": [
+      "Almanya Federal Cumhuriyeti",
+      "Japonya",
+      "Hindistan",
+      "Rusya Federasyonu",
+      "Brezilya Federal Cumhuriyeti"
+    ],
+    "dogru": 3,
+    "aciklama": "Güvenlik Konseyi'nin veto hakkına sahip daimi üyeleri ABD, Rusya Federasyonu, Çin, Birleşik Krallık ve Fransa'dır.",
+    "zorluk": "kolay",
+    "kaynak": "Birleşmiş Milletler Şartı m.23 ve m.27"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Birleşmiş Milletler",
+    "soru": "Birleşmiş Milletler Genel Kurulu kararlarının hukuki niteliği ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "siklar": [
+      "Tüm üye devletler açısından bağlayıcıdır.",
+      "Tavsiye niteliğindedir, üyeleri bağlamaz.",
+      "Yalnızca daimi üyeler açısından bağlayıcıdır.",
+      "Güvenlik Konseyi'ni bağlayıcı niteliktedir.",
+      "Veto oyu ile alınan bağlayıcı kararlardır."
+    ],
+    "dogru": 1,
+    "aciklama": "Genel Kurul kararları kural olarak tavsiye niteliğindedir; bağlayıcı karar alma yetkisi Güvenlik Konseyi'ne aittir.",
+    "zorluk": "zor",
+    "kaynak": "uluslararası ilişkiler müfredatı: BM Genel Kurulu kararlarının niteliği"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "NATO",
+    "soru": "Kuzey Atlantik Antlaşması Örgütü'nün (NATO) temel özelliği aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Üyeler arasında serbest ticaret öngörmesi",
+      "Yalnızca ekonomik yardım sağlaması",
+      "Ortak bir para birimi oluşturması",
+      "Bir insan hakları mahkemesi kurması",
+      "Üyelerine kolektif savunma güvencesi vermesi"
+    ],
+    "dogru": 4,
+    "aciklama": "NATO, üyelerinden birine yapılacak saldırının tümüne yapılmış sayılacağı esasına dayanan kolektif savunma örgütüdür.",
+    "zorluk": "kolay",
+    "kaynak": "Kuzey Atlantik Antlaşması ve uluslararası ilişkiler müfredatı"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Soğuk Savaş",
+    "soru": "Soğuk Savaş döneminde uluslararası sistemin temel yapısal özelliği aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Çok merkezli bir güç dağılımı",
+      "Uluslararası örgütlerin egemenliği",
+      "İki kutuplu bir güç dengesi",
+      "Sömürge imparatorluklarının yükselişi",
+      "Tek kutuplu bir düzen"
+    ],
+    "dogru": 2,
+    "aciklama": "Soğuk Savaş, ABD liderliğindeki Batı Bloku ile Sovyetler Birliği liderliğindeki Doğu Bloku arasındaki iki kutuplu yapıyla tanımlanır.",
+    "zorluk": "kolay",
+    "kaynak": "uluslararası ilişkiler müfredatı: Soğuk Savaş dönemi"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Avrupa Birliği",
+    "soru": "Avrupa Birliği'nin bugünkü yapısının temelini oluşturan ve 1992 yılında imzalanan antlaşma hangisidir?",
+    "siklar": [
+      "Maastricht Antlaşması",
+      "Roma Antlaşması",
+      "Paris Antlaşması",
+      "Lizbon Antlaşması",
+      "Amsterdam Antlaşması"
+    ],
+    "dogru": 0,
+    "aciklama": "Maastricht Antlaşması ile Avrupa Toplulukları Avrupa Birliği adını almış, ekonomik ve parasal birliğin yanı sıra ortak dış politika alanları tanımlanmıştır.",
+    "zorluk": "orta",
+    "kaynak": "uluslararası ilişkiler müfredatı: Avrupa bütünleşmesi antlaşmaları"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Avrupa Birliği",
+    "soru": "Avrupa Birliği'nde yürütme işlevini yerine getiren ve Birliğin genel çıkarını temsil eden kurum aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Avrupa Parlamentosu",
+      "Avrupa Birliği Konseyi",
+      "Avrupa Komisyonu",
+      "Avrupa Adalet Divanı",
+      "Avrupa Sayıştayı"
+    ],
+    "dogru": 2,
+    "aciklama": "Avrupa Komisyonu, Birliğin yürütme organı olup Birlik çıkarlarını ulusal çıkarlardan bağımsız biçimde temsil eder.",
+    "zorluk": "orta",
+    "kaynak": "uluslararası ilişkiler müfredatı: Avrupa Birliği kurumları"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "AGİT",
+    "soru": "Avrupa Güvenlik ve İşbirliği Teşkilatı'nın (AGİT) karar alma yöntemi aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Üyeler arası oybirliği yani konsensüs",
+      "Basit çoğunluk yöntemi",
+      "Nitelikli çoğunluk yöntemi",
+      "Daimi üyelerin veto hakkı",
+      "Genel sekreterin kararı"
+    ],
+    "dogru": 0,
+    "aciklama": "AGİT kararları tüm katılımcı devletlerin oybirliğiyle alınır; bu yöntem örgütün esnek ve siyasi niteliğini yansıtır.",
+    "zorluk": "zor",
+    "kaynak": "uluslararası ilişkiler müfredatı: AGİT ve Helsinki süreci"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Uluslararası Ekonomik Örgütler",
+    "soru": "Uluslararası Para Fonu'nun (IMF) temel amacı aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Kalkınma projelerine uzun vadeli kredi vermek",
+      "Uluslararası ticareti serbestleştirmek",
+      "İnsan haklarını korumak",
+      "Askeri ittifaklar kurmak",
+      "Ödemeler dengesi sorunlarında finansal destek sağlamak"
+    ],
+    "dogru": 4,
+    "aciklama": "IMF, ödemeler dengesi güçlüğü çeken ülkelere kısa ve orta vadeli finansal destek sağlayarak para sisteminin istikrarını korumayı amaçlar.",
+    "zorluk": "orta",
+    "kaynak": "uluslararası ilişkiler müfredatı: uluslararası ekonomik kuruluşlar"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Uluslararası Ekonomik Örgütler",
+    "soru": "Uluslararası ticareti düzenleyen ve GATT görüşmeleri sonucunda 1995 yılında kurulan örgüt hangisidir?",
+    "siklar": [
+      "Uluslararası Para Fonu",
+      "Dünya Ticaret Örgütü",
+      "Dünya Bankası Grubu",
+      "Ekonomik İşbirliği ve Kalkınma Örgütü",
+      "Birleşmiş Milletler Ticaret ve Kalkınma Konferansı"
+    ],
+    "dogru": 1,
+    "aciklama": "Dünya Ticaret Örgütü, GATT görüşmelerinin Uruguay Turu sonucunda kurulmuş ve çok taraflı ticaret kurallarına kurumsal bir çerçeve kazandırmıştır.",
+    "zorluk": "orta",
+    "kaynak": "uluslararası ilişkiler müfredatı: Dünya Ticaret Örgütü"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Uluslararası Ekonomik Örgütler",
+    "soru": "Dünya Bankası ile IMF arasındaki temel görev farkı aşağıdakilerden hangisidir?",
+    "siklar": [
+      "İkisi de yalnızca askeri yardım yapar.",
+      "Dünya Bankası uluslararası ticaret kurallarını belirler.",
+      "IMF kalkınma projelerine kredi verir.",
+      "Dünya Bankası kalkınma için uzun vadeli kredi sağlar.",
+      "İkisi de yalnızca yerel yönetimleri finanse eder."
+    ],
+    "dogru": 3,
+    "aciklama": "Dünya Bankası kalkınma projelerine uzun vadeli finansman sağlarken IMF, ödemeler dengesi sorunlarında kısa vadeli istikrar desteği verir.",
+    "zorluk": "zor",
+    "kaynak": "uluslararası ilişkiler müfredatı: Bretton Woods kuruluşları"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Uluslararası Hukuk",
+    "soru": "Uluslararası Adalet Divanı'nın (UAD) yargı yetkisi ile ilgili aşağıdakilerden hangisi doğrudur?",
+    "siklar": [
+      "Devletler arası uyuşmazlıklarda ve devletlerin kabulüyle yetkilidir.",
+      "Bireysel başvuruları doğrudan kabul eder ve karara bağlar.",
+      "Tüm devletler bakımından zorunlu yargı yetkisine sahiptir.",
+      "Çok uluslu şirketler arasındaki davalara bakar.",
+      "Güvenlik Konseyi adına bağlayıcı karar verir."
+    ],
+    "dogru": 0,
+    "aciklama": "UAD yalnızca devletler arasındaki uyuşmazlıklara bakar ve yargı yetkisi kural olarak devletlerin bu yetkiyi kabul etmesine bağlıdır.",
+    "zorluk": "zor",
+    "kaynak": "Uluslararası Adalet Divanı Statüsü ve uluslararası hukuk müfredatı"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Uluslararası Hukukun Kaynakları",
+    "soru": "Uluslararası Adalet Divanı Statüsü'nde sayılan uluslararası hukukun asli kaynakları arasında aşağıdakilerden hangisi yer alır?",
+    "siklar": [
+      "Uluslararası örgütlerin kararları",
+      "Devletlerin tek taraflı bildirileri",
+      "İç hukuk düzenlemeleri",
+      "Andlaşmalar ve örf-adet hukuku",
+      "Ulusal yargı kararları"
+    ],
+    "dogru": 3,
+    "aciklama": "Uluslararası hukukun asli kaynakları andlaşmalar, örf-adet hukuku ve medeni milletlerce kabul edilen genel hukuk ilkeleridir; yargı kararları ve öğreti yardımcı kaynaklardır.",
+    "zorluk": "zor",
+    "kaynak": "Uluslararası Adalet Divanı Statüsü m.38"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Diplomasi",
+    "soru": "Uluslararası ilişkilerde mekik diplomasisi kavramı aşağıdakilerden hangisini ifade eder?",
+    "siklar": [
+      "Çok sayıda devletin katıldığı konferans yöntemini",
+      "Arabulucunun taraflar arasında gidip gelerek uzlaştırma çabasını",
+      "Taraflar arasında gizli yürütülen ikili görüşmeleri",
+      "Bir devletin diğerine ültimatom vermesini",
+      "Uluslararası örgüt aracılığıyla yürütülen arabuluculuğu"
+    ],
+    "dogru": 1,
+    "aciklama": "Mekik diplomasisinde arabulucu, tarafları bir masada buluşturmak yerine aralarında gidip gelerek uzlaşma zemini arar.",
+    "zorluk": "orta",
+    "kaynak": "uluslararası ilişkiler müfredatı: diplomasi türleri"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Atatürk Dönemi Türk Dış Politikası",
+    "soru": "Atatürk dönemi Türk dış politikasının temel ilkeleri arasında aşağıdakilerden hangisi yer alır?",
+    "siklar": [
+      "Yayılmacı ve saldırgan bir çizgi izlemek",
+      "Yalnızca dini dayanışmaya öncelik vermek",
+      "Bloklar arasında askeri ittifak kurmak",
+      "Komşu ülkelerin sınırlarında hak iddia etmek",
+      "Yurtta sulh, cihanda sulh doğrultusunda barışçılık"
+    ],
+    "dogru": 4,
+    "aciklama": "Atatürk dönemi dış politikası, mevcut sınırlara bağlılık, barışçılık, hukuka saygı ve uluslararası işbirliği ilkeleri üzerine kurulmuştur.",
+    "zorluk": "kolay",
+    "kaynak": "Türk dış politikası müfredatı: 1923-1938 dönemi"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "İkinci Dünya Savaşı ve Türkiye",
+    "soru": "Türkiye'nin İkinci Dünya Savaşı sırasındaki dış politika tutumu aşağıdakilerden hangisiyle ifade edilir?",
+    "siklar": [
+      "Mihver devletlerinin yanında savaşa katılma",
+      "Müttefiklerin yanında savaşa girme",
+      "Savaş dışı kalarak denge politikası izleme",
+      "Almanya ile ittifak kurma",
+      "Savaşa kayıtsız kalıp sınırlarını açma"
+    ],
+    "dogru": 2,
+    "aciklama": "Türkiye, savaş dışı kalmayı ve toprak bütünlüğünü korumayı hedefleyen bir denge politikası izlemiş, savaşın sonunda Birleşmiş Milletler'in kurucu üyeleri arasında yer almıştır.",
+    "zorluk": "orta",
+    "kaynak": "Türk dış politikası müfredatı: 1939-1945 dönemi"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Soğuk Savaş ve Türkiye",
+    "soru": "Türkiye'nin Soğuk Savaş döneminde Batı Bloku'na yönelen dış politikasında belirleyici olan gelişme aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Bağlantısızlar Hareketi'ne katılması",
+      "Sovyetler Birliği ile askeri ittifak kurması",
+      "Varşova Paktı'na üye olması",
+      "Avrupa Birliği'ne tam üye olması",
+      "NATO üyeliği ve Batı ile güvenlik işbirliği"
+    ],
+    "dogru": 4,
+    "aciklama": "Sovyet tehdidi karşısında Türkiye Batı ile güvenlik işbirliğine yönelmiş ve NATO'ya üye olarak kolektif savunma sistemine katılmıştır.",
+    "zorluk": "kolay",
+    "kaynak": "Türk dış politikası müfredatı: Soğuk Savaş dönemi"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Türkiye-AB İlişkileri",
+    "soru": "Türkiye ile Avrupa Birliği arasındaki ilişkilerin hukuki temelini oluşturan 1963 tarihli ortaklık antlaşması hangisidir?",
+    "siklar": [
+      "Katma Protokol",
+      "Gümrük Birliği Kararı",
+      "Ankara Anlaşması",
+      "Helsinki Nihai Senedi",
+      "Kopenhag Kriterleri"
+    ],
+    "dogru": 2,
+    "aciklama": "1963 tarihli Ankara Anlaşması, Türkiye ile Avrupa Ekonomik Topluluğu arasında ortaklık ilişkisini kuran temel belgedir.",
+    "zorluk": "orta",
+    "kaynak": "Türkiye-AB ilişkileri müfredatı: Ankara Anlaşması (1963)"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Türkiye-AB İlişkileri",
+    "soru": "Türkiye'nin Avrupa Birliği adaylık statüsünü kazandığı 1999 tarihli zirve hangisidir?",
+    "siklar": [
+      "Helsinki Zirvesi",
+      "Kopenhag Zirvesi",
+      "Nice Zirvesi",
+      "Lizbon Zirvesi",
+      "Laeken Zirvesi"
+    ],
+    "dogru": 0,
+    "aciklama": "1999 Helsinki Zirvesi'nde Türkiye'ye aday ülke statüsü tanınmış, bu gelişme katılım sürecinin temelini oluşturmuştur.",
+    "zorluk": "zor",
+    "kaynak": "Türkiye-AB ilişkileri müfredatı: Helsinki Zirvesi (1999)"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Kıbrıs Sorunu",
+    "soru": "1974 yılında Türkiye'nin Kıbrıs'a gerçekleştirdiği askerî harekât hangi adla anılır?",
+    "siklar": [
+      "Zeytin Dalı Harekâtı",
+      "Fırat Kalkanı Harekâtı",
+      "Barış Pınarı Harekâtı",
+      "Kıbrıs Barış Harekâtı",
+      "Kartal Harekâtı"
+    ],
+    "dogru": 3,
+    "aciklama": "1974 yılında Kıbrıs'ta gerçekleştirilen askerî müdahale Kıbrıs Barış Harekâtı olarak adlandırılır ve adadaki Türk toplumunun güvenliğini hedeflemiştir.",
+    "zorluk": "kolay",
+    "kaynak": "Türk dış politikası müfredatı: Kıbrıs sorunu"
+  },
+  {
+    "ders": "Uluslararası İlişkiler",
+    "konu": "Türkiye ve Bölgesel Politikalar",
+    "soru": "Türkiye'nin Balkanlar, Kafkasya ve Orta Doğu'ya yönelik politikasının temel yaklaşımı aşağıdakilerden hangisidir?",
+    "siklar": [
+      "Bölgesel sorunlara kayıtsız kalıp müdahale etmeme",
+      "Bölgesel işbirliği ve komşularla diyalog geliştirme",
+      "Bölgede askeri üstünlük kurma",
+      "Bölge ülkeleriyle ilişkileri kesme",
+      "Bölgesel örgütlerden çekilme"
+    ],
+    "dogru": 1,
+    "aciklama": "Türkiye, bölgesel sorunlarda diyalog, ekonomik işbirliği ve istikrarı esas alan bir yaklaşım izler; komşularla ilişkileri ve bölgesel örgütleri bu doğrultuda kullanır.",
+    "zorluk": "orta",
+    "kaynak": "Türk dış politikası müfredatı: bölgesel politikalar"
+  }
+]
