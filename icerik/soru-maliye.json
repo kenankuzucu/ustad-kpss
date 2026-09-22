@@ -1,0 +1,914 @@
+[
+ {
+  "ders": "Maliye",
+  "konu": "Kamu Harcamaları",
+  "soru": "Aşağıdakilerden hangisi karşılığında cari dönemde mal veya hizmet alınmayan bir transfer harcamasıdır?",
+  "siklar": [
+   "Devlet memurlarına ödenen aylıklar",
+   "Kamu hizmet binasının inşaat harcamaları",
+   "Devlet okulları için satın alınan ders kitapları",
+   "Emekli aylıkları ve işsizlik sigortası ödemeleri",
+   "Kamu kurumları için yapılan temizlik hizmeti alımları"
+  ],
+  "dogru": 3,
+  "aciklama": "Transfer harcamaları karşılıksızdır ve doğrudan hasıla yaratmaz; gelir dağılımını ve satın alma gücünü etkiler. Memur aylığı ile mal ve hizmet alımları ise karşılığında emek ya da ürün alındığı için gerçek (cari) harcamadır.",
+  "zorluk": "kolay",
+  "kaynak": "kamu maliyesi müfredatı: harcama türleri"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Kamu Harcamaları",
+  "soru": "Devletin personel giderleri, kırtasiye ve ilaç alımı gibi bir yıl içinde tüketilen mal ve hizmetlere yönelik harcamalarına ne ad verilir?",
+  "siklar": [
+   "Transfer harcamaları",
+   "Sermaye (yatırım) harcamaları",
+   "Olağanüstü harcamalar",
+   "Cari harcamalar",
+   "Vergi iadesi harcamaları"
+  ],
+  "dogru": 3,
+  "aciklama": "Cari harcamalar, devletin döner sermaye dışında mal ve hizmet satın alması için yaptığı ve aynı yıl içinde tüketilen harcamalardır. Sermaye harcamaları ise birden fazla yıla fayda sağlayan dayanıklı mallar oluşturur.",
+  "zorluk": "kolay",
+  "kaynak": "kamu maliyesi müfredatı: harcama türleri"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Kamu Harcamaları",
+  "soru": "Aşağıdakilerden hangisi üretken (doğrudan üretim kapasitesine katkı sağlayan) kamu harcaması olarak değerlendirilir?",
+  "siklar": [
+   "Devlet tahvillerine ödenen faiz tutarları ile borçlanma giderleri",
+   "Ulaştırma, enerji ve eğitim gibi altyapı ile beşeri sermaye yatırımları",
+   "Emekli aylıkları ve sosyal yardım ödemeleri gibi karşılıksız transferler",
+   "Geçmiş yıl borçlarının anapara geri ödemeleri ile hazine garantileri",
+   "Depremzedelere yapılan karşılıksız nakdi yardımlar ve sosyal destekler"
+  ],
+  "dogru": 1,
+  "aciklama": "Üretken harcamalar üretim faktörlerinin verimliliğini ve kapasiteyi artırdığı için hasılayı doğrudan büyütür. Faiz, anapara ve sosyal yardım ödemeleri gelir transferi niteliğinde olup üretken harcama sayılmaz.",
+  "zorluk": "orta",
+  "kaynak": "kamu maliyesi müfredatı: üretken harcama ayrımı"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Kamu Harcamaları",
+  "soru": "Devletin piyasadan mal ve hizmet satın alarak yaptığı harcamaların millî gelir üzerindeki etkisi aşağıdakilerden hangisiyle en iyi açıklanır?",
+  "siklar": [
+   "Harcama çarpanı mekanizmasıyla millî geliri harcama tutarının birkaç katı kadar artırması",
+   "Vergi matrahını daraltarak millî geliri doğrudan azaltması ve bütçeyi bozması",
+   "Yalnızca fiyatlar genel düzeyini düşürmesi ve hasılayı hiç değiştirmemesi",
+   "Yatırımları aynı oranda azaltarak ekonomiyi küçültmesi ve işsizliği artırması",
+   "Millî geliri etkilemeden yalnızca bütçe büyüklüğünü ve kamu payını değiştirmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Kamu harcaması alıcıların gelirini artırır, onlar da tüketim yapar ve zincirleme gelir artışı doğar; bu süreç çarpanla ölçülür. Etkinin büyüklüğü marjinal tüketim eğilimine ve vergi sisteminin yapısına bağlıdır.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: harcama çarpanı"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Kamu Harcamaları",
+  "soru": "Devletin vergi mevzuatında yer alan muafiyet, istisna ve indirimler yoluyla tahsil etmekten vazgeçtiği gelire ne ad verilir?",
+  "siklar": [
+   "Vergi ziyaı",
+   "Vergi iadesi",
+   "Transfer harcaması",
+   "Vergi cezası",
+   "Vergi harcaması"
+  ],
+  "dogru": 4,
+  "aciklama": "Vergi harcaması, bir vergi teşviki olarak devletin almaktan vazgeçtiği gelir tutarıdır ve bütçede gider kalemi olarak görünmez. Vergi ziyaı ise mükellefin neden olduğu vergi kaybını ifade eden bir kabahattir.",
+  "zorluk": "orta",
+  "kaynak": "kamu maliyesi müfredatı: vergi harcaması"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Kamu Harcamaları",
+  "soru": "Bir kamu harcamasının sermaye (yatırım) harcaması sayılmasında temel ölçüt aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Karayolu, baraj gibi birden fazla yıla fayda sağlayan dayanıklı mallar oluşturması",
+   "Bir yıl içinde tüketilip tükenen mal ve hizmetlere yönelmesi ve faydasının kısa sürmesi",
+   "Karşılığında cari dönemde herhangi bir mal veya hizmet alınmaması",
+   "Hazineden değil yerel yönetim bütçesinden ödenmesi ve yerel nitelik taşıması",
+   "Bütçe kanunundaki ödeneği aşarak ek ödenek gerektirmesi ve ödenek üstü olması"
+  ],
+  "dogru": 0,
+  "aciklama": "Sermaye harcamaları dayanıklı mal oluşturarak üretim kapasitesini artırır ve faydası yıllara yayılır. Cari harcamalarda ise fayda aynı yıl içinde tükenir.",
+  "zorluk": "zor",
+  "kaynak": "kamu maliyesi müfredatı: harcama sınıflandırması"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Kamu Harcamaları",
+  "soru": "Devlet bütçesinde eğitim, sağlık ve savunma harcamalarının hizmet alanlarına göre gruplandırılmasına ne ad verilir?",
+  "siklar": [
+   "İdari (kurumsal) sınıflandırma",
+   "Fonksiyonel (işlevsel) sınıflandırma",
+   "Ekonomik sınıflandırma",
+   "Analitik sınıflandırma",
+   "Kesin hesap sınıflandırması"
+  ],
+  "dogru": 1,
+  "aciklama": "Fonksiyonel sınıflandırma harcamayı yapılan işin niteliğine göre ayırır ve kamu hizmetlerinin bileşimini görmeyi sağlar. İdari sınıflandırma ise harcamayı onu yapan kuruma göre gruplandırır.",
+  "zorluk": "kolay",
+  "kaynak": "kamu maliyesi müfredatı: harcama sınıflandırması"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Kamu Gelirleri",
+  "soru": "Devletin egemenlik gücüne dayanarak, karşılığında belirli bir hizmet taahhüdü olmaksızın zorunlu olarak aldığı kamu geliri aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Harç",
+   "Vergi",
+   "Şerefiye",
+   "Mülk gelirleri",
+   "Teşebbüs gelirleri"
+  ],
+  "dogru": 1,
+  "aciklama": "Vergi cebri, karşılıksız ve kanuna dayalı bir kamu geliridir; mükellef ödediği tutar kadar hizmet alma hakkı kazanmaz. Harç ve şerefiye ise belirli bir hizmetten yararlanma karşılığı alınır.",
+  "zorluk": "kolay",
+  "kaynak": "kamu maliyesi müfredatı: kamu gelirleri"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Kamu Gelirleri",
+  "soru": "Sosyal güvenlik primleri gibi belirli bir hizmetin finansmanı için alınan, kamu kesimine ait mesleki kuruluşlar eliyle tahsil edilen gelirlere ne ad verilir?",
+  "siklar": [
+   "Şerefiye gelirleri",
+   "Vergi cezaları",
+   "Mülk gelirleri",
+   "Parafiskal gelirler",
+   "Borçlanma gelirleri"
+  ],
+  "dogru": 3,
+  "aciklama": "Parafiskal gelirler kamu hukukuna dayanan mali yüklemeler arasında yer alır ve tahsis edildikleri hizmete bağlı olarak tahsil edilir. Sosyal güvenlik primleri bunun en tipik örneğidir.",
+  "zorluk": "orta",
+  "kaynak": "kamu maliyesi müfredatı: parafiskal gelirler"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Kamu Gelirleri",
+  "soru": "Verginin diğer kamu gelirlerinden ayrılan temel özelliği olan karşılıksızlık neyi ifade eder?",
+  "siklar": [
+   "Verginin her zaman nakit olarak ve peşin biçimde ödenmesi zorunluluğunu",
+   "Verginin yalnızca gelir üzerinden alınabileceğini, servetin vergilenemeyeceğini",
+   "Verginin yalnızca kamu kurumlarından ve tüzel kişilerden alınabileceğini",
+   "Verginin tüm mükelleflerden aynı oranda alınması gerektiğini ve eşitlik sağladığını",
+   "Mükellefin ödediği vergi karşılığında belirli bir hizmetten yararlanma hakkı bulunmamasını"
+  ],
+  "dogru": 4,
+  "aciklama": "Karşılıksızlık, mükellefin ödemesiyle aldığı hizmet arasında hukuki bir değişim ilişkisi kurulmamasıdır. Bu nedenle vergi, karşılığı belirli bir hizmet olan harç ve resimden ayrılır.",
+  "zorluk": "orta",
+  "kaynak": "kamu maliyesi müfredatı: verginin karşılıksızlığı"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Kavramları",
+  "soru": "Üzerine vergi oranı uygulanarak ödenecek vergi tutarının hesaplandığı ekonomik değere ne ad verilir?",
+  "siklar": [
+   "Vergi konusu",
+   "Vergi matrahı",
+   "Vergi oranı",
+   "Vergiyi doğuran olay",
+   "Vergi tarifesi"
+  ],
+  "dogru": 1,
+  "aciklama": "Matrah, vergi konusunun kanunda belirlenen ölçü birimiyle ifade edilmiş parasal ya da fiziksel değeridir. Vergi tutarı matrah ile oranın çarpımı sonucu bulunur.",
+  "zorluk": "kolay",
+  "kaynak": "Vergi Usul Kanunu kavramları"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Kavramları",
+  "soru": "Aşağıdakilerden hangisi bir verginin esaslı unsurları arasında yer almaz?",
+  "siklar": [
+   "Verginin konusu",
+   "Vergi matrahı",
+   "Mükellef",
+   "Vergi cezası",
+   "Vergi oranı"
+  ],
+  "dogru": 3,
+  "aciklama": "Bir vergi kanununda konu, matrah, mükellef ve oran mutlaka belirtilmelidir; bu dört unsur verginin esaslı unsurlarıdır. Vergi cezası ise yükümlülüğe uyulmaması hâlinde doğan bir yaptırımdır.",
+  "zorluk": "kolay",
+  "kaynak": "Vergi Usul Kanunu kavramları"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Kavramları",
+  "soru": "İşverenin, çalışanının ücreti üzerinden vergi kesip vergi dairesine yatırması durumunda işveren vergi tekniğinde hangi sıfatla anılır?",
+  "siklar": [
+   "Vergi sorumlusu",
+   "Vergi mükellefi",
+   "Vergi temsilcisi",
+   "Vergi kefili",
+   "Vergi tahsildarı"
+  ],
+  "dogru": 0,
+  "aciklama": "Vergi sorumlusu, vergiyi kaynakta keserek idareye ödemekle yükümlü olan kişidir; asıl mükellef ise geliri elde eden çalışandır. Sorumluluk hâlinde verginin ödenmesinden sorumlu olan kişi idareye karşı muhatap olur.",
+  "zorluk": "orta",
+  "kaynak": "Vergi Usul Kanunu kavramları"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Kavramları",
+  "soru": "Vergi alacağının doğmasını sağlayan ve kanunda öngörülen hukuki olaya ne ad verilir?",
+  "siklar": [
+   "Vergiyi doğuran olay",
+   "Verginin tarhı",
+   "Verginin tebliği",
+   "Verginin tahakkuku",
+   "Verginin tahsili"
+  ],
+  "dogru": 0,
+  "aciklama": "Vergiyi doğuran olay, verginin konusuna giren işlemin gerçekleşmesiyle ortaya çıkar ve vergi alacağı bu anda doğar. Tarh, tahakkuk ve tahsil ise bu alacağın idarece hesaplanması, kesinleşmesi ve toplanması aşamalarıdır.",
+  "zorluk": "orta",
+  "kaynak": "Vergi Usul Kanunu: vergiyi doğuran olay"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Kavramları",
+  "soru": "Matrah arttıkça uygulanan vergi oranının yükseldiği ve ortalama vergi yükünün arttığı vergi tarifesi hangisidir?",
+  "siklar": [
+   "Azalan oranlı (regresif) tarife",
+   "Düz oranlı tarife",
+   "Gizli artan oranlı tarife",
+   "Muafiyetli düz oranlı tarife",
+   "Artan oranlı (progresif) tarife"
+  ],
+  "dogru": 4,
+  "aciklama": "Artan oranlı tarifede matrah dilimleri genişledikçe oran yükselir; bu da ortalama vergi yükünü artırır ve gelir dağılımını düzeltici etki doğurur. Azalan oranlı tarifede ise matrah büyüdükçe oran geriler.",
+  "zorluk": "orta",
+  "kaynak": "kamu maliyesi müfredatı: vergi tarifeleri"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Kavramları",
+  "soru": "Tüm tüketicilere aynı oranda uygulanan bir dolaylı verginin, düşük gelirli kesim üzerinde gelirine oranla daha ağır bir yük oluşturmasına ne ad verilir?",
+  "siklar": [
+   "Verginin artan oranlı (progresif) etkisi",
+   "Verginin fiyat artışı yoluyla yansıması",
+   "Verginin varlık değerine kapitalizasyonu",
+   "Verginin sermaye değerini amortismana uğratması",
+   "Verginin azalan oranlı (regresif) etkisi"
+  ],
+  "dogru": 4,
+  "aciklama": "Oran sabit olsa bile düşük gelirlinin tüketiminin gelirine oranı daha yüksek olduğundan bu vergiler yükü tersine çevirir. Bu sonuç, dolaylı vergilerin gelir dağılımı üzerindeki olumsuz etkisi olarak değerlendirilir.",
+  "zorluk": "zor",
+  "kaynak": "kamu maliyesi müfredatı: vergi tarifeleri ve vergi adaleti"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Kavramları",
+  "soru": "Vergi borcunun miktarının vergi idaresi tarafından hesaplanıp belirlenmesi işlemine ne ad verilir?",
+  "siklar": [
+   "Tahakkuk",
+   "Tahsil",
+   "Tarh",
+   "Tebliğ",
+   "İndirim"
+  ],
+  "dogru": 2,
+  "aciklama": "Tarh, vergi borcunun tutarının idarece hesaplanmasıdır; tarh edilen vergi mükellefe tebliğ edilir ve kanuni süre geçince tahakkuk eder. Tahsil ise verginin fiilen ödenmesidir.",
+  "zorluk": "orta",
+  "kaynak": "Vergi Usul Kanunu: tarh ve tahakkuk"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Kavramları",
+  "soru": "Dolaysız vergileri dolaylı vergilerden ayıran temel ölçüt aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Verginin nakit ya da ayni olarak ödenmesi",
+   "Verginin merkezî yönetim ya da yerel yönetim tarafından alınması",
+   "Vergi yükünün başka bir kişiye yansıtılıp yansıtılamaması",
+   "Verginin beyanname ya da götürü usulle alınması",
+   "Vergi matrahının değer ya da miktar cinsinden olması"
+  ],
+  "dogru": 2,
+  "aciklama": "Dolaysız vergiler gelir ve servet üzerinden alındığı için yük genellikle mükellefin üzerinde kalır. Dolaylı vergiler ise fiyatlara eklenerek başkalarına yansıtılabildiği için mükellef ile yükü taşıyan farklılaşabilir.",
+  "zorluk": "orta",
+  "kaynak": "kamu maliyesi müfredatı: dolaylı ve dolaysız vergiler"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Türleri",
+  "soru": "Türkiye'de yerleşmiş gerçek kişiler gelir vergisi bakımından hangi esasla vergilendirilir?",
+  "siklar": [
+   "Dar mükellefiyet esası; yalnızca Türkiye'de elde ettikleri gelirlerle",
+   "Tam mükellefiyet esası; hem Türkiye içinde hem de dışında elde ettikleri gelirlerle",
+   "Yalnızca ücret gelirleri üzerinden götürü usulle",
+   "Yalnızca gayrimenkul sermaye iratları üzerinden",
+   "Yalnızca beyanname verilen yıllarda ve tek seferlik olarak"
+  ],
+  "dogru": 1,
+  "aciklama": "Türkiye'de yerleşmiş olmak tam mükellefiyetin ölçütüdür; tam mükellef, tüm dünya gelirini beyan eder. Yerleşmiş sayılmayanlar ise yalnızca Türkiye'de elde ettikleri gelirler üzerinden dar mükellefiyet esasına göre vergilenir.",
+  "zorluk": "orta",
+  "kaynak": "Gelir Vergisi Kanunu: tam ve dar mükellefiyet"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Türleri",
+  "soru": "Aşağıdakilerden hangisi gelir vergisinin unsurlarından biri değildir?",
+  "siklar": [
+   "Ücret gelirleri ile ücret sayılan ödemeler",
+   "Serbest meslek kazancı ve serbest meslek kazanç istisnası",
+   "Gayrimenkul sermaye iradı ve menkul sermaye iradı",
+   "Zirai kazanç ve zirai faaliyetten doğan kazançlar",
+   "Kurum kazancı üzerinden alınan kurumlar vergisi"
+  ],
+  "dogru": 4,
+  "aciklama": "Gelir vergisi; ticari kazanç, zirai kazanç, ücret, serbest meslek kazancı, gayrimenkul sermaye iradı, menkul sermaye iradı ile diğer kazanç ve iratları kapsar. Kurumlar vergisi ayrı bir gelir üzerinden alınan farklı bir vergidir.",
+  "zorluk": "kolay",
+  "kaynak": "Gelir Vergisi Kanunu: gelir unsurları"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Türleri",
+  "soru": "Aşağıdakilerden hangisi kurumlar vergisi mükellefi değildir?",
+  "siklar": [
+   "Anonim şirket",
+   "Limited şirket",
+   "Kooperatifler",
+   "Adi şirket ve adi komandit şirket",
+   "Sermayesi paylara bölünmüş komandit şirket"
+  ],
+  "dogru": 3,
+  "aciklama": "Sermaye şirketleri, kooperatifler, iktisadi kamu kuruluşları ile dernek ve vakıflara ait iktisadi işletmeler kurumlar vergisi mükellefidir. Adi şirket ve adi komandit şirket ise ortaklar düzeyinde gelir vergisi mükellefi sayılır.",
+  "zorluk": "orta",
+  "kaynak": "Kurumlar Vergisi Kanunu: mükellefler"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Türleri",
+  "soru": "Katma değer vergisinin temel özellikleri arasında aşağıdakilerden hangisi yer alır?",
+  "siklar": [
+   "Yalnızca üretim aşamasında alınan tek aşamalı ve yansıtılamayan bir vergi olması",
+   "İşletme kârı üzerinden alınan dolaysız ve yansıtılamayan bir vergi olması",
+   "Belirli bir servet unsuru üzerinden maktu tutarla ve yıllık olarak alınması",
+   "Yalnızca ihracat işlemleri üzerinden alınan ve indirim içermeyen bir vergi olması",
+   "Her aşamada ödenen verginin indirilmesi esasına dayanan çok aşamalı bir dolaylı vergi olması"
+  ],
+  "dogru": 4,
+  "aciklama": "Katma değer vergisi mal ve hizmet teslimlerinin her aşamasında alınır, ancak işletmeler ödedikleri vergiyi indirim konusu yaptığı için nihai yük tüketicide kalır. Bu nedenle genel bir harcama vergisidir.",
+  "zorluk": "orta",
+  "kaynak": "Katma Değer Vergisi Kanunu: verginin niteliği"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Türleri",
+  "soru": "Katma değer vergisinin nihai olarak kimin üzerinde kaldığı kabul edilir?",
+  "siklar": [
+   "Nihai tüketicinin üzerinde kalır",
+   "Her aşamadaki satıcının üzerinde kalır",
+   "Yalnızca üretici işletmenin üzerinde kalır",
+   "İthalatçı firmanın üzerinde kalır",
+   "Vergi idaresinin üzerinde kalır"
+  ],
+  "dogru": 0,
+  "aciklama": "İşletmeler indirim mekanizması sayesinde kendi aşamalarında ödedikleri vergiyi geri alır; yük zincirin sonundaki tüketicide birikir. Bu özellik dolaylı vergilerin yansıtılabilme niteliğinin tipik örneğidir.",
+  "zorluk": "kolay",
+  "kaynak": "Katma Değer Vergisi Kanunu: vergi yükü"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Türleri",
+  "soru": "Özel tüketim vergisini katma değer vergisinden ayıran temel özellik aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Her devretme işleminde yeniden alınması",
+   "Yalnızca hizmet teslimleri üzerinden alınması",
+   "İşletme kârı üzerinden beyannameyle alınması",
+   "Yalnızca ithalatta alınıp yurt içi satışta alınmaması",
+   "Belirli mal grupları üzerinden tek aşamada ve bir defa alınması"
+  ],
+  "dogru": 4,
+  "aciklama": "Özel tüketim vergisi, lüks ve zararlı olduğu düşünülen belirli mallar üzerinden tek aşamada alınan dolaylı bir vergidir. Katma değer vergisi ise genel nitelikli olup her aşamada indirimli biçimde uygulanır.",
+  "zorluk": "orta",
+  "kaynak": "Özel Tüketim Vergisi Kanunu: verginin niteliği"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Türleri",
+  "soru": "Sözleşme, taahhütname ve benzeri kâğıtların düzenlenmesi sırasında alınan vergi aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Harç",
+   "Emlak vergisi",
+   "Damga vergisi",
+   "Katma değer vergisi",
+   "Özel tüketim vergisi"
+  ],
+  "dogru": 2,
+  "aciklama": "Damga vergisinde matrah, kâğıtta yazılı tutardır ve vergi kâğıdın düzenlenmesiyle doğar. Harç ise mahkeme, tapu ve noter gibi belirli kamu hizmetlerinden yararlanma karşılığı alınır.",
+  "zorluk": "kolay",
+  "kaynak": "Damga Vergisi Kanunu"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Türleri",
+  "soru": "Aşağıdakilerden hangisi servet (varlık) üzerinden alınan bir vergidir?",
+  "siklar": [
+   "Gelir vergisi",
+   "Emlak vergisi",
+   "Kurumlar vergisi",
+   "Damga vergisi",
+   "Özel tüketim vergisi"
+  ],
+  "dogru": 1,
+  "aciklama": "Servet vergileri gelir sağlayıp sağlamadığına bakılmaksızın sahip olunan varlık üzerinden alınır; emlak vergisi bunun tipik örneğidir. Damga ve özel tüketim vergileri ise harcama üzerinden alınan dolaylı vergilerdir.",
+  "zorluk": "orta",
+  "kaynak": "kamu maliyesi müfredatı: servet vergileri"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Tekniği",
+  "soru": "Tarh edilen verginin mükellefe tebliğ edilip ödenebilir hâle gelmesine ne ad verilir?",
+  "siklar": [
+   "Tarh",
+   "Tahsil",
+   "Tekmil",
+   "Tahakkuk",
+   "İndirim"
+  ],
+  "dogru": 3,
+  "aciklama": "Tahakkuk, vergi borcunun idare nezdinde kesinleşerek ödenebilir hâle gelmesidir. Mükellef bu aşamadan sonra ödeme emri beklemeden vadesinde ödeme yapmalıdır.",
+  "zorluk": "kolay",
+  "kaynak": "Vergi Usul Kanunu: tahakkuk"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Hukuku",
+  "soru": "Anayasaya göre vergi, resim, harç ve benzeri mali yükümlülüklerin konulması, değiştirilmesi ve kaldırılması nasıl olur?",
+  "siklar": [
+   "Cumhurbaşkanlığı kararnamesiyle serbestçe düzenlenebilir",
+   "Ancak kanunla konulur, değiştirilir veya kaldırılır",
+   "Vergi idaresinin genel tebliğleriyle belirlenip uygulanır",
+   "Mahalli idareler meclis kararıyla her tür vergiyi koyabilir",
+   "Bakanlıkların yönetmelikleriyle konulup kaldırılabilir"
+  ],
+  "dogru": 1,
+  "aciklama": "Anayasanın 73. maddesi vergilerin kanuniliği ilkesini düzenler; bu ilke keyfî yüklemelere karşı güvence sağlar. Oranlarda alt ve üst sınırlar arasında değişiklik yapma yetkisi ise kanunla Cumhurbaşkanına verilebilir.",
+  "zorluk": "orta",
+  "kaynak": "1982 Anayasası m.73"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Hukuku",
+  "soru": "Anayasanın 73. maddesi uyarınca vergi kanunlarının geçmişe etkili olması konusunda aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Vergi kanunları idarenin takdiriyle geriye yürütülebilir",
+   "Geriye yürütme yalnızca vergi cezalarında mümkündür",
+   "Vergi kanunları geriye yürütülemez; yasak Anayasada açıkça düzenlenmiştir",
+   "Geriye yürütme yalnızca mahalli idare vergilerinde mümkündür",
+   "Geriye yürütme konusunda Anayasada hiçbir hüküm bulunmaz"
+  ],
+  "dogru": 2,
+  "aciklama": "Anayasanın 73. maddesi vergi kanunlarının geriye yürütülemeyeceğini belirtir; bu düzenleme hukuk güvenliği ve belirlilik ilkesinin gereğidir. Böylece mükellef geçmiş dönemlerdeki işlemlerinden dolayı yeni yükümlülükle karşılaşmaz.",
+  "zorluk": "zor",
+  "kaynak": "1982 Anayasası m.73"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Tekniği",
+  "soru": "Vergi Usul Kanununda idari para cezasıyla yaptırıma bağlanan vergi kabahatleri aşağıdakilerin hangisinde birlikte verilmiştir?",
+  "siklar": [
+   "Vergi ziyaı ve usulsüzlük",
+   "Kaçakçılık ve vergi mahremiyetinin ihlali",
+   "Sahte belge düzenlemek ve kullanmak",
+   "Defter ve belgelerde tahrifat yapmak",
+   "Mükellefin özel işlerini yapmak"
+  ],
+  "dogru": 0,
+  "aciklama": "Vergi ziyaı ve usulsüzlük vergi kabahati olup karşılığında idari para cezası uygulanır. Kaçakçılık, sahte belge düzenleme, tahrifat, vergi mahremiyetinin ihlali ve mükellefin özel işlerini yapma ise hürriyeti bağlayıcı ceza gerektiren vergi suçlarıdır.",
+  "zorluk": "orta",
+  "kaynak": "Vergi Usul Kanunu: vergi kabahatleri"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Tekniği",
+  "soru": "Aşağıdakilerden hangisi hürriyeti bağlayıcı ceza gerektiren vergi suçları arasında yer alır?",
+  "siklar": [
+   "Beyannamenin kanuni süresinden sonra verilmesi ve gecikmeye düşülmesi",
+   "Vergi levhasının görünür bir yere asılmaması ve usulsüzlük yapılması",
+   "Bildirim formlarının eksik doldurulması ve eksik bilgi verilmesi",
+   "Defter ve belgelerde tahrifat yapılarak vergi kaçakçılığı suçunun işlenmesi",
+   "Ödeme emrine süresinde itiraz edilmemesi ve dava açılmaması"
+  ],
+  "dogru": 3,
+  "aciklama": "Vergi Usul Kanununda kaçakçılık suçunun nitelikli hâlleri arasında defter ve belgelerde tahrifat yapmak sayılır ve hürriyeti bağlayıcı ceza öngörülür. Beyannamenin geç verilmesi gibi fiiller ise kabahat kapsamında para cezasıyla karşılanır.",
+  "zorluk": "zor",
+  "kaynak": "Vergi Usul Kanunu: vergi suçları"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Tekniği",
+  "soru": "Süresinde ödenmeyen vergi borçlarına, tahsil dairesince her ay için hesaplanan ek tutara ne ad verilir?",
+  "siklar": [
+   "Gecikme zammı",
+   "Vergi ziyaı cezası",
+   "Usulsüzlük cezası",
+   "Tecil faizi",
+   "İndirimli ödeme tutarı"
+  ],
+  "dogru": 0,
+  "aciklama": "Gecikme zammı, vadesinde ödenmeyen kamu alacağı için aylık olarak işletilen ve tahsil edilen ek tutardır. Vergi ziyaı cezası ise vergi kaybına yol açan kabahatin yaptırımıdır ve gecikme zammından ayrıdır.",
+  "zorluk": "orta",
+  "kaynak": "Amme Alacaklarının Tahsil Usulü Hakkında Kanun"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Tekniği",
+  "soru": "Mükellefin kesilen vergi ve cezalara karşı idareyle görüşerek uyuşmazlığı dava yoluna gitmeden sona erdirmesine ne ad verilir?",
+  "siklar": [
+   "Düzeltme",
+   "Tecil",
+   "Terk",
+   "İndirim",
+   "Uzlaşma"
+  ],
+  "dogru": 4,
+  "aciklama": "Uzlaşma, vergi ve cezalarda idare ile mükellefin anlaşarak uyuşmazlığı ortadan kaldırmasını sağlar. Düzeltme ise vergi hatalarının idarece giderilmesi işlemidir.",
+  "zorluk": "orta",
+  "kaynak": "Vergi Usul Kanunu: uzlaşma"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Yansıması ve Yükü",
+  "soru": "Dolaylı vergilerde vergi yükünün fiyat artışı biçiminde alıcıya aktarılmasına ne ad verilir?",
+  "siklar": [
+   "Vergi kapitalizasyonu",
+   "Vergi amortismanı",
+   "Verginin yansıması",
+   "Vergiden kaçınma",
+   "Vergi ziyaı"
+  ],
+  "dogru": 2,
+  "aciklama": "Yansımada mükellef ödediği vergiyi malın fiyatına ekleyerek başka bir kişiye aktarır. Kapitalizasyon ise sürekli bir verginin malın satış değerine indirgenmesidir ve ayrı bir olgudur.",
+  "zorluk": "kolay",
+  "kaynak": "kamu maliyesi müfredatı: vergi yansıması"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Yansıması ve Yükü",
+  "soru": "Talebi esnek olmayan (inelastik) bir maldan alınan verginin yükü büyük ölçüde kime yansır?",
+  "siklar": [
+   "Büyük ölçüde üreticinin üzerinde kalır",
+   "Büyük ölçüde tüketicinin üzerinde kalır",
+   "Üretici ile tüketici arasında eşit paylaşılır",
+   "Vergi idaresinin üzerinde kalır",
+   "Yalnızca ithalatçının üzerinde kalır"
+  ],
+  "dogru": 1,
+  "aciklama": "Talep esnek değilse alıcılar fiyat artışına karşı miktarı fazla değiştirmez; bu nedenle vergi fiyata eklenerek tüketiciye yansıtılabilir. Talebi esnek olan mallarda ise yükün büyük bölümü üreticide kalır.",
+  "zorluk": "orta",
+  "kaynak": "iktisat müfredatı: esneklik ve vergi yükü"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Yansıması ve Yükü",
+  "soru": "Bir ülkedeki vergi yükünü ölçmek için genellikle hangi oran kullanılır?",
+  "siklar": [
+   "Toplam kamu harcamalarının toplam vergi gelirlerine oranı",
+   "Dolaysız vergilerin dolaylı vergilere oranı",
+   "Vergi cezalarının toplam vergi gelirlerine oranı",
+   "Toplam vergi gelirlerinin gayrisafi yurt içi hasılaya oranı",
+   "Kamu borç stokunun yıllık vergi gelirlerine oranı"
+  ],
+  "dogru": 3,
+  "aciklama": "Vergi yükü, vergi gelirlerinin millî gelire oranlanmasıyla bulunur ve ekonominin vergilendirme düzeyini gösterir. Bu oran büyüdükçe mükellefler üzerindeki toplam yük artar.",
+  "zorluk": "orta",
+  "kaynak": "kamu maliyesi müfredatı: vergi yükü göstergesi"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Yansıması ve Yükü",
+  "soru": "Mükellefin kanundaki boşluklardan yararlanarak vergi yükünü azaltması ve bu davranışının yasalara aykırı olmamasına ne ad verilir?",
+  "siklar": [
+   "Vergiden kaçınma (vergi kaçınması)",
+   "Vergi kaçakçılığı yoluyla vergi kaybına yol açılması",
+   "Vergi ziyaı doğuran fiillerin işlenmesi",
+   "Verginin fiyatlara eklenerek yansıtılması",
+   "Vergi affı çıkarılarak borcun silinmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Vergiden kaçınmada mükellef kanuna aykırı davranmaz; yalnızca hukuki biçim ve seçimlerle yükü azaltır. Vergi kaçakçılığı ise kanuna aykırı fiillerle vergi kaybına yol açan suç niteliğinde bir davranıştır.",
+  "zorluk": "orta",
+  "kaynak": "kamu maliyesi müfredatı: vergiden kaçınma ve vergi kaçakçılığı"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Vergi Yansıması ve Yükü",
+  "soru": "Bir mal üzerindeki sürekli bir verginin, malın satış fiyatına indirgenerek değerini düşürmesine ne ad verilir?",
+  "siklar": [
+   "Verginin yansıması",
+   "Verginin amortismanı",
+   "Verginin kapitalizasyonu",
+   "Vergi iadesi",
+   "Vergi tahsili"
+  ],
+  "dogru": 2,
+  "aciklama": "Kapitalizasyonda alıcı, maldan elde edeceği gelirden vergiyi düşerek ödemeye razı olduğu fiyatı düşürür; yük satıcıya geçmiş olur. Amortisman ise verginin mevcut üretken sermayenin değerini düşürmesi anlamında kullanılır.",
+  "zorluk": "zor",
+  "kaynak": "kamu maliyesi müfredatı: vergi kapitalizasyonu"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Bütçe",
+  "soru": "Devletin belirli bir dönemdeki gelir ve giderlerini tahmin eden ve hükümete harcama yapma izni veren kanun aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Bütçe kanunu",
+   "Kesin hesap kanunu",
+   "Kalkınma planı",
+   "Vergi kanunu",
+   "Hazine garanti belgesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Bütçe kanunu hem gelir tahmini hem de harcama izni niteliği taşır; bu nedenle yürütme organına harcama yetkisi verir. Kesin hesap kanunu ise uygulama sonuçlarının yasama denetiminden geçen hâlidir.",
+  "zorluk": "kolay",
+  "kaynak": "kamu maliyesi müfredatı: bütçe kavramı"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Bütçe",
+  "soru": "Tüm gelir ve giderlerin tek bir bütçede toplanmasını öngören bütçe ilkesi aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Bütçenin genelliği ilkesi",
+   "Bütçenin birliği (teklik) ilkesi",
+   "Yıllık olma ilkesi",
+   "Alenilik ilkesi",
+   "Denklik ilkesi"
+  ],
+  "dogru": 1,
+  "aciklama": "Birlik ilkesi bütçenin tek belge olarak düzenlenmesini gerektirir; genellik ilkesi ise gelirlerin belirli giderlere tahsis edilmemesini ifade eder. İki ilke sık karıştırıldığı için ayrımları önemlidir.",
+  "zorluk": "orta",
+  "kaynak": "kamu maliyesi müfredatı: bütçe ilkeleri"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Bütçe",
+  "soru": "5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu'na göre merkezî yönetim bütçesi hangi bütçelerden oluşur?",
+  "siklar": [
+   "Genel bütçe, katma bütçe ve fon bütçeleri",
+   "Genel bütçe, özel bütçe ile düzenleyici ve denetleyici kurum bütçeleri",
+   "Özel bütçe, katma bütçe ve mahalli idare bütçeleri",
+   "Genel bütçe, mahalli idare ve sosyal güvenlik bütçeleri",
+   "Katma bütçe, özel bütçe ve sosyal güvenlik bütçeleri"
+  ],
+  "dogru": 1,
+  "aciklama": "Merkezî yönetim kapsamındaki bütçeler genel bütçe, özel bütçe ile düzenleyici ve denetleyici kurum bütçeleridir. Mahalli idareler ve sosyal güvenlik kurumları ise merkezî yönetim kapsamı dışındaki kamu idareleridir.",
+  "zorluk": "orta",
+  "kaynak": "5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Bütçe",
+  "soru": "Türkiye'de merkezî yönetim bütçe kanunu teklifi Türkiye Büyük Millet Meclisine kim tarafından sunulur?",
+  "siklar": [
+   "Hazine ve Maliye Bakanı tek başına",
+   "Sayıştay Başkanlığı",
+   "Cumhurbaşkanı",
+   "Merkez Bankası Başkanı",
+   "Plan ve Bütçe Komisyonu Başkanı"
+  ],
+  "dogru": 2,
+  "aciklama": "Bütçe kanunu teklifini Cumhurbaşkanı Meclise sunar; teklif önce Plan ve Bütçe Komisyonunda görüşülür, sonra Genel Kurulda kabul edilir. Sayıştay ise kesin hesap ve denetim tarafında yer alır.",
+  "zorluk": "orta",
+  "kaynak": "5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu: bütçe süreci"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Bütçe",
+  "soru": "Bütçe açığının Merkez Bankası kaynaklarıyla (emisyonla) finanse edilmesinin en belirgin sakıncası aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Para arzını genişleterek enflasyon baskısını artırması",
+   "Faiz oranlarını yükselterek özel yatırımları azaltması",
+   "Dış borç stokunu doğrudan büyütmesi",
+   "Vergi gelirlerini azaltarak bütçeyi daha da bozması",
+   "Bankaların zorunlu karşılık oranını yükseltmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Emisyon yoluyla finansman, karşılıksız para yaratarak fiyatlar genel düzeyini yükseltir; bu nedenle enflasyonist finansman olarak bilinir. Faiz üzerinden özel yatırımı geriletme etkisi ise borçlanma yoluyla finansmanda görülen dışlama etkisidir.",
+  "zorluk": "orta",
+  "kaynak": "kamu maliyesi müfredatı: bütçe açığı ve finansmanı"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Bütçe",
+  "soru": "Yalnızca cari gelirlerin cari giderlere eşitlenmesini öngören bütçe denklik türü hangisidir?",
+  "siklar": [
+   "Denk bütçe",
+   "Genel denklik",
+   "Cari denklik",
+   "Devirli (siklus) denklik",
+   "Fonksiyonel finansman"
+  ],
+  "dogru": 2,
+  "aciklama": "Cari denklikte olağan gelirlerin olağan giderleri karşılaması yeterlidir; yatırım harcamaları için borçlanmaya izin verilir. Genel denklik ise tüm gelirlerin tüm giderlere eşit olmasını gerektirir.",
+  "zorluk": "zor",
+  "kaynak": "kamu maliyesi müfredatı: bütçe denklik türleri"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Devlet Borçları",
+  "soru": "Devlet borçlarının iç ve dış borç olarak ayrılmasında esas alınan ölçüt aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Borçlanmanın hangi kamu kuruluşunca yapıldığı ve hangi bütçeden karşılandığı",
+   "Borç vadesinin kısa mı uzun mu olduğu ve itfa takviminin yapısı",
+   "Borçlanmada kullanılan tahvilin türü, faiz yapısı ve ihraç yöntemi",
+   "Borç verenin ülkede yerleşik olup olmaması ve borcun hangi para birimiyle alındığı",
+   "Borç faizinin sabit mi değişken mi olduğu ve faiz ödeme sıklığı"
+  ],
+  "dogru": 3,
+  "aciklama": "Alacaklının yurt içinde yerleşik olması ve borcun ulusal para cinsinden alınması iç borç olarak nitelendirilir. Yurt dışı yerleşiklerden döviz cinsinden alınan borçlar ise dış borçtur ve kur riski taşır.",
+  "zorluk": "kolay",
+  "kaynak": "kamu maliyesi müfredatı: borç türleri"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Devlet Borçları",
+  "soru": "Devletin kısa vadeli borçlarını uzun vadeye dönüştürerek vade yapısını değiştirmesi işlemine ne ad verilir?",
+  "siklar": [
+   "Konversiyon",
+   "Moratoryum",
+   "Konsolidasyon",
+   "Repudiasyon",
+   "Amortizasyon"
+  ],
+  "dogru": 2,
+  "aciklama": "Konsolidasyonda kısa vadeli borçların yerine uzun vadeli borçlanma yapılır ve hazineye ödeme kolaylığı sağlanır. Konversiyon ise borcun anapara ve vadesi korunarak faiz koşullarının değiştirilmesidir.",
+  "zorluk": "orta",
+  "kaynak": "kamu maliyesi müfredatı: borç yönetimi teknikleri"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Devlet Borçları",
+  "soru": "Devletin ödeme güçlüğü nedeniyle borç anapara ve faiz ödemelerini tek taraflı olarak durdurmasına ne ad verilir?",
+  "siklar": [
+   "Konsolidasyon",
+   "Konversiyon",
+   "Moratoryum",
+   "Sürdürülebilir borç yönetimi",
+   "Dış borç ertelemesi anlaşması"
+  ],
+  "dogru": 2,
+  "aciklama": "Moratoryumda devlet borçlarını ödemeyeceğini açıklayarak yükümlülüğünü askıya alır; bu durum ülkenin uluslararası kredi itibarını ağır biçimde zedeler. Konsolidasyonda ise borç yükümlülüğü kabul edilir, yalnızca vade yapısı değişir.",
+  "zorluk": "orta",
+  "kaynak": "kamu maliyesi müfredatı: moratoryum"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Devlet Borçları",
+  "soru": "Bir ülkenin dış borç servis yükü arttığında ödemeler dengesinde en belirgin baskı hangi kalemde ortaya çıkar?",
+  "siklar": [
+   "Sermaye hesabındaki sermaye transferleri ve hibeler kaleminde",
+   "Finans hesabındaki doğrudan yatırım girişleri ve portföy kaleminde",
+   "Cari işlemler hesabındaki faiz ve kâr payı (birincil gelir) ödemelerinde",
+   "Net hata ve noksan kaleminin büyüklüğünde ve yıllara dağılımında",
+   "Resmî rezervlerdeki altın hareketlerinde ve rezerv değişiminde"
+  ],
+  "dogru": 2,
+  "aciklama": "Dış borç faiz ödemeleri cari işlemler hesabının birincil gelir dengesinde gider olarak yer alır ve cari açığı büyütür. Anapara geri ödemeleri ise finans hesabında çıkış olarak kaydedilir.",
+  "zorluk": "zor",
+  "kaynak": "ödemeler dengesi istatistikleri: birincil gelir"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Kamu Maliyesi Kuramları",
+  "soru": "Klasik maliye anlayışının bütçe konusundaki temel yaklaşımı aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Bütçe açıklarının sürekli borçlanmayla finanse edilmesi",
+   "Kamu harcamalarının talep yaratmak için sürekli artırılması",
+   "Vergilerin yalnızca gelir dağılımını düzeltmek için kullanılması",
+   "Bütçenin her yıl denk olması ve devletin ekonomiye müdahalesinin asgaride tutulması",
+   "Devletin üretimi özel teşebbüsün yerine üstlenmesi"
+  ],
+  "dogru": 3,
+  "aciklama": "Klasik görüş devletin görevini savunma, adalet ve altyapıyla sınırlar; denk bütçe ve az harcama temel ilkedir. Genişletici politika ve aktif bütçe anlayışı ise Keynesyen maliye görüşünün ürünüdür.",
+  "zorluk": "kolay",
+  "kaynak": "kamu maliyesi müfredatı: klasik maliye görüşü"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Kamu Maliyesi Kuramları",
+  "soru": "Kamu harcamalarının millî gelir artışından daha hızlı bir eğilimle artacağını ileri süren yaklaşım hangisidir?",
+  "siklar": [
+   "Say yasası",
+   "Wagner yasası",
+   "Laffer eğrisi",
+   "Tasarruf paradoksu",
+   "Dışlama etkisi"
+  ],
+  "dogru": 1,
+  "aciklama": "Wagner yasası, sanayileşme ve sosyal taleplerin artmasıyla kamu harcamalarının gelir esnekliğinin birden büyük olduğunu savunur. Yasa, kamu harcamalarının uzun dönemli artış eğilimini açıklar.",
+  "zorluk": "orta",
+  "kaynak": "kamu maliyesi müfredatı: Wagner yasası"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Kamu Maliyesi Kuramları",
+  "soru": "Savaş ve büyük bunalım dönemlerinde kamu harcamalarının sıçrayarak artması ve dönem sonunda eski düzeye dönmemesine ne ad verilir?",
+  "siklar": [
+   "Wagner yasası ve kamu harcamalarının artış eğilimi",
+   "Ölçek etkisi ve kapasite kullanımının yükselmesi",
+   "Dışlama etkisi ve özel yatırımların gerilemesi",
+   "Servet etkisi ve tüketimdeki reel değişim",
+   "Yer değiştirme (sıçrama) etkisi"
+  ],
+  "dogru": 4,
+  "aciklama": "Peacock ve Wiseman'ın geliştirdiği yer değiştirme etkisinde olağanüstü dönemler vergi ve borçlanma kapasitesini genişletir; dönem sonunda harcama düzeyi kalıcı olarak yüksek kalır. Böylece kamu harcamaları oranı kademeli olarak yükselir.",
+  "zorluk": "orta",
+  "kaynak": "kamu maliyesi müfredatı: Peacock ve Wiseman"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Kamu Maliyesi Kuramları",
+  "soru": "Sosyal devlet anlayışının kamu maliyesine yansıması aşağıdakilerden hangisiyle ifade edilir?",
+  "siklar": [
+   "Yalnızca savunma ve güvenlik harcamalarına öncelik verilmesi",
+   "Vergilemede yalnızca dolaylı vergilerin kullanılması",
+   "Bütçenin her koşulda denk tutulmasında ısrar edilmesi",
+   "Kamu hizmetlerinin tümüyle ücretli hâle getirilmesi",
+   "Gelir dağılımını düzeltici transferlerin ve sosyal harcamaların artırılması"
+  ],
+  "dogru": 4,
+  "aciklama": "Sosyal devlette kamu maliyesi yalnızca kamu hizmeti sunmakla kalmaz, gelir dağılımını düzeltici ve istikrar sağlayıcı işlev de üstlenir. Kamu maliyesinin kaynak tahsisi, gelir dağılımı ve istikrar işlevleri bu yaklaşımın temelidir.",
+  "zorluk": "orta",
+  "kaynak": "kamu maliyesi müfredatı: sosyal devlet ve kamu maliyesi işlevleri"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Mahalli İdareler Maliyesi",
+  "soru": "Aşağıdakilerden hangisi belediyelerin öz gelirleri arasında yer alır?",
+  "siklar": [
+   "Kurumlar vergisi ve kurum geçici vergisi",
+   "Katma değer vergisi ve özel tüketim vergisi",
+   "Gelir vergisi ve gelir vergisi stopajı",
+   "Emlak vergisi ile ilan ve reklam vergisi",
+   "Özel tüketim vergisi ve damga vergisi"
+  ],
+  "dogru": 3,
+  "aciklama": "Emlak, ilan ve reklam vergileri ile harçlar belediyelerin kendi yetkileriyle topladıkları öz gelirlerdir. Gelir, kurumlar, katma değer ve özel tüketim vergileri ise merkezî yönetim vergileridir.",
+  "zorluk": "kolay",
+  "kaynak": "kamu maliyesi müfredatı: mahalli idare gelirleri"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Mahalli İdareler Maliyesi",
+  "soru": "Genel bütçe vergi gelirlerinden mahalli idarelere ayrılan paylar hangi kurum aracılığıyla dağıtılır?",
+  "siklar": [
+   "Hazine ve Maliye Bakanlığı vergi daireleri",
+   "İller Bankası",
+   "Sayıştay Başkanlığı",
+   "Kamu İhale Kurumu",
+   "Sosyal Güvenlik Kurumu"
+  ],
+  "dogru": 1,
+  "aciklama": "Merkezî yönetim vergi gelirlerinden ayrılan paylar İller Bankası aracılığıyla belediyelere ve mahalli idarelere aktarılır. Bu paylar, yetersiz kalan öz gelirleri tamamlayıcı niteliktedir.",
+  "zorluk": "orta",
+  "kaynak": "mahalli idareler maliyesi: merkezî paylar"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Mahalli İdareler Maliyesi",
+  "soru": "Mahalli idarelerin mali özerkliğinin sınırlı kalmasının temel nedeni aşağıdakilerden hangisidir?",
+  "siklar": [
+   "Öz gelirlerin yetersiz kalması ve merkezî bütçeden aktarılan paylara bağımlı olunması",
+   "Kendi bütçelerini hazırlayamıyor ve meclislerinde görüşemiyor olmaları",
+   "Vergi ve harç koyma yetkilerinin hiç bulunmaması ve tümüyle yasak olması",
+   "Personel istihdam edemiyor ve yeterli kadro açamıyor olmaları",
+   "Hiçbir koşulda borçlanma yapamıyor ve kredi alamıyor olmaları"
+  ],
+  "dogru": 0,
+  "aciklama": "Mahalli idarelerin öz gelirleri hizmet maliyetlerini karşılamaya yetmediği için merkezî transferlere bağımlılık doğar; bu durum mali özerkliği zayıflatır. Buna karşın mahalli idareler kanunların verdiği sınırlar içinde vergi, harç ve borçlanma yetkisine sahiptir.",
+  "zorluk": "orta",
+  "kaynak": "kamu maliyesi müfredatı: mahalli idarelerin mali özerkliği"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Türkiye'de Vergi Sistemi",
+  "soru": "Türkiye'de vergi gelirlerinin yapısıyla ilgili olarak aşağıdakilerden hangisi doğrudur?",
+  "siklar": [
+   "Toplam vergi gelirlerinin tamamı dolaysız vergilerden, yani gelir ve kurumlar vergisinden oluşur",
+   "Emlak ve motorlu taşıtlar gibi servet vergileri toplam vergi gelirlerinin en büyük kalemidir",
+   "Gelir vergisinin toplam vergi gelirleri içindeki payı, dolaylı vergilerin toplamından yüksektir",
+   "Vergi gelirleri içinde damga vergisi ilk sırada yer alır ve en büyük kalemi oluşturur",
+   "Katma değer vergisi ve özel tüketim vergisi gibi dolaylı vergilerin toplam vergi gelirleri içindeki payı yüksektir"
+  ],
+  "dogru": 4,
+  "aciklama": "Türk vergi sisteminde harcama üzerinden alınan dolaylı vergilerin ağırlığı belirgindir; bu durum vergi yükünün dağılımı bakımından regresif etki doğurur. Buna karşın gelir ve kurumlar vergileri de sistemin temel dolaysız vergileridir.",
+  "zorluk": "orta",
+  "kaynak": "kamu maliyesi müfredatı: Türk vergi sisteminin yapısı"
+ },
+ {
+  "ders": "Maliye",
+  "konu": "Türkiye'de Vergi Sistemi",
+  "soru": "Vergilendirmede ödeme gücünün göstergesi olarak kabul edilen ölçütler aşağıdakilerin hangisinde birlikte verilmiştir?",
+  "siklar": [
+   "Gelir, servet ve harcama",
+   "Nüfus, yüzölçümü ve sanayi kapasitesi",
+   "Vergi oranı, matrah ve tarife yapısı",
+   "Kamu harcaması, vergi hasılatı ve bütçe açığı",
+   "İthalat, ihracat ve dış borç stoku"
+  ],
+  "dogru": 0,
+  "aciklama": "Ödeme gücü ilkesine göre mükellefin mali gücünü gelir, servet ve harcamaları yansıtır; bu nedenle vergiler bu üç kaynak üzerinden alınabilir. Bu ölçütler aynı zamanda vergi adaletinin uygulama araçlarıdır.",
+  "zorluk": "orta",
+  "kaynak": "kamu maliyesi müfredatı: vergilendirmede ödeme gücü"
+ }
+]
