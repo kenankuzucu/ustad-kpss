@@ -90,6 +90,7 @@ var VARSAYILAN = {
   sonCalisma:null, sinavSayisi:0, sonSinav:null, toplamSure:0,
   /* --- uyarlamalı öğretim motoru --- */
   hedef:20, gunluk:{ tarih:"", cozulen:0, dogru:0, sure:0 }, seri:0, enUzunSeri:0, sonGunCalisma:"",
+  anim:"bol",
   soruKayit:{}, konuHakimiyet:{}, seviyePuan:0, motorToplam:0, sonProgramTarih:""
 };
 var V = {};
@@ -213,6 +214,9 @@ function konfeti(){
 function temaUygula(){
   document.documentElement.setAttribute("data-tema", V.tema);
   document.documentElement.setAttribute("data-yazi", V.yazi);
+  document.documentElement.setAttribute("data-anim", V.anim || "bol");
+  /* gerçek 3B sahne tema renklerini alsın */
+  try{ if(window.UC && UC.durum){ if(UC.durum().hazir) UC.tema(); else UC.baslat(V.anim || "bol"); } }catch(e){}
 }
 function temaListesiCiz(){
   var k = $("temaListe"); if(!k) return;
@@ -406,6 +410,11 @@ function soruGoster(){
       var d = document.createElement("span");
       d.className = "dokunuldu"; b.appendChild(d);
       setTimeout(function(){ if(d.parentNode) d.parentNode.removeChild(d); }, 560);
+      try{
+        var kt = b.getBoundingClientRect();
+        KOSU._sonX = kt.left + kt.width / 2;
+        KOSU._sonY = kt.top + kt.height / 2;
+      }catch(e){}
       cevapla(i, false);
     };
     k.appendChild(b);
@@ -415,14 +424,25 @@ function soruGoster(){
   kart.style.animation = "";
 }
 function cevapla(i, sinavModu){
-  if(!KOSU) return;
   if(sinavModu){
-    var s = KOSU.liste[KOSU.i];
-    KOSU.cevaplar[KOSU.i] = (KOSU.cevaplar[KOSU.i] === i) ? null : i;
-    s._secim = KOSU.cevaplar[KOSU.i];
+    if(!SKOSU) return;
+    var s = SKOSU.liste[SKOSU.i];
+    var onceki = SKOSU.cevaplar[SKOSU.i];
+    SKOSU.cevaplar[SKOSU.i] = (onceki === i) ? null : i;
+    s._secim = SKOSU.cevaplar[SKOSU.i];
+    if(SKOSU.cevaplar[SKOSU.i] === s.dogru){
+      SKOSU.seri = (SKOSU.seri || 0) + 1;
+      sesCal(880, .14); titret(14);
+      try{ if(window.UC) UC.kivilcim(window.innerWidth / 2, window.innerHeight * .45, "dogru"); }catch(e){}
+    }else if(SKOSU.cevaplar[SKOSU.i] !== null){
+      SKOSU.seri = 0; sesCal(240, .2);
+      try{ if(window.UC) UC.kivilcim(window.innerWidth / 2, window.innerHeight * .45, "yanlis"); }catch(e){}
+    }
+    sinavEnerjiCiz();
     sinavSoruGoster();
     return;
   }
+  if(!KOSU) return;                               /* çalışma modu koruması */
   if(KOSU.secim !== null) return;                 /* ikinci kez cevaplanamaz */
   KOSU.secim = i;
   var soru = KOSU.liste[KOSU.i], dogru = (i === soru.dogru);
@@ -435,10 +455,12 @@ function cevapla(i, sinavModu){
     KOSU.dogru++;
     V.dogruSeri++; V.enIyiSeri = Math.max(V.enIyiSeri || 0, V.dogruSeri);
     sesCal(880, .16); titret(18);
+    try{ if(window.UC) UC.kivilcim(KOSU._sonX || window.innerWidth / 2, KOSU._sonY || window.innerHeight * .45, "dogru"); }catch(e){}
   }else{
     KOSU.yanlis++;
     V.dogruSeri = 0;
     sesCal(220, .28); titret([22, 60, 22]);
+    try{ if(window.UC) UC.kivilcim(KOSU._sonX || window.innerWidth / 2, KOSU._sonY || window.innerHeight * .45, "yanlis"); }catch(e){}
     if(V.yanlislar.indexOf(soru._i) < 0) V.yanlislar.push(soru._i);
   }
   KOSU.cevaplar[KOSU.i] = i;
@@ -448,6 +470,7 @@ function cevapla(i, sinavModu){
   $("aciklamaKaynak").textContent = soru.kaynak ? ("Kaynak: " + soru.kaynak) : "";
   $("aciklama").classList.remove("gizli");
   $("dSonraki").disabled = false;
+  calismaEnerjiCiz();
   yaz();
 }
 function dersStatGuncelle(ders, dogruMu){
@@ -498,8 +521,10 @@ function sonucGoster(){
     var d = document.querySelector(".puanHalka .dolgu");
     if(d) d.setAttribute("stroke-dashoffset", String(502 - 502 * oran / 100));
   }, 120);
-  if(oran >= 70){ konfeti(); sesCal(660, .2); setTimeout(function(){ sesCal(990, .26); }, 180); }
-  else sesCal(330, .3);
+  if(oran >= 60) kutlamaYap(oran);
+  else { konfeti(); sesCal(330, .3); }
+  kart.appendChild(yap("p", "motivasyon", "Enerji: %" + oran + " · " + motivasyonYaz()));
+  try{ if(window.UC) UC.enerjiVer(0); }catch(e){}
   V.sinavSayisi = V.sinavSayisi || 0;
   yaz();
 }
@@ -644,7 +669,9 @@ function sinavBitir(zamanDoldu){
     if(d) d.setAttribute("stroke-dashoffset", String(502 - 502 * oran / 100));
     hepsi(".cubukDolgu").forEach(function(e){ e.style.width = e.getAttribute("data-w") + "%"; });
   }, 150);
-  if(oran >= 60) konfeti();
+  if(oran >= 55) kutlamaYap(oran, oran >= 85 ? 1.8 : 1.2);
+  kart.appendChild(yap("p", "motivasyon", "Enerji: %" + oran + " · " + motivasyonYaz()));
+  try{ if(window.UC) UC.enerjiVer(0); }catch(e){}
 }
 
 /* ===================== istatistik ===================== */
@@ -809,6 +836,7 @@ function rutbeBul(puan){
 function kayitGuncelle(soru, dogruMu){
   var k = kayitAl(soru._i);
   gunlukKontrol();
+  var oncekiRutbe = rutbeBul(V.seviyePuan || 0).ad;
   var oncesiHakimiyet = hakimiyetAl(soru.ders, soru.konu);
   /* --- aralıklı tekrar --- */
   if(dogruMu){
@@ -840,7 +868,12 @@ function kayitGuncelle(soru, dogruMu){
   V.seviyePuan = (V.seviyePuan || 0) + (dogruMu ? 2 : 0) + (oncesiHakimiyet < 0 ? 1 : 0) + (dogruMu && oncesiHakimiyet >= 0 && oncesiHakimiyet < 50 ? 1 : 0);
   V.motorToplam = (V.motorToplam || 0) + 1;
   yaz();
-  seviyeCiz();                                    /* seviye/hedef kartı her cevaptan sonra tazelenir */
+  seviyeCiz();
+  var yeniRutbe = rutbeBul(V.seviyePuan || 0).ad;
+  if(yeniRutbe !== oncekiRutbe){
+    seviyeBandiGoster(yeniRutbe, "Yeni rütbe açıldı · toplam " + (V.seviyePuan || 0) + " puan");
+    kutlamaYap(92, 1.5);
+  }
 }
 /* tekrar zamanı gelmiş sorular (en gecikmiş önce) */
 function tekrarBekleyenler(sinir){
@@ -1073,6 +1106,81 @@ function seviyeCiz(){
   }
 }
 
+
+/* =====================================================================
+   ENERJİ, KUTLAMA VE 3B BAĞLANTI
+   · Her doğru cevap: kıvılcım + enerji artışı + 3B sahne hızlanır
+   · Her yanlış: kırmızı kıvılcım + enerji düşer
+   · Her sınav/çalışma sonu: motivasyon mesajı, yıldız çizimi, gerçek 3B konfeti
+   · Seviye atlama: bant + büyük konfeti
+   ===================================================================== */
+var MOTIVASYON = [
+  "Her doğru bir adım, her yanlış bir ders. Devam!",
+  "Bu tempoyu koru; sınav günü bu emeğin karşılığını alacaksın.",
+  "Zayıf konuyu buldun, üzerine gittin — asıl kazanç burada.",
+  "Bugünkü emek yarının puanı. Aynı düzenle devam et.",
+  "Hız değil süreklilik kazandırır. Her gün bir tur yeter.",
+  "Yanlışlarını öğrenene kadar tekrar et; defter küçüldükçe puan büyür.",
+  "Deneme sınavları provadır. Provayı çok yapan sahnede rahat olur."
+];
+function enerjiOran(basari, toplam, seri){
+  var temel = toplam ? basari / toplam : 0;
+  return Math.max(0, Math.min(1, temel * .70 + Math.min(1, (seri || 0) / 8) * .30));
+}
+function enerjiCiz(kapId, yaziId, dolguId, alevId, oran, seri){
+  var yuzdeDeger = Math.round(oran * 100);
+  var y = $(yaziId); if(y) y.textContent = "ENERJİ " + yuzdeDeger + "%";
+  var a = $(alevId); if(a) a.textContent = "x" + (seri || 0);
+  var d = $(dolguId);
+  if(d){
+    d.style.width = yuzdeDeger + "%";
+    d.classList.remove("parla"); void d.offsetWidth; d.classList.add("parla");
+  }
+  try{ if(window.UC) UC.enerjiVer(oran); }catch(e){}
+  return yuzdeDeger;
+}
+function calismaEnerjiCiz(){
+  if(!KOSU) return;
+  var o = enerjiOran(KOSU.dogru, KOSU.dogru + KOSU.yanlis, V.dogruSeri);
+  enerjiCiz("enerjiKap", "enerjiYazi", "enerjiDolgu", "enerjiAlev", o, V.dogruSeri);
+}
+function sinavEnerjiCiz(){
+  if(!SKOSU) return;
+  var d = 0, y = 0;
+  SKOSU.cevaplar.forEach(function(c, i){
+    if(c === null || c === undefined) return;
+    if(c === SKOSU.liste[i].dogru) d++; else y++;
+  });
+  var o = enerjiOran(d, d + y, SKOSU.seri || 0);
+  enerjiCiz("enerjiKapSinav", "enerjiYaziSinav", "enerjiDolguSinav", "enerjiAlevSinav", o, SKOSU.seri || 0);
+}
+function seviyeBandiGoster(rutbe, altYazi){
+  var b = $("seviyeBandi"); if(!b) return;
+  b.innerHTML = "";
+  b.appendChild(yap("span", null, "SEVİYE ATLADIN · " + rutbe));
+  if(altYazi) b.appendChild(yap("small", null, altYazi));
+  b.classList.remove("gizli", "acik"); void b.offsetWidth; b.classList.add("acik");
+  clearTimeout(b._z);
+  b._z = setTimeout(function(){ b.classList.remove("acik"); b.classList.add("gizli"); }, 4000);
+}
+function yildizGoster(){
+  var kap = yap("div", "yildizKap");
+  kap.innerHTML = '<svg viewBox="0 0 100 100"><path class="dolgu" d="M50 4l13.6 28.2 31 4.3-22.4 21.8 5.3 30.9L50 74.6 22.5 89.2l5.3-30.9L5.4 36.5l31-4.3z"/>'
+                + '<path class="cizgi" d="M50 4l13.6 28.2 31 4.3-22.4 21.8 5.3 30.9L50 74.6 22.5 89.2l5.3-30.9L5.4 36.5l31-4.3z"/></svg>';
+  document.body.appendChild(kap);
+  setTimeout(function(){ kap.classList.add("kaybol"); }, 1900);
+  setTimeout(function(){ if(kap.parentNode) kap.parentNode.removeChild(kap); }, 2700);
+}
+function kutlamaYap(oran, guc){
+  try{ if(window.UC && UC.kutlama) UC.kutlama(guc || (oran >= 85 ? 1.6 : 1)); }catch(e){}
+  konfeti();
+  if(oran >= 85){ yildizGoster(); sesCal(880, .2); setTimeout(function(){ sesCal(1100, .22); }, 170); setTimeout(function(){ sesCal(1320, .3); }, 340); }
+  else if(oran >= 60){ sesCal(660, .2); setTimeout(function(){ sesCal(990, .26); }, 170); }
+}
+function motivasyonYaz(){
+  return MOTIVASYON[Math.floor(Math.random() * MOTIVASYON.length)];
+}
+
 /* ===================== olaylar ===================== */
 function bagla(){
   hepsi("[data-git]").forEach(function(b){
@@ -1178,6 +1286,12 @@ function bagla(){
   var dsp = $("dPalete"); if(dsp) dsp.onclick = paletAc;
   var dsg = $("dSinavGeri");
   if(dsg) dsg.onclick = function(){ if(!SKOSU) return; if(SKOSU.i > 0){ SKOSU.i--; sinavSoruGoster(); } };
+  var dsil = $("dSinavIleri");
+  if(dsil) dsil.onclick = function(){
+    if(!SKOSU) return;
+    if(SKOSU.i < SKOSU.liste.length - 1){ SKOSU.i++; sinavSoruGoster(); }
+    else uyari("Son sorudasın. Sınavı bitirebilirsin.", "basarili");
+  };
   var dsi = $("dSinavIsaretle");
   if(dsi) dsi.onclick = function(){
     if(!SKOSU) return;
@@ -1201,6 +1315,19 @@ function bagla(){
     e.checked = !!V[kv[id]];
     e.addEventListener("change", function(){ V[kv[id]] = e.checked; yaz(); uyari("Ayar güncellendi", "basarili"); });
   });
+  var sa2 = $("secAnim");
+  if(sa2){
+    hepsi("button", sa2).forEach(function(b){
+      b.classList.toggle("secili", b.getAttribute("data-anim") === (V.anim || "bol"));
+      b.onclick = function(){
+        V.anim = b.getAttribute("data-anim");
+        yaz(); temaUygula();
+        hepsi("button", sa2).forEach(function(x){ x.classList.toggle("secili", x === b); });
+        try{ if(window.UC) UC.baslat(V.anim); }catch(e){}
+        uyari("Animasyon: " + (V.anim === "bol" ? "bol" : V.anim === "normal" ? "normal" : "sade"), "basarili");
+      };
+    });
+  }
   var sy = $("secYazi");
   if(sy) sy.addEventListener("click", function(e){
     var b = e.target.closest("button[data-yazi]"); if(!b) return;
@@ -1244,6 +1371,7 @@ function hakkindaYaz(){
 /* ===================== açılış ===================== */
 function acilis(){
   oku(); icerikKur(); gunlukKontrol(); temaUygula(); bagla();
+  try{ if(window.UC) UC.baslat(V.anim || "bol"); }catch(e){}
   temaListesiCiz();
   panelCiz();
   soruEkraniCiz();
@@ -1279,6 +1407,14 @@ window.UT = {
   temaUygula: temaUygula, ozetGoster: ozetGoster, statHesapla: statHesapla,
   dersStat: function(){ return V.dersStat; }, yanlislar: function(){ return V.yanlislar; },
   sifirla: function(){ try{ localStorage.removeItem(DEPO); }catch(e){} oku(); },
+  sinavSoru: function(){
+    return SKOSU ? { i:SKOSU.i, dogru:SKOSU.liste[SKOSU.i].dogru, toplam:SKOSU.liste.length,
+                     seri:SKOSU.seri || 0, cevaplanan:SKOSU.cevaplar.filter(function(c){ return c !== null; }).length } : null;
+  },
+  ucBoyut: function(){ try{ return window.UC ? UC.durum() : { hazir:false, hata:"UC yok" }; }catch(e){ return { hata:String(e) }; } },
+  animAyari: function(){ return V.anim; },
+  enerji: function(oran, seri){ return enerjiCiz("enerjiKap", "enerjiYazi", "enerjiDolgu", "enerjiAlev", oran, seri); },
+  kutlama: function(){ kutlamaYap(95, 1.6); },
   program: function(){ var p = programUret(); return { zorluk:p.zorluk, bloklar:p.bloklar.map(function(b){ return { tur:b.tur, baslik:b.baslik, soru:b.sorular.length }; }) }; },
   hakimiyet: function(){ return V.konuHakimiyet; },
   tekrarBekleyen: function(){ return tekrarBekleyenler(999).length; },
