@@ -68,11 +68,11 @@
   "konu": "Temel Hukuk Kavramları",
   "soru": "Kişinin kusuru aranmaksızın, kanunun öngördüğü bir sebebe dayanarak zararı gidermekle yükümlü tutulduğu sorumluluk türü aşağıdakilerden hangisidir?",
   "siklar": [
-   "Kusura dayanan sorumluluk",
+   "Kusura dayanan ve ispat gerektiren sorumluluk türü",
    "Kusursuz sorumluluk (sebep sorumluluğu)",
-   "Akdi sorumluluk",
-   "Cezai sorumluluk",
-   "Ahlaki sorumluluk"
+   "Sözleşmeye aykırılıktan doğan akdi sorumluluk",
+   "Devletin ceza verme yetkisinden doğan cezai sorumluluk",
+   "Toplumsal kurallara aykırılıktan doğan ahlaki sorumluluk"
   ],
   "dogru": 1,
   "aciklama": "Kanunun öngördüğü bazı hâllerde kişi kusuru olmasa da zararı gidermekle yükümlüdür; buna kusursuz sorumluluk veya sebep sorumluluğu denir.",
